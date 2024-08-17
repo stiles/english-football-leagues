@@ -14,8 +14,8 @@ fetched_str = timestamp.strftime('%-I %p, %B %d').replace('AM', 'a.m.').replace(
 # Outputs
 JSON_OUT = 'data/table/epl_table_latest.json'
 CSV_OUT = 'data/table/epl_table_latest.csv'
-JSON_SNAPSHOT_OUT = f'data/table/season_snapshots/epl_table_latest_week_{week_number}.json'
-CSV_SNAPSHOT_OUT = f'data/table/season_snapshots/epl_table_latest_week_{week_number}.csv'
+JSON_SNAPSHOT_OUT = f'data/table/season_snapshots/epl_table_latest_year_{current_year}_week_{week_number}.json'
+CSV_SNAPSHOT_OUT = f'data/table/season_snapshots/epl_table_latest_year_{current_year}_week_{week_number}.csv'
 
 # Define url
 current_year = datetime.now().year
