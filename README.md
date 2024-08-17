@@ -18,6 +18,10 @@ Several Python scripts collect data on past and current results, including:
 **Season results tables**
 - Historical (1992/93-2023/24): [JSON](https://stilesdata.com/football/table/epl_table_past.json), [CSV](https://stilesdata.com/football/table/epl_table_past.csv)
 - Latest (2024-24): [JSON](https://stilesdata.com/football/table/epl_table_past.json), [CSV](https://stilesdata.com/football/table/epl_table_past.csv)
+    - Season snapshots 
+        - Base url: `https://stilesdata.com/football/table/season_snapshots/`
+        - File name:  [`epl_table_latest_year_{YEAR}_week_{WEEK_NUMBER}.{JSON_CSV}`](https://stilesdata.com/football/table/season_snapshots/epl_table_latest_year_2024_week_33.json)
+        - Week 33 (opening week) example: [JSON](https://stilesdata.com/football/table/season_snapshots/epl_table_latest_year_2024_week_33.json), [CSV](https://stilesdata.com/football/table/season_snapshots/epl_table_latest_year_2024_week_33.csv)
 
 
 *More to come...*
