@@ -46,5 +46,5 @@ for url in tqdm(urls):
 df = pd.concat(seasons_dfs).drop_duplicates().reset_index(drop=True)
 
 # Save json, csv file
-df.to_json('../data/table/epl_table_past.json', indent=4, orient='records')
-df.to_csv('../data/table/epl_table_past.csv', index=False)
+df.to_json('data/table/epl_table_past.json', indent=4, orient='records')
+df.to_csv('data/table/epl_table_past.csv', index=False)
