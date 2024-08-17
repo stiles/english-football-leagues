@@ -1,0 +1,39 @@
+date,time,round,day,venue,result,gf,ga,opponent,poss,attendance,captain,formation,opp_formation,date_pst,time_pst
+2024-08-19,20:00,1,Monday,Away,,,,Leicester City,,,,,,2024-08-19,12:00
+2024-08-24,15:00,2,Saturday,Home,,,,Everton,,,,,,2024-08-24,07:00
+2024-09-01,13:30,3,Sunday,Away,,,,Newcastle United,,,,,,2024-09-01,05:30
+2024-09-15,14:00,4,Sunday,Home,,,,Arsenal,,,,,,2024-09-15,06:00
+2024-09-21,15:00,5,Saturday,Home,,,,Brentford,,,,,,2024-09-21,07:00
+2024-09-29,16:30,6,Sunday,Away,,,,Manchester United,,,,,,2024-09-29,08:30
+2024-10-06,16:30,7,Sunday,Away,,,,Brighton,,,,,,2024-10-06,08:30
+2024-10-19,12:30,8,Saturday,Home,,,,West Ham,,,,,,2024-10-19,04:30
+2024-10-27,14:00,9,Sunday,Away,,,,Crystal Palace,,,,,,2024-10-27,07:00
+2024-11-02,15:00,10,Saturday,Home,,,,Aston Villa,,,,,,2024-11-02,08:00
+2024-11-09,15:00,11,Saturday,Home,,,,Ipswich Town,,,,,,2024-11-09,07:00
+2024-11-23,15:00,12,Saturday,Away,,,,Manchester City,,,,,,2024-11-23,07:00
+2024-11-30,15:00,13,Saturday,Home,,,,Fulham,,,,,,2024-11-30,07:00
+2024-12-03,19:45,14,Tuesday,Away,,,,Bournemouth,,,,,,2024-12-03,11:45
+2024-12-07,15:00,15,Saturday,Home,,,,Chelsea,,,,,,2024-12-07,07:00
+2024-12-14,15:00,16,Saturday,Away,,,,Southampton,,,,,,2024-12-14,07:00
+2024-12-21,15:00,17,Saturday,Home,,,,Liverpool,,,,,,2024-12-21,07:00
+2024-12-26,15:00,18,Thursday,Away,,,,Nottingham Forest,,,,,,2024-12-26,07:00
+2024-12-29,15:00,19,Sunday,Home,,,,Wolves,,,,,,2024-12-29,07:00
+2025-01-04,15:00,20,Saturday,Home,,,,Newcastle United,,,,,,2025-01-04,07:00
+2025-01-14,19:45,21,Tuesday,Away,,,,Arsenal,,,,,,2025-01-14,11:45
+2025-01-18,15:00,22,Saturday,Away,,,,Everton,,,,,,2025-01-18,07:00
+2025-01-25,15:00,23,Saturday,Home,,,,Leicester City,,,,,,2025-01-25,07:00
+2025-02-01,15:00,24,Saturday,Away,,,,Brentford,,,,,,2025-02-01,07:00
+2025-02-15,15:00,25,Saturday,Home,,,,Manchester United,,,,,,2025-02-15,07:00
+2025-02-22,15:00,26,Saturday,Away,,,,Ipswich Town,,,,,,2025-02-22,07:00
+2025-02-25,19:45,27,Tuesday,Home,,,,Manchester City,,,,,,2025-02-25,11:45
+2025-03-08,15:00,28,Saturday,Home,,,,Bournemouth,,,,,,2025-03-08,07:00
+2025-03-15,15:00,29,Saturday,Away,,,,Fulham,,,,,,2025-03-15,08:00
+2025-04-02,19:45,30,Wednesday,Away,,,,Chelsea,,,,,,2025-04-02,11:45
+2025-04-05,15:00,31,Saturday,Home,,,,Southampton,,,,,,2025-04-05,07:00
+2025-04-12,15:00,32,Saturday,Away,,,,Wolves,,,,,,2025-04-12,07:00
+2025-04-19,15:00,33,Saturday,Home,,,,Nottingham Forest,,,,,,2025-04-19,07:00
+2025-04-26,15:00,34,Saturday,Away,,,,Liverpool,,,,,,2025-04-26,07:00
+2025-05-03,15:00,35,Saturday,Away,,,,West Ham,,,,,,2025-05-03,07:00
+2025-05-10,15:00,36,Saturday,Home,,,,Crystal Palace,,,,,,2025-05-10,07:00
+2025-05-18,15:00,37,Sunday,Away,,,,Aston Villa,,,,,,2025-05-18,07:00
+2025-05-25,16:00,38,Sunday,Home,,,,Brighton,,,,,,2025-05-25,08:00

@@ -1,5 +1,7 @@
 import requests
 import pandas as pd
+from bs4 import BeautifulSoup
+from io import StringIO
 from datetime import datetime
 from tqdm.notebook import tqdm
 from random import randint
@@ -21,7 +23,6 @@ def generate_urls(base_url, start_year, num_years):
         urls.append(url)
     return urls
 
-
 # Set up parameters
 base_url = "https://fbref.com/en/comps/9/{}/{}-Premier-League-Stats"
 current_year = datetime.now().year
@@ -35,11 +36,40 @@ urls = generate_urls(base_url, start_year, num_years)
 seasons_dfs = []
 
 for url in tqdm(urls):
-    src = pd.read_html(url)[0]
-    src['season'] = url.split('/')[-1].replace('-Premier-League-Stats', '')
-    src.columns = src.columns.str.lower().str.replace(' ', '_').str.replace('/', '_')
-    src['squad'] = src['squad'].str.replace('Utd', "United").str.replace("Nott'ham", "Nottingham")
-    seasons_dfs.append(src)
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.content, 'html.parser')
+    
+    # Wrap HTML in StringIO
+    html_string = str(soup.select_one("table.stats_table"))
+    html_io = StringIO(html_string)
+    
+    # Extract the first table
+    table = pd.read_html(html_io)[0]
+    
+    # Extract the URLs for each team in the first table
+    team_links = []
+    table_rows = soup.select_one("table.stats_table").select("tbody tr")
+    
+    for row in table_rows:
+        team_cell = row.select_one('td[data-stat="team"] a')
+        if team_cell and "/squads/" in team_cell["href"]:
+            team_links.append(f"https://fbref.com{team_cell['href']}")
+        else:
+            team_links.append(None)
+    
+    # Ensure the length of team_links matches the number of rows in the table
+    if len(team_links) == len(table):
+        table['team_url'] = team_links
+    else:
+        print(f"Warning: Mismatch in number of rows and team links for URL: {url}")
+        print(f"Table rows: {len(table)}, Links found: {len(team_links)}")
+        table['team_url'] = [None] * len(table)  # Fill with None to avoid errors
+    
+    table['season'] = url.split('/')[-1].replace('-Premier-League-Stats', '')
+    table.columns = table.columns.str.lower().str.replace(' ', '_').str.replace('/', '_')
+    table['squad'] = table['squad'].str.replace('Utd', "United").str.replace("Nott'ham", "Nottingham")
+    
+    seasons_dfs.append(table)
     sleep(randint(2,6))
 
 # Concatenate results

@@ -1,647 +1,647 @@
-rk,squad,mp,w,d,l,gf,ga,gd,pts,pts_mp,xg,xga,xgd,xgd_90,attendance,top_team_scorer,goalkeeper,notes,season
-1,Manchester City,38,28,7,3,96,34,62,91,2.39,80.5,35.6,44.9,1.18,53012.0,Erling Haaland - 27,Ederson,→ Champions League via league finish,2023-2024
-2,Arsenal,38,28,5,5,91,29,62,89,2.34,76.1,27.9,48.2,1.27,60236.0,Bukayo Saka - 16,David Raya,→ Champions League via league finish,2023-2024
-3,Liverpool,38,24,10,4,86,41,45,82,2.16,87.8,45.7,42.0,1.11,55979.0,Mohamed Salah - 18,Alisson,→ Champions League via league finish,2023-2024
-4,Aston Villa,38,20,8,10,76,61,15,68,1.79,63.3,59.9,3.4,0.09,41858.0,Ollie Watkins - 19,Emiliano Martínez,→ Champions League via league finish,2023-2024
-5,Tottenham,38,20,6,12,74,61,13,66,1.74,68.2,63.4,4.8,0.13,61482.0,Son Heung-min - 17,Guglielmo Vicario,→ Europa League via league finish,2023-2024
-6,Chelsea,38,18,9,11,77,63,14,63,1.66,74.5,58.1,16.4,0.43,39524.0,Cole Palmer - 22,Đorđe Petrović,→ Europa League via league finish,2023-2024
-7,Newcastle United,38,18,6,14,85,62,23,60,1.58,76.0,61.4,14.6,0.38,52125.0,Alexander Isak - 21,Martin Dúbravka,→ Europa Conference League via league finish,2023-2024
-8,Manchester United,38,18,6,14,57,58,-1,60,1.58,56.5,68.9,-12.5,-0.33,73533.0,"Rasmus Højlund, Bruno Fernandes - 10",André Onana,,2023-2024
-9,West Ham,38,14,10,14,60,74,-14,52,1.37,52.3,71.1,-18.8,-0.49,62567.0,Jarrod Bowen - 16,Alphonse Areola,,2023-2024
-10,Crystal Palace,38,13,10,15,57,58,-1,49,1.29,48.6,52.0,-3.4,-0.09,24932.0,Jean-Philippe Mateta - 16,Sam Johnstone,,2023-2024
-11,Brighton,38,12,12,14,55,62,-7,48,1.26,56.8,55.4,1.4,0.04,32638.0,João Pedro - 9,Bart Verbruggen,,2023-2024
-12,Bournemouth,38,13,9,16,54,67,-13,48,1.26,55.9,58.1,-2.2,-0.06,11103.0,Dominic Solanke - 19,Neto,,2023-2024
-13,Fulham,38,13,8,17,55,61,-6,47,1.24,50.8,62.9,-12.1,-0.32,24302.0,Rodrigo Muniz - 9,Bernd Leno,,2023-2024
-14,Wolves,38,13,7,18,50,65,-15,46,1.21,46.7,67.7,-21.0,-0.55,31029.0,"Hwang Hee-chan, Matheus Cunha - 12",José Sá,,2023-2024
-15,Everton,38,13,9,16,40,51,-11,42,1.11,54.0,55.2,-1.2,-0.03,39042.0,"Abdoulaye Doucouré, Dominic Calvert-Lewin - 7",Jordan Pickford,6-point deduction 1,2023-2024
-16,Brentford,38,10,9,19,56,65,-9,39,1.03,58.2,56.0,2.2,0.06,17082.0,Yoane Wissa - 12,Mark Flekken,,2023-2024
-17,Nottingham Forest,38,9,9,20,49,67,-18,32,0.84,49.9,53.2,-3.3,-0.09,29386.0,Chris Wood - 14,Matt Turner,4-point deduction 2,2023-2024
-18,Luton Town,38,6,8,24,52,85,-33,26,0.68,42.4,78.0,-35.5,-0.94,11240.0,Carlton Morris - 11,Thomas Kaminski,Relegated,2023-2024
-19,Burnley,38,5,9,24,41,78,-37,24,0.63,40.6,70.4,-29.7,-0.78,21184.0,Jacob Bruun Larsen - 6,James Trafford,Relegated,2023-2024
-20,Sheffield United,38,3,7,28,35,104,-69,16,0.42,38.3,76.7,-38.4,-1.01,30011.0,"Oliver McBurnie, Ben Brereton - 6",Wes Foderingham,Relegated,2023-2024
-1,Manchester City,38,28,5,5,94,33,61,89,2.34,78.6,32.1,46.5,1.22,53249.0,Erling Haaland - 36,Ederson,→ Champions League via league finish,2022-2023
-2,Arsenal,38,26,6,6,88,43,45,84,2.21,71.7,42.0,29.7,0.78,60191.0,"Martin Ødegaard, Gabriel Martinelli - 15",Aaron Ramsdale,→ Champions League via league finish,2022-2023
-3,Manchester United,38,23,6,9,58,43,15,75,1.97,67.7,50.4,17.3,0.45,73671.0,Marcus Rashford - 17,David de Gea,→ Champions League via league finish,2022-2023
-4,Newcastle United,38,19,14,5,68,33,35,71,1.87,71.9,39.5,32.3,0.85,52127.0,Callum Wilson - 18,Nick Pope,→ Champions League via league finish,2022-2023
-5,Liverpool,38,19,10,9,75,47,28,67,1.76,71.5,50.8,20.7,0.55,53163.0,Mohamed Salah - 19,Alisson,→ Europa League via league finish,2022-2023
-6,Brighton,38,18,8,12,72,53,19,62,1.63,73.3,50.2,23.1,0.61,31477.0,Alexis Mac Allister - 10,Robert Sánchez,→ Europa League via league finish,2022-2023
-7,Aston Villa,38,18,7,13,51,46,5,61,1.61,50.3,52.5,-2.2,-0.06,41679.0,Ollie Watkins - 15,Emiliano Martínez,→ Europa Conference League via league finish,2022-2023
-8,Tottenham,38,18,6,14,70,63,7,60,1.58,57.0,49.6,7.4,0.2,61585.0,Harry Kane - 30,Hugo Lloris,,2022-2023
-9,Brentford,38,15,14,9,58,46,12,59,1.55,56.3,48.8,7.5,0.2,17078.0,Ivan Toney - 20,David Raya,,2022-2023
-10,Fulham,38,15,7,16,55,53,2,52,1.37,46.2,63.6,-17.4,-0.46,23746.0,Aleksandar Mitrović - 14,Bernd Leno,,2022-2023
-11,Crystal Palace,38,11,12,15,40,49,-9,45,1.18,39.3,48.1,-8.8,-0.23,24952.0,Eberechi Eze - 10,Vicente Guaita,,2022-2023
-12,Chelsea,38,11,11,16,38,47,-9,44,1.16,49.5,52.5,-3.0,-0.08,40002.0,Kai Havertz - 7,Kepa Arrizabalaga,,2022-2023
-13,Wolves,38,11,8,19,31,58,-27,41,1.08,36.8,59.9,-23.0,-0.61,31482.0,"Rúben Neves, Daniel Podence - 6",José Sá,,2022-2023
-14,West Ham,38,11,7,20,42,55,-13,40,1.05,49.2,53.0,-3.9,-0.1,62462.0,"Saïd Benrahma, Jarrod Bowen - 6",Łukasz Fabiański,,2022-2023
-15,Bournemouth,38,11,6,21,37,71,-34,39,1.03,38.5,63.8,-25.3,-0.67,10362.0,Philip Billing - 7,Neto,,2022-2023
-16,Nottingham Forest,38,9,11,18,38,68,-30,38,1.0,39.3,64.2,-24.9,-0.66,29188.0,Taiwo Awoniyi - 10,Dean Henderson,,2022-2023
-17,Everton,38,8,12,18,34,57,-23,36,0.95,45.2,65.5,-20.4,-0.54,39243.0,Dwight McNeil - 7,Jordan Pickford,,2022-2023
-18,Leicester City,38,9,7,22,51,68,-17,34,0.89,50.5,63.3,-12.8,-0.34,31887.0,Harvey Barnes - 13,Danny Ward,Relegated,2022-2023
-19,Leeds United,38,7,10,21,48,78,-30,31,0.82,47.3,67.1,-19.8,-0.52,36566.0,Rodrigo - 13,Illan Meslier,Relegated,2022-2023
-20,Southampton,38,6,7,25,36,73,-37,25,0.66,37.8,60.9,-23.1,-0.61,30440.0,James Ward-Prowse - 9,Gavin Bazunu,Relegated,2022-2023
-1,Manchester City,38,29,6,3,99,26,73,93,2.45,88.7,24.6,64.0,1.68,52774.0,Kevin De Bruyne - 15,Ederson,→ Champions League via league finish,2021-2022
-2,Liverpool,38,28,8,2,94,26,68,92,2.42,88.7,33.8,54.9,1.45,53352.0,Mohamed Salah - 23,Alisson,→ Champions League via league finish,2021-2022
-3,Chelsea,38,21,11,6,76,33,43,74,1.95,63.4,33.2,30.1,0.79,36443.0,Mason Mount - 11,Edouard Mendy,→ Champions League via league finish,2021-2022
-4,Tottenham,38,22,5,11,69,40,29,71,1.87,61.2,39.3,21.9,0.58,56523.0,Son Heung-min - 23,Hugo Lloris,→ Champions League via league finish,2021-2022
-5,Arsenal,38,22,3,13,61,48,13,69,1.82,60.5,45.7,14.9,0.39,59665.0,Bukayo Saka - 11,Aaron Ramsdale,→ Europa League via league finish,2021-2022
-6,Manchester United,38,16,10,12,57,57,0,58,1.53,55.8,53.0,2.8,0.07,73150.0,Cristiano Ronaldo - 18,David de Gea,→ Europa League via league finish,2021-2022
-7,West Ham,38,16,8,14,60,51,9,56,1.47,51.4,53.5,-2.1,-0.06,58370.0,Jarrod Bowen - 12,Łukasz Fabiański,→ Europa Conference League via league finish,2021-2022
-8,Leicester City,38,14,10,14,62,59,3,52,1.37,47.8,59.3,-11.5,-0.3,32493.0,Jamie Vardy - 15,Kasper Schmeichel,,2021-2022
-9,Brighton,38,12,15,11,42,44,-2,51,1.34,46.2,42.9,3.3,0.09,30966.0,"Leandro Trossard, Neal Maupay - 8",Robert Sánchez,,2021-2022
-10,Wolves,38,15,6,17,38,43,-5,51,1.34,37.5,56.9,-19.4,-0.51,30841.0,Raúl Jiménez - 6,José Sá,,2021-2022
-11,Newcastle United,38,13,10,15,44,62,-18,49,1.29,38.1,57.1,-19.0,-0.5,51487.0,Callum Wilson - 8,Martin Dúbravka,,2021-2022
-12,Crystal Palace,38,11,15,12,50,46,4,48,1.26,46.4,40.7,5.7,0.15,24588.0,Wilfried Zaha - 14,Vicente Guaita,,2021-2022
-13,Brentford,38,13,7,18,48,56,-8,46,1.21,45.8,48.5,-2.7,-0.07,16918.0,Ivan Toney - 12,David Raya,,2021-2022
-14,Aston Villa,38,13,6,19,52,54,-2,45,1.18,44.0,49.0,-4.9,-0.13,41681.0,Ollie Watkins - 11,Emiliano Martínez,,2021-2022
-15,Southampton,38,9,13,16,43,67,-24,40,1.05,44.8,60.0,-15.2,-0.4,30134.0,James Ward-Prowse - 10,Fraser Forster,,2021-2022
-16,Everton,38,11,6,21,43,66,-23,39,1.03,41.2,55.4,-14.2,-0.37,38446.0,Richarlison - 10,Jordan Pickford,,2021-2022
-17,Leeds United,38,9,11,18,42,79,-37,38,1.0,44.4,67.8,-23.5,-0.62,36308.0,Raphinha - 11,Illan Meslier,,2021-2022
-18,Burnley,38,7,14,17,34,53,-19,35,0.92,39.7,57.1,-17.4,-0.46,19278.0,Maxwel Cornet - 9,Nick Pope,Relegated,2021-2022
-19,Watford,38,6,5,27,34,77,-43,23,0.61,40.0,64.5,-24.5,-0.64,20614.0,Emmanuel Dennis - 10,Ben Foster,Relegated,2021-2022
-20,Norwich City,38,5,7,26,23,84,-61,22,0.58,32.3,75.5,-43.2,-1.14,26836.0,Teemu Pukki - 11,Tim Krul,Relegated,2021-2022
-1,Manchester City,38,27,5,6,83,32,51,86,2.26,68.2,30.2,38.0,1.0,526.0,İlkay Gündoğan - 13,Ederson,→ Champions League via league finish,2020-2021
-2,Manchester United,38,21,11,6,73,44,29,74,1.95,60.1,41.4,18.6,0.49,526.0,Bruno Fernandes - 18,David de Gea,→ Champions League via league finish,2020-2021
-3,Liverpool,38,20,9,9,68,42,26,69,1.82,67.5,43.0,24.5,0.65,837.0,Mohamed Salah - 22,Alisson,→ Champions League via league finish,2020-2021
-4,Chelsea,38,19,10,9,58,36,22,67,1.76,62.4,30.3,32.1,0.85,526.0,Jorginho - 7,Edouard Mendy,→ Champions League via league finish,2020-2021
-5,Leicester City,38,20,6,12,68,50,18,66,1.74,55.8,46.0,9.8,0.26,421.0,Jamie Vardy - 15,Kasper Schmeichel,→ Europa League via cup win,2020-2021
-6,West Ham,38,19,8,11,62,47,15,65,1.71,55.4,48.7,6.7,0.18,632.0,"Michail Antonio, Tomáš Souček - 10",Łukasz Fabiański,→ Europa League via league finish,2020-2021
-7,Tottenham,38,18,8,12,68,45,23,62,1.63,53.1,49.1,4.0,0.1,632.0,Harry Kane - 23,Hugo Lloris,→ Europa Conference League via league finish 1,2020-2021
-8,Arsenal,38,18,7,13,55,39,16,61,1.61,51.8,43.0,8.8,0.23,632.0,Alexandre Lacazette - 13,Bernd Leno,,2020-2021
-9,Leeds United,38,18,5,15,62,54,8,59,1.55,55.6,57.9,-2.2,-0.06,421.0,Patrick Bamford - 17,Illan Meslier,,2020-2021
-10,Everton,38,17,8,13,47,48,-1,59,1.55,45.7,50.1,-4.5,-0.12,368.0,Dominic Calvert-Lewin - 16,Jordan Pickford,,2020-2021
-11,Aston Villa,38,16,7,15,55,46,9,55,1.45,52.5,51.1,1.4,0.04,526.0,Ollie Watkins - 14,Emiliano Martínez,,2020-2021
-12,Newcastle United,38,12,9,17,46,62,-16,45,1.18,43.4,58.3,-14.9,-0.39,526.0,Callum Wilson - 12,Karl Darlow,,2020-2021
-13,Wolves,38,12,9,17,36,52,-16,45,1.18,36.5,49.5,-13.0,-0.34,237.0,"Rúben Neves, Pedro Neto - 5",Rui Patrício,,2020-2021
-14,Crystal Palace,38,12,8,18,41,66,-25,44,1.16,34.1,58.2,-24.2,-0.64,447.0,Wilfried Zaha - 11,Vicente Guaita,,2020-2021
-15,Southampton,38,12,7,19,47,68,-21,43,1.13,41.2,53.1,-11.8,-0.31,526.0,Danny Ings - 12,Alex McCarthy,,2020-2021
-16,Brighton,38,9,14,15,40,46,-6,41,1.08,50.9,35.3,15.6,0.41,523.0,Neal Maupay - 8,Robert Sánchez,,2020-2021
-17,Burnley,38,10,9,19,33,55,-22,39,1.03,39.3,54.7,-15.4,-0.4,178.0,Chris Wood - 12,Nick Pope,,2020-2021
-18,Fulham,38,5,13,20,27,53,-26,28,0.74,40.5,52.6,-12.1,-0.32,211.0,Bobby Reid - 5,Alphonse Areola,Relegated,2020-2021
-19,West Brom,38,5,11,22,35,76,-41,26,0.68,35.8,67.9,-32.0,-0.84,283.0,Matheus Pereira - 11,Sam Johnstone,Relegated,2020-2021
-20,Sheffield United,38,7,2,29,20,63,-43,23,0.61,32.6,62.2,-29.6,-0.78,263.0,David McGoldrick - 8,Aaron Ramsdale,Relegated,2020-2021
-1,Liverpool,38,32,3,3,85,33,52,99,2.61,68.9,37.7,31.2,0.82,41955.0,Mohamed Salah - 19,Alisson,→ Champions League via league finish,2019-2020
-2,Manchester City,38,26,3,9,102,35,67,81,2.13,92.0,36.2,55.7,1.47,37097.0,Raheem Sterling - 20,Ederson,→ Champions League via league finish,2019-2020
-3,Manchester United,38,18,12,8,66,36,30,66,1.74,62.2,37.7,24.5,0.64,57415.0,"Anthony Martial, Marcus Rashford - 17",David de Gea,→ Champions League via league finish,2019-2020
-4,Chelsea,38,20,6,12,69,54,15,66,1.74,69.2,38.6,30.6,0.81,32023.0,Tammy Abraham - 15,Kepa Arrizabalaga,→ Champions League via league finish,2019-2020
-5,Leicester City,38,18,8,12,67,41,26,62,1.63,62.2,45.5,16.7,0.44,25312.0,Jamie Vardy - 23,Kasper Schmeichel,→ Europa League via league finish,2019-2020
-6,Tottenham,38,16,11,11,61,47,14,59,1.55,47.9,54.2,-6.3,-0.17,43757.0,Harry Kane - 18,Hugo Lloris,→ Europa League via league finish 1,2019-2020
-7,Wolves,38,15,14,9,51,40,11,59,1.55,54.1,38.0,16.1,0.42,24758.0,Raúl Jiménez - 17,Rui Patrício,,2019-2020
-8,Arsenal,38,14,14,10,56,48,8,56,1.47,47.0,55.3,-8.3,-0.22,47589.0,Pierre-Emerick Aubameyang - 22,Bernd Leno,→ Europa League via cup win 2,2019-2020
-9,Sheffield United,38,14,12,12,39,39,0,54,1.42,43.0,51.0,-7.9,-0.21,24370.0,"Lys Mousset, Oliver McBurnie - 6",Dean Henderson,,2019-2020
-10,Burnley,38,15,9,14,43,50,-7,54,1.42,47.4,49.8,-2.4,-0.06,15995.0,Chris Wood - 14,Nick Pope,,2019-2020
-11,Southampton,38,15,7,16,51,60,-9,52,1.37,56.1,52.8,3.3,0.09,23428.0,Danny Ings - 22,Alex McCarthy,,2019-2020
-12,Everton,38,13,10,15,44,56,-12,49,1.29,50.8,48.3,2.5,0.07,28848.0,"Dominic Calvert-Lewin, Richarlison - 13",Jordan Pickford,,2019-2020
-13,Newcastle United,38,11,11,16,38,58,-20,44,1.16,35.5,65.6,-30.1,-0.79,35551.0,Jonjo Shelvey - 6,Martin Dúbravka,,2019-2020
-14,Crystal Palace,38,11,10,17,31,50,-19,43,1.13,35.8,57.0,-21.2,-0.56,19784.0,Jordan Ayew - 9,Vicente Guaita,,2019-2020
-15,Brighton,38,9,14,15,39,54,-15,41,1.08,45.4,55.0,-9.5,-0.25,22369.0,Neal Maupay - 10,Mathew Ryan,,2019-2020
-16,West Ham,38,10,9,19,49,62,-13,39,1.03,48.6,63.8,-15.2,-0.4,44155.0,Michail Antonio - 10,Łukasz Fabiański,,2019-2020
-17,Aston Villa,38,9,8,21,41,67,-26,35,0.92,44.3,67.8,-23.5,-0.62,28505.0,Jack Grealish - 8,Tom Heaton,,2019-2020
-18,Bournemouth,38,9,7,22,40,65,-25,34,0.89,44.8,62.3,-17.5,-0.46,7745.0,Callum Wilson - 8,Aaron Ramsdale,Relegated,2019-2020
-19,Watford,38,8,10,20,36,64,-28,34,0.89,48.9,58.1,-9.3,-0.24,15353.0,Troy Deeney - 10,Ben Foster,Relegated,2019-2020
-20,Norwich City,38,5,6,27,26,75,-49,21,0.55,37.0,66.5,-29.5,-0.78,19913.0,Teemu Pukki - 11,Tim Krul,Relegated,2019-2020
-1,Manchester City,38,32,2,4,95,23,72,98,2.58,84.3,24.7,59.6,1.57,54130.0,Sergio Agüero - 21,Ederson,→ Champions League via league finish,2018-2019
-2,Liverpool,38,30,7,1,89,22,67,97,2.55,73.7,28.8,44.9,1.18,52983.0,"Sadio Mané, Mohamed Salah - 22",Alisson,→ Champions League via league finish,2018-2019
-3,Chelsea,38,21,9,8,63,39,24,72,1.89,58.6,36.4,22.2,0.58,40437.0,Eden Hazard - 16,Kepa Arrizabalaga,→ Champions League via league finish,2018-2019
-4,Tottenham,38,23,2,13,67,39,28,71,1.87,54.9,47.1,7.8,0.2,54216.0,Harry Kane - 17,Hugo Lloris,→ Champions League via league finish,2018-2019
-5,Arsenal,38,21,7,10,73,51,22,70,1.84,60.1,54.2,5.8,0.15,59899.0,Pierre-Emerick Aubameyang - 22,Bernd Leno,→ Europa League via league finish,2018-2019
-6,Manchester United,38,19,9,10,65,54,11,66,1.74,61.4,50.6,10.8,0.29,74498.0,Paul Pogba - 13,David de Gea,→ Europa League via league finish 1,2018-2019
-7,Wolves,38,16,9,13,47,46,1,57,1.5,52.1,42.1,10.1,0.26,31030.0,Raúl Jiménez - 13,Rui Patrício,→ Europa League via league finish,2018-2019
-8,Everton,38,15,9,14,54,46,8,54,1.42,49.7,45.7,4.0,0.1,39043.0,"Gylfi Sigurðsson, Richarlison - 13",Jordan Pickford,,2018-2019
-9,Leicester City,38,15,7,16,51,48,3,52,1.37,52.4,43.7,8.7,0.23,31851.0,Jamie Vardy - 18,Kasper Schmeichel,,2018-2019
-10,West Ham,38,15,7,16,52,55,-3,52,1.37,47.6,61.9,-14.3,-0.38,58336.0,Marko Arnautović - 10,Łukasz Fabiański,,2018-2019
-11,Watford,38,14,8,16,52,59,-7,50,1.32,48.2,59.2,-11.0,-0.29,20016.0,Gerard Deulofeu - 10,Ben Foster,,2018-2019
-12,Crystal Palace,38,14,7,17,51,53,-2,49,1.29,47.6,50.1,-2.5,-0.07,25455.0,Luka Milivojević - 12,Vicente Guaita,,2018-2019
-13,Newcastle United,38,12,9,17,42,48,-6,45,1.18,39.1,53.6,-14.5,-0.38,51121.0,Ayoze Pérez - 12,Martin Dúbravka,,2018-2019
-14,Bournemouth,38,13,6,19,56,70,-14,45,1.18,53.3,57.2,-3.9,-0.1,10532.0,Callum Wilson - 14,Asmir Begović,,2018-2019
-15,Burnley,38,11,7,20,45,68,-23,40,1.05,44.4,62.1,-17.7,-0.46,20534.0,Ashley Barnes - 12,"Tom Heaton, Joe Hart",,2018-2019
-16,Southampton,38,9,12,17,45,65,-20,39,1.03,46.9,55.1,-8.2,-0.22,30139.0,"Danny Ings, James Ward-Prowse - 7",Alex McCarthy,,2018-2019
-17,Brighton,38,9,9,20,35,60,-25,36,0.95,35.3,59.1,-23.8,-0.63,30426.0,Glenn Murray - 13,Mathew Ryan,,2018-2019
-18,Cardiff City,38,10,4,24,34,69,-35,34,0.89,42.4,61.5,-19.1,-0.5,31408.0,"Bobby Reid, Víctor Camarasa - 5",Neil Etheridge,Relegated,2018-2019
-19,Fulham,38,7,5,26,34,81,-47,26,0.68,41.3,68.2,-26.8,-0.71,24371.0,Aleksandar Mitrović - 11,Sergio Rico,Relegated,2018-2019
-20,Huddersfield,38,3,7,28,22,76,-54,16,0.42,28.8,60.9,-32.2,-0.85,23203.0,Karlan Grant - 4,Jonas Lössl,Relegated,2018-2019
-1,Manchester City,38,32,4,2,106,27,79,100,2.63,78.6,23.8,54.8,1.44,53812.0,Sergio Agüero - 21,Ederson,→ Champions League via league finish,2017-2018
-2,Manchester United,38,25,6,7,68,28,40,81,2.13,55.7,40.7,15.0,0.4,74976.0,Romelu Lukaku - 16,David de Gea,→ Champions League via league finish,2017-2018
-3,Tottenham,38,23,8,7,74,36,38,77,2.03,64.7,33.9,30.8,0.81,67496.0,Harry Kane - 30,Hugo Lloris,→ Champions League via league finish,2017-2018
-4,Liverpool,38,21,12,5,84,38,46,75,1.97,72.9,33.8,39.1,1.03,53049.0,Mohamed Salah - 32,"Loris Karius, Simon Mignolet",→ Champions League via league finish,2017-2018
-5,Chelsea,38,21,7,10,62,38,24,70,1.84,54.4,33.8,20.6,0.54,41282.0,Eden Hazard - 12,Thibaut Courtois,→ Europa League via cup win 1,2017-2018
-6,Arsenal,38,19,6,13,74,51,23,63,1.66,68.3,47.8,20.5,0.54,59323.0,Alexandre Lacazette - 14,Petr Čech,→ Europa League via league finish,2017-2018
-7,Burnley,38,14,12,12,36,39,-3,54,1.42,32.3,51.2,-18.9,-0.5,20688.0,Chris Wood - 10,Nick Pope,→ Europa League via league finish 2,2017-2018
-8,Everton,38,13,10,15,44,58,-14,49,1.29,40.5,52.4,-11.9,-0.31,38797.0,Wayne Rooney - 10,Jordan Pickford,,2017-2018
-9,Leicester City,38,12,11,15,56,60,-4,47,1.24,50.0,48.1,1.9,0.05,31583.0,Jamie Vardy - 20,Kasper Schmeichel,,2017-2018
-10,Newcastle United,38,12,8,18,39,47,-8,44,1.16,41.6,52.4,-10.8,-0.28,51992.0,Ayoze Pérez - 8,Rob Elliot,,2017-2018
-11,Crystal Palace,38,11,11,16,45,55,-10,44,1.16,53.5,48.2,5.2,0.14,25063.0,Luka Milivojević - 10,Wayne Hennessey,,2017-2018
-12,Bournemouth,38,11,11,16,45,61,-16,44,1.16,38.8,59.2,-20.4,-0.54,10641.0,"Joshua King, Callum Wilson - 8",Asmir Begović,,2017-2018
-13,West Ham,38,10,12,16,48,68,-20,42,1.11,36.7,55.1,-18.4,-0.48,56885.0,Marko Arnautović - 11,"Joe Hart, Adrián",,2017-2018
-14,Watford,38,11,8,19,44,64,-20,41,1.08,45.0,51.8,-6.8,-0.18,20231.0,Abdoulaye Doucouré - 7,Heurelho Gomes,,2017-2018
-15,Brighton,38,9,13,16,34,54,-20,40,1.05,37.0,50.8,-13.8,-0.36,30403.0,Glenn Murray - 12,Mathew Ryan,,2017-2018
-16,Huddersfield,38,9,10,19,28,58,-30,37,0.97,31.3,48.5,-17.2,-0.45,24040.0,Steve Mounié - 7,Jonas Lössl,,2017-2018
-17,Southampton,38,7,15,16,37,56,-19,36,0.95,39.9,45.2,-5.3,-0.14,30794.0,Charlie Austin - 7,Fraser Forster,,2017-2018
-18,Swansea City,38,8,9,21,28,56,-28,33,0.87,31.6,58.6,-27.0,-0.71,20623.0,Jordan Ayew - 7,Łukasz Fabiański,Relegated,2017-2018
-19,Stoke City,38,7,12,19,35,68,-33,33,0.87,36.5,62.5,-26.0,-0.69,29280.0,Xherdan Shaqiri - 8,Jack Butland,Relegated,2017-2018
-20,West Brom,38,6,13,19,31,56,-25,31,0.82,36.5,47.9,-11.4,-0.3,24520.0,"Jay Rodriguez, Salomón Rondón - 7",Ben Foster,Relegated,2017-2018
-1,Chelsea,38,30,3,5,85,33,52,93,2.45,,,,,41508.0,Diego Costa - 20,Thibaut Courtois,→ Champions League via league finish,2016-2017
-2,Tottenham,38,26,8,4,86,26,60,86,2.26,,,,,31639.0,Harry Kane - 29,Hugo Lloris,→ Champions League via league finish,2016-2017
-3,Manchester City,38,23,9,6,80,39,41,78,2.05,,,,,54019.0,Sergio Agüero - 20,Claudio Bravo,→ Champions League via league finish,2016-2017
-4,Liverpool,38,22,10,6,78,42,36,76,2.0,,,,,53016.0,"Philippe Coutinho, Sadio Mané - 13",Simon Mignolet,→ Champions League via league finish,2016-2017
-5,Arsenal,38,23,6,9,77,44,33,75,1.97,,,,,59957.0,Alexis Sánchez - 24,Petr Čech,→ Europa League via cup win 1,2016-2017
-6,Manchester United,38,18,15,5,54,29,25,69,1.82,,,,,75290.0,Zlatan Ibrahimović - 17,David de Gea,→ Champions League via Europa League win,2016-2017
-7,Everton,38,17,10,11,62,44,18,61,1.61,,,,,39310.0,Romelu Lukaku - 25,Joel Robles,→ Europa League via league finish,2016-2017
-8,Southampton,38,12,10,16,41,48,-7,46,1.21,,,,,30936.0,Nathan Redmond - 7,Fraser Forster,,2016-2017
-9,Bournemouth,38,12,10,16,55,67,-12,46,1.21,,,,,11182.0,Joshua King - 16,Artur Boruc,,2016-2017
-10,West Brom,38,12,9,17,43,51,-8,45,1.18,,,,,23876.0,Salomón Rondón - 8,Ben Foster,,2016-2017
-11,West Ham,38,12,9,17,47,64,-17,45,1.18,,,,,56972.0,Michail Antonio - 9,Darren Randolph,,2016-2017
-12,Leicester City,38,12,8,18,48,63,-15,44,1.16,,,,,31893.0,Jamie Vardy - 13,Kasper Schmeichel,,2016-2017
-13,Stoke City,38,11,11,16,41,56,-15,44,1.16,,,,,27433.0,Peter Crouch - 7,Lee Grant,,2016-2017
-14,Crystal Palace,38,12,5,21,50,63,-13,41,1.08,,,,,25161.0,Christian Benteke - 15,Wayne Hennessey,,2016-2017
-15,Swansea City,38,12,5,21,45,70,-25,41,1.08,,,,,20619.0,Fernando Llorente - 15,Łukasz Fabiański,,2016-2017
-16,Burnley,38,11,7,20,39,55,-16,40,1.05,,,,,20558.0,Sam Vokes - 10,Tom Heaton,,2016-2017
-17,Watford,38,11,7,20,40,68,-28,40,1.05,,,,,20571.0,Troy Deeney - 10,Heurelho Gomes,,2016-2017
-18,Hull City,38,9,7,22,37,80,-43,34,0.89,,,,,20761.0,Robert Snodgrass - 7,Eldin Jakupović,Relegated,2016-2017
-19,Middlesbrough,38,5,13,20,27,53,-26,28,0.74,,,,,30449.0,Álvaro Negredo - 9,Víctor Valdés,Relegated,2016-2017
-20,Sunderland,38,6,6,26,29,69,-40,24,0.63,,,,,41287.0,Jermain Defoe - 15,Jordan Pickford,Relegated,2016-2017
-1,Leicester City,38,23,12,3,68,36,32,81,2.13,,,,,32021.0,Jamie Vardy - 24,Kasper Schmeichel,→ Champions League via league finish,2015-2016
-2,Arsenal,38,20,11,7,65,36,29,71,1.87,,,,,59944.0,Olivier Giroud - 16,Petr Čech,→ Champions League via league finish,2015-2016
-3,Tottenham,38,19,13,6,69,35,34,70,1.84,,,,,35776.0,Harry Kane - 25,Hugo Lloris,→ Champions League via league finish,2015-2016
-4,Manchester City,38,19,9,10,71,41,30,66,1.74,,,,,54041.0,Sergio Agüero - 24,Joe Hart,→ Champions League via league finish,2015-2016
-5,Manchester United,38,19,9,10,49,35,14,66,1.74,,,,,75279.0,Anthony Martial - 11,David de Gea,→ Europa League via cup win 1,2015-2016
-6,Southampton,38,18,9,11,59,41,18,63,1.66,,,,,30751.0,"Sadio Mané, Graziano Pellè - 11",Fraser Forster,→ Europa League via league finish 2,2015-2016
-7,West Ham,38,16,14,8,65,51,14,62,1.63,,,,,34910.0,"Dimitri Payet, Andy Carroll - 9",Adrián,→ Europa League via league finish 3,2015-2016
-8,Liverpool,38,16,12,10,63,50,13,60,1.58,,,,,43910.0,Roberto Firmino - 10,Simon Mignolet,,2015-2016
-9,Stoke City,38,14,9,15,41,55,-14,51,1.34,,,,,27534.0,Marko Arnautović - 11,Jack Butland,,2015-2016
-10,Chelsea,38,12,14,12,59,53,6,50,1.32,,,,,41500.0,Diego Costa - 12,Thibaut Courtois,,2015-2016
-11,Everton,38,11,14,13,59,55,4,47,1.24,,,,,38124.0,Romelu Lukaku - 18,Tim Howard,,2015-2016
-12,Swansea City,38,12,11,15,42,52,-10,47,1.24,,,,,20711.0,André Ayew - 12,Łukasz Fabiański,,2015-2016
-13,Watford,38,12,9,17,40,50,-10,45,1.18,,,,,20594.0,Odion Ighalo - 15,Heurelho Gomes,,2015-2016
-14,West Brom,38,10,13,15,34,48,-14,43,1.13,,,,,24631.0,Salomón Rondón - 9,Boaz Myhill,,2015-2016
-15,Crystal Palace,38,11,9,18,39,51,-12,42,1.11,,,,,24825.0,"Scott Dann, Yohan Cabaye... - 5",Wayne Hennessey,,2015-2016
-16,Bournemouth,38,11,9,18,45,67,-22,42,1.11,,,,,11189.0,Joshua King - 6,Artur Boruc,,2015-2016
-17,Sunderland,38,9,12,17,48,62,-14,39,1.03,,,,,43071.0,Jermain Defoe - 15,Vito Mannone,,2015-2016
-18,Newcastle United,38,9,10,19,44,65,-21,37,0.97,,,,,49754.0,Georginio Wijnaldum - 11,Rob Elliot,Relegated,2015-2016
-19,Norwich City,38,9,7,22,39,67,-28,34,0.89,,,,,26972.0,Dieumerci Mbokani - 7,John Ruddy,Relegated,2015-2016
-20,Aston Villa,38,3,8,27,27,76,-49,17,0.45,,,,,33690.0,Jordan Ayew - 7,Brad Guzan,Relegated,2015-2016
-1,Chelsea,38,26,9,3,73,32,41,87,2.29,,,,,41546.0,Diego Costa - 20,Thibaut Courtois,→ Champions League via league finish,2014-2015
-2,Manchester City,38,24,7,7,83,38,45,79,2.08,,,,,45365.0,Sergio Agüero - 26,Joe Hart,→ Champions League via league finish,2014-2015
-3,Arsenal,38,22,9,7,71,36,35,75,1.97,,,,,59992.0,Alexis Sánchez - 16,David Ospina,→ Champions League via league finish,2014-2015
-4,Manchester United,38,20,10,8,62,37,25,70,1.84,,,,,75335.0,Wayne Rooney - 12,David de Gea,→ Champions League via league finish,2014-2015
-5,Tottenham,38,19,7,12,58,53,5,64,1.68,,,,,35728.0,Harry Kane - 21,Hugo Lloris,→ Europa League via league finish,2014-2015
-6,Liverpool,38,18,8,12,52,48,4,62,1.63,,,,,44659.0,Steven Gerrard - 9,Simon Mignolet,→ Europa League via league finish 1,2014-2015
-7,Southampton,38,18,6,14,54,33,21,60,1.58,,,,,30652.0,Graziano Pellè - 12,Fraser Forster,→ Europa League via league finish 2,2014-2015
-8,Swansea City,38,16,8,14,46,49,-3,56,1.47,,,,,20555.0,Wilfried Bony - 9,Łukasz Fabiański,,2014-2015
-9,Stoke City,38,15,9,14,48,45,3,54,1.42,,,,,26747.0,Mame Biram Diouf - 11,Asmir Begović,,2014-2015
-10,Crystal Palace,38,13,9,16,47,51,-4,48,1.26,,,,,24421.0,Glenn Murray - 7,Julián Speroni,,2014-2015
-11,Everton,38,12,11,15,48,50,-2,47,1.24,,,,,38405.0,Romelu Lukaku - 10,Tim Howard,,2014-2015
-12,West Ham,38,12,11,15,44,47,-3,47,1.24,,,,,34871.0,Diafra Sakho - 10,Adrián,→ Europa League 3,2014-2015
-13,West Brom,38,11,11,16,38,51,-13,44,1.16,,,,,25064.0,Saido Berahino - 14,Ben Foster,,2014-2015
-14,Leicester City,38,11,8,19,46,55,-9,41,1.08,,,,,31693.0,Leonardo Ulloa - 11,Kasper Schmeichel,,2014-2015
-15,Newcastle United,38,10,9,19,40,63,-23,39,1.03,,,,,50359.0,Papiss Cissé - 11,Tim Krul,,2014-2015
-16,Sunderland,38,7,17,14,31,53,-22,38,1.0,,,,,43157.0,"Steven Fletcher, Connor Wickham - 5",Costel Pantilimon,,2014-2015
-17,Aston Villa,38,10,8,20,31,57,-26,38,1.0,,,,,34133.0,Christian Benteke - 13,Brad Guzan,,2014-2015
-18,Hull City,38,8,11,19,33,51,-18,35,0.92,,,,,23557.0,Nikica Jelavić - 8,Allan McGregor,Relegated,2014-2015
-19,Burnley,38,7,12,19,28,53,-25,33,0.87,,,,,19131.0,Danny Ings - 11,Tom Heaton,Relegated,2014-2015
-20,QPR,38,8,6,24,42,73,-31,30,0.79,,,,,17809.0,Charlie Austin - 18,Robert Green,Relegated,2014-2015
-1,Manchester City,38,27,5,6,102,37,65,86,2.26,,,,,47080.0,Yaya Touré - 20,Joe Hart,→ Champions League via league finish,2013-2014
-2,Liverpool,38,26,6,6,101,50,51,84,2.21,,,,,44671.0,Luis Suárez - 31,Simon Mignolet,→ Champions League via league finish,2013-2014
-3,Chelsea,38,25,7,6,71,27,44,82,2.16,,,,,41482.0,Eden Hazard - 14,Petr Čech,→ Champions League via league finish,2013-2014
-4,Arsenal,38,24,7,7,68,41,27,79,2.08,,,,,60013.0,Olivier Giroud - 16,Wojciech Szczęsny,→ Champions League via league finish,2013-2014
-5,Everton,38,21,9,8,61,39,22,72,1.89,,,,,37732.0,Romelu Lukaku - 15,Tim Howard,→ Europa League via league finish 1,2013-2014
-6,Tottenham,38,21,6,11,55,51,4,69,1.82,,,,,35808.0,Emmanuel Adebayor - 11,Hugo Lloris,→ Europa League via league finish,2013-2014
-7,Manchester United,38,19,7,12,64,43,21,64,1.68,,,,,75207.0,Wayne Rooney - 17,David de Gea,,2013-2014
-8,Southampton,38,15,11,12,54,46,8,56,1.47,,,,,30212.0,Jay Rodriguez - 15,Artur Boruc,,2013-2014
-9,Stoke City,38,13,11,14,45,52,-7,50,1.32,,,,,26137.0,Charlie Adam - 8,Asmir Begović,,2013-2014
-10,Newcastle United,38,15,4,19,43,59,-16,49,1.29,,,,,50395.0,Loïc Rémy - 14,Tim Krul,,2013-2014
-11,Crystal Palace,38,13,6,19,33,48,-15,45,1.18,,,,,24114.0,"Dwight Gayle, Jason Puncheon - 7",Julián Speroni,,2013-2014
-12,Swansea City,38,11,9,18,54,54,0,42,1.11,,,,,20407.0,Wilfried Bony - 16,Michel Vorm,,2013-2014
-13,West Ham,38,11,7,20,40,51,-11,40,1.05,,,,,34197.0,Kevin Nolan - 7,Adrián,,2013-2014
-14,Sunderland,38,10,8,20,41,60,-19,38,1.0,,,,,41090.0,Adam Johnson - 8,Vito Mannone,,2013-2014
-15,Aston Villa,38,10,8,20,39,61,-22,38,1.0,,,,,36081.0,Christian Benteke - 10,Brad Guzan,,2013-2014
-16,Hull City,38,10,7,21,38,53,-15,37,0.97,,,,,24117.0,Nikica Jelavić - 5,Allan McGregor,→ Europa League via cup loss 2,2013-2014
-17,West Brom,38,7,15,16,43,59,-16,36,0.95,,,,,25194.0,"Saido Berahino, Stéphane Sessègnon - 5",Ben Foster,,2013-2014
-18,Norwich City,38,8,9,21,28,62,-34,33,0.87,,,,,26805.0,"Gary Hooper, Robert Snodgrass - 6",John Ruddy,Relegated,2013-2014
-19,Fulham,38,9,5,24,40,85,-45,32,0.84,,,,,24977.0,Steve Sidwell - 7,David Stockdale,Relegated,2013-2014
-20,Cardiff City,38,7,9,22,32,74,-42,30,0.79,,,,,27430.0,Jordon Mutch - 7,David Marshall,Relegated,2013-2014
-1,Manchester United,38,28,5,5,86,43,43,89,2.34,,,,,75530.0,Robin van Persie - 26,David de Gea,→ Champions League via league finish,2012-2013
-2,Manchester City,38,23,9,6,66,34,32,78,2.05,,,,,46974.0,Edin Džeko - 14,Joe Hart,→ Champions League via league finish,2012-2013
-3,Chelsea,38,22,9,7,75,39,36,75,1.97,,,,,41462.0,Frank Lampard - 15,Petr Čech,→ Champions League via league finish,2012-2013
-4,Arsenal,38,21,10,7,72,37,35,73,1.92,,,,,60079.0,Theo Walcott - 14,Wojciech Szczęsny,→ Champions League via league finish,2012-2013
-5,Tottenham,38,21,9,8,66,46,20,72,1.89,,,,,36030.0,Gareth Bale - 21,Hugo Lloris,→ Europa League via league finish,2012-2013
-6,Everton,38,16,15,7,55,40,15,63,1.66,,,,,36356.0,Marouane Fellaini - 11,Tim Howard,,2012-2013
-7,Liverpool,38,16,13,9,71,43,28,61,1.61,,,,,44749.0,Luis Suárez - 23,Pepe Reina,,2012-2013
-8,West Brom,38,14,7,17,53,57,-4,49,1.29,,,,,25360.0,Romelu Lukaku - 17,Ben Foster,,2012-2013
-9,Swansea City,38,11,13,14,47,51,-4,46,1.21,,,,,20370.0,Michu - 18,Michel Vorm,→ Europa League via cup win 1,2012-2013
-10,West Ham,38,12,10,16,45,53,-8,46,1.21,,,,,34720.0,Kevin Nolan - 10,Jussi Jääskeläinen,,2012-2013
-11,Norwich City,38,10,14,14,41,58,-17,44,1.16,,,,,26672.0,Grant Holt - 8,Mark Bunn,,2012-2013
-12,Fulham,38,11,10,17,50,60,-10,43,1.13,,,,,25394.0,Dimitar Berbatov - 15,Mark Schwarzer,,2012-2013
-13,Stoke City,38,9,15,14,34,45,-11,42,1.11,,,,,26732.0,Jonathan Walters - 8,Asmir Begović,,2012-2013
-14,Southampton,38,9,14,15,49,60,-11,41,1.08,,,,,30874.0,Rickie Lambert - 15,Artur Boruc,,2012-2013
-15,Aston Villa,38,10,11,17,47,69,-22,41,1.08,,,,,35060.0,Christian Benteke - 19,Brad Guzan,,2012-2013
-16,Newcastle United,38,11,8,19,45,68,-23,41,1.08,,,,,50517.0,Demba Ba - 13,Tim Krul,,2012-2013
-17,Sunderland,38,9,12,17,41,54,-13,39,1.03,,,,,40544.0,Steven Fletcher - 11,Simon Mignolet,,2012-2013
-18,Wigan Athletic,38,9,9,20,47,73,-26,36,0.95,,,,,19359.0,Arouna Koné - 11,Ali Al-Habsi,"Relegated, → Europa League via cup win 2",2012-2013
-19,Reading,38,6,10,22,43,73,-30,28,0.74,,,,,23862.0,Adam le Fondre - 12,Adam Federici,Relegated,2012-2013
-20,QPR,38,4,13,21,30,60,-30,25,0.66,,,,,17779.0,Loïc Rémy - 6,Júlio César,Relegated,2012-2013
-1,Manchester City,38,28,5,5,93,29,64,89,2.34,,,,,47045.0,Sergio Agüero - 23,Joe Hart,→ Champions League via league finish,2011-2012
-2,Manchester United,38,28,5,5,89,33,56,89,2.34,,,,,75387.0,Wayne Rooney - 27,David de Gea,→ Champions League via league finish,2011-2012
-3,Arsenal,38,21,7,10,74,49,25,70,1.84,,,,,60000.0,Robin van Persie - 30,Wojciech Szczęsny,→ Champions League via league finish,2011-2012
-4,Tottenham,38,20,9,9,66,41,25,69,1.82,,,,,36026.0,Emmanuel Adebayor - 17,Brad Friedel,→ Europa League via league finish,2011-2012
-5,Newcastle United,38,19,8,11,56,51,5,65,1.71,,,,,49936.0,Demba Ba - 16,Tim Krul,→ Europa League via league finish,2011-2012
-6,Chelsea,38,18,10,10,65,46,19,64,1.68,,,,,41478.0,"Frank Lampard, Daniel Sturridge - 11",Petr Čech,→ Champions League via Champions League win,2011-2012
-7,Everton,38,15,11,12,50,40,10,56,1.47,,,,,33228.0,Nikica Jelavić - 9,Tim Howard,,2011-2012
-8,Liverpool,38,14,10,14,47,40,7,52,1.37,,,,,44253.0,Luis Suárez - 11,Pepe Reina,→ Europa League via cup win 1,2011-2012
-9,Fulham,38,14,10,14,48,51,-3,52,1.37,,,,,25293.0,Clint Dempsey - 17,Mark Schwarzer,,2011-2012
-10,West Brom,38,13,8,17,45,52,-7,47,1.24,,,,,24798.0,Peter Odemwingie - 10,Ben Foster,,2011-2012
-11,Swansea City,38,12,11,15,44,51,-7,47,1.24,,,,,19946.0,Danny Graham - 12,Michel Vorm,,2011-2012
-12,Norwich City,38,12,11,15,52,66,-14,47,1.24,,,,,26606.0,Grant Holt - 15,John Ruddy,,2011-2012
-13,Sunderland,38,11,12,15,45,46,-1,45,1.18,,,,,39095.0,Nicklas Bendtner - 8,Simon Mignolet,,2011-2012
-14,Stoke City,38,11,12,15,36,53,-17,45,1.18,,,,,27226.0,Peter Crouch - 10,Asmir Begović,,2011-2012
-15,Wigan Athletic,38,11,10,17,42,62,-20,43,1.13,,,,,18634.0,Franco Di Santo - 7,Ali Al-Habsi,,2011-2012
-16,Aston Villa,38,7,17,14,37,53,-16,38,1.0,,,,,33873.0,Darren Bent - 9,Shay Given,,2011-2012
-17,QPR,38,10,7,21,43,66,-23,37,0.97,,,,,17295.0,Heiðar Helguson - 8,Paddy Kenny,,2011-2012
-18,Bolton,38,10,6,22,46,77,-31,36,0.95,,,,,23670.0,Ivan Klasnić - 8,Ádám Bogdán,Relegated,2011-2012
-19,Blackburn,38,8,7,23,48,78,-30,31,0.82,,,,,22551.0,Yakubu Aiyegbeni - 17,Paul Robinson,Relegated,2011-2012
-20,Wolves,38,5,10,23,40,82,-42,25,0.66,,,,,25682.0,Steven Fletcher - 12,Wayne Hennessey,Relegated,2011-2012
-1,Manchester United,38,23,11,4,78,37,41,80,2.11,,,,,75109.0,Dimitar Berbatov - 20,Edwin van der Sar,→ Champions League via league finish,2010-2011
-2,Chelsea,38,21,8,9,69,33,36,71,1.87,,,,,41435.0,Florent Malouda - 13,Petr Čech,→ Champions League via league finish,2010-2011
-3,Manchester City,38,21,8,9,60,33,27,71,1.87,,,,,45880.0,Carlos Tevez - 20,Joe Hart,→ Champions League via league finish,2010-2011
-4,Arsenal,38,19,11,8,72,43,29,68,1.79,,,,,60025.0,Robin van Persie - 18,Wojciech Szczęsny,→ Champions League via league finish,2010-2011
-5,Tottenham,38,16,14,8,55,46,9,62,1.63,,,,,35704.0,Rafael van der Vaart - 13,Heurelho Gomes,→ Europa League via league finish,2010-2011
-6,Liverpool,38,17,7,14,59,44,15,58,1.53,,,,,42820.0,Dirk Kuyt - 13,Pepe Reina,,2010-2011
-7,Everton,38,13,15,10,51,45,6,54,1.42,,,,,36039.0,Tim Cahill - 9,Tim Howard,,2010-2011
-8,Fulham,38,11,16,11,49,43,6,49,1.29,,,,,25043.0,Clint Dempsey - 12,Mark Schwarzer,→ Europa League 1,2010-2011
-9,Aston Villa,38,12,12,14,48,59,-11,48,1.26,,,,,37194.0,Darren Bent - 9,Brad Friedel,,2010-2011
-10,Sunderland,38,12,11,15,45,56,-11,47,1.24,,,,,40011.0,Asamoah Gyan - 10,Simon Mignolet,,2010-2011
-11,West Brom,38,12,11,15,56,71,-15,47,1.24,,,,,24683.0,Peter Odemwingie - 15,Scott Carson,,2010-2011
-12,Newcastle United,38,11,13,14,56,57,-1,46,1.21,,,,,47718.0,Kevin Nolan - 12,Tim Krul,,2010-2011
-13,Stoke City,38,13,7,18,46,48,-2,46,1.21,,,,,26858.0,Kenwyne Jones - 9,Asmir Begović,→ Europa League via cup loss 2,2010-2011
-14,Bolton,38,12,10,16,52,56,-4,46,1.21,,,,,22870.0,Johan Elmander - 10,Jussi Jääskeläinen,,2010-2011
-15,Blackburn,38,11,10,17,46,59,-13,43,1.13,,,,,25000.0,"Nikola Kalinić, Junior Hoilett... - 5",Paul Robinson,,2010-2011
-16,Wigan Athletic,38,9,15,14,40,61,-21,42,1.11,,,,,16812.0,"Charles N'Zogbia, Hugo Rodallega - 9",Ali Al-Habsi,,2010-2011
-17,Wolves,38,11,7,20,46,66,-20,40,1.05,,,,,27696.0,Steven Fletcher - 10,Wayne Hennessey,,2010-2011
-18,Birmingham City,38,8,15,15,37,58,-21,39,1.03,,,,,25462.0,Craig Gardner - 8,Ben Foster,"Relegated, → Europa League via cup win",2010-2011
-19,Blackpool,38,10,9,19,55,78,-23,39,1.03,,,,,15780.0,DJ Campbell - 13,Richard Kingson,Relegated,2010-2011
-20,West Ham,38,7,12,19,43,70,-27,33,0.87,,,,,35353.0,Demba Ba - 7,Robert Green,Relegated,2010-2011
-1,Chelsea,38,27,5,6,103,32,71,86,2.26,,,,,41423.0,Didier Drogba - 29,Petr Čech,→ Champions League via league finish,2009-2010
-2,Manchester United,38,27,4,7,86,28,58,85,2.24,,,,,74864.0,Wayne Rooney - 26,Edwin van der Sar,→ Champions League via league finish,2009-2010
-3,Arsenal,38,23,6,9,83,41,42,75,1.97,,,,,63256.0,Cesc Fàbregas - 15,Manuel Almunia,→ Champions League via league finish,2009-2010
-4,Tottenham,38,21,7,10,67,41,26,70,1.84,,,,,35794.0,Jermain Defoe - 18,Heurelho Gomes,→ Champions League via league finish,2009-2010
-5,Manchester City,38,18,13,7,73,45,28,67,1.76,,,,,45513.0,Carlos Tevez - 23,Shay Given,→ Europa League via league finish,2009-2010
-6,Aston Villa,38,17,13,8,52,39,13,64,1.68,,,,,38573.0,Gabriel Agbonlahor - 13,Brad Friedel,→ Europa League via league finish 1,2009-2010
-7,Liverpool,38,18,9,11,61,35,26,63,1.66,,,,,42864.0,Fernando Torres - 18,Pepe Reina,→ Europa League via league finish 2,2009-2010
-8,Everton,38,16,13,9,60,49,11,61,1.61,,,,,38765.0,Louis Saha - 13,Tim Howard,,2009-2010
-9,Birmingham City,38,13,11,14,38,47,-9,50,1.32,,,,,25246.0,Cameron Jerome - 11,Joe Hart,,2009-2010
-10,Blackburn,38,13,11,14,41,55,-14,50,1.32,,,,,25428.0,David Dunn - 9,Paul Robinson,,2009-2010
-11,Stoke City,38,11,14,13,34,48,-14,47,1.24,,,,,30358.0,Matthew Etherington - 5,Thomas Sørensen,,2009-2010
-12,Fulham,38,12,10,16,39,46,-7,46,1.21,,,,,23909.0,Bobby Zamora - 8,Mark Schwarzer,,2009-2010
-13,Sunderland,38,11,11,16,48,56,-8,44,1.16,,,,,40510.0,Darren Bent - 24,Craig Gordon,,2009-2010
-14,Bolton,38,10,9,19,42,67,-25,39,1.03,,,,,21881.0,"Ivan Klasnić, Matthew Taylor - 8",Jussi Jääskeläinen,,2009-2010
-15,Wolves,38,9,11,18,32,56,-24,38,1.0,,,,,28366.0,Kevin Doyle - 9,Marcus Hahnemann,,2009-2010
-16,Wigan Athletic,38,9,9,20,37,79,-42,36,0.95,,,,,18006.0,Hugo Rodallega - 10,Chris Kirkland,,2009-2010
-17,West Ham,38,8,11,19,47,66,-19,35,0.92,,,,,33683.0,Carlton Cole - 10,Robert Green,,2009-2010
-18,Burnley,38,8,6,24,42,82,-40,30,0.79,,,,,21801.0,Steven Fletcher - 8,Brian Jensen,Relegated,2009-2010
-19,Hull City,38,6,12,20,34,75,-41,30,0.79,,,,,25745.0,Stephen Hunt - 6,Boaz Myhill,Relegated,2009-2010
-20,Portsmouth,38,7,7,24,34,66,-32,19,0.5,,,,,18249.0,Aruna Dindane - 8,David James,"9-point deduction 3, Relegated",2009-2010
-1,Manchester United,38,28,6,4,68,24,44,90,2.37,,,,,95385.0,Cristiano Ronaldo - 18,Edwin van der Sar,→ Champions League via league finish,2008-2009
-2,Liverpool,38,25,11,2,77,27,50,86,2.26,,,,,75328.0,Steven Gerrard - 16,Pepe Reina,→ Champions League via league finish,2008-2009
-3,Chelsea,38,25,8,5,68,24,44,83,2.18,,,,,79017.0,Nicolas Anelka - 19,Petr Čech,→ Champions League via league finish,2008-2009
-4,Arsenal,38,20,12,6,68,37,31,72,1.89,,,,,95063.0,Robin van Persie - 11,Manuel Almunia,→ Champions League via league finish,2008-2009
-5,Everton,38,17,12,9,55,37,18,63,1.66,,,,,56473.0,"Marouane Fellaini, Tim Cahill - 8",Tim Howard,→ Europa League via league finish,2008-2009
-6,Aston Villa,38,17,11,10,54,48,6,62,1.63,,,,,68766.0,"Gabriel Agbonlahor, John Carew - 11",Brad Friedel,→ Europa League via league finish 1,2008-2009
-7,Fulham,38,14,11,13,39,34,5,53,1.39,,,,,42042.0,"Andrew Johnson, Clint Dempsey - 7",Mark Schwarzer,→ Europa League via league finish 2,2008-2009
-8,Tottenham,38,14,9,15,45,45,0,51,1.34,,,,,68265.0,Darren Bent - 12,Heurelho Gomes,,2008-2009
-9,West Ham,38,14,9,15,42,45,-3,51,1.34,,,,,50024.0,Carlton Cole - 10,Robert Green,,2008-2009
-10,Manchester City,38,15,5,18,58,50,8,50,1.32,,,,,68340.0,Robinho - 14,Joe Hart,,2008-2009
-11,Wigan Athletic,38,12,9,17,34,45,-11,45,1.18,,,,,29054.0,Amr Zaki - 10,Chris Kirkland,,2008-2009
-12,Stoke City,38,12,9,17,38,55,-17,45,1.18,,,,,42687.0,Ricardo Fuller - 11,Thomas Sørensen,,2008-2009
-13,Bolton,38,11,8,19,41,53,-12,41,1.08,,,,,28482.0,Kevin Davies - 12,Jussi Jääskeläinen,,2008-2009
-14,Portsmouth,38,10,11,17,38,57,-19,41,1.08,,,,,37677.0,Peter Crouch - 10,David James,,2008-2009
-15,Blackburn,38,10,11,17,40,60,-20,41,1.08,,,,,27884.0,Benni McCarthy - 10,Paul Robinson,,2008-2009
-16,Sunderland,38,9,9,20,34,54,-20,36,0.95,,,,,69372.0,"Kenwyne Jones, Djibril Cissé - 10",Márton Fülöp,,2008-2009
-17,Hull City,38,8,11,19,39,64,-25,35,0.92,,,,,39292.0,Geovanni - 8,Boaz Myhill,,2008-2009
-18,Newcastle United,38,7,13,18,40,59,-19,34,0.89,,,,,84205.0,"Obafemi Martins, Michael Owen - 8",Shay Given,Relegated,2008-2009
-19,Middlesbrough,38,7,11,20,28,57,-29,32,0.84,,,,,45013.0,Tuncay Şanlı - 7,Ross Turnbull,Relegated,2008-2009
-20,West Brom,38,8,8,22,36,67,-31,32,0.84,,,,,44612.0,Chris Brunt - 9,Scott Carson,Relegated,2008-2009
-1,Manchester United,38,27,6,5,80,22,58,87,2.29,,,,,719065.0,Cristiano Ronaldo - 31,Edwin van der Sar,→ Champions League via Champions League win,2007-2008
-2,Chelsea,38,25,10,3,65,26,39,85,2.24,,,,,786543.0,Frank Lampard - 10,Petr Čech,→ Champions League via league finish,2007-2008
-3,Arsenal,38,24,11,3,74,31,43,83,2.18,,,,,,Emmanuel Adebayor - 24,Manuel Almunia,→ Champions League via league finish,2007-2008
-4,Liverpool,38,21,13,4,67,28,39,76,2.0,,,,,,Fernando Torres - 24,Pepe Reina,→ Champions League via league finish,2007-2008
-5,Everton,38,19,8,11,55,33,22,65,1.71,,,,,,Yakubu Aiyegbeni - 15,Tim Howard,→ UEFA Cup via league finish,2007-2008
-6,Aston Villa,38,16,12,10,71,51,20,60,1.58,,,,,,John Carew - 13,Scott Carson,→ UEFA Intertoto Cup via league finish,2007-2008
-7,Blackburn,38,15,13,10,50,48,2,58,1.53,,,,,454936.0,Roque Santa Cruz - 19,Brad Friedel,,2007-2008
-8,Portsmouth,38,16,9,13,48,40,8,57,1.5,,,,,,Benjani - 12,David James,→ UEFA Cup via cup win 1,2007-2008
-9,Manchester City,38,15,10,13,45,53,-8,55,1.45,,,,,,Elano - 8,Joe Hart,→ UEFA Cup 2,2007-2008
-10,West Ham,38,13,10,15,42,50,-8,49,1.29,,,,,,Dean Ashton - 10,Robert Green,,2007-2008
-11,Tottenham,38,11,13,14,66,61,5,46,1.21,,,,,,"Dimitar Berbatov, Robbie Keane - 15",Paul Robinson,→ UEFA Cup via cup win 3,2007-2008
-12,Newcastle United,38,11,10,17,45,65,-20,43,1.13,,,,,,Michael Owen - 11,Steve Harper,,2007-2008
-13,Middlesbrough,38,10,12,16,43,53,-10,42,1.11,,,,,,Stewart Downing - 9,Mark Schwarzer,,2007-2008
-14,Wigan Athletic,38,10,10,18,34,51,-17,40,1.05,,,,,,Marcus Bent - 7,Chris Kirkland,,2007-2008
-15,Sunderland,38,11,6,21,36,59,-23,39,1.03,,,,,,Kenwyne Jones - 7,Craig Gordon,,2007-2008
-16,Bolton,38,9,10,19,36,54,-18,37,0.97,,,,,,Nicolas Anelka - 10,Jussi Jääskeläinen,,2007-2008
-17,Fulham,38,8,12,18,38,60,-22,36,0.95,,,,,451687.0,Clint Dempsey - 6,Antti Niemi,,2007-2008
-18,Reading,38,10,6,22,41,66,-25,36,0.95,,,,,224058.0,Dave Kitson - 10,Marcus Hahnemann,Relegated,2007-2008
-19,Birmingham City,38,8,11,19,46,62,-16,35,0.92,,,,,,Mikael Forssell - 9,Maik Taylor,Relegated,2007-2008
-20,Derby County,38,1,8,29,20,89,-69,11,0.29,,,,,205403.0,Kenny Miller - 4,Stephen Bywater,Relegated,2007-2008
-1,Manchester United,38,28,5,5,83,27,56,89,2.34,,,,,75821.0,Cristiano Ronaldo - 17,Edwin van der Sar,→ Champions League via league finish,2006-2007
-2,Chelsea,38,24,11,3,64,24,40,83,2.18,,,,,41551.0,Didier Drogba - 20,Petr Čech,→ Champions League via league finish,2006-2007
-3,Liverpool,38,20,8,10,57,27,30,68,1.79,,,,,44801.0,Dirk Kuyt - 12,Pepe Reina,→ Champions League via league finish,2006-2007
-4,Arsenal,38,19,11,8,63,35,28,68,1.79,,,,,60046.0,Robin van Persie - 11,Jens Lehmann,→ Champions League via league finish,2006-2007
-5,Tottenham,38,17,9,12,57,54,3,60,1.58,,,,,35803.0,Dimitar Berbatov - 12,Paul Robinson,→ UEFA Cup via league finish,2006-2007
-6,Everton,38,15,13,10,52,36,16,58,1.53,,,,,36739.0,Andrew Johnson - 11,Tim Howard,→ UEFA Cup via league finish 1,2006-2007
-7,Bolton,38,16,8,14,47,52,-5,56,1.47,,,,,23586.0,Nicolas Anelka - 11,Jussi Jääskeläinen,→ UEFA Cup via league finish 2,2006-2007
-8,Reading,38,16,7,15,52,47,5,55,1.45,,,,,23764.0,Kevin Doyle - 13,Marcus Hahnemann,,2006-2007
-9,Portsmouth,38,14,12,12,45,42,3,54,1.42,,,,,19843.0,Nwankwo Kanu - 10,David James,,2006-2007
-10,Blackburn,38,15,7,16,52,54,-2,52,1.37,,,,,21262.0,Benni McCarthy - 18,Brad Friedel,→ UEFA Intertoto Cup via league finish,2006-2007
-11,Aston Villa,38,11,17,10,43,41,2,50,1.32,,,,,36238.0,Gabriel Agbonlahor - 9,Thomas Sørensen,,2006-2007
-12,Middlesbrough,38,12,10,16,44,49,-5,46,1.21,,,,,27729.0,Mark Viduka - 14,Mark Schwarzer,,2006-2007
-13,Newcastle United,38,11,10,17,38,47,-9,43,1.13,,,,,50974.0,Obafemi Martins - 11,Shay Given,,2006-2007
-14,Manchester City,38,11,9,18,29,44,-15,42,1.11,,,,,39988.0,Joey Barton - 6,Nicky Weaver,,2006-2007
-15,West Ham,38,12,5,21,35,59,-24,41,1.08,,,,,34586.0,Bobby Zamora - 11,Robert Green,,2006-2007
-16,Fulham,38,8,15,15,38,60,-22,39,1.03,,,,,22241.0,Brian McBride - 9,Antti Niemi,,2006-2007
-17,Wigan Athletic,38,10,8,20,37,59,-22,38,1.0,,,,,18437.0,Emile Heskey - 8,Chris Kirkland,,2006-2007
-18,Sheffield United,38,10,8,20,32,55,-23,38,1.0,,,,,30680.0,Robert Hulse - 8,Paddy Kenny,Relegated,2006-2007
-19,Charlton Ath,38,8,10,20,34,60,-26,34,0.89,,,,,26195.0,Darren Bent - 13,Scott Carson,Relegated,2006-2007
-20,Watford,38,5,13,20,29,59,-30,28,0.74,,,,,18892.0,Hameur Bouazza - 5,Ben Foster,Relegated,2006-2007
-1,Chelsea,38,29,4,5,72,22,50,91,2.39,,,,,41859.0,Frank Lampard - 16,Petr Čech,→ Champions League via league finish,2005-2006
-2,Manchester United,38,25,8,5,72,34,38,83,2.18,,,,,68765.0,Ruud van Nistelrooy - 21,Edwin van der Sar,→ Champions League via league finish,2005-2006
-3,Liverpool,38,25,7,6,57,25,32,82,2.16,,,,,44897.0,Steven Gerrard - 10,Pepe Reina,→ Champions League via league finish,2005-2006
-4,Arsenal,38,20,7,11,68,31,37,67,1.76,,,,,38184.0,Thierry Henry - 27,Jens Lehmann,→ Champions League via league finish,2005-2006
-5,Tottenham,38,18,11,9,53,38,15,65,1.71,,,,,36036.0,Robbie Keane - 16,Paul Robinson,→ UEFA Cup via league finish,2005-2006
-6,Blackburn,38,19,6,13,51,42,9,63,1.66,,,,,21015.0,Craig Bellamy - 13,Brad Friedel,→ UEFA Cup via league finish 1,2005-2006
-7,Newcastle United,38,17,7,14,47,42,5,58,1.53,,,,,52134.0,Alan Shearer - 10,Shay Given,→ UEFA Intertoto Cup via league finish,2005-2006
-8,Bolton,38,15,11,12,49,41,8,56,1.47,,,,,25201.0,"Stelios Giannakopoulos, Kevin Nolan - 9",Jussi Jääskeläinen,,2005-2006
-9,West Ham,38,16,7,15,52,55,-3,55,1.45,,,,,33225.0,Marlon Harewood - 14,Roy Carroll,→ UEFA Cup via cup loss 2,2005-2006
-10,Wigan Athletic,38,15,6,17,45,52,-7,51,1.34,,,,,20886.0,Henri Camara - 12,Mike Pollitt,,2005-2006
-11,Everton,38,14,8,16,34,49,-15,50,1.32,,,,,36857.0,James Beattie - 10,Nigel Martyn,,2005-2006
-12,Fulham,38,14,6,18,48,58,-10,48,1.26,,,,,20662.0,Collins John - 11,Tony Warner,,2005-2006
-13,Charlton Ath,38,13,8,17,41,55,-14,47,1.24,,,,,26171.0,Darren Bent - 18,Thomas Myhre,,2005-2006
-14,Middlesbrough,38,12,9,17,48,58,-10,45,1.18,,,,,28467.0,Yakubu Aiyegbeni - 13,Mark Schwarzer,,2005-2006
-15,Manchester City,38,13,4,21,43,48,-5,43,1.13,,,,,42856.0,Andy Cole - 9,David James,,2005-2006
-16,Aston Villa,38,10,12,16,42,55,-13,42,1.11,,,,,34112.0,"Milan Baroš, Luke Moore - 8",Thomas Sørensen,,2005-2006
-17,Portsmouth,38,10,8,20,37,62,-25,38,1.0,,,,,19868.0,Lomana LuaLua - 7,Jamie Ashdown,,2005-2006
-18,Birmingham City,38,8,10,20,28,50,-22,34,0.89,,,,,27390.0,Jiří Jarošík - 5,Maik Taylor,Relegated,2005-2006
-19,West Brom,38,7,9,22,31,58,-27,30,0.79,,,,,25203.0,"Nathan Ellington, Nwankwo Kanu - 5",Tomasz Kuszczak,Relegated,2005-2006
-20,Sunderland,38,3,6,29,26,69,-43,15,0.39,,,,,33904.0,"Liam Lawrence, Anthony Le Tallec... - 3",Kelvin Davis,Relegated,2005-2006
-1,Chelsea,38,29,8,1,72,15,57,95,2.5,,,,,41907.0,Frank Lampard - 13,Petr Čech,→ Champions League via league finish,2004-2005
-2,Arsenal,38,25,8,5,87,36,51,83,2.18,,,,,37979.0,Thierry Henry - 25,Jens Lehmann,→ Champions League via league finish,2004-2005
-3,Manchester United,38,22,11,5,58,26,32,77,2.03,,,,,67871.0,Wayne Rooney - 11,Roy Carroll,→ Champions League via league finish,2004-2005
-4,Everton,38,18,7,13,45,46,-1,61,1.61,,,,,36819.0,Tim Cahill - 11,Nigel Martyn,→ Champions League via league finish,2004-2005
-5,Liverpool,38,17,7,14,52,41,11,58,1.53,,,,,42550.0,Milan Baroš - 9,Jerzy Dudek,→ Champions League 1,2004-2005
-6,Bolton,38,16,10,12,49,44,5,58,1.53,,,,,25953.0,El Hadji Diouf - 9,Jussi Jääskeläinen,→ UEFA Cup via league finish 2,2004-2005
-7,Middlesbrough,38,14,13,11,53,46,7,55,1.45,,,,,31938.0,Jimmy Floyd Hasselbaink - 13,Mark Schwarzer,→ UEFA Cup via league finish 3,2004-2005
-8,Manchester City,38,13,13,12,47,39,8,52,1.37,,,,,45259.0,Robbie Fowler - 11,David James,,2004-2005
-9,Tottenham,38,14,10,14,47,41,6,52,1.37,,,,,35931.0,Jermain Defoe - 13,Paul Robinson,,2004-2005
-10,Aston Villa,38,12,11,15,45,52,-7,47,1.24,,,,,37354.0,Nolberto Solano - 8,Thomas Sørensen,,2004-2005
-11,Charlton Ath,38,12,10,16,42,58,-16,46,1.21,,,,,26384.0,Shaun Bartlett - 6,Dean Kiely,,2004-2005
-12,Birmingham City,38,11,12,15,40,46,-6,45,1.18,,,,,28760.0,Emile Heskey - 10,Maik Taylor,,2004-2005
-13,Fulham,38,12,8,18,52,60,-8,44,1.16,,,,,19839.0,Andy Cole - 12,Edwin van der Sar,,2004-2005
-14,Newcastle United,38,10,14,14,47,57,-10,44,1.16,,,,,51846.0,"Craig Bellamy, Alan Shearer - 7",Shay Given,→ UEFA Intertoto Cup via league finish,2004-2005
-15,Blackburn,38,9,15,14,32,43,-11,42,1.11,,,,,22315.0,Paul Dickov - 9,Brad Friedel,,2004-2005
-16,Portsmouth,38,10,9,19,43,59,-16,39,1.03,,,,,20087.0,Yakubu Aiyegbeni - 13,Shaka Hislop,,2004-2005
-17,West Brom,38,6,16,16,36,61,-25,34,0.89,,,,,26044.0,Robert Earnshaw - 11,Russell Hoult,,2004-2005
-18,Crystal Palace,38,7,12,19,41,62,-21,33,0.87,,,,,24192.0,Andrew Johnson - 21,Gábor Király,Relegated,2004-2005
-19,Norwich City,38,7,12,19,42,77,-35,33,0.87,,,,,24350.0,"Damien Francis, Dean Ashton... - 7",Robert Green,Relegated,2004-2005
-20,Southampton,38,6,14,18,45,66,-21,32,0.84,,,,,30610.0,Peter Crouch - 12,Antti Niemi,Relegated,2004-2005
-1,Arsenal,38,26,12,0,73,26,47,90,2.37,,,,,38079.0,Thierry Henry - 30,Jens Lehmann,→ Champions League via league finish,2003-2004
-2,Chelsea,38,24,7,7,67,30,37,79,2.08,,,,,41272.0,Jimmy Floyd Hasselbaink - 12,Carlo Cudicini,→ Champions League via league finish,2003-2004
-3,Manchester United,38,23,6,9,64,35,29,75,1.97,,,,,67641.0,Ruud van Nistelrooy - 20,Tim Howard,→ Champions League via league finish,2003-2004
-4,Liverpool,38,16,12,10,55,37,18,60,1.58,,,,,42677.0,Michael Owen - 16,Jerzy Dudek,→ Champions League via league finish,2003-2004
-5,Newcastle United,38,13,17,8,52,40,12,56,1.47,,,,,51966.0,Alan Shearer - 22,Shay Given,→ UEFA Cup via league finish,2003-2004
-6,Aston Villa,38,15,11,12,48,44,4,56,1.47,,,,,36622.0,Juan Pablo Ángel - 16,Thomas Sørensen,,2003-2004
-7,Charlton Ath,38,14,11,13,51,51,0,53,1.39,,,,,26278.0,Jason Euell - 10,Dean Kiely,,2003-2004
-8,Bolton,38,14,11,13,48,56,-8,53,1.39,,,,,26718.0,"Kevin Davies, Kevin Nolan... - 9",Jussi Jääskeläinen,,2003-2004
-9,Fulham,38,14,10,14,52,46,6,52,1.37,,,,,16240.0,Louis Saha - 13,Edwin van der Sar,,2003-2004
-10,Birmingham City,38,12,14,12,43,48,-5,50,1.32,,,,,29078.0,Mikael Forssell - 17,Maik Taylor,,2003-2004
-11,Middlesbrough,38,13,9,16,44,52,-8,48,1.26,,,,,30395.0,Szilárd Németh - 9,Mark Schwarzer,→ UEFA Cup via cup win 1,2003-2004
-12,Southampton,38,12,11,15,44,45,-1,47,1.24,,,,,31717.0,James Beattie - 14,Antti Niemi,,2003-2004
-13,Portsmouth,38,12,9,17,47,54,-7,45,1.18,,,,,20054.0,Yakubu Aiyegbeni - 16,Shaka Hislop,,2003-2004
-14,Tottenham,38,13,6,19,47,57,-10,45,1.18,,,,,34872.0,Robbie Keane - 14,Kasey Keller,,2003-2004
-15,Blackburn,38,12,8,18,51,59,-8,44,1.16,,,,,24376.0,Andy Cole - 11,Brad Friedel,,2003-2004
-16,Manchester City,38,9,14,15,55,54,1,41,1.08,,,,,46830.0,Nicolas Anelka - 16,David Seaman,,2003-2004
-17,Everton,38,9,12,17,45,57,-12,39,1.03,,,,,38837.0,Wayne Rooney - 9,Nigel Martyn,,2003-2004
-18,Leicester City,38,6,15,17,48,65,-17,33,0.87,,,,,30983.0,Les Ferdinand - 12,Ian Walker,Relegated,2003-2004
-19,Leeds United,38,8,9,21,40,79,-39,33,0.87,,,,,36666.0,Mark Viduka - 11,Paul Robinson,Relegated,2003-2004
-20,Wolves,38,7,12,19,38,77,-39,33,0.87,,,,,28864.0,Henri Camara - 7,Michael Oakes,Relegated,2003-2004
-1,Manchester United,38,25,8,5,74,34,40,83,2.18,,,,,67602.0,Ruud van Nistelrooy - 25,Fabien Barthez,→ Champions League via league finish,2002-2003
-2,Arsenal,38,23,9,6,85,42,43,78,2.05,,,,,38042.0,Thierry Henry - 24,David Seaman,→ Champions League via league finish,2002-2003
-3,Newcastle United,38,21,6,11,63,48,15,69,1.82,,,,,51923.0,Alan Shearer - 17,Shay Given,→ Champions League via league finish,2002-2003
-4,Chelsea,38,19,10,9,68,38,30,67,1.76,,,,,39784.0,Gianfranco Zola - 14,Carlo Cudicini,→ Champions League via league finish,2002-2003
-5,Liverpool,38,18,10,10,61,41,20,64,1.68,,,,,43243.0,Michael Owen - 19,Jerzy Dudek,→ UEFA Cup via league finish,2002-2003
-6,Blackburn,38,16,12,10,52,43,9,60,1.58,,,,,26226.0,Damien Duff - 9,Brad Friedel,→ UEFA Cup via league finish 1,2002-2003
-7,Everton,38,17,8,13,48,49,-1,59,1.55,,,,,38504.0,Tomasz Radzinski - 11,Richard Wright,,2002-2003
-8,Southampton,38,13,13,12,43,46,-3,52,1.37,,,,,30680.0,James Beattie - 23,Antti Niemi,→ UEFA Cup via cup loss 2,2002-2003
-9,Manchester City,38,15,6,17,47,54,-7,51,1.34,,,,,34565.0,Nicolas Anelka - 14,Peter Schmeichel,→ UEFA Cup 3,2002-2003
-10,Tottenham,38,14,8,16,51,62,-11,50,1.32,,,,,35897.0,Robbie Keane - 13,Kasey Keller,,2002-2003
-11,Middlesbrough,38,13,10,15,48,44,4,49,1.29,,,,,31025.0,Massimo Maccarone - 9,Mark Schwarzer,,2002-2003
-12,Charlton Ath,38,14,7,17,45,56,-11,49,1.29,,,,,26258.0,Jason Euell - 10,Dean Kiely,,2002-2003
-13,Birmingham City,38,13,9,16,41,49,-8,48,1.26,,,,,28831.0,Clinton Morrison - 6,Nico Vaesen,,2002-2003
-14,Fulham,38,13,9,16,41,50,-9,48,1.26,,,,,16707.0,Steed Malbranque - 6,Edwin van der Sar,,2002-2003
-15,Leeds United,38,14,5,19,58,57,1,47,1.24,,,,,39120.0,Mark Viduka - 20,Paul Robinson,,2002-2003
-16,Aston Villa,38,12,9,17,42,47,-5,45,1.18,,,,,34975.0,Dion Dublin - 10,Peter Enckelman,,2002-2003
-17,Bolton,38,10,14,14,41,51,-10,44,1.16,,,,,25012.0,"Youri Djorkaeff, Jay-Jay Okocha... - 7",Jussi Jääskeläinen,,2002-2003
-18,West Ham,38,10,12,16,42,59,-17,42,1.11,,,,,34432.0,Paolo Di Canio - 9,David James,Relegated,2002-2003
-19,West Brom,38,6,8,24,29,65,-36,26,0.68,,,,,26731.0,"Danny Dichio, Scott Dobie - 5",Russell Hoult,Relegated,2002-2003
-20,Sunderland,38,4,7,27,21,65,-44,19,0.5,,,,,39698.0,Kevin Phillips - 6,Thomas Sørensen,Relegated,2002-2003
-1,Arsenal,38,26,9,3,79,36,43,87,2.29,,,,,38055.0,Thierry Henry - 24,David Seaman,→ Champions League via league finish,2001-2002
-2,Liverpool,38,24,8,6,67,30,37,80,2.11,,,,,43389.0,Michael Owen - 19,Jerzy Dudek,→ Champions League via league finish,2001-2002
-3,Manchester United,38,24,5,9,87,45,42,77,2.03,,,,,67558.0,Ruud van Nistelrooy - 23,Fabien Barthez,→ Champions League via league finish,2001-2002
-4,Newcastle United,38,21,8,9,74,52,22,71,1.87,,,,,51373.0,Alan Shearer - 23,Shay Given,→ Champions League via league finish,2001-2002
-5,Leeds United,38,18,12,8,53,37,16,66,1.74,,,,,39789.0,Robbie Fowler - 12,Nigel Martyn,→ UEFA Cup via league finish,2001-2002
-6,Chelsea,38,17,13,8,66,38,28,64,1.68,,,,,39030.0,Jimmy Floyd Hasselbaink - 23,Carlo Cudicini,→ UEFA Cup via cup loss 1,2001-2002
-7,West Ham,38,15,8,15,48,57,-9,53,1.39,,,,,31569.0,Frédéric Kanouté - 11,David James,,2001-2002
-8,Aston Villa,38,12,14,12,46,47,-1,50,1.32,,,,,35012.0,"Juan Pablo Ángel, Darius Vassell - 12",Peter Schmeichel,→ UEFA Intertoto Cup via league finish,2001-2002
-9,Tottenham,38,14,8,16,49,53,-4,50,1.32,,,,,35001.0,"Gus Poyet, Teddy Sheringham - 10",Neil Sullivan,,2001-2002
-10,Blackburn,38,12,10,16,55,51,4,46,1.21,,,,,25976.0,Matt Jansen - 10,Brad Friedel,→ UEFA Cup via cup win 2,2001-2002
-11,Southampton,38,12,9,17,46,54,-8,45,1.18,,,,,30633.0,Marians Pahars - 14,Paul Jones,,2001-2002
-12,Middlesbrough,38,12,9,17,35,47,-12,45,1.18,,,,,28461.0,Alen Bokšić - 8,Mark Schwarzer,,2001-2002
-13,Fulham,38,10,14,14,36,44,-8,44,1.16,,,,,19343.0,"Barry Hayles, Steed Malbranque... - 8",Edwin van der Sar,→ UEFA Intertoto Cup via league finish,2001-2002
-14,Charlton Ath,38,10,14,14,38,49,-11,44,1.16,,,,,24165.0,Jason Euell - 11,Dean Kiely,,2001-2002
-15,Everton,38,11,10,17,45,57,-12,43,1.13,,,,,33582.0,"Duncan Ferguson, Tomasz Radzinski - 6",Steve Simonsen,,2001-2002
-16,Bolton,38,9,13,16,44,62,-18,40,1.05,,,,,25098.0,Michael Ricketts - 12,Jussi Jääskeläinen,,2001-2002
-17,Sunderland,38,10,10,18,29,51,-22,40,1.05,,,,,46744.0,Kevin Phillips - 11,Thomas Sørensen,,2001-2002
-18,Ipswich Town,38,9,9,20,41,64,-23,36,0.95,,,,,24420.0,Marcus Bent - 9,Matteo Sereni,"Relegated, → UEFA Cup 3",2001-2002
-19,Derby County,38,8,6,24,33,63,-30,30,0.79,,,,,29816.0,"Malcolm Christie, Fabrizio Ravanelli - 9",Andy Oakes,Relegated,2001-2002
-20,Leicester City,38,5,13,20,30,64,-34,28,0.74,,,,,19913.0,Brian Deane - 6,Ian Walker,Relegated,2001-2002
-1,Manchester United,38,24,8,6,79,31,48,80,2.11,,,,,67490.0,Teddy Sheringham - 15,Fabien Barthez,→ Champions League via league finish,2000-2001
-2,Arsenal,38,20,10,8,63,38,25,70,1.84,,,,,37974.0,Thierry Henry - 17,David Seaman,→ Champions League via league finish,2000-2001
-3,Liverpool,38,20,9,9,71,39,32,69,1.82,,,,,43699.0,Michael Owen - 16,Sander Westerveld,→ Champions League via league finish,2000-2001
-4,Leeds United,38,20,8,10,64,43,21,68,1.79,,,,,38974.0,Mark Viduka - 17,Nigel Martyn,→ UEFA Cup via league finish,2000-2001
-5,Ipswich Town,38,20,6,12,57,42,15,66,1.74,,,,,22459.0,Marcus Stewart - 19,Richard Wright,→ UEFA Cup via league finish 1,2000-2001
-6,Chelsea,38,17,10,11,68,45,23,61,1.61,,,,,34700.0,Jimmy Floyd Hasselbaink - 23,Carlo Cudicini,→ UEFA Cup via league finish 2,2000-2001
-7,Sunderland,38,15,12,11,46,41,5,57,1.5,,,,,46831.0,Kevin Phillips - 14,Thomas Sørensen,,2000-2001
-8,Aston Villa,38,13,15,10,46,43,3,54,1.42,,,,,31521.0,Dion Dublin - 8,David James,→ UEFA Intertoto Cup via league finish,2000-2001
-9,Charlton Ath,38,14,10,14,50,57,-7,52,1.37,,,,,20021.0,Jonatan Johansson - 11,Dean Kiely,,2000-2001
-10,Southampton,38,14,10,14,40,48,-8,52,1.37,,,,,15115.0,James Beattie - 11,Paul Jones,,2000-2001
-11,Newcastle United,38,14,9,15,44,50,-6,51,1.34,,,,,51309.0,"Carl Cort, Nolberto Solano - 6",Shay Given,→ UEFA Intertoto Cup via league finish,2000-2001
-12,Tottenham,38,13,10,15,47,54,-7,49,1.29,,,,,35195.0,Les Ferdinand - 10,Neil Sullivan,,2000-2001
-13,Leicester City,38,14,6,18,39,51,-12,48,1.26,,,,,20452.0,Ade Akinbiyi - 9,Tim Flowers,,2000-2001
-14,Middlesbrough,38,9,15,14,44,44,0,42,1.11,,,,,30748.0,Alen Bokšić - 12,Mark Schwarzer,,2000-2001
-15,West Ham,38,10,12,16,45,50,-5,42,1.11,,,,,26223.0,Frédéric Kanouté - 11,Shaka Hislop,,2000-2001
-16,Everton,38,11,9,18,45,59,-14,42,1.11,,,,,34131.0,Kevin Campbell - 9,Paul Gerrard,,2000-2001
-17,Derby County,38,10,12,16,37,59,-22,42,1.11,,,,,28551.0,Malcolm Christie - 8,Mart Poom,,2000-2001
-18,Manchester City,38,8,10,20,41,65,-24,34,0.89,,,,,34058.0,Paulo Wanchope - 9,Nicky Weaver,Relegated,2000-2001
-19,Coventry City,38,8,10,20,36,63,-27,34,0.89,,,,,20582.0,"Craig Bellamy, Mustapha Hadji... - 6",Chris Kirkland,Relegated,2000-2001
-20,Bradford City,38,5,11,22,30,70,-40,26,0.68,,,,,18511.0,Benito Carbone - 5,Gary Walsh,Relegated,2000-2001
-1,Manchester United,38,28,7,3,97,45,52,91,2.39,,,,,56929.0,Dwight Yorke - 20,Mark Bosnich,→ Champions League via league finish,1999-2000
-2,Arsenal,38,22,7,9,73,43,30,73,1.92,,,,,38033.0,Thierry Henry - 17,David Seaman,→ Champions League via league finish,1999-2000
-3,Leeds United,38,21,6,11,58,43,15,69,1.82,,,,,39022.0,Michael Bridges - 19,Nigel Martyn,→ Champions League via league finish,1999-2000
-4,Liverpool,38,19,10,9,51,30,21,67,1.76,,,,,43268.0,Michael Owen - 11,Sander Westerveld,→ UEFA Cup via league finish,1999-2000
-5,Chelsea,38,18,11,9,53,34,19,65,1.71,,,,,34532.0,"Tore André Flo, Gus Poyet - 10",Ed de Goey,→ UEFA Cup via cup win 1,1999-2000
-6,Aston Villa,38,15,13,10,46,35,11,58,1.53,,,,,31697.0,Dion Dublin - 12,David James,→ UEFA Intertoto Cup via league finish,1999-2000
-7,Sunderland,38,16,10,12,57,56,1,58,1.53,,,,,40540.0,Kevin Phillips - 30,Thomas Sørensen,,1999-2000
-8,Leicester City,38,16,7,15,55,55,0,55,1.45,,,,,20489.0,Tony Cottee - 13,Tim Flowers,→ UEFA Cup via cup win 2,1999-2000
-9,West Ham,38,15,10,13,52,53,-1,55,1.45,,,,,25510.0,Paolo Di Canio - 16,Shaka Hislop,,1999-2000
-10,Tottenham,38,15,8,15,57,49,8,53,1.39,,,,,34928.0,"Chris Armstrong, Steffen Iversen - 14",Ian Walker,,1999-2000
-11,Newcastle United,38,14,10,14,63,54,9,52,1.37,,,,,36163.0,Alan Shearer - 23,Steve Harper,,1999-2000
-12,Middlesbrough,38,14,10,14,46,52,-6,52,1.37,,,,,32518.0,Hámilton Ricard - 12,Mark Schwarzer,,1999-2000
-13,Everton,38,12,14,12,59,49,10,50,1.32,,,,,32185.0,Kevin Campbell - 12,Paul Gerrard,,1999-2000
-14,Coventry City,38,12,8,18,47,54,-7,44,1.16,,,,,20804.0,Robbie Keane - 12,Magnus Hedman,,1999-2000
-15,Southampton,38,12,8,18,45,62,-17,44,1.16,,,,,15340.0,Marians Pahars - 13,Paul Jones,,1999-2000
-16,Derby County,38,9,11,18,44,57,-13,38,1.0,,,,,29351.0,Rory Delap - 8,Mart Poom,,1999-2000
-17,Bradford City,38,9,9,20,38,68,-30,36,0.95,,,,,18030.0,Dean Windass - 10,Matt Clarke,→ UEFA Intertoto Cup via league finish,1999-2000
-18,Wimbledon,38,7,12,19,46,74,-28,33,0.87,,,,,18266.0,"Carl Cort, John Hartson - 9",Neil Sullivan,Relegated,1999-2000
-19,Sheffield Weds,38,8,7,23,38,70,-32,31,0.82,,,,,24568.0,Gilles De Bilde - 10,Pavel Srníček,Relegated,1999-2000
-20,Watford,38,6,6,26,35,77,-42,24,0.63,,,,,19276.0,Heiðar Helguson - 6,Alec Chamberlain,Relegated,1999-2000
-1,Manchester United,38,22,13,3,80,37,43,79,2.08,,,,,55188.0,Dwight Yorke - 18,Peter Schmeichel,→ Champions League via league finish,1998-1999
-2,Arsenal,38,22,12,4,59,17,42,78,2.05,,,,,38024.0,Nicolas Anelka - 17,David Seaman,→ Champions League via league finish,1998-1999
-3,Chelsea,38,20,15,3,57,30,27,75,1.97,,,,,34754.0,Gianfranco Zola - 13,Ed de Goey,→ Champions League via league finish,1998-1999
-4,Leeds United,38,18,13,7,62,34,28,67,1.76,,,,,35807.0,Jimmy Floyd Hasselbaink - 18,Nigel Martyn,→ UEFA Cup via league finish,1998-1999
-5,West Ham,38,16,9,13,46,53,-7,57,1.5,,,,,25639.0,Ian Wright - 9,Shaka Hislop,→ UEFA Intertoto Cup via league finish,1998-1999
-6,Aston Villa,38,15,10,13,51,46,5,55,1.45,,,,,36937.0,Julian Joachim - 14,Michael Oakes,,1998-1999
-7,Liverpool,38,15,9,14,68,49,19,54,1.42,,,,,43321.0,Michael Owen - 18,David James,,1998-1999
-8,Derby County,38,13,13,12,40,45,-5,52,1.37,,,,,29193.0,"Deon Burton, Paulo Wanchope - 9",Russell Hoult,,1998-1999
-9,Middlesbrough,38,12,15,11,48,54,-6,51,1.34,,,,,34386.0,Hámilton Ricard - 15,Mark Schwarzer,,1998-1999
-10,Leicester City,38,12,13,13,40,46,-6,49,1.29,,,,,20469.0,Tony Cottee - 10,Kasey Keller,,1998-1999
-11,Tottenham,38,11,14,13,47,50,-3,47,1.24,,,,,34152.0,Steffen Iversen - 9,Ian Walker,→ UEFA Cup via cup win 1,1998-1999
-12,Sheffield Weds,38,13,7,18,41,42,-1,46,1.21,,,,,26745.0,Benito Carbone - 8,Pavel Srníček,,1998-1999
-13,Newcastle United,38,11,13,14,48,54,-6,46,1.21,,,,,36692.0,Alan Shearer - 14,Shay Given,→ UEFA Cup via cup loss 2,1998-1999
-14,Everton,38,11,10,17,42,47,-5,43,1.13,,,,,36202.0,Kevin Campbell - 9,Thomas Myhre,,1998-1999
-15,Coventry City,38,11,9,18,39,51,-12,42,1.11,,,,,20773.0,Noel Whelan - 10,Magnus Hedman,,1998-1999
-16,Wimbledon,38,10,12,16,40,63,-23,42,1.11,,,,,18243.0,"Jason Euell, Marcus Gayle - 10",Neil Sullivan,,1998-1999
-17,Southampton,38,11,8,19,37,64,-27,41,1.08,,,,,15140.0,"Matt Le Tissier, Egil Østenstad - 7",Paul Jones,,1998-1999
-18,Charlton Ath,38,8,12,18,41,56,-15,36,0.95,,,,,19816.0,Clive Mendonca - 8,Saša Ilić,Relegated,1998-1999
-19,Blackburn,38,7,14,17,38,52,-14,35,0.92,,,,,25761.0,"Ashley Ward, Kevin Gallacher - 5",John Filan,Relegated,1998-1999
-20,Nottingham Forest,38,7,9,22,35,69,-34,30,0.79,,,,,24415.0,Dougie Freedman - 9,Dave Beasant,Relegated,1998-1999
-1,Arsenal,38,23,9,6,68,33,35,78,2.05,,,,,38053.0,Dennis Bergkamp - 16,David Seaman,→ Champions League via league finish,1997-1998
-2,Manchester United,38,23,8,7,73,26,47,77,2.03,,,,,55166.0,Andy Cole - 15,Peter Schmeichel,→ Champions League via league finish,1997-1998
-3,Liverpool,38,18,11,9,68,42,26,65,1.71,,,,,40628.0,Michael Owen - 18,David James,→ UEFA Cup via league finish,1997-1998
-4,Chelsea,38,20,3,15,71,43,28,63,1.66,,,,,33387.0,"Tore André Flo, Gianluca Vialli - 11",Ed de Goey,→ UEFA Cup Winners' Cup,1997-1998
-5,Leeds United,38,17,8,13,57,46,11,59,1.55,,,,,34642.0,Jimmy Floyd Hasselbaink - 16,Nigel Martyn,→ UEFA Cup via league finish,1997-1998
-6,Blackburn,38,16,10,12,57,52,5,58,1.53,,,,,25253.0,Chris Sutton - 18,Tim Flowers,→ UEFA Cup via league finish,1997-1998
-7,Aston Villa,38,17,6,15,49,48,1,57,1.5,,,,,36031.0,Dwight Yorke - 12,Mark Bosnich,→ UEFA Cup 1,1997-1998
-8,West Ham,38,16,8,14,56,57,-1,56,1.47,,,,,25075.0,John Hartson - 15,"Craig Forrest, Luděk Mikloško",,1997-1998
-9,Derby County,38,16,7,15,52,49,3,55,1.45,,,,,29105.0,Paulo Wanchope - 13,Mart Poom,,1997-1998
-10,Leicester City,38,13,14,11,51,41,10,53,1.39,,,,,20615.0,Emile Heskey - 10,Kasey Keller,,1997-1998
-11,Coventry City,38,12,16,10,46,44,2,52,1.37,,,,,19723.0,Dion Dublin - 18,Steve Ogrizovic,,1997-1998
-12,Southampton,38,14,6,18,50,55,-5,48,1.26,,,,,15159.0,"Matt Le Tissier, Egil Østenstad - 11",Paul Jones,,1997-1998
-13,Newcastle United,38,11,11,16,35,44,-9,44,1.16,,,,,36671.0,John Barnes - 6,Shay Given,→ UEFA Cup Winners' Cup via cup win 2,1997-1998
-14,Tottenham,38,11,11,16,44,56,-12,44,1.16,,,,,29144.0,Jürgen Klinsmann - 9,Ian Walker,,1997-1998
-15,Wimbledon,38,10,14,14,34,46,-12,44,1.16,,,,,16666.0,"Efan Ekoku, Jason Euell... - 4",Neil Sullivan,,1997-1998
-16,Sheffield Weds,38,12,8,18,52,67,-15,44,1.16,,,,,28706.0,Paolo Di Canio - 12,Kevin Pressman,,1997-1998
-17,Everton,38,9,13,16,41,56,-15,40,1.05,,,,,35355.0,Duncan Ferguson - 11,Thomas Myhre,,1997-1998
-18,Bolton,38,9,13,16,41,61,-20,40,1.05,,,,,24352.0,Nathan Blake - 12,Keith Branagan,Relegated,1997-1998
-19,Barnsley,38,10,5,23,37,82,-45,35,0.92,,,,,18443.0,Neil Redfearn - 10,David Watson,Relegated,1997-1998
-20,Crystal Palace,38,8,9,21,37,71,-34,33,0.87,,,,,21983.0,Neil Shipperley - 7,Kevin Miller,"Relegated, → UEFA Intertoto Cup",1997-1998
-1,Manchester United,38,21,12,5,76,44,32,75,1.97,,,,,55081.0,Ole Gunnar Solskjær - 18,Peter Schmeichel,→ Champions League via league finish,1996-1997
-2,Newcastle United,38,19,11,8,73,40,33,68,1.79,,,,,36414.0,Alan Shearer - 25,Pavel Srníček,→ Champions League via league finish,1996-1997
-3,Arsenal,38,19,11,8,62,32,30,68,1.79,,,,,37826.0,Ian Wright - 23,David Seaman,→ UEFA Cup via league finish,1996-1997
-4,Liverpool,38,19,11,8,62,37,25,68,1.79,,,,,39774.0,Robbie Fowler - 18,David James,→ UEFA Cup via league finish,1996-1997
-5,Aston Villa,38,17,10,11,47,34,13,61,1.61,,,,,36027.0,Dwight Yorke - 17,Michael Oakes,→ UEFA Cup via league finish,1996-1997
-6,Chelsea,38,16,11,11,58,55,3,59,1.55,,,,,27617.0,Gianluca Vialli - 9,Frode Grodås,→ UEFA Cup Winners' Cup via cup win 1,1996-1997
-7,Sheffield Weds,38,14,15,9,50,51,-1,57,1.5,,,,,25714.0,Andy Booth - 10,Kevin Pressman,,1996-1997
-8,Wimbledon,38,15,11,12,49,46,3,56,1.47,,,,,15138.0,Efan Ekoku - 11,Neil Sullivan,,1996-1997
-9,Leicester City,38,12,11,15,46,54,-8,47,1.24,,,,,20184.0,Steve Claridge - 12,Kasey Keller,→ UEFA Cup via cup win 2,1996-1997
-10,Tottenham,38,13,7,18,44,51,-7,46,1.21,,,,,31067.0,Teddy Sheringham - 7,Ian Walker,,1996-1997
-11,Leeds United,38,11,13,14,28,38,-10,46,1.21,,,,,32118.0,"Brian Deane, Lee Sharpe - 5",Nigel Martyn,,1996-1997
-12,Derby County,38,11,13,14,45,58,-13,46,1.21,,,,,17889.0,Dean Sturridge - 11,Russell Hoult,,1996-1997
-13,Blackburn,38,9,15,14,42,43,-1,42,1.11,,,,,24966.0,Chris Sutton - 11,Tim Flowers,,1996-1997
-14,West Ham,38,10,12,16,39,48,-9,42,1.11,,,,,23209.0,Paul Kitson - 8,Luděk Mikloško,,1996-1997
-15,Everton,38,10,12,16,44,57,-13,42,1.11,,,,,36188.0,Duncan Ferguson - 10,Neville Southall,,1996-1997
-16,Southampton,38,10,11,17,50,56,-6,41,1.08,,,,,15105.0,Matt Le Tissier - 13,Maik Taylor,,1996-1997
-17,Coventry City,38,9,14,15,38,54,-16,41,1.08,,,,,19613.0,Dion Dublin - 13,Steve Ogrizovic,,1996-1997
-18,Sunderland,38,10,10,18,35,53,-18,40,1.05,,,,,20974.0,Craig Russell - 5,Lionel Pérez,Relegated,1996-1997
-19,Middlesbrough,38,10,12,16,51,60,-9,39,1.03,,,,,29871.0,Fabrizio Ravanelli - 16,Gary Walsh,"3-point deduction 3, Relegated",1996-1997
-20,Nottingham Forest,38,6,16,16,31,59,-28,34,0.89,,,,,24588.0,"Kevin Campbell, Alf-Inge Haaland - 6",Mark Crossley,Relegated,1996-1997
-1,Manchester United,38,25,7,6,73,35,38,82,2.16,,,,,41681.0,Eric Cantona - 14,Peter Schmeichel,→ Champions League via league finish,1995-1996
-2,Newcastle United,38,24,6,8,66,37,29,78,2.05,,,,,36505.0,Les Ferdinand - 25,Shaka Hislop,→ UEFA Cup via league finish,1995-1996
-3,Liverpool,38,20,11,7,70,34,36,71,1.87,,,,,39553.0,Robbie Fowler - 28,David James,→ UEFA Cup Winners' Cup via cup win 1,1995-1996
-4,Aston Villa,38,18,9,11,52,35,17,63,1.66,,,,,32772.0,Dwight Yorke - 17,Mark Bosnich,→ UEFA Cup via league finish,1995-1996
-5,Arsenal,38,17,12,9,49,32,17,63,1.66,,,,,37568.0,Ian Wright - 15,David Seaman,→ UEFA Cup via league finish 2,1995-1996
-6,Everton,38,17,10,11,64,44,20,61,1.61,,,,,35424.0,Andrei Kanchelskis - 16,Neville Southall,,1995-1996
-7,Blackburn,38,18,7,13,61,47,14,61,1.61,,,,,27552.0,Alan Shearer - 31,Tim Flowers,,1995-1996
-8,Tottenham,38,16,13,9,50,38,12,61,1.61,,,,,30548.0,Teddy Sheringham - 16,Ian Walker,,1995-1996
-9,Nottingham Forest,38,15,13,10,50,54,-4,58,1.53,,,,,25916.0,"Jason Lee, Bryan Roy... - 8",Mark Crossley,,1995-1996
-10,West Ham,38,14,9,15,43,52,-9,51,1.34,,,,,22317.0,"Tony Cottee, Julian Dicks - 10",Luděk Mikloško,,1995-1996
-11,Chelsea,38,12,14,12,46,44,2,50,1.32,,,,,25581.0,John Spencer - 13,Dmitri Kharine,,1995-1996
-12,Middlesbrough,38,11,10,17,35,50,-15,43,1.13,,,,,29257.0,Nick Barmby - 7,Gary Walsh,,1995-1996
-13,Leeds United,38,12,7,19,40,57,-17,43,1.13,,,,,32629.0,Tony Yeboah - 12,John Lukic,,1995-1996
-14,Wimbledon,38,10,11,17,55,70,-15,41,1.08,,,,,13230.0,Robbie Earle - 11,Paul Heald,,1995-1996
-15,Sheffield Weds,38,10,10,18,48,61,-13,40,1.05,,,,,24877.0,David Hirst - 13,Kevin Pressman,,1995-1996
-16,Coventry City,38,8,14,16,42,60,-18,38,1.0,,,,,18528.0,Dion Dublin - 14,Steve Ogrizovic,,1995-1996
-17,Southampton,38,9,11,18,34,52,-18,38,1.0,,,,,14822.0,"Matt Le Tissier, Neil Shipperley - 7",Dave Beasant,,1995-1996
-18,Manchester City,38,9,11,18,33,58,-25,38,1.0,,,,,27941.0,Uwe Rösler - 9,Eike Immel,Relegated,1995-1996
-19,QPR,38,9,6,23,38,57,-19,33,0.87,,,,,15672.0,Danny Dichio - 10,Juergen Sommer,Relegated,1995-1996
-20,Bolton,38,8,5,25,39,71,-32,29,0.76,,,,,18823.0,John McGinlay - 6,Keith Branagan,Relegated,1995-1996
-1,Blackburn,42,27,8,7,80,39,41,89,2.12,,,,,25271.0,Alan Shearer - 34,Tim Flowers,→ Champions League via league finish,1994-1995
-2,Manchester United,42,26,10,6,77,29,48,88,2.1,,,,,42763.0,Andrei Kanchelskis - 14,Peter Schmeichel,→ UEFA Cup via league finish,1994-1995
-3,Nottingham Forest,42,22,11,9,72,43,29,77,1.83,,,,,24136.0,Stan Collymore - 22,Mark Crossley,→ UEFA Cup via league finish,1994-1995
-4,Liverpool,42,21,11,10,65,37,28,74,1.76,,,,,33805.0,Robbie Fowler - 25,David James,→ UEFA Cup via league finish,1994-1995
-5,Leeds United,42,20,13,9,59,38,21,73,1.74,,,,,32852.0,Tony Yeboah - 12,John Lukic,→ UEFA Cup via league finish 1,1994-1995
-6,Newcastle United,42,20,12,10,67,47,20,72,1.71,,,,,34552.0,Peter Beardsley - 12,Pavel Srníček,,1994-1995
-7,Tottenham,42,16,14,12,66,58,8,62,1.48,,,,,26245.0,Jürgen Klinsmann - 20,Ian Walker,,1994-1995
-8,QPR,42,17,9,16,61,59,2,60,1.43,,,,,15115.0,Les Ferdinand - 24,Tony Roberts,,1994-1995
-9,Wimbledon,42,15,11,16,48,65,-17,56,1.33,,,,,12359.0,Efan Ekoku - 9,Hans Segers,,1994-1995
-10,Southampton,42,12,18,12,61,63,-2,54,1.29,,,,,15978.0,Matt Le Tissier - 19,Bruce Grobbelaar,,1994-1995
-11,Chelsea,42,13,15,14,50,55,-5,54,1.29,,,,,21062.0,John Spencer - 11,Dmitri Kharine,,1994-1995
-12,Arsenal,42,13,12,17,53,49,4,51,1.21,,,,,35330.0,Ian Wright - 18,David Seaman,,1994-1995
-13,Sheffield Weds,42,13,12,17,49,57,-8,51,1.21,,,,,26451.0,Mark Bright - 11,Kevin Pressman,,1994-1995
-14,West Ham,42,13,11,18,44,48,-4,50,1.19,,,,,20406.0,Tony Cottee - 13,Luděk Mikloško,,1994-1995
-15,Everton,42,11,17,14,44,51,-7,50,1.19,,,,,31035.0,Paul Rideout - 14,Neville Southall,→ UEFA Cup Winners' Cup via cup win 2,1994-1995
-16,Coventry City,42,12,14,16,44,62,-18,50,1.19,,,,,15955.0,Dion Dublin - 13,Steve Ogrizovic,,1994-1995
-17,Manchester City,42,12,13,17,53,64,-11,49,1.17,,,,,21883.0,Uwe Rösler - 15,Tony Coton,,1994-1995
-18,Aston Villa,42,11,15,16,51,56,-5,48,1.14,,,,,29761.0,Dean Saunders - 15,Mark Bosnich,,1994-1995
-19,Crystal Palace,42,11,12,19,34,49,-15,45,1.07,,,,,14802.0,Chris Armstrong - 8,Nigel Martyn,Relegated,1994-1995
-20,Norwich City,42,10,13,19,37,54,-17,43,1.02,,,,,20079.0,Ashley Ward - 8,Bryan Gunn,Relegated,1994-1995
-21,Leicester City,42,6,11,25,45,80,-35,29,0.69,,,,,20882.0,Iwan Roberts - 9,Kevin Poole,Relegated,1994-1995
-22,Ipswich Town,42,7,6,29,36,93,-57,27,0.64,,,,,16918.0,Claus Thomsen - 5,Craig Forrest,Relegated,1994-1995
-1,Manchester United,42,27,11,4,80,38,42,92,2.19,,,,,44244.0,Eric Cantona - 18,Peter Schmeichel,→ Champions League via league finish,1993-1994
-2,Blackburn,42,25,9,8,63,36,27,84,2.0,,,,,17332.0,Alan Shearer - 31,Tim Flowers,→ UEFA Cup via league finish,1993-1994
-3,Newcastle United,42,23,8,11,82,41,41,77,1.83,,,,,33792.0,Andy Cole - 34,Pavel Srníček,→ UEFA Cup via league finish,1993-1994
-4,Arsenal,42,18,17,7,53,28,25,71,1.69,,,,,30492.0,Ian Wright - 23,David Seaman,→ UEFA Cup Winners' Cup,1993-1994
-5,Leeds United,42,18,16,8,65,39,26,70,1.67,,,,,34506.0,Rod Wallace - 17,Mark Beeney,,1993-1994
-6,Wimbledon,42,18,11,13,56,53,3,65,1.55,,,,,10442.0,Dean Holdsworth - 17,Hans Segers,,1993-1994
-7,Sheffield Weds,42,16,16,10,76,54,22,64,1.52,,,,,27181.0,Mark Bright - 19,Kevin Pressman,,1993-1994
-8,Liverpool,42,17,9,16,59,55,4,60,1.43,,,,,38508.0,Ian Rush - 14,Bruce Grobbelaar,,1993-1994
-9,QPR,42,16,12,14,62,61,1,60,1.43,,,,,14228.0,Les Ferdinand - 16,Jan Stejskal,,1993-1994
-10,Aston Villa,42,15,12,15,46,50,-4,57,1.36,,,,,29065.0,Dean Saunders - 10,Mark Bosnich,→ UEFA Cup via cup win 1,1993-1994
-11,Coventry City,42,14,14,14,43,45,-2,56,1.33,,,,,13312.0,Peter Ndlovu - 11,Steve Ogrizovic,,1993-1994
-12,Norwich City,42,12,17,13,65,61,4,53,1.26,,,,,18179.0,Chris Sutton - 25,Bryan Gunn,,1993-1994
-13,West Ham,42,13,13,16,47,58,-11,52,1.24,,,,,20598.0,Trevor Morley - 13,Luděk Mikloško,,1993-1994
-14,Chelsea,42,13,12,17,49,53,-4,51,1.21,,,,,19211.0,Mark Stein - 13,Dmitri Kharine,→ UEFA Cup Winners' Cup via cup loss 2,1993-1994
-15,Tottenham,42,11,12,19,54,59,-5,45,1.07,,,,,27251.0,Teddy Sheringham - 14,Erik Thorstvedt,,1993-1994
-16,Manchester City,42,9,18,15,38,49,-11,45,1.07,,,,,26684.0,Mike Sheron - 6,Tony Coton,,1993-1994
-17,Everton,42,12,8,22,42,63,-21,44,1.05,,,,,23104.0,Tony Cottee - 16,Neville Southall,,1993-1994
-18,Southampton,42,12,7,23,49,66,-17,43,1.02,,,,,14756.0,Matt Le Tissier - 25,Dave Beasant,,1993-1994
-19,Ipswich Town,42,9,16,17,35,58,-23,43,1.02,,,,,16574.0,Ian Marshall - 10,Craig Forrest,,1993-1994
-20,Sheffield United,42,8,18,16,42,60,-18,42,1.0,,,,,19562.0,Jostein Flo - 9,Alan Kelly Jr.,Relegated,1993-1994
-21,Oldham Athletic,42,9,13,20,42,68,-26,40,0.95,,,,,12572.0,Graeme Sharp - 9,Jon Hallworth,Relegated,1993-1994
-22,Swindon Town,42,5,15,22,47,100,-53,30,0.71,,,,,15011.0,Jan Åge Fjørtoft - 12,Fraser Digby,Relegated,1993-1994
-1,Manchester United,42,24,12,6,67,31,36,84,2.0,,,,,35132.0,Mark Hughes - 15,Peter Schmeichel,→ Champions League via league finish,1992-1993
-2,Aston Villa,42,21,11,10,57,40,17,74,1.76,,,,,29594.0,Dean Saunders - 13,Nigel Spink,→ UEFA Cup via league finish,1992-1993
-3,Norwich City,42,21,9,12,61,65,-4,72,1.71,,,,,16253.0,Mark Robins - 15,Bryan Gunn,→ UEFA Cup via league finish 1,1992-1993
-4,Blackburn,42,20,11,11,68,46,22,71,1.69,,,,,16247.0,Alan Shearer - 16,Bobby Mimms,,1992-1993
-5,QPR,42,17,12,13,63,55,8,63,1.5,,,,,14999.0,Les Ferdinand - 20,Tony Roberts,,1992-1993
-6,Liverpool,42,16,11,15,62,55,7,59,1.4,,,,,37009.0,Ian Rush - 14,David James,,1992-1993
-7,Sheffield Weds,42,15,14,13,55,51,4,59,1.4,,,,,27264.0,"Mark Bright, David Hirst - 11",Chris Woods,,1992-1993
-8,Tottenham,42,16,11,15,60,66,-6,59,1.4,,,,,27878.0,Teddy Sheringham - 21,Erik Thorstvedt,,1992-1993
-9,Manchester City,42,15,12,15,56,51,5,57,1.36,,,,,24698.0,David White - 16,Tony Coton,,1992-1993
-10,Arsenal,42,15,11,16,40,38,2,56,1.33,,,,,24403.0,Ian Wright - 15,David Seaman,→ European Cup Winners' Cup via cup win 2,1992-1993
-11,Chelsea,42,14,14,14,51,54,-3,56,1.33,,,,,18754.0,"Mick Harford, Graham Stuart - 9",Kevin Hitchcock,,1992-1993
-12,Wimbledon,42,14,12,16,56,55,1,54,1.29,,,,,8353.0,Dean Holdsworth - 19,Hans Segers,,1992-1993
-13,Everton,42,15,8,19,53,55,-2,53,1.26,,,,,20457.0,Tony Cottee - 12,Neville Southall,,1992-1993
-14,Sheffield United,42,14,10,18,54,53,1,52,1.24,,,,,18799.0,Brian Deane - 15,Alan Kelly Jr.,,1992-1993
-15,Coventry City,42,13,13,16,52,57,-5,52,1.24,,,,,15024.0,Micky Quinn - 17,Steve Ogrizovic,,1992-1993
-16,Ipswich Town,42,12,16,14,50,55,-5,52,1.24,,,,,18185.0,Chris Kiwomya - 10,Clive Baker,,1992-1993
-17,Leeds United,42,12,15,15,57,62,-5,51,1.21,,,,,29229.0,Lee Chapman - 13,John Lukic,,1992-1993
-18,Southampton,42,13,11,18,54,61,-7,50,1.19,,,,,15934.0,Matt Le Tissier - 15,Tim Flowers,,1992-1993
-19,Oldham Athletic,42,13,10,19,63,74,-11,49,1.17,,,,,12862.0,Ian Olney - 12,Paul Gerrard,,1992-1993
-20,Crystal Palace,42,11,16,15,48,61,-13,49,1.17,,,,,15726.0,Chris Armstrong - 15,Nigel Martyn,Relegated,1992-1993
-21,Middlesbrough,42,11,11,20,54,75,-21,44,1.05,,,,,16722.0,Paul Wilkinson - 13,Stephen Pears,Relegated,1992-1993
-22,Nottingham Forest,42,10,10,22,41,62,-21,40,0.95,,,,,21957.0,Nigel Clough - 10,Mark Crossley,Relegated,1992-1993
+rk,squad,mp,w,d,l,gf,ga,gd,pts,pts_mp,xg,xga,xgd,xgd_90,attendance,top_team_scorer,goalkeeper,notes,team_url,season
+1,Manchester City,38,28,7,3,96,34,62,91,2.39,80.5,35.6,44.9,1.18,53012.0,Erling Haaland - 27,Ederson,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2023-2024/Manchester-City-Stats,2023-2024
+2,Arsenal,38,28,5,5,91,29,62,89,2.34,76.1,27.9,48.2,1.27,60236.0,Bukayo Saka - 16,David Raya,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2023-2024/Arsenal-Stats,2023-2024
+3,Liverpool,38,24,10,4,86,41,45,82,2.16,87.8,45.7,42.0,1.11,55979.0,Mohamed Salah - 18,Alisson,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2023-2024/Liverpool-Stats,2023-2024
+4,Aston Villa,38,20,8,10,76,61,15,68,1.79,63.3,59.9,3.4,0.09,41858.0,Ollie Watkins - 19,Emiliano Martínez,→ Champions League via league finish,https://fbref.com/en/squads/8602292d/2023-2024/Aston-Villa-Stats,2023-2024
+5,Tottenham,38,20,6,12,74,61,13,66,1.74,68.2,63.4,4.8,0.13,61482.0,Son Heung-min - 17,Guglielmo Vicario,→ Europa League via league finish,https://fbref.com/en/squads/361ca564/2023-2024/Tottenham-Hotspur-Stats,2023-2024
+6,Chelsea,38,18,9,11,77,63,14,63,1.66,74.5,58.1,16.4,0.43,39524.0,Cole Palmer - 22,Đorđe Petrović,→ Europa League via league finish,https://fbref.com/en/squads/cff3d9bb/2023-2024/Chelsea-Stats,2023-2024
+7,Newcastle United,38,18,6,14,85,62,23,60,1.58,76.0,61.4,14.6,0.38,52125.0,Alexander Isak - 21,Martin Dúbravka,→ Europa Conference League via league finish,https://fbref.com/en/squads/b2b47a98/2023-2024/Newcastle-United-Stats,2023-2024
+8,Manchester United,38,18,6,14,57,58,-1,60,1.58,56.5,68.9,-12.5,-0.33,73533.0,"Rasmus Højlund, Bruno Fernandes - 10",André Onana,,https://fbref.com/en/squads/19538871/2023-2024/Manchester-United-Stats,2023-2024
+9,West Ham,38,14,10,14,60,74,-14,52,1.37,52.3,71.1,-18.8,-0.49,62567.0,Jarrod Bowen - 16,Alphonse Areola,,https://fbref.com/en/squads/7c21e445/2023-2024/West-Ham-United-Stats,2023-2024
+10,Crystal Palace,38,13,10,15,57,58,-1,49,1.29,48.6,52.0,-3.4,-0.09,24932.0,Jean-Philippe Mateta - 16,Sam Johnstone,,https://fbref.com/en/squads/47c64c55/2023-2024/Crystal-Palace-Stats,2023-2024
+11,Brighton,38,12,12,14,55,62,-7,48,1.26,56.8,55.4,1.4,0.04,32638.0,João Pedro - 9,Bart Verbruggen,,https://fbref.com/en/squads/d07537b9/2023-2024/Brighton-and-Hove-Albion-Stats,2023-2024
+12,Bournemouth,38,13,9,16,54,67,-13,48,1.26,55.9,58.1,-2.2,-0.06,11103.0,Dominic Solanke - 19,Neto,,https://fbref.com/en/squads/4ba7cbea/2023-2024/Bournemouth-Stats,2023-2024
+13,Fulham,38,13,8,17,55,61,-6,47,1.24,50.8,62.9,-12.1,-0.32,24302.0,Rodrigo Muniz - 9,Bernd Leno,,https://fbref.com/en/squads/fd962109/2023-2024/Fulham-Stats,2023-2024
+14,Wolves,38,13,7,18,50,65,-15,46,1.21,46.7,67.7,-21.0,-0.55,31029.0,"Hwang Hee-chan, Matheus Cunha - 12",José Sá,,https://fbref.com/en/squads/8cec06e1/2023-2024/Wolverhampton-Wanderers-Stats,2023-2024
+15,Everton,38,13,9,16,40,51,-11,42,1.11,54.0,55.2,-1.2,-0.03,39042.0,"Abdoulaye Doucouré, Dominic Calvert-Lewin - 7",Jordan Pickford,6-point deduction 1,https://fbref.com/en/squads/d3fd31cc/2023-2024/Everton-Stats,2023-2024
+16,Brentford,38,10,9,19,56,65,-9,39,1.03,58.2,56.0,2.2,0.06,17082.0,Yoane Wissa - 12,Mark Flekken,,https://fbref.com/en/squads/cd051869/2023-2024/Brentford-Stats,2023-2024
+17,Nottingham Forest,38,9,9,20,49,67,-18,32,0.84,49.9,53.2,-3.3,-0.09,29386.0,Chris Wood - 14,Matt Turner,4-point deduction 2,https://fbref.com/en/squads/e4a775cb/2023-2024/Nottingham-Forest-Stats,2023-2024
+18,Luton Town,38,6,8,24,52,85,-33,26,0.68,42.4,78.0,-35.5,-0.94,11240.0,Carlton Morris - 11,Thomas Kaminski,Relegated,https://fbref.com/en/squads/e297cd13/2023-2024/Luton-Town-Stats,2023-2024
+19,Burnley,38,5,9,24,41,78,-37,24,0.63,40.6,70.4,-29.7,-0.78,21184.0,Jacob Bruun Larsen - 6,James Trafford,Relegated,https://fbref.com/en/squads/943e8050/2023-2024/Burnley-Stats,2023-2024
+20,Sheffield United,38,3,7,28,35,104,-69,16,0.42,38.3,76.7,-38.4,-1.01,30011.0,"Oliver McBurnie, Ben Brereton - 6",Wes Foderingham,Relegated,https://fbref.com/en/squads/1df6b87e/2023-2024/Sheffield-United-Stats,2023-2024
+1,Manchester City,38,28,5,5,94,33,61,89,2.34,78.6,32.1,46.5,1.22,53249.0,Erling Haaland - 36,Ederson,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2022-2023/Manchester-City-Stats,2022-2023
+2,Arsenal,38,26,6,6,88,43,45,84,2.21,71.7,42.0,29.7,0.78,60191.0,"Martin Ødegaard, Gabriel Martinelli - 15",Aaron Ramsdale,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2022-2023/Arsenal-Stats,2022-2023
+3,Manchester United,38,23,6,9,58,43,15,75,1.97,67.7,50.4,17.3,0.45,73671.0,Marcus Rashford - 17,David de Gea,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2022-2023/Manchester-United-Stats,2022-2023
+4,Newcastle United,38,19,14,5,68,33,35,71,1.87,71.9,39.5,32.3,0.85,52127.0,Callum Wilson - 18,Nick Pope,→ Champions League via league finish,https://fbref.com/en/squads/b2b47a98/2022-2023/Newcastle-United-Stats,2022-2023
+5,Liverpool,38,19,10,9,75,47,28,67,1.76,71.5,50.8,20.7,0.55,53163.0,Mohamed Salah - 19,Alisson,→ Europa League via league finish,https://fbref.com/en/squads/822bd0ba/2022-2023/Liverpool-Stats,2022-2023
+6,Brighton,38,18,8,12,72,53,19,62,1.63,73.3,50.2,23.1,0.61,31477.0,Alexis Mac Allister - 10,Robert Sánchez,→ Europa League via league finish,https://fbref.com/en/squads/d07537b9/2022-2023/Brighton-and-Hove-Albion-Stats,2022-2023
+7,Aston Villa,38,18,7,13,51,46,5,61,1.61,50.3,52.5,-2.2,-0.06,41679.0,Ollie Watkins - 15,Emiliano Martínez,→ Europa Conference League via league finish,https://fbref.com/en/squads/8602292d/2022-2023/Aston-Villa-Stats,2022-2023
+8,Tottenham,38,18,6,14,70,63,7,60,1.58,57.0,49.6,7.4,0.2,61585.0,Harry Kane - 30,Hugo Lloris,,https://fbref.com/en/squads/361ca564/2022-2023/Tottenham-Hotspur-Stats,2022-2023
+9,Brentford,38,15,14,9,58,46,12,59,1.55,56.3,48.8,7.5,0.2,17078.0,Ivan Toney - 20,David Raya,,https://fbref.com/en/squads/cd051869/2022-2023/Brentford-Stats,2022-2023
+10,Fulham,38,15,7,16,55,53,2,52,1.37,46.2,63.6,-17.4,-0.46,23746.0,Aleksandar Mitrović - 14,Bernd Leno,,https://fbref.com/en/squads/fd962109/2022-2023/Fulham-Stats,2022-2023
+11,Crystal Palace,38,11,12,15,40,49,-9,45,1.18,39.3,48.1,-8.8,-0.23,24952.0,Eberechi Eze - 10,Vicente Guaita,,https://fbref.com/en/squads/47c64c55/2022-2023/Crystal-Palace-Stats,2022-2023
+12,Chelsea,38,11,11,16,38,47,-9,44,1.16,49.5,52.5,-3.0,-0.08,40002.0,Kai Havertz - 7,Kepa Arrizabalaga,,https://fbref.com/en/squads/cff3d9bb/2022-2023/Chelsea-Stats,2022-2023
+13,Wolves,38,11,8,19,31,58,-27,41,1.08,36.8,59.9,-23.0,-0.61,31482.0,"Rúben Neves, Daniel Podence - 6",José Sá,,https://fbref.com/en/squads/8cec06e1/2022-2023/Wolverhampton-Wanderers-Stats,2022-2023
+14,West Ham,38,11,7,20,42,55,-13,40,1.05,49.2,53.0,-3.9,-0.1,62462.0,"Saïd Benrahma, Jarrod Bowen - 6",Łukasz Fabiański,,https://fbref.com/en/squads/7c21e445/2022-2023/West-Ham-United-Stats,2022-2023
+15,Bournemouth,38,11,6,21,37,71,-34,39,1.03,38.5,63.8,-25.3,-0.67,10362.0,Philip Billing - 7,Neto,,https://fbref.com/en/squads/4ba7cbea/2022-2023/Bournemouth-Stats,2022-2023
+16,Nottingham Forest,38,9,11,18,38,68,-30,38,1.0,39.3,64.2,-24.9,-0.66,29188.0,Taiwo Awoniyi - 10,Dean Henderson,,https://fbref.com/en/squads/e4a775cb/2022-2023/Nottingham-Forest-Stats,2022-2023
+17,Everton,38,8,12,18,34,57,-23,36,0.95,45.2,65.5,-20.4,-0.54,39243.0,Dwight McNeil - 7,Jordan Pickford,,https://fbref.com/en/squads/d3fd31cc/2022-2023/Everton-Stats,2022-2023
+18,Leicester City,38,9,7,22,51,68,-17,34,0.89,50.5,63.3,-12.8,-0.34,31887.0,Harvey Barnes - 13,Danny Ward,Relegated,https://fbref.com/en/squads/a2d435b3/2022-2023/Leicester-City-Stats,2022-2023
+19,Leeds United,38,7,10,21,48,78,-30,31,0.82,47.3,67.1,-19.8,-0.52,36566.0,Rodrigo - 13,Illan Meslier,Relegated,https://fbref.com/en/squads/5bfb9659/2022-2023/Leeds-United-Stats,2022-2023
+20,Southampton,38,6,7,25,36,73,-37,25,0.66,37.8,60.9,-23.1,-0.61,30440.0,James Ward-Prowse - 9,Gavin Bazunu,Relegated,https://fbref.com/en/squads/33c895d4/2022-2023/Southampton-Stats,2022-2023
+1,Manchester City,38,29,6,3,99,26,73,93,2.45,88.7,24.6,64.0,1.68,52774.0,Kevin De Bruyne - 15,Ederson,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2021-2022/Manchester-City-Stats,2021-2022
+2,Liverpool,38,28,8,2,94,26,68,92,2.42,88.7,33.8,54.9,1.45,53352.0,Mohamed Salah - 23,Alisson,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2021-2022/Liverpool-Stats,2021-2022
+3,Chelsea,38,21,11,6,76,33,43,74,1.95,63.4,33.2,30.1,0.79,36443.0,Mason Mount - 11,Edouard Mendy,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2021-2022/Chelsea-Stats,2021-2022
+4,Tottenham,38,22,5,11,69,40,29,71,1.87,61.2,39.3,21.9,0.58,56523.0,Son Heung-min - 23,Hugo Lloris,→ Champions League via league finish,https://fbref.com/en/squads/361ca564/2021-2022/Tottenham-Hotspur-Stats,2021-2022
+5,Arsenal,38,22,3,13,61,48,13,69,1.82,60.5,45.7,14.9,0.39,59665.0,Bukayo Saka - 11,Aaron Ramsdale,→ Europa League via league finish,https://fbref.com/en/squads/18bb7c10/2021-2022/Arsenal-Stats,2021-2022
+6,Manchester United,38,16,10,12,57,57,0,58,1.53,55.8,53.0,2.8,0.07,73150.0,Cristiano Ronaldo - 18,David de Gea,→ Europa League via league finish,https://fbref.com/en/squads/19538871/2021-2022/Manchester-United-Stats,2021-2022
+7,West Ham,38,16,8,14,60,51,9,56,1.47,51.4,53.5,-2.1,-0.06,58370.0,Jarrod Bowen - 12,Łukasz Fabiański,→ Europa Conference League via league finish,https://fbref.com/en/squads/7c21e445/2021-2022/West-Ham-United-Stats,2021-2022
+8,Leicester City,38,14,10,14,62,59,3,52,1.37,47.8,59.3,-11.5,-0.3,32493.0,Jamie Vardy - 15,Kasper Schmeichel,,https://fbref.com/en/squads/a2d435b3/2021-2022/Leicester-City-Stats,2021-2022
+9,Brighton,38,12,15,11,42,44,-2,51,1.34,46.2,42.9,3.3,0.09,30966.0,"Leandro Trossard, Neal Maupay - 8",Robert Sánchez,,https://fbref.com/en/squads/d07537b9/2021-2022/Brighton-and-Hove-Albion-Stats,2021-2022
+10,Wolves,38,15,6,17,38,43,-5,51,1.34,37.5,56.9,-19.4,-0.51,30841.0,Raúl Jiménez - 6,José Sá,,https://fbref.com/en/squads/8cec06e1/2021-2022/Wolverhampton-Wanderers-Stats,2021-2022
+11,Newcastle United,38,13,10,15,44,62,-18,49,1.29,38.1,57.1,-19.0,-0.5,51487.0,Callum Wilson - 8,Martin Dúbravka,,https://fbref.com/en/squads/b2b47a98/2021-2022/Newcastle-United-Stats,2021-2022
+12,Crystal Palace,38,11,15,12,50,46,4,48,1.26,46.4,40.7,5.7,0.15,24588.0,Wilfried Zaha - 14,Vicente Guaita,,https://fbref.com/en/squads/47c64c55/2021-2022/Crystal-Palace-Stats,2021-2022
+13,Brentford,38,13,7,18,48,56,-8,46,1.21,45.8,48.5,-2.7,-0.07,16918.0,Ivan Toney - 12,David Raya,,https://fbref.com/en/squads/cd051869/2021-2022/Brentford-Stats,2021-2022
+14,Aston Villa,38,13,6,19,52,54,-2,45,1.18,44.0,49.0,-4.9,-0.13,41681.0,Ollie Watkins - 11,Emiliano Martínez,,https://fbref.com/en/squads/8602292d/2021-2022/Aston-Villa-Stats,2021-2022
+15,Southampton,38,9,13,16,43,67,-24,40,1.05,44.8,60.0,-15.2,-0.4,30134.0,James Ward-Prowse - 10,Fraser Forster,,https://fbref.com/en/squads/33c895d4/2021-2022/Southampton-Stats,2021-2022
+16,Everton,38,11,6,21,43,66,-23,39,1.03,41.2,55.4,-14.2,-0.37,38446.0,Richarlison - 10,Jordan Pickford,,https://fbref.com/en/squads/d3fd31cc/2021-2022/Everton-Stats,2021-2022
+17,Leeds United,38,9,11,18,42,79,-37,38,1.0,44.4,67.8,-23.5,-0.62,36308.0,Raphinha - 11,Illan Meslier,,https://fbref.com/en/squads/5bfb9659/2021-2022/Leeds-United-Stats,2021-2022
+18,Burnley,38,7,14,17,34,53,-19,35,0.92,39.7,57.1,-17.4,-0.46,19278.0,Maxwel Cornet - 9,Nick Pope,Relegated,https://fbref.com/en/squads/943e8050/2021-2022/Burnley-Stats,2021-2022
+19,Watford,38,6,5,27,34,77,-43,23,0.61,40.0,64.5,-24.5,-0.64,20614.0,Emmanuel Dennis - 10,Ben Foster,Relegated,https://fbref.com/en/squads/2abfe087/2021-2022/Watford-Stats,2021-2022
+20,Norwich City,38,5,7,26,23,84,-61,22,0.58,32.3,75.5,-43.2,-1.14,26836.0,Teemu Pukki - 11,Tim Krul,Relegated,https://fbref.com/en/squads/1c781004/2021-2022/Norwich-City-Stats,2021-2022
+1,Manchester City,38,27,5,6,83,32,51,86,2.26,68.2,30.2,38.0,1.0,526.0,İlkay Gündoğan - 13,Ederson,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2020-2021/Manchester-City-Stats,2020-2021
+2,Manchester United,38,21,11,6,73,44,29,74,1.95,60.1,41.4,18.6,0.49,526.0,Bruno Fernandes - 18,David de Gea,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2020-2021/Manchester-United-Stats,2020-2021
+3,Liverpool,38,20,9,9,68,42,26,69,1.82,67.5,43.0,24.5,0.65,837.0,Mohamed Salah - 22,Alisson,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2020-2021/Liverpool-Stats,2020-2021
+4,Chelsea,38,19,10,9,58,36,22,67,1.76,62.4,30.3,32.1,0.85,526.0,Jorginho - 7,Edouard Mendy,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2020-2021/Chelsea-Stats,2020-2021
+5,Leicester City,38,20,6,12,68,50,18,66,1.74,55.8,46.0,9.8,0.26,421.0,Jamie Vardy - 15,Kasper Schmeichel,→ Europa League via cup win,https://fbref.com/en/squads/a2d435b3/2020-2021/Leicester-City-Stats,2020-2021
+6,West Ham,38,19,8,11,62,47,15,65,1.71,55.4,48.7,6.7,0.18,632.0,"Michail Antonio, Tomáš Souček - 10",Łukasz Fabiański,→ Europa League via league finish,https://fbref.com/en/squads/7c21e445/2020-2021/West-Ham-United-Stats,2020-2021
+7,Tottenham,38,18,8,12,68,45,23,62,1.63,53.1,49.1,4.0,0.1,632.0,Harry Kane - 23,Hugo Lloris,→ Europa Conference League via league finish 1,https://fbref.com/en/squads/361ca564/2020-2021/Tottenham-Hotspur-Stats,2020-2021
+8,Arsenal,38,18,7,13,55,39,16,61,1.61,51.8,43.0,8.8,0.23,632.0,Alexandre Lacazette - 13,Bernd Leno,,https://fbref.com/en/squads/18bb7c10/2020-2021/Arsenal-Stats,2020-2021
+9,Leeds United,38,18,5,15,62,54,8,59,1.55,55.6,57.9,-2.2,-0.06,421.0,Patrick Bamford - 17,Illan Meslier,,https://fbref.com/en/squads/5bfb9659/2020-2021/Leeds-United-Stats,2020-2021
+10,Everton,38,17,8,13,47,48,-1,59,1.55,45.7,50.1,-4.5,-0.12,368.0,Dominic Calvert-Lewin - 16,Jordan Pickford,,https://fbref.com/en/squads/d3fd31cc/2020-2021/Everton-Stats,2020-2021
+11,Aston Villa,38,16,7,15,55,46,9,55,1.45,52.5,51.1,1.4,0.04,526.0,Ollie Watkins - 14,Emiliano Martínez,,https://fbref.com/en/squads/8602292d/2020-2021/Aston-Villa-Stats,2020-2021
+12,Newcastle United,38,12,9,17,46,62,-16,45,1.18,43.4,58.3,-14.9,-0.39,526.0,Callum Wilson - 12,Karl Darlow,,https://fbref.com/en/squads/b2b47a98/2020-2021/Newcastle-United-Stats,2020-2021
+13,Wolves,38,12,9,17,36,52,-16,45,1.18,36.5,49.5,-13.0,-0.34,237.0,"Rúben Neves, Pedro Neto - 5",Rui Patrício,,https://fbref.com/en/squads/8cec06e1/2020-2021/Wolverhampton-Wanderers-Stats,2020-2021
+14,Crystal Palace,38,12,8,18,41,66,-25,44,1.16,34.1,58.2,-24.2,-0.64,447.0,Wilfried Zaha - 11,Vicente Guaita,,https://fbref.com/en/squads/47c64c55/2020-2021/Crystal-Palace-Stats,2020-2021
+15,Southampton,38,12,7,19,47,68,-21,43,1.13,41.2,53.1,-11.8,-0.31,526.0,Danny Ings - 12,Alex McCarthy,,https://fbref.com/en/squads/33c895d4/2020-2021/Southampton-Stats,2020-2021
+16,Brighton,38,9,14,15,40,46,-6,41,1.08,50.9,35.3,15.6,0.41,523.0,Neal Maupay - 8,Robert Sánchez,,https://fbref.com/en/squads/d07537b9/2020-2021/Brighton-and-Hove-Albion-Stats,2020-2021
+17,Burnley,38,10,9,19,33,55,-22,39,1.03,39.3,54.7,-15.4,-0.4,178.0,Chris Wood - 12,Nick Pope,,https://fbref.com/en/squads/943e8050/2020-2021/Burnley-Stats,2020-2021
+18,Fulham,38,5,13,20,27,53,-26,28,0.74,40.5,52.6,-12.1,-0.32,211.0,Bobby Reid - 5,Alphonse Areola,Relegated,https://fbref.com/en/squads/fd962109/2020-2021/Fulham-Stats,2020-2021
+19,West Brom,38,5,11,22,35,76,-41,26,0.68,35.8,67.9,-32.0,-0.84,283.0,Matheus Pereira - 11,Sam Johnstone,Relegated,https://fbref.com/en/squads/60c6b05f/2020-2021/West-Bromwich-Albion-Stats,2020-2021
+20,Sheffield United,38,7,2,29,20,63,-43,23,0.61,32.6,62.2,-29.6,-0.78,263.0,David McGoldrick - 8,Aaron Ramsdale,Relegated,https://fbref.com/en/squads/1df6b87e/2020-2021/Sheffield-United-Stats,2020-2021
+1,Liverpool,38,32,3,3,85,33,52,99,2.61,68.9,37.7,31.2,0.82,41955.0,Mohamed Salah - 19,Alisson,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2019-2020/Liverpool-Stats,2019-2020
+2,Manchester City,38,26,3,9,102,35,67,81,2.13,92.0,36.2,55.7,1.47,37097.0,Raheem Sterling - 20,Ederson,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2019-2020/Manchester-City-Stats,2019-2020
+3,Manchester United,38,18,12,8,66,36,30,66,1.74,62.2,37.7,24.5,0.64,57415.0,"Anthony Martial, Marcus Rashford - 17",David de Gea,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2019-2020/Manchester-United-Stats,2019-2020
+4,Chelsea,38,20,6,12,69,54,15,66,1.74,69.2,38.6,30.6,0.81,32023.0,Tammy Abraham - 15,Kepa Arrizabalaga,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2019-2020/Chelsea-Stats,2019-2020
+5,Leicester City,38,18,8,12,67,41,26,62,1.63,62.2,45.5,16.7,0.44,25312.0,Jamie Vardy - 23,Kasper Schmeichel,→ Europa League via league finish,https://fbref.com/en/squads/a2d435b3/2019-2020/Leicester-City-Stats,2019-2020
+6,Tottenham,38,16,11,11,61,47,14,59,1.55,47.9,54.2,-6.3,-0.17,43757.0,Harry Kane - 18,Hugo Lloris,→ Europa League via league finish 1,https://fbref.com/en/squads/361ca564/2019-2020/Tottenham-Hotspur-Stats,2019-2020
+7,Wolves,38,15,14,9,51,40,11,59,1.55,54.1,38.0,16.1,0.42,24758.0,Raúl Jiménez - 17,Rui Patrício,,https://fbref.com/en/squads/8cec06e1/2019-2020/Wolverhampton-Wanderers-Stats,2019-2020
+8,Arsenal,38,14,14,10,56,48,8,56,1.47,47.0,55.3,-8.3,-0.22,47589.0,Pierre-Emerick Aubameyang - 22,Bernd Leno,→ Europa League via cup win 2,https://fbref.com/en/squads/18bb7c10/2019-2020/Arsenal-Stats,2019-2020
+9,Sheffield United,38,14,12,12,39,39,0,54,1.42,43.0,51.0,-7.9,-0.21,24370.0,"Lys Mousset, Oliver McBurnie - 6",Dean Henderson,,https://fbref.com/en/squads/1df6b87e/2019-2020/Sheffield-United-Stats,2019-2020
+10,Burnley,38,15,9,14,43,50,-7,54,1.42,47.4,49.8,-2.4,-0.06,15995.0,Chris Wood - 14,Nick Pope,,https://fbref.com/en/squads/943e8050/2019-2020/Burnley-Stats,2019-2020
+11,Southampton,38,15,7,16,51,60,-9,52,1.37,56.1,52.8,3.3,0.09,23428.0,Danny Ings - 22,Alex McCarthy,,https://fbref.com/en/squads/33c895d4/2019-2020/Southampton-Stats,2019-2020
+12,Everton,38,13,10,15,44,56,-12,49,1.29,50.8,48.3,2.5,0.07,28848.0,"Dominic Calvert-Lewin, Richarlison - 13",Jordan Pickford,,https://fbref.com/en/squads/d3fd31cc/2019-2020/Everton-Stats,2019-2020
+13,Newcastle United,38,11,11,16,38,58,-20,44,1.16,35.5,65.6,-30.1,-0.79,35551.0,Jonjo Shelvey - 6,Martin Dúbravka,,https://fbref.com/en/squads/b2b47a98/2019-2020/Newcastle-United-Stats,2019-2020
+14,Crystal Palace,38,11,10,17,31,50,-19,43,1.13,35.8,57.0,-21.2,-0.56,19784.0,Jordan Ayew - 9,Vicente Guaita,,https://fbref.com/en/squads/47c64c55/2019-2020/Crystal-Palace-Stats,2019-2020
+15,Brighton,38,9,14,15,39,54,-15,41,1.08,45.4,55.0,-9.5,-0.25,22369.0,Neal Maupay - 10,Mathew Ryan,,https://fbref.com/en/squads/d07537b9/2019-2020/Brighton-and-Hove-Albion-Stats,2019-2020
+16,West Ham,38,10,9,19,49,62,-13,39,1.03,48.6,63.8,-15.2,-0.4,44155.0,Michail Antonio - 10,Łukasz Fabiański,,https://fbref.com/en/squads/7c21e445/2019-2020/West-Ham-United-Stats,2019-2020
+17,Aston Villa,38,9,8,21,41,67,-26,35,0.92,44.3,67.8,-23.5,-0.62,28505.0,Jack Grealish - 8,Tom Heaton,,https://fbref.com/en/squads/8602292d/2019-2020/Aston-Villa-Stats,2019-2020
+18,Bournemouth,38,9,7,22,40,65,-25,34,0.89,44.8,62.3,-17.5,-0.46,7745.0,Callum Wilson - 8,Aaron Ramsdale,Relegated,https://fbref.com/en/squads/4ba7cbea/2019-2020/Bournemouth-Stats,2019-2020
+19,Watford,38,8,10,20,36,64,-28,34,0.89,48.9,58.1,-9.3,-0.24,15353.0,Troy Deeney - 10,Ben Foster,Relegated,https://fbref.com/en/squads/2abfe087/2019-2020/Watford-Stats,2019-2020
+20,Norwich City,38,5,6,27,26,75,-49,21,0.55,37.0,66.5,-29.5,-0.78,19913.0,Teemu Pukki - 11,Tim Krul,Relegated,https://fbref.com/en/squads/1c781004/2019-2020/Norwich-City-Stats,2019-2020
+1,Manchester City,38,32,2,4,95,23,72,98,2.58,84.3,24.7,59.6,1.57,54130.0,Sergio Agüero - 21,Ederson,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2018-2019/Manchester-City-Stats,2018-2019
+2,Liverpool,38,30,7,1,89,22,67,97,2.55,73.7,28.8,44.9,1.18,52983.0,"Sadio Mané, Mohamed Salah - 22",Alisson,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2018-2019/Liverpool-Stats,2018-2019
+3,Chelsea,38,21,9,8,63,39,24,72,1.89,58.6,36.4,22.2,0.58,40437.0,Eden Hazard - 16,Kepa Arrizabalaga,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2018-2019/Chelsea-Stats,2018-2019
+4,Tottenham,38,23,2,13,67,39,28,71,1.87,54.9,47.1,7.8,0.2,54216.0,Harry Kane - 17,Hugo Lloris,→ Champions League via league finish,https://fbref.com/en/squads/361ca564/2018-2019/Tottenham-Hotspur-Stats,2018-2019
+5,Arsenal,38,21,7,10,73,51,22,70,1.84,60.1,54.2,5.8,0.15,59899.0,Pierre-Emerick Aubameyang - 22,Bernd Leno,→ Europa League via league finish,https://fbref.com/en/squads/18bb7c10/2018-2019/Arsenal-Stats,2018-2019
+6,Manchester United,38,19,9,10,65,54,11,66,1.74,61.4,50.6,10.8,0.29,74498.0,Paul Pogba - 13,David de Gea,→ Europa League via league finish 1,https://fbref.com/en/squads/19538871/2018-2019/Manchester-United-Stats,2018-2019
+7,Wolves,38,16,9,13,47,46,1,57,1.5,52.1,42.1,10.1,0.26,31030.0,Raúl Jiménez - 13,Rui Patrício,→ Europa League via league finish,https://fbref.com/en/squads/8cec06e1/2018-2019/Wolverhampton-Wanderers-Stats,2018-2019
+8,Everton,38,15,9,14,54,46,8,54,1.42,49.7,45.7,4.0,0.1,39043.0,"Gylfi Sigurðsson, Richarlison - 13",Jordan Pickford,,https://fbref.com/en/squads/d3fd31cc/2018-2019/Everton-Stats,2018-2019
+9,Leicester City,38,15,7,16,51,48,3,52,1.37,52.4,43.7,8.7,0.23,31851.0,Jamie Vardy - 18,Kasper Schmeichel,,https://fbref.com/en/squads/a2d435b3/2018-2019/Leicester-City-Stats,2018-2019
+10,West Ham,38,15,7,16,52,55,-3,52,1.37,47.6,61.9,-14.3,-0.38,58336.0,Marko Arnautović - 10,Łukasz Fabiański,,https://fbref.com/en/squads/7c21e445/2018-2019/West-Ham-United-Stats,2018-2019
+11,Watford,38,14,8,16,52,59,-7,50,1.32,48.2,59.2,-11.0,-0.29,20016.0,Gerard Deulofeu - 10,Ben Foster,,https://fbref.com/en/squads/2abfe087/2018-2019/Watford-Stats,2018-2019
+12,Crystal Palace,38,14,7,17,51,53,-2,49,1.29,47.6,50.1,-2.5,-0.07,25455.0,Luka Milivojević - 12,Vicente Guaita,,https://fbref.com/en/squads/47c64c55/2018-2019/Crystal-Palace-Stats,2018-2019
+13,Newcastle United,38,12,9,17,42,48,-6,45,1.18,39.1,53.6,-14.5,-0.38,51121.0,Ayoze Pérez - 12,Martin Dúbravka,,https://fbref.com/en/squads/b2b47a98/2018-2019/Newcastle-United-Stats,2018-2019
+14,Bournemouth,38,13,6,19,56,70,-14,45,1.18,53.3,57.2,-3.9,-0.1,10532.0,Callum Wilson - 14,Asmir Begović,,https://fbref.com/en/squads/4ba7cbea/2018-2019/Bournemouth-Stats,2018-2019
+15,Burnley,38,11,7,20,45,68,-23,40,1.05,44.4,62.1,-17.7,-0.46,20534.0,Ashley Barnes - 12,"Tom Heaton, Joe Hart",,https://fbref.com/en/squads/943e8050/2018-2019/Burnley-Stats,2018-2019
+16,Southampton,38,9,12,17,45,65,-20,39,1.03,46.9,55.1,-8.2,-0.22,30139.0,"Danny Ings, James Ward-Prowse - 7",Alex McCarthy,,https://fbref.com/en/squads/33c895d4/2018-2019/Southampton-Stats,2018-2019
+17,Brighton,38,9,9,20,35,60,-25,36,0.95,35.3,59.1,-23.8,-0.63,30426.0,Glenn Murray - 13,Mathew Ryan,,https://fbref.com/en/squads/d07537b9/2018-2019/Brighton-and-Hove-Albion-Stats,2018-2019
+18,Cardiff City,38,10,4,24,34,69,-35,34,0.89,42.4,61.5,-19.1,-0.5,31408.0,"Bobby Reid, Víctor Camarasa - 5",Neil Etheridge,Relegated,https://fbref.com/en/squads/75fae011/2018-2019/Cardiff-City-Stats,2018-2019
+19,Fulham,38,7,5,26,34,81,-47,26,0.68,41.3,68.2,-26.8,-0.71,24371.0,Aleksandar Mitrović - 11,Sergio Rico,Relegated,https://fbref.com/en/squads/fd962109/2018-2019/Fulham-Stats,2018-2019
+20,Huddersfield,38,3,7,28,22,76,-54,16,0.42,28.8,60.9,-32.2,-0.85,23203.0,Karlan Grant - 4,Jonas Lössl,Relegated,https://fbref.com/en/squads/f5922ca5/2018-2019/Huddersfield-Town-Stats,2018-2019
+1,Manchester City,38,32,4,2,106,27,79,100,2.63,78.6,23.8,54.8,1.44,53812.0,Sergio Agüero - 21,Ederson,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2017-2018/Manchester-City-Stats,2017-2018
+2,Manchester United,38,25,6,7,68,28,40,81,2.13,55.7,40.7,15.0,0.4,74976.0,Romelu Lukaku - 16,David de Gea,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2017-2018/Manchester-United-Stats,2017-2018
+3,Tottenham,38,23,8,7,74,36,38,77,2.03,64.7,33.9,30.8,0.81,67496.0,Harry Kane - 30,Hugo Lloris,→ Champions League via league finish,https://fbref.com/en/squads/361ca564/2017-2018/Tottenham-Hotspur-Stats,2017-2018
+4,Liverpool,38,21,12,5,84,38,46,75,1.97,72.9,33.8,39.1,1.03,53049.0,Mohamed Salah - 32,"Loris Karius, Simon Mignolet",→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2017-2018/Liverpool-Stats,2017-2018
+5,Chelsea,38,21,7,10,62,38,24,70,1.84,54.4,33.8,20.6,0.54,41282.0,Eden Hazard - 12,Thibaut Courtois,→ Europa League via cup win 1,https://fbref.com/en/squads/cff3d9bb/2017-2018/Chelsea-Stats,2017-2018
+6,Arsenal,38,19,6,13,74,51,23,63,1.66,68.3,47.8,20.5,0.54,59323.0,Alexandre Lacazette - 14,Petr Čech,→ Europa League via league finish,https://fbref.com/en/squads/18bb7c10/2017-2018/Arsenal-Stats,2017-2018
+7,Burnley,38,14,12,12,36,39,-3,54,1.42,32.3,51.2,-18.9,-0.5,20688.0,Chris Wood - 10,Nick Pope,→ Europa League via league finish 2,https://fbref.com/en/squads/943e8050/2017-2018/Burnley-Stats,2017-2018
+8,Everton,38,13,10,15,44,58,-14,49,1.29,40.5,52.4,-11.9,-0.31,38797.0,Wayne Rooney - 10,Jordan Pickford,,https://fbref.com/en/squads/d3fd31cc/2017-2018/Everton-Stats,2017-2018
+9,Leicester City,38,12,11,15,56,60,-4,47,1.24,50.0,48.1,1.9,0.05,31583.0,Jamie Vardy - 20,Kasper Schmeichel,,https://fbref.com/en/squads/a2d435b3/2017-2018/Leicester-City-Stats,2017-2018
+10,Newcastle United,38,12,8,18,39,47,-8,44,1.16,41.6,52.4,-10.8,-0.28,51992.0,Ayoze Pérez - 8,Rob Elliot,,https://fbref.com/en/squads/b2b47a98/2017-2018/Newcastle-United-Stats,2017-2018
+11,Crystal Palace,38,11,11,16,45,55,-10,44,1.16,53.5,48.2,5.2,0.14,25063.0,Luka Milivojević - 10,Wayne Hennessey,,https://fbref.com/en/squads/47c64c55/2017-2018/Crystal-Palace-Stats,2017-2018
+12,Bournemouth,38,11,11,16,45,61,-16,44,1.16,38.8,59.2,-20.4,-0.54,10641.0,"Joshua King, Callum Wilson - 8",Asmir Begović,,https://fbref.com/en/squads/4ba7cbea/2017-2018/Bournemouth-Stats,2017-2018
+13,West Ham,38,10,12,16,48,68,-20,42,1.11,36.7,55.1,-18.4,-0.48,56885.0,Marko Arnautović - 11,"Joe Hart, Adrián",,https://fbref.com/en/squads/7c21e445/2017-2018/West-Ham-United-Stats,2017-2018
+14,Watford,38,11,8,19,44,64,-20,41,1.08,45.0,51.8,-6.8,-0.18,20231.0,Abdoulaye Doucouré - 7,Heurelho Gomes,,https://fbref.com/en/squads/2abfe087/2017-2018/Watford-Stats,2017-2018
+15,Brighton,38,9,13,16,34,54,-20,40,1.05,37.0,50.8,-13.8,-0.36,30403.0,Glenn Murray - 12,Mathew Ryan,,https://fbref.com/en/squads/d07537b9/2017-2018/Brighton-and-Hove-Albion-Stats,2017-2018
+16,Huddersfield,38,9,10,19,28,58,-30,37,0.97,31.3,48.5,-17.2,-0.45,24040.0,Steve Mounié - 7,Jonas Lössl,,https://fbref.com/en/squads/f5922ca5/2017-2018/Huddersfield-Town-Stats,2017-2018
+17,Southampton,38,7,15,16,37,56,-19,36,0.95,39.9,45.2,-5.3,-0.14,30794.0,Charlie Austin - 7,Fraser Forster,,https://fbref.com/en/squads/33c895d4/2017-2018/Southampton-Stats,2017-2018
+18,Swansea City,38,8,9,21,28,56,-28,33,0.87,31.6,58.6,-27.0,-0.71,20623.0,Jordan Ayew - 7,Łukasz Fabiański,Relegated,https://fbref.com/en/squads/fb10988f/2017-2018/Swansea-City-Stats,2017-2018
+19,Stoke City,38,7,12,19,35,68,-33,33,0.87,36.5,62.5,-26.0,-0.69,29280.0,Xherdan Shaqiri - 8,Jack Butland,Relegated,https://fbref.com/en/squads/17892952/2017-2018/Stoke-City-Stats,2017-2018
+20,West Brom,38,6,13,19,31,56,-25,31,0.82,36.5,47.9,-11.4,-0.3,24520.0,"Jay Rodriguez, Salomón Rondón - 7",Ben Foster,Relegated,https://fbref.com/en/squads/60c6b05f/2017-2018/West-Bromwich-Albion-Stats,2017-2018
+1,Chelsea,38,30,3,5,85,33,52,93,2.45,,,,,41508.0,Diego Costa - 20,Thibaut Courtois,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2016-2017/Chelsea-Stats,2016-2017
+2,Tottenham,38,26,8,4,86,26,60,86,2.26,,,,,31639.0,Harry Kane - 29,Hugo Lloris,→ Champions League via league finish,https://fbref.com/en/squads/361ca564/2016-2017/Tottenham-Hotspur-Stats,2016-2017
+3,Manchester City,38,23,9,6,80,39,41,78,2.05,,,,,54019.0,Sergio Agüero - 20,Claudio Bravo,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2016-2017/Manchester-City-Stats,2016-2017
+4,Liverpool,38,22,10,6,78,42,36,76,2.0,,,,,53016.0,"Philippe Coutinho, Sadio Mané - 13",Simon Mignolet,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2016-2017/Liverpool-Stats,2016-2017
+5,Arsenal,38,23,6,9,77,44,33,75,1.97,,,,,59957.0,Alexis Sánchez - 24,Petr Čech,→ Europa League via cup win 1,https://fbref.com/en/squads/18bb7c10/2016-2017/Arsenal-Stats,2016-2017
+6,Manchester United,38,18,15,5,54,29,25,69,1.82,,,,,75290.0,Zlatan Ibrahimović - 17,David de Gea,→ Champions League via Europa League win,https://fbref.com/en/squads/19538871/2016-2017/Manchester-United-Stats,2016-2017
+7,Everton,38,17,10,11,62,44,18,61,1.61,,,,,39310.0,Romelu Lukaku - 25,Joel Robles,→ Europa League via league finish,https://fbref.com/en/squads/d3fd31cc/2016-2017/Everton-Stats,2016-2017
+8,Southampton,38,12,10,16,41,48,-7,46,1.21,,,,,30936.0,Nathan Redmond - 7,Fraser Forster,,https://fbref.com/en/squads/33c895d4/2016-2017/Southampton-Stats,2016-2017
+9,Bournemouth,38,12,10,16,55,67,-12,46,1.21,,,,,11182.0,Joshua King - 16,Artur Boruc,,https://fbref.com/en/squads/4ba7cbea/2016-2017/Bournemouth-Stats,2016-2017
+10,West Brom,38,12,9,17,43,51,-8,45,1.18,,,,,23876.0,Salomón Rondón - 8,Ben Foster,,https://fbref.com/en/squads/60c6b05f/2016-2017/West-Bromwich-Albion-Stats,2016-2017
+11,West Ham,38,12,9,17,47,64,-17,45,1.18,,,,,56972.0,Michail Antonio - 9,Darren Randolph,,https://fbref.com/en/squads/7c21e445/2016-2017/West-Ham-United-Stats,2016-2017
+12,Leicester City,38,12,8,18,48,63,-15,44,1.16,,,,,31893.0,Jamie Vardy - 13,Kasper Schmeichel,,https://fbref.com/en/squads/a2d435b3/2016-2017/Leicester-City-Stats,2016-2017
+13,Stoke City,38,11,11,16,41,56,-15,44,1.16,,,,,27433.0,Peter Crouch - 7,Lee Grant,,https://fbref.com/en/squads/17892952/2016-2017/Stoke-City-Stats,2016-2017
+14,Crystal Palace,38,12,5,21,50,63,-13,41,1.08,,,,,25161.0,Christian Benteke - 15,Wayne Hennessey,,https://fbref.com/en/squads/47c64c55/2016-2017/Crystal-Palace-Stats,2016-2017
+15,Swansea City,38,12,5,21,45,70,-25,41,1.08,,,,,20619.0,Fernando Llorente - 15,Łukasz Fabiański,,https://fbref.com/en/squads/fb10988f/2016-2017/Swansea-City-Stats,2016-2017
+16,Burnley,38,11,7,20,39,55,-16,40,1.05,,,,,20558.0,Sam Vokes - 10,Tom Heaton,,https://fbref.com/en/squads/943e8050/2016-2017/Burnley-Stats,2016-2017
+17,Watford,38,11,7,20,40,68,-28,40,1.05,,,,,20571.0,Troy Deeney - 10,Heurelho Gomes,,https://fbref.com/en/squads/2abfe087/2016-2017/Watford-Stats,2016-2017
+18,Hull City,38,9,7,22,37,80,-43,34,0.89,,,,,20761.0,Robert Snodgrass - 7,Eldin Jakupović,Relegated,https://fbref.com/en/squads/bd8769d1/2016-2017/Hull-City-Stats,2016-2017
+19,Middlesbrough,38,5,13,20,27,53,-26,28,0.74,,,,,30449.0,Álvaro Negredo - 9,Víctor Valdés,Relegated,https://fbref.com/en/squads/7f59c601/2016-2017/Middlesbrough-Stats,2016-2017
+20,Sunderland,38,6,6,26,29,69,-40,24,0.63,,,,,41287.0,Jermain Defoe - 15,Jordan Pickford,Relegated,https://fbref.com/en/squads/8ef52968/2016-2017/Sunderland-Stats,2016-2017
+1,Leicester City,38,23,12,3,68,36,32,81,2.13,,,,,32021.0,Jamie Vardy - 24,Kasper Schmeichel,→ Champions League via league finish,https://fbref.com/en/squads/a2d435b3/2015-2016/Leicester-City-Stats,2015-2016
+2,Arsenal,38,20,11,7,65,36,29,71,1.87,,,,,59944.0,Olivier Giroud - 16,Petr Čech,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2015-2016/Arsenal-Stats,2015-2016
+3,Tottenham,38,19,13,6,69,35,34,70,1.84,,,,,35776.0,Harry Kane - 25,Hugo Lloris,→ Champions League via league finish,https://fbref.com/en/squads/361ca564/2015-2016/Tottenham-Hotspur-Stats,2015-2016
+4,Manchester City,38,19,9,10,71,41,30,66,1.74,,,,,54041.0,Sergio Agüero - 24,Joe Hart,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2015-2016/Manchester-City-Stats,2015-2016
+5,Manchester United,38,19,9,10,49,35,14,66,1.74,,,,,75279.0,Anthony Martial - 11,David de Gea,→ Europa League via cup win 1,https://fbref.com/en/squads/19538871/2015-2016/Manchester-United-Stats,2015-2016
+6,Southampton,38,18,9,11,59,41,18,63,1.66,,,,,30751.0,"Sadio Mané, Graziano Pellè - 11",Fraser Forster,→ Europa League via league finish 2,https://fbref.com/en/squads/33c895d4/2015-2016/Southampton-Stats,2015-2016
+7,West Ham,38,16,14,8,65,51,14,62,1.63,,,,,34910.0,"Dimitri Payet, Andy Carroll - 9",Adrián,→ Europa League via league finish 3,https://fbref.com/en/squads/7c21e445/2015-2016/West-Ham-United-Stats,2015-2016
+8,Liverpool,38,16,12,10,63,50,13,60,1.58,,,,,43910.0,Roberto Firmino - 10,Simon Mignolet,,https://fbref.com/en/squads/822bd0ba/2015-2016/Liverpool-Stats,2015-2016
+9,Stoke City,38,14,9,15,41,55,-14,51,1.34,,,,,27534.0,Marko Arnautović - 11,Jack Butland,,https://fbref.com/en/squads/17892952/2015-2016/Stoke-City-Stats,2015-2016
+10,Chelsea,38,12,14,12,59,53,6,50,1.32,,,,,41500.0,Diego Costa - 12,Thibaut Courtois,,https://fbref.com/en/squads/cff3d9bb/2015-2016/Chelsea-Stats,2015-2016
+11,Everton,38,11,14,13,59,55,4,47,1.24,,,,,38124.0,Romelu Lukaku - 18,Tim Howard,,https://fbref.com/en/squads/d3fd31cc/2015-2016/Everton-Stats,2015-2016
+12,Swansea City,38,12,11,15,42,52,-10,47,1.24,,,,,20711.0,André Ayew - 12,Łukasz Fabiański,,https://fbref.com/en/squads/fb10988f/2015-2016/Swansea-City-Stats,2015-2016
+13,Watford,38,12,9,17,40,50,-10,45,1.18,,,,,20594.0,Odion Ighalo - 15,Heurelho Gomes,,https://fbref.com/en/squads/2abfe087/2015-2016/Watford-Stats,2015-2016
+14,West Brom,38,10,13,15,34,48,-14,43,1.13,,,,,24631.0,Salomón Rondón - 9,Boaz Myhill,,https://fbref.com/en/squads/60c6b05f/2015-2016/West-Bromwich-Albion-Stats,2015-2016
+15,Crystal Palace,38,11,9,18,39,51,-12,42,1.11,,,,,24825.0,"Scott Dann, Yohan Cabaye... - 5",Wayne Hennessey,,https://fbref.com/en/squads/47c64c55/2015-2016/Crystal-Palace-Stats,2015-2016
+16,Bournemouth,38,11,9,18,45,67,-22,42,1.11,,,,,11189.0,Joshua King - 6,Artur Boruc,,https://fbref.com/en/squads/4ba7cbea/2015-2016/Bournemouth-Stats,2015-2016
+17,Sunderland,38,9,12,17,48,62,-14,39,1.03,,,,,43071.0,Jermain Defoe - 15,Vito Mannone,,https://fbref.com/en/squads/8ef52968/2015-2016/Sunderland-Stats,2015-2016
+18,Newcastle United,38,9,10,19,44,65,-21,37,0.97,,,,,49754.0,Georginio Wijnaldum - 11,Rob Elliot,Relegated,https://fbref.com/en/squads/b2b47a98/2015-2016/Newcastle-United-Stats,2015-2016
+19,Norwich City,38,9,7,22,39,67,-28,34,0.89,,,,,26972.0,Dieumerci Mbokani - 7,John Ruddy,Relegated,https://fbref.com/en/squads/1c781004/2015-2016/Norwich-City-Stats,2015-2016
+20,Aston Villa,38,3,8,27,27,76,-49,17,0.45,,,,,33690.0,Jordan Ayew - 7,Brad Guzan,Relegated,https://fbref.com/en/squads/8602292d/2015-2016/Aston-Villa-Stats,2015-2016
+1,Chelsea,38,26,9,3,73,32,41,87,2.29,,,,,41546.0,Diego Costa - 20,Thibaut Courtois,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2014-2015/Chelsea-Stats,2014-2015
+2,Manchester City,38,24,7,7,83,38,45,79,2.08,,,,,45365.0,Sergio Agüero - 26,Joe Hart,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2014-2015/Manchester-City-Stats,2014-2015
+3,Arsenal,38,22,9,7,71,36,35,75,1.97,,,,,59992.0,Alexis Sánchez - 16,David Ospina,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2014-2015/Arsenal-Stats,2014-2015
+4,Manchester United,38,20,10,8,62,37,25,70,1.84,,,,,75335.0,Wayne Rooney - 12,David de Gea,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2014-2015/Manchester-United-Stats,2014-2015
+5,Tottenham,38,19,7,12,58,53,5,64,1.68,,,,,35728.0,Harry Kane - 21,Hugo Lloris,→ Europa League via league finish,https://fbref.com/en/squads/361ca564/2014-2015/Tottenham-Hotspur-Stats,2014-2015
+6,Liverpool,38,18,8,12,52,48,4,62,1.63,,,,,44659.0,Steven Gerrard - 9,Simon Mignolet,→ Europa League via league finish 1,https://fbref.com/en/squads/822bd0ba/2014-2015/Liverpool-Stats,2014-2015
+7,Southampton,38,18,6,14,54,33,21,60,1.58,,,,,30652.0,Graziano Pellè - 12,Fraser Forster,→ Europa League via league finish 2,https://fbref.com/en/squads/33c895d4/2014-2015/Southampton-Stats,2014-2015
+8,Swansea City,38,16,8,14,46,49,-3,56,1.47,,,,,20555.0,Wilfried Bony - 9,Łukasz Fabiański,,https://fbref.com/en/squads/fb10988f/2014-2015/Swansea-City-Stats,2014-2015
+9,Stoke City,38,15,9,14,48,45,3,54,1.42,,,,,26747.0,Mame Biram Diouf - 11,Asmir Begović,,https://fbref.com/en/squads/17892952/2014-2015/Stoke-City-Stats,2014-2015
+10,Crystal Palace,38,13,9,16,47,51,-4,48,1.26,,,,,24421.0,Glenn Murray - 7,Julián Speroni,,https://fbref.com/en/squads/47c64c55/2014-2015/Crystal-Palace-Stats,2014-2015
+11,Everton,38,12,11,15,48,50,-2,47,1.24,,,,,38405.0,Romelu Lukaku - 10,Tim Howard,,https://fbref.com/en/squads/d3fd31cc/2014-2015/Everton-Stats,2014-2015
+12,West Ham,38,12,11,15,44,47,-3,47,1.24,,,,,34871.0,Diafra Sakho - 10,Adrián,→ Europa League 3,https://fbref.com/en/squads/7c21e445/2014-2015/West-Ham-United-Stats,2014-2015
+13,West Brom,38,11,11,16,38,51,-13,44,1.16,,,,,25064.0,Saido Berahino - 14,Ben Foster,,https://fbref.com/en/squads/60c6b05f/2014-2015/West-Bromwich-Albion-Stats,2014-2015
+14,Leicester City,38,11,8,19,46,55,-9,41,1.08,,,,,31693.0,Leonardo Ulloa - 11,Kasper Schmeichel,,https://fbref.com/en/squads/a2d435b3/2014-2015/Leicester-City-Stats,2014-2015
+15,Newcastle United,38,10,9,19,40,63,-23,39,1.03,,,,,50359.0,Papiss Cissé - 11,Tim Krul,,https://fbref.com/en/squads/b2b47a98/2014-2015/Newcastle-United-Stats,2014-2015
+16,Sunderland,38,7,17,14,31,53,-22,38,1.0,,,,,43157.0,"Steven Fletcher, Connor Wickham - 5",Costel Pantilimon,,https://fbref.com/en/squads/8ef52968/2014-2015/Sunderland-Stats,2014-2015
+17,Aston Villa,38,10,8,20,31,57,-26,38,1.0,,,,,34133.0,Christian Benteke - 13,Brad Guzan,,https://fbref.com/en/squads/8602292d/2014-2015/Aston-Villa-Stats,2014-2015
+18,Hull City,38,8,11,19,33,51,-18,35,0.92,,,,,23557.0,Nikica Jelavić - 8,Allan McGregor,Relegated,https://fbref.com/en/squads/bd8769d1/2014-2015/Hull-City-Stats,2014-2015
+19,Burnley,38,7,12,19,28,53,-25,33,0.87,,,,,19131.0,Danny Ings - 11,Tom Heaton,Relegated,https://fbref.com/en/squads/943e8050/2014-2015/Burnley-Stats,2014-2015
+20,QPR,38,8,6,24,42,73,-31,30,0.79,,,,,17809.0,Charlie Austin - 18,Robert Green,Relegated,https://fbref.com/en/squads/a757999c/2014-2015/Queens-Park-Rangers-Stats,2014-2015
+1,Manchester City,38,27,5,6,102,37,65,86,2.26,,,,,47080.0,Yaya Touré - 20,Joe Hart,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2013-2014/Manchester-City-Stats,2013-2014
+2,Liverpool,38,26,6,6,101,50,51,84,2.21,,,,,44671.0,Luis Suárez - 31,Simon Mignolet,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2013-2014/Liverpool-Stats,2013-2014
+3,Chelsea,38,25,7,6,71,27,44,82,2.16,,,,,41482.0,Eden Hazard - 14,Petr Čech,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2013-2014/Chelsea-Stats,2013-2014
+4,Arsenal,38,24,7,7,68,41,27,79,2.08,,,,,60013.0,Olivier Giroud - 16,Wojciech Szczęsny,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2013-2014/Arsenal-Stats,2013-2014
+5,Everton,38,21,9,8,61,39,22,72,1.89,,,,,37732.0,Romelu Lukaku - 15,Tim Howard,→ Europa League via league finish 1,https://fbref.com/en/squads/d3fd31cc/2013-2014/Everton-Stats,2013-2014
+6,Tottenham,38,21,6,11,55,51,4,69,1.82,,,,,35808.0,Emmanuel Adebayor - 11,Hugo Lloris,→ Europa League via league finish,https://fbref.com/en/squads/361ca564/2013-2014/Tottenham-Hotspur-Stats,2013-2014
+7,Manchester United,38,19,7,12,64,43,21,64,1.68,,,,,75207.0,Wayne Rooney - 17,David de Gea,,https://fbref.com/en/squads/19538871/2013-2014/Manchester-United-Stats,2013-2014
+8,Southampton,38,15,11,12,54,46,8,56,1.47,,,,,30212.0,Jay Rodriguez - 15,Artur Boruc,,https://fbref.com/en/squads/33c895d4/2013-2014/Southampton-Stats,2013-2014
+9,Stoke City,38,13,11,14,45,52,-7,50,1.32,,,,,26137.0,Charlie Adam - 8,Asmir Begović,,https://fbref.com/en/squads/17892952/2013-2014/Stoke-City-Stats,2013-2014
+10,Newcastle United,38,15,4,19,43,59,-16,49,1.29,,,,,50395.0,Loïc Rémy - 14,Tim Krul,,https://fbref.com/en/squads/b2b47a98/2013-2014/Newcastle-United-Stats,2013-2014
+11,Crystal Palace,38,13,6,19,33,48,-15,45,1.18,,,,,24114.0,"Dwight Gayle, Jason Puncheon - 7",Julián Speroni,,https://fbref.com/en/squads/47c64c55/2013-2014/Crystal-Palace-Stats,2013-2014
+12,Swansea City,38,11,9,18,54,54,0,42,1.11,,,,,20407.0,Wilfried Bony - 16,Michel Vorm,,https://fbref.com/en/squads/fb10988f/2013-2014/Swansea-City-Stats,2013-2014
+13,West Ham,38,11,7,20,40,51,-11,40,1.05,,,,,34197.0,Kevin Nolan - 7,Adrián,,https://fbref.com/en/squads/7c21e445/2013-2014/West-Ham-United-Stats,2013-2014
+14,Sunderland,38,10,8,20,41,60,-19,38,1.0,,,,,41090.0,Adam Johnson - 8,Vito Mannone,,https://fbref.com/en/squads/8ef52968/2013-2014/Sunderland-Stats,2013-2014
+15,Aston Villa,38,10,8,20,39,61,-22,38,1.0,,,,,36081.0,Christian Benteke - 10,Brad Guzan,,https://fbref.com/en/squads/8602292d/2013-2014/Aston-Villa-Stats,2013-2014
+16,Hull City,38,10,7,21,38,53,-15,37,0.97,,,,,24117.0,Nikica Jelavić - 5,Allan McGregor,→ Europa League via cup loss 2,https://fbref.com/en/squads/bd8769d1/2013-2014/Hull-City-Stats,2013-2014
+17,West Brom,38,7,15,16,43,59,-16,36,0.95,,,,,25194.0,"Saido Berahino, Stéphane Sessègnon - 5",Ben Foster,,https://fbref.com/en/squads/60c6b05f/2013-2014/West-Bromwich-Albion-Stats,2013-2014
+18,Norwich City,38,8,9,21,28,62,-34,33,0.87,,,,,26805.0,"Gary Hooper, Robert Snodgrass - 6",John Ruddy,Relegated,https://fbref.com/en/squads/1c781004/2013-2014/Norwich-City-Stats,2013-2014
+19,Fulham,38,9,5,24,40,85,-45,32,0.84,,,,,24977.0,Steve Sidwell - 7,David Stockdale,Relegated,https://fbref.com/en/squads/fd962109/2013-2014/Fulham-Stats,2013-2014
+20,Cardiff City,38,7,9,22,32,74,-42,30,0.79,,,,,27430.0,Jordon Mutch - 7,David Marshall,Relegated,https://fbref.com/en/squads/75fae011/2013-2014/Cardiff-City-Stats,2013-2014
+1,Manchester United,38,28,5,5,86,43,43,89,2.34,,,,,75530.0,Robin van Persie - 26,David de Gea,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2012-2013/Manchester-United-Stats,2012-2013
+2,Manchester City,38,23,9,6,66,34,32,78,2.05,,,,,46974.0,Edin Džeko - 14,Joe Hart,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2012-2013/Manchester-City-Stats,2012-2013
+3,Chelsea,38,22,9,7,75,39,36,75,1.97,,,,,41462.0,Frank Lampard - 15,Petr Čech,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2012-2013/Chelsea-Stats,2012-2013
+4,Arsenal,38,21,10,7,72,37,35,73,1.92,,,,,60079.0,Theo Walcott - 14,Wojciech Szczęsny,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2012-2013/Arsenal-Stats,2012-2013
+5,Tottenham,38,21,9,8,66,46,20,72,1.89,,,,,36030.0,Gareth Bale - 21,Hugo Lloris,→ Europa League via league finish,https://fbref.com/en/squads/361ca564/2012-2013/Tottenham-Hotspur-Stats,2012-2013
+6,Everton,38,16,15,7,55,40,15,63,1.66,,,,,36356.0,Marouane Fellaini - 11,Tim Howard,,https://fbref.com/en/squads/d3fd31cc/2012-2013/Everton-Stats,2012-2013
+7,Liverpool,38,16,13,9,71,43,28,61,1.61,,,,,44749.0,Luis Suárez - 23,Pepe Reina,,https://fbref.com/en/squads/822bd0ba/2012-2013/Liverpool-Stats,2012-2013
+8,West Brom,38,14,7,17,53,57,-4,49,1.29,,,,,25360.0,Romelu Lukaku - 17,Ben Foster,,https://fbref.com/en/squads/60c6b05f/2012-2013/West-Bromwich-Albion-Stats,2012-2013
+9,Swansea City,38,11,13,14,47,51,-4,46,1.21,,,,,20370.0,Michu - 18,Michel Vorm,→ Europa League via cup win 1,https://fbref.com/en/squads/fb10988f/2012-2013/Swansea-City-Stats,2012-2013
+10,West Ham,38,12,10,16,45,53,-8,46,1.21,,,,,34720.0,Kevin Nolan - 10,Jussi Jääskeläinen,,https://fbref.com/en/squads/7c21e445/2012-2013/West-Ham-United-Stats,2012-2013
+11,Norwich City,38,10,14,14,41,58,-17,44,1.16,,,,,26672.0,Grant Holt - 8,Mark Bunn,,https://fbref.com/en/squads/1c781004/2012-2013/Norwich-City-Stats,2012-2013
+12,Fulham,38,11,10,17,50,60,-10,43,1.13,,,,,25394.0,Dimitar Berbatov - 15,Mark Schwarzer,,https://fbref.com/en/squads/fd962109/2012-2013/Fulham-Stats,2012-2013
+13,Stoke City,38,9,15,14,34,45,-11,42,1.11,,,,,26732.0,Jonathan Walters - 8,Asmir Begović,,https://fbref.com/en/squads/17892952/2012-2013/Stoke-City-Stats,2012-2013
+14,Southampton,38,9,14,15,49,60,-11,41,1.08,,,,,30874.0,Rickie Lambert - 15,Artur Boruc,,https://fbref.com/en/squads/33c895d4/2012-2013/Southampton-Stats,2012-2013
+15,Aston Villa,38,10,11,17,47,69,-22,41,1.08,,,,,35060.0,Christian Benteke - 19,Brad Guzan,,https://fbref.com/en/squads/8602292d/2012-2013/Aston-Villa-Stats,2012-2013
+16,Newcastle United,38,11,8,19,45,68,-23,41,1.08,,,,,50517.0,Demba Ba - 13,Tim Krul,,https://fbref.com/en/squads/b2b47a98/2012-2013/Newcastle-United-Stats,2012-2013
+17,Sunderland,38,9,12,17,41,54,-13,39,1.03,,,,,40544.0,Steven Fletcher - 11,Simon Mignolet,,https://fbref.com/en/squads/8ef52968/2012-2013/Sunderland-Stats,2012-2013
+18,Wigan Athletic,38,9,9,20,47,73,-26,36,0.95,,,,,19359.0,Arouna Koné - 11,Ali Al-Habsi,"Relegated, → Europa League via cup win 2",https://fbref.com/en/squads/e59ddc76/2012-2013/Wigan-Athletic-Stats,2012-2013
+19,Reading,38,6,10,22,43,73,-30,28,0.74,,,,,23862.0,Adam le Fondre - 12,Adam Federici,Relegated,https://fbref.com/en/squads/b0ac61ff/2012-2013/Reading-Stats,2012-2013
+20,QPR,38,4,13,21,30,60,-30,25,0.66,,,,,17779.0,Loïc Rémy - 6,Júlio César,Relegated,https://fbref.com/en/squads/a757999c/2012-2013/Queens-Park-Rangers-Stats,2012-2013
+1,Manchester City,38,28,5,5,93,29,64,89,2.34,,,,,47045.0,Sergio Agüero - 23,Joe Hart,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2011-2012/Manchester-City-Stats,2011-2012
+2,Manchester United,38,28,5,5,89,33,56,89,2.34,,,,,75387.0,Wayne Rooney - 27,David de Gea,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2011-2012/Manchester-United-Stats,2011-2012
+3,Arsenal,38,21,7,10,74,49,25,70,1.84,,,,,60000.0,Robin van Persie - 30,Wojciech Szczęsny,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2011-2012/Arsenal-Stats,2011-2012
+4,Tottenham,38,20,9,9,66,41,25,69,1.82,,,,,36026.0,Emmanuel Adebayor - 17,Brad Friedel,→ Europa League via league finish,https://fbref.com/en/squads/361ca564/2011-2012/Tottenham-Hotspur-Stats,2011-2012
+5,Newcastle United,38,19,8,11,56,51,5,65,1.71,,,,,49936.0,Demba Ba - 16,Tim Krul,→ Europa League via league finish,https://fbref.com/en/squads/b2b47a98/2011-2012/Newcastle-United-Stats,2011-2012
+6,Chelsea,38,18,10,10,65,46,19,64,1.68,,,,,41478.0,"Frank Lampard, Daniel Sturridge - 11",Petr Čech,→ Champions League via Champions League win,https://fbref.com/en/squads/cff3d9bb/2011-2012/Chelsea-Stats,2011-2012
+7,Everton,38,15,11,12,50,40,10,56,1.47,,,,,33228.0,Nikica Jelavić - 9,Tim Howard,,https://fbref.com/en/squads/d3fd31cc/2011-2012/Everton-Stats,2011-2012
+8,Liverpool,38,14,10,14,47,40,7,52,1.37,,,,,44253.0,Luis Suárez - 11,Pepe Reina,→ Europa League via cup win 1,https://fbref.com/en/squads/822bd0ba/2011-2012/Liverpool-Stats,2011-2012
+9,Fulham,38,14,10,14,48,51,-3,52,1.37,,,,,25293.0,Clint Dempsey - 17,Mark Schwarzer,,https://fbref.com/en/squads/fd962109/2011-2012/Fulham-Stats,2011-2012
+10,West Brom,38,13,8,17,45,52,-7,47,1.24,,,,,24798.0,Peter Odemwingie - 10,Ben Foster,,https://fbref.com/en/squads/60c6b05f/2011-2012/West-Bromwich-Albion-Stats,2011-2012
+11,Swansea City,38,12,11,15,44,51,-7,47,1.24,,,,,19946.0,Danny Graham - 12,Michel Vorm,,https://fbref.com/en/squads/fb10988f/2011-2012/Swansea-City-Stats,2011-2012
+12,Norwich City,38,12,11,15,52,66,-14,47,1.24,,,,,26606.0,Grant Holt - 15,John Ruddy,,https://fbref.com/en/squads/1c781004/2011-2012/Norwich-City-Stats,2011-2012
+13,Sunderland,38,11,12,15,45,46,-1,45,1.18,,,,,39095.0,Nicklas Bendtner - 8,Simon Mignolet,,https://fbref.com/en/squads/8ef52968/2011-2012/Sunderland-Stats,2011-2012
+14,Stoke City,38,11,12,15,36,53,-17,45,1.18,,,,,27226.0,Peter Crouch - 10,Asmir Begović,,https://fbref.com/en/squads/17892952/2011-2012/Stoke-City-Stats,2011-2012
+15,Wigan Athletic,38,11,10,17,42,62,-20,43,1.13,,,,,18634.0,Franco Di Santo - 7,Ali Al-Habsi,,https://fbref.com/en/squads/e59ddc76/2011-2012/Wigan-Athletic-Stats,2011-2012
+16,Aston Villa,38,7,17,14,37,53,-16,38,1.0,,,,,33873.0,Darren Bent - 9,Shay Given,,https://fbref.com/en/squads/8602292d/2011-2012/Aston-Villa-Stats,2011-2012
+17,QPR,38,10,7,21,43,66,-23,37,0.97,,,,,17295.0,Heiðar Helguson - 8,Paddy Kenny,,https://fbref.com/en/squads/a757999c/2011-2012/Queens-Park-Rangers-Stats,2011-2012
+18,Bolton,38,10,6,22,46,77,-31,36,0.95,,,,,23670.0,Ivan Klasnić - 8,Ádám Bogdán,Relegated,https://fbref.com/en/squads/445d3104/2011-2012/Bolton-Wanderers-Stats,2011-2012
+19,Blackburn,38,8,7,23,48,78,-30,31,0.82,,,,,22551.0,Yakubu Aiyegbeni - 17,Paul Robinson,Relegated,https://fbref.com/en/squads/e090f40b/2011-2012/Blackburn-Rovers-Stats,2011-2012
+20,Wolves,38,5,10,23,40,82,-42,25,0.66,,,,,25682.0,Steven Fletcher - 12,Wayne Hennessey,Relegated,https://fbref.com/en/squads/8cec06e1/2011-2012/Wolverhampton-Wanderers-Stats,2011-2012
+1,Manchester United,38,23,11,4,78,37,41,80,2.11,,,,,75109.0,Dimitar Berbatov - 20,Edwin van der Sar,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2010-2011/Manchester-United-Stats,2010-2011
+2,Chelsea,38,21,8,9,69,33,36,71,1.87,,,,,41435.0,Florent Malouda - 13,Petr Čech,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2010-2011/Chelsea-Stats,2010-2011
+3,Manchester City,38,21,8,9,60,33,27,71,1.87,,,,,45880.0,Carlos Tevez - 20,Joe Hart,→ Champions League via league finish,https://fbref.com/en/squads/b8fd03ef/2010-2011/Manchester-City-Stats,2010-2011
+4,Arsenal,38,19,11,8,72,43,29,68,1.79,,,,,60025.0,Robin van Persie - 18,Wojciech Szczęsny,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2010-2011/Arsenal-Stats,2010-2011
+5,Tottenham,38,16,14,8,55,46,9,62,1.63,,,,,35704.0,Rafael van der Vaart - 13,Heurelho Gomes,→ Europa League via league finish,https://fbref.com/en/squads/361ca564/2010-2011/Tottenham-Hotspur-Stats,2010-2011
+6,Liverpool,38,17,7,14,59,44,15,58,1.53,,,,,42820.0,Dirk Kuyt - 13,Pepe Reina,,https://fbref.com/en/squads/822bd0ba/2010-2011/Liverpool-Stats,2010-2011
+7,Everton,38,13,15,10,51,45,6,54,1.42,,,,,36039.0,Tim Cahill - 9,Tim Howard,,https://fbref.com/en/squads/d3fd31cc/2010-2011/Everton-Stats,2010-2011
+8,Fulham,38,11,16,11,49,43,6,49,1.29,,,,,25043.0,Clint Dempsey - 12,Mark Schwarzer,→ Europa League 1,https://fbref.com/en/squads/fd962109/2010-2011/Fulham-Stats,2010-2011
+9,Aston Villa,38,12,12,14,48,59,-11,48,1.26,,,,,37194.0,Darren Bent - 9,Brad Friedel,,https://fbref.com/en/squads/8602292d/2010-2011/Aston-Villa-Stats,2010-2011
+10,Sunderland,38,12,11,15,45,56,-11,47,1.24,,,,,40011.0,Asamoah Gyan - 10,Simon Mignolet,,https://fbref.com/en/squads/8ef52968/2010-2011/Sunderland-Stats,2010-2011
+11,West Brom,38,12,11,15,56,71,-15,47,1.24,,,,,24683.0,Peter Odemwingie - 15,Scott Carson,,https://fbref.com/en/squads/60c6b05f/2010-2011/West-Bromwich-Albion-Stats,2010-2011
+12,Newcastle United,38,11,13,14,56,57,-1,46,1.21,,,,,47718.0,Kevin Nolan - 12,Tim Krul,,https://fbref.com/en/squads/b2b47a98/2010-2011/Newcastle-United-Stats,2010-2011
+13,Stoke City,38,13,7,18,46,48,-2,46,1.21,,,,,26858.0,Kenwyne Jones - 9,Asmir Begović,→ Europa League via cup loss 2,https://fbref.com/en/squads/17892952/2010-2011/Stoke-City-Stats,2010-2011
+14,Bolton,38,12,10,16,52,56,-4,46,1.21,,,,,22870.0,Johan Elmander - 10,Jussi Jääskeläinen,,https://fbref.com/en/squads/445d3104/2010-2011/Bolton-Wanderers-Stats,2010-2011
+15,Blackburn,38,11,10,17,46,59,-13,43,1.13,,,,,25000.0,"Nikola Kalinić, Junior Hoilett... - 5",Paul Robinson,,https://fbref.com/en/squads/e090f40b/2010-2011/Blackburn-Rovers-Stats,2010-2011
+16,Wigan Athletic,38,9,15,14,40,61,-21,42,1.11,,,,,16812.0,"Charles N'Zogbia, Hugo Rodallega - 9",Ali Al-Habsi,,https://fbref.com/en/squads/e59ddc76/2010-2011/Wigan-Athletic-Stats,2010-2011
+17,Wolves,38,11,7,20,46,66,-20,40,1.05,,,,,27696.0,Steven Fletcher - 10,Wayne Hennessey,,https://fbref.com/en/squads/8cec06e1/2010-2011/Wolverhampton-Wanderers-Stats,2010-2011
+18,Birmingham City,38,8,15,15,37,58,-21,39,1.03,,,,,25462.0,Craig Gardner - 8,Ben Foster,"Relegated, → Europa League via cup win",https://fbref.com/en/squads/ec79b7c2/2010-2011/Birmingham-City-Stats,2010-2011
+19,Blackpool,38,10,9,19,55,78,-23,39,1.03,,,,,15780.0,DJ Campbell - 13,Richard Kingson,Relegated,https://fbref.com/en/squads/7cbf5cb4/2010-2011/Blackpool-Stats,2010-2011
+20,West Ham,38,7,12,19,43,70,-27,33,0.87,,,,,35353.0,Demba Ba - 7,Robert Green,Relegated,https://fbref.com/en/squads/7c21e445/2010-2011/West-Ham-United-Stats,2010-2011
+1,Chelsea,38,27,5,6,103,32,71,86,2.26,,,,,41423.0,Didier Drogba - 29,Petr Čech,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2009-2010/Chelsea-Stats,2009-2010
+2,Manchester United,38,27,4,7,86,28,58,85,2.24,,,,,74864.0,Wayne Rooney - 26,Edwin van der Sar,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2009-2010/Manchester-United-Stats,2009-2010
+3,Arsenal,38,23,6,9,83,41,42,75,1.97,,,,,63256.0,Cesc Fàbregas - 15,Manuel Almunia,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2009-2010/Arsenal-Stats,2009-2010
+4,Tottenham,38,21,7,10,67,41,26,70,1.84,,,,,35794.0,Jermain Defoe - 18,Heurelho Gomes,→ Champions League via league finish,https://fbref.com/en/squads/361ca564/2009-2010/Tottenham-Hotspur-Stats,2009-2010
+5,Manchester City,38,18,13,7,73,45,28,67,1.76,,,,,45513.0,Carlos Tevez - 23,Shay Given,→ Europa League via league finish,https://fbref.com/en/squads/b8fd03ef/2009-2010/Manchester-City-Stats,2009-2010
+6,Aston Villa,38,17,13,8,52,39,13,64,1.68,,,,,38573.0,Gabriel Agbonlahor - 13,Brad Friedel,→ Europa League via league finish 1,https://fbref.com/en/squads/8602292d/2009-2010/Aston-Villa-Stats,2009-2010
+7,Liverpool,38,18,9,11,61,35,26,63,1.66,,,,,42864.0,Fernando Torres - 18,Pepe Reina,→ Europa League via league finish 2,https://fbref.com/en/squads/822bd0ba/2009-2010/Liverpool-Stats,2009-2010
+8,Everton,38,16,13,9,60,49,11,61,1.61,,,,,38765.0,Louis Saha - 13,Tim Howard,,https://fbref.com/en/squads/d3fd31cc/2009-2010/Everton-Stats,2009-2010
+9,Birmingham City,38,13,11,14,38,47,-9,50,1.32,,,,,25246.0,Cameron Jerome - 11,Joe Hart,,https://fbref.com/en/squads/ec79b7c2/2009-2010/Birmingham-City-Stats,2009-2010
+10,Blackburn,38,13,11,14,41,55,-14,50,1.32,,,,,25428.0,David Dunn - 9,Paul Robinson,,https://fbref.com/en/squads/e090f40b/2009-2010/Blackburn-Rovers-Stats,2009-2010
+11,Stoke City,38,11,14,13,34,48,-14,47,1.24,,,,,30358.0,Matthew Etherington - 5,Thomas Sørensen,,https://fbref.com/en/squads/17892952/2009-2010/Stoke-City-Stats,2009-2010
+12,Fulham,38,12,10,16,39,46,-7,46,1.21,,,,,23909.0,Bobby Zamora - 8,Mark Schwarzer,,https://fbref.com/en/squads/fd962109/2009-2010/Fulham-Stats,2009-2010
+13,Sunderland,38,11,11,16,48,56,-8,44,1.16,,,,,40510.0,Darren Bent - 24,Craig Gordon,,https://fbref.com/en/squads/8ef52968/2009-2010/Sunderland-Stats,2009-2010
+14,Bolton,38,10,9,19,42,67,-25,39,1.03,,,,,21881.0,"Ivan Klasnić, Matthew Taylor - 8",Jussi Jääskeläinen,,https://fbref.com/en/squads/445d3104/2009-2010/Bolton-Wanderers-Stats,2009-2010
+15,Wolves,38,9,11,18,32,56,-24,38,1.0,,,,,28366.0,Kevin Doyle - 9,Marcus Hahnemann,,https://fbref.com/en/squads/8cec06e1/2009-2010/Wolverhampton-Wanderers-Stats,2009-2010
+16,Wigan Athletic,38,9,9,20,37,79,-42,36,0.95,,,,,18006.0,Hugo Rodallega - 10,Chris Kirkland,,https://fbref.com/en/squads/e59ddc76/2009-2010/Wigan-Athletic-Stats,2009-2010
+17,West Ham,38,8,11,19,47,66,-19,35,0.92,,,,,33683.0,Carlton Cole - 10,Robert Green,,https://fbref.com/en/squads/7c21e445/2009-2010/West-Ham-United-Stats,2009-2010
+18,Burnley,38,8,6,24,42,82,-40,30,0.79,,,,,21801.0,Steven Fletcher - 8,Brian Jensen,Relegated,https://fbref.com/en/squads/943e8050/2009-2010/Burnley-Stats,2009-2010
+19,Hull City,38,6,12,20,34,75,-41,30,0.79,,,,,25745.0,Stephen Hunt - 6,Boaz Myhill,Relegated,https://fbref.com/en/squads/bd8769d1/2009-2010/Hull-City-Stats,2009-2010
+20,Portsmouth,38,7,7,24,34,66,-32,19,0.5,,,,,18249.0,Aruna Dindane - 8,David James,"9-point deduction 3, Relegated",https://fbref.com/en/squads/76ffc013/2009-2010/Portsmouth-Stats,2009-2010
+1,Manchester United,38,28,6,4,68,24,44,90,2.37,,,,,95385.0,Cristiano Ronaldo - 18,Edwin van der Sar,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2008-2009/Manchester-United-Stats,2008-2009
+2,Liverpool,38,25,11,2,77,27,50,86,2.26,,,,,75328.0,Steven Gerrard - 16,Pepe Reina,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2008-2009/Liverpool-Stats,2008-2009
+3,Chelsea,38,25,8,5,68,24,44,83,2.18,,,,,79017.0,Nicolas Anelka - 19,Petr Čech,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2008-2009/Chelsea-Stats,2008-2009
+4,Arsenal,38,20,12,6,68,37,31,72,1.89,,,,,95063.0,Robin van Persie - 11,Manuel Almunia,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2008-2009/Arsenal-Stats,2008-2009
+5,Everton,38,17,12,9,55,37,18,63,1.66,,,,,56473.0,"Marouane Fellaini, Tim Cahill - 8",Tim Howard,→ Europa League via league finish,https://fbref.com/en/squads/d3fd31cc/2008-2009/Everton-Stats,2008-2009
+6,Aston Villa,38,17,11,10,54,48,6,62,1.63,,,,,68766.0,"Gabriel Agbonlahor, John Carew - 11",Brad Friedel,→ Europa League via league finish 1,https://fbref.com/en/squads/8602292d/2008-2009/Aston-Villa-Stats,2008-2009
+7,Fulham,38,14,11,13,39,34,5,53,1.39,,,,,42042.0,"Andrew Johnson, Clint Dempsey - 7",Mark Schwarzer,→ Europa League via league finish 2,https://fbref.com/en/squads/fd962109/2008-2009/Fulham-Stats,2008-2009
+8,Tottenham,38,14,9,15,45,45,0,51,1.34,,,,,68265.0,Darren Bent - 12,Heurelho Gomes,,https://fbref.com/en/squads/361ca564/2008-2009/Tottenham-Hotspur-Stats,2008-2009
+9,West Ham,38,14,9,15,42,45,-3,51,1.34,,,,,50024.0,Carlton Cole - 10,Robert Green,,https://fbref.com/en/squads/7c21e445/2008-2009/West-Ham-United-Stats,2008-2009
+10,Manchester City,38,15,5,18,58,50,8,50,1.32,,,,,68340.0,Robinho - 14,Joe Hart,,https://fbref.com/en/squads/b8fd03ef/2008-2009/Manchester-City-Stats,2008-2009
+11,Wigan Athletic,38,12,9,17,34,45,-11,45,1.18,,,,,29054.0,Amr Zaki - 10,Chris Kirkland,,https://fbref.com/en/squads/e59ddc76/2008-2009/Wigan-Athletic-Stats,2008-2009
+12,Stoke City,38,12,9,17,38,55,-17,45,1.18,,,,,42687.0,Ricardo Fuller - 11,Thomas Sørensen,,https://fbref.com/en/squads/17892952/2008-2009/Stoke-City-Stats,2008-2009
+13,Bolton,38,11,8,19,41,53,-12,41,1.08,,,,,28482.0,Kevin Davies - 12,Jussi Jääskeläinen,,https://fbref.com/en/squads/445d3104/2008-2009/Bolton-Wanderers-Stats,2008-2009
+14,Portsmouth,38,10,11,17,38,57,-19,41,1.08,,,,,37677.0,Peter Crouch - 10,David James,,https://fbref.com/en/squads/76ffc013/2008-2009/Portsmouth-Stats,2008-2009
+15,Blackburn,38,10,11,17,40,60,-20,41,1.08,,,,,27884.0,Benni McCarthy - 10,Paul Robinson,,https://fbref.com/en/squads/e090f40b/2008-2009/Blackburn-Rovers-Stats,2008-2009
+16,Sunderland,38,9,9,20,34,54,-20,36,0.95,,,,,69372.0,"Kenwyne Jones, Djibril Cissé - 10",Márton Fülöp,,https://fbref.com/en/squads/8ef52968/2008-2009/Sunderland-Stats,2008-2009
+17,Hull City,38,8,11,19,39,64,-25,35,0.92,,,,,39292.0,Geovanni - 8,Boaz Myhill,,https://fbref.com/en/squads/bd8769d1/2008-2009/Hull-City-Stats,2008-2009
+18,Newcastle United,38,7,13,18,40,59,-19,34,0.89,,,,,84205.0,"Obafemi Martins, Michael Owen - 8",Shay Given,Relegated,https://fbref.com/en/squads/b2b47a98/2008-2009/Newcastle-United-Stats,2008-2009
+19,Middlesbrough,38,7,11,20,28,57,-29,32,0.84,,,,,45013.0,Tuncay Şanlı - 7,Ross Turnbull,Relegated,https://fbref.com/en/squads/7f59c601/2008-2009/Middlesbrough-Stats,2008-2009
+20,West Brom,38,8,8,22,36,67,-31,32,0.84,,,,,44612.0,Chris Brunt - 9,Scott Carson,Relegated,https://fbref.com/en/squads/60c6b05f/2008-2009/West-Bromwich-Albion-Stats,2008-2009
+1,Manchester United,38,27,6,5,80,22,58,87,2.29,,,,,719065.0,Cristiano Ronaldo - 31,Edwin van der Sar,→ Champions League via Champions League win,https://fbref.com/en/squads/19538871/2007-2008/Manchester-United-Stats,2007-2008
+2,Chelsea,38,25,10,3,65,26,39,85,2.24,,,,,786543.0,Frank Lampard - 10,Petr Čech,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2007-2008/Chelsea-Stats,2007-2008
+3,Arsenal,38,24,11,3,74,31,43,83,2.18,,,,,,Emmanuel Adebayor - 24,Manuel Almunia,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2007-2008/Arsenal-Stats,2007-2008
+4,Liverpool,38,21,13,4,67,28,39,76,2.0,,,,,,Fernando Torres - 24,Pepe Reina,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2007-2008/Liverpool-Stats,2007-2008
+5,Everton,38,19,8,11,55,33,22,65,1.71,,,,,,Yakubu Aiyegbeni - 15,Tim Howard,→ UEFA Cup via league finish,https://fbref.com/en/squads/d3fd31cc/2007-2008/Everton-Stats,2007-2008
+6,Aston Villa,38,16,12,10,71,51,20,60,1.58,,,,,,John Carew - 13,Scott Carson,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/8602292d/2007-2008/Aston-Villa-Stats,2007-2008
+7,Blackburn,38,15,13,10,50,48,2,58,1.53,,,,,454936.0,Roque Santa Cruz - 19,Brad Friedel,,https://fbref.com/en/squads/e090f40b/2007-2008/Blackburn-Rovers-Stats,2007-2008
+8,Portsmouth,38,16,9,13,48,40,8,57,1.5,,,,,,Benjani - 12,David James,→ UEFA Cup via cup win 1,https://fbref.com/en/squads/76ffc013/2007-2008/Portsmouth-Stats,2007-2008
+9,Manchester City,38,15,10,13,45,53,-8,55,1.45,,,,,,Elano - 8,Joe Hart,→ UEFA Cup 2,https://fbref.com/en/squads/b8fd03ef/2007-2008/Manchester-City-Stats,2007-2008
+10,West Ham,38,13,10,15,42,50,-8,49,1.29,,,,,,Dean Ashton - 10,Robert Green,,https://fbref.com/en/squads/7c21e445/2007-2008/West-Ham-United-Stats,2007-2008
+11,Tottenham,38,11,13,14,66,61,5,46,1.21,,,,,,"Dimitar Berbatov, Robbie Keane - 15",Paul Robinson,→ UEFA Cup via cup win 3,https://fbref.com/en/squads/361ca564/2007-2008/Tottenham-Hotspur-Stats,2007-2008
+12,Newcastle United,38,11,10,17,45,65,-20,43,1.13,,,,,,Michael Owen - 11,Steve Harper,,https://fbref.com/en/squads/b2b47a98/2007-2008/Newcastle-United-Stats,2007-2008
+13,Middlesbrough,38,10,12,16,43,53,-10,42,1.11,,,,,,Stewart Downing - 9,Mark Schwarzer,,https://fbref.com/en/squads/7f59c601/2007-2008/Middlesbrough-Stats,2007-2008
+14,Wigan Athletic,38,10,10,18,34,51,-17,40,1.05,,,,,,Marcus Bent - 7,Chris Kirkland,,https://fbref.com/en/squads/e59ddc76/2007-2008/Wigan-Athletic-Stats,2007-2008
+15,Sunderland,38,11,6,21,36,59,-23,39,1.03,,,,,,Kenwyne Jones - 7,Craig Gordon,,https://fbref.com/en/squads/8ef52968/2007-2008/Sunderland-Stats,2007-2008
+16,Bolton,38,9,10,19,36,54,-18,37,0.97,,,,,,Nicolas Anelka - 10,Jussi Jääskeläinen,,https://fbref.com/en/squads/445d3104/2007-2008/Bolton-Wanderers-Stats,2007-2008
+17,Fulham,38,8,12,18,38,60,-22,36,0.95,,,,,451687.0,Clint Dempsey - 6,Antti Niemi,,https://fbref.com/en/squads/fd962109/2007-2008/Fulham-Stats,2007-2008
+18,Reading,38,10,6,22,41,66,-25,36,0.95,,,,,224058.0,Dave Kitson - 10,Marcus Hahnemann,Relegated,https://fbref.com/en/squads/b0ac61ff/2007-2008/Reading-Stats,2007-2008
+19,Birmingham City,38,8,11,19,46,62,-16,35,0.92,,,,,,Mikael Forssell - 9,Maik Taylor,Relegated,https://fbref.com/en/squads/ec79b7c2/2007-2008/Birmingham-City-Stats,2007-2008
+20,Derby County,38,1,8,29,20,89,-69,11,0.29,,,,,205403.0,Kenny Miller - 4,Stephen Bywater,Relegated,https://fbref.com/en/squads/26ab47ee/2007-2008/Derby-County-Stats,2007-2008
+1,Manchester United,38,28,5,5,83,27,56,89,2.34,,,,,75821.0,Cristiano Ronaldo - 17,Edwin van der Sar,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2006-2007/Manchester-United-Stats,2006-2007
+2,Chelsea,38,24,11,3,64,24,40,83,2.18,,,,,41551.0,Didier Drogba - 20,Petr Čech,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2006-2007/Chelsea-Stats,2006-2007
+3,Liverpool,38,20,8,10,57,27,30,68,1.79,,,,,44801.0,Dirk Kuyt - 12,Pepe Reina,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2006-2007/Liverpool-Stats,2006-2007
+4,Arsenal,38,19,11,8,63,35,28,68,1.79,,,,,60046.0,Robin van Persie - 11,Jens Lehmann,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2006-2007/Arsenal-Stats,2006-2007
+5,Tottenham,38,17,9,12,57,54,3,60,1.58,,,,,35803.0,Dimitar Berbatov - 12,Paul Robinson,→ UEFA Cup via league finish,https://fbref.com/en/squads/361ca564/2006-2007/Tottenham-Hotspur-Stats,2006-2007
+6,Everton,38,15,13,10,52,36,16,58,1.53,,,,,36739.0,Andrew Johnson - 11,Tim Howard,→ UEFA Cup via league finish 1,https://fbref.com/en/squads/d3fd31cc/2006-2007/Everton-Stats,2006-2007
+7,Bolton,38,16,8,14,47,52,-5,56,1.47,,,,,23586.0,Nicolas Anelka - 11,Jussi Jääskeläinen,→ UEFA Cup via league finish 2,https://fbref.com/en/squads/445d3104/2006-2007/Bolton-Wanderers-Stats,2006-2007
+8,Reading,38,16,7,15,52,47,5,55,1.45,,,,,23764.0,Kevin Doyle - 13,Marcus Hahnemann,,https://fbref.com/en/squads/b0ac61ff/2006-2007/Reading-Stats,2006-2007
+9,Portsmouth,38,14,12,12,45,42,3,54,1.42,,,,,19843.0,Nwankwo Kanu - 10,David James,,https://fbref.com/en/squads/76ffc013/2006-2007/Portsmouth-Stats,2006-2007
+10,Blackburn,38,15,7,16,52,54,-2,52,1.37,,,,,21262.0,Benni McCarthy - 18,Brad Friedel,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/e090f40b/2006-2007/Blackburn-Rovers-Stats,2006-2007
+11,Aston Villa,38,11,17,10,43,41,2,50,1.32,,,,,36238.0,Gabriel Agbonlahor - 9,Thomas Sørensen,,https://fbref.com/en/squads/8602292d/2006-2007/Aston-Villa-Stats,2006-2007
+12,Middlesbrough,38,12,10,16,44,49,-5,46,1.21,,,,,27729.0,Mark Viduka - 14,Mark Schwarzer,,https://fbref.com/en/squads/7f59c601/2006-2007/Middlesbrough-Stats,2006-2007
+13,Newcastle United,38,11,10,17,38,47,-9,43,1.13,,,,,50974.0,Obafemi Martins - 11,Shay Given,,https://fbref.com/en/squads/b2b47a98/2006-2007/Newcastle-United-Stats,2006-2007
+14,Manchester City,38,11,9,18,29,44,-15,42,1.11,,,,,39988.0,Joey Barton - 6,Nicky Weaver,,https://fbref.com/en/squads/b8fd03ef/2006-2007/Manchester-City-Stats,2006-2007
+15,West Ham,38,12,5,21,35,59,-24,41,1.08,,,,,34586.0,Bobby Zamora - 11,Robert Green,,https://fbref.com/en/squads/7c21e445/2006-2007/West-Ham-United-Stats,2006-2007
+16,Fulham,38,8,15,15,38,60,-22,39,1.03,,,,,22241.0,Brian McBride - 9,Antti Niemi,,https://fbref.com/en/squads/fd962109/2006-2007/Fulham-Stats,2006-2007
+17,Wigan Athletic,38,10,8,20,37,59,-22,38,1.0,,,,,18437.0,Emile Heskey - 8,Chris Kirkland,,https://fbref.com/en/squads/e59ddc76/2006-2007/Wigan-Athletic-Stats,2006-2007
+18,Sheffield United,38,10,8,20,32,55,-23,38,1.0,,,,,30680.0,Robert Hulse - 8,Paddy Kenny,Relegated,https://fbref.com/en/squads/1df6b87e/2006-2007/Sheffield-United-Stats,2006-2007
+19,Charlton Ath,38,8,10,20,34,60,-26,34,0.89,,,,,26195.0,Darren Bent - 13,Scott Carson,Relegated,https://fbref.com/en/squads/7a8db6d4/2006-2007/Charlton-Athletic-Stats,2006-2007
+20,Watford,38,5,13,20,29,59,-30,28,0.74,,,,,18892.0,Hameur Bouazza - 5,Ben Foster,Relegated,https://fbref.com/en/squads/2abfe087/2006-2007/Watford-Stats,2006-2007
+1,Chelsea,38,29,4,5,72,22,50,91,2.39,,,,,41859.0,Frank Lampard - 16,Petr Čech,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2005-2006/Chelsea-Stats,2005-2006
+2,Manchester United,38,25,8,5,72,34,38,83,2.18,,,,,68765.0,Ruud van Nistelrooy - 21,Edwin van der Sar,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2005-2006/Manchester-United-Stats,2005-2006
+3,Liverpool,38,25,7,6,57,25,32,82,2.16,,,,,44897.0,Steven Gerrard - 10,Pepe Reina,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2005-2006/Liverpool-Stats,2005-2006
+4,Arsenal,38,20,7,11,68,31,37,67,1.76,,,,,38184.0,Thierry Henry - 27,Jens Lehmann,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2005-2006/Arsenal-Stats,2005-2006
+5,Tottenham,38,18,11,9,53,38,15,65,1.71,,,,,36036.0,Robbie Keane - 16,Paul Robinson,→ UEFA Cup via league finish,https://fbref.com/en/squads/361ca564/2005-2006/Tottenham-Hotspur-Stats,2005-2006
+6,Blackburn,38,19,6,13,51,42,9,63,1.66,,,,,21015.0,Craig Bellamy - 13,Brad Friedel,→ UEFA Cup via league finish 1,https://fbref.com/en/squads/e090f40b/2005-2006/Blackburn-Rovers-Stats,2005-2006
+7,Newcastle United,38,17,7,14,47,42,5,58,1.53,,,,,52134.0,Alan Shearer - 10,Shay Given,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/b2b47a98/2005-2006/Newcastle-United-Stats,2005-2006
+8,Bolton,38,15,11,12,49,41,8,56,1.47,,,,,25201.0,"Stelios Giannakopoulos, Kevin Nolan - 9",Jussi Jääskeläinen,,https://fbref.com/en/squads/445d3104/2005-2006/Bolton-Wanderers-Stats,2005-2006
+9,West Ham,38,16,7,15,52,55,-3,55,1.45,,,,,33225.0,Marlon Harewood - 14,Roy Carroll,→ UEFA Cup via cup loss 2,https://fbref.com/en/squads/7c21e445/2005-2006/West-Ham-United-Stats,2005-2006
+10,Wigan Athletic,38,15,6,17,45,52,-7,51,1.34,,,,,20886.0,Henri Camara - 12,Mike Pollitt,,https://fbref.com/en/squads/e59ddc76/2005-2006/Wigan-Athletic-Stats,2005-2006
+11,Everton,38,14,8,16,34,49,-15,50,1.32,,,,,36857.0,James Beattie - 10,Nigel Martyn,,https://fbref.com/en/squads/d3fd31cc/2005-2006/Everton-Stats,2005-2006
+12,Fulham,38,14,6,18,48,58,-10,48,1.26,,,,,20662.0,Collins John - 11,Tony Warner,,https://fbref.com/en/squads/fd962109/2005-2006/Fulham-Stats,2005-2006
+13,Charlton Ath,38,13,8,17,41,55,-14,47,1.24,,,,,26171.0,Darren Bent - 18,Thomas Myhre,,https://fbref.com/en/squads/7a8db6d4/2005-2006/Charlton-Athletic-Stats,2005-2006
+14,Middlesbrough,38,12,9,17,48,58,-10,45,1.18,,,,,28467.0,Yakubu Aiyegbeni - 13,Mark Schwarzer,,https://fbref.com/en/squads/7f59c601/2005-2006/Middlesbrough-Stats,2005-2006
+15,Manchester City,38,13,4,21,43,48,-5,43,1.13,,,,,42856.0,Andy Cole - 9,David James,,https://fbref.com/en/squads/b8fd03ef/2005-2006/Manchester-City-Stats,2005-2006
+16,Aston Villa,38,10,12,16,42,55,-13,42,1.11,,,,,34112.0,"Milan Baroš, Luke Moore - 8",Thomas Sørensen,,https://fbref.com/en/squads/8602292d/2005-2006/Aston-Villa-Stats,2005-2006
+17,Portsmouth,38,10,8,20,37,62,-25,38,1.0,,,,,19868.0,Lomana LuaLua - 7,Jamie Ashdown,,https://fbref.com/en/squads/76ffc013/2005-2006/Portsmouth-Stats,2005-2006
+18,Birmingham City,38,8,10,20,28,50,-22,34,0.89,,,,,27390.0,Jiří Jarošík - 5,Maik Taylor,Relegated,https://fbref.com/en/squads/ec79b7c2/2005-2006/Birmingham-City-Stats,2005-2006
+19,West Brom,38,7,9,22,31,58,-27,30,0.79,,,,,25203.0,"Nathan Ellington, Nwankwo Kanu - 5",Tomasz Kuszczak,Relegated,https://fbref.com/en/squads/60c6b05f/2005-2006/West-Bromwich-Albion-Stats,2005-2006
+20,Sunderland,38,3,6,29,26,69,-43,15,0.39,,,,,33904.0,"Liam Lawrence, Anthony Le Tallec... - 3",Kelvin Davis,Relegated,https://fbref.com/en/squads/8ef52968/2005-2006/Sunderland-Stats,2005-2006
+1,Chelsea,38,29,8,1,72,15,57,95,2.5,,,,,41907.0,Frank Lampard - 13,Petr Čech,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2004-2005/Chelsea-Stats,2004-2005
+2,Arsenal,38,25,8,5,87,36,51,83,2.18,,,,,37979.0,Thierry Henry - 25,Jens Lehmann,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2004-2005/Arsenal-Stats,2004-2005
+3,Manchester United,38,22,11,5,58,26,32,77,2.03,,,,,67871.0,Wayne Rooney - 11,Roy Carroll,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2004-2005/Manchester-United-Stats,2004-2005
+4,Everton,38,18,7,13,45,46,-1,61,1.61,,,,,36819.0,Tim Cahill - 11,Nigel Martyn,→ Champions League via league finish,https://fbref.com/en/squads/d3fd31cc/2004-2005/Everton-Stats,2004-2005
+5,Liverpool,38,17,7,14,52,41,11,58,1.53,,,,,42550.0,Milan Baroš - 9,Jerzy Dudek,→ Champions League 1,https://fbref.com/en/squads/822bd0ba/2004-2005/Liverpool-Stats,2004-2005
+6,Bolton,38,16,10,12,49,44,5,58,1.53,,,,,25953.0,El Hadji Diouf - 9,Jussi Jääskeläinen,→ UEFA Cup via league finish 2,https://fbref.com/en/squads/445d3104/2004-2005/Bolton-Wanderers-Stats,2004-2005
+7,Middlesbrough,38,14,13,11,53,46,7,55,1.45,,,,,31938.0,Jimmy Floyd Hasselbaink - 13,Mark Schwarzer,→ UEFA Cup via league finish 3,https://fbref.com/en/squads/7f59c601/2004-2005/Middlesbrough-Stats,2004-2005
+8,Manchester City,38,13,13,12,47,39,8,52,1.37,,,,,45259.0,Robbie Fowler - 11,David James,,https://fbref.com/en/squads/b8fd03ef/2004-2005/Manchester-City-Stats,2004-2005
+9,Tottenham,38,14,10,14,47,41,6,52,1.37,,,,,35931.0,Jermain Defoe - 13,Paul Robinson,,https://fbref.com/en/squads/361ca564/2004-2005/Tottenham-Hotspur-Stats,2004-2005
+10,Aston Villa,38,12,11,15,45,52,-7,47,1.24,,,,,37354.0,Nolberto Solano - 8,Thomas Sørensen,,https://fbref.com/en/squads/8602292d/2004-2005/Aston-Villa-Stats,2004-2005
+11,Charlton Ath,38,12,10,16,42,58,-16,46,1.21,,,,,26384.0,Shaun Bartlett - 6,Dean Kiely,,https://fbref.com/en/squads/7a8db6d4/2004-2005/Charlton-Athletic-Stats,2004-2005
+12,Birmingham City,38,11,12,15,40,46,-6,45,1.18,,,,,28760.0,Emile Heskey - 10,Maik Taylor,,https://fbref.com/en/squads/ec79b7c2/2004-2005/Birmingham-City-Stats,2004-2005
+13,Fulham,38,12,8,18,52,60,-8,44,1.16,,,,,19839.0,Andy Cole - 12,Edwin van der Sar,,https://fbref.com/en/squads/fd962109/2004-2005/Fulham-Stats,2004-2005
+14,Newcastle United,38,10,14,14,47,57,-10,44,1.16,,,,,51846.0,"Craig Bellamy, Alan Shearer - 7",Shay Given,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/b2b47a98/2004-2005/Newcastle-United-Stats,2004-2005
+15,Blackburn,38,9,15,14,32,43,-11,42,1.11,,,,,22315.0,Paul Dickov - 9,Brad Friedel,,https://fbref.com/en/squads/e090f40b/2004-2005/Blackburn-Rovers-Stats,2004-2005
+16,Portsmouth,38,10,9,19,43,59,-16,39,1.03,,,,,20087.0,Yakubu Aiyegbeni - 13,Shaka Hislop,,https://fbref.com/en/squads/76ffc013/2004-2005/Portsmouth-Stats,2004-2005
+17,West Brom,38,6,16,16,36,61,-25,34,0.89,,,,,26044.0,Robert Earnshaw - 11,Russell Hoult,,https://fbref.com/en/squads/60c6b05f/2004-2005/West-Bromwich-Albion-Stats,2004-2005
+18,Crystal Palace,38,7,12,19,41,62,-21,33,0.87,,,,,24192.0,Andrew Johnson - 21,Gábor Király,Relegated,https://fbref.com/en/squads/47c64c55/2004-2005/Crystal-Palace-Stats,2004-2005
+19,Norwich City,38,7,12,19,42,77,-35,33,0.87,,,,,24350.0,"Damien Francis, Dean Ashton... - 7",Robert Green,Relegated,https://fbref.com/en/squads/1c781004/2004-2005/Norwich-City-Stats,2004-2005
+20,Southampton,38,6,14,18,45,66,-21,32,0.84,,,,,30610.0,Peter Crouch - 12,Antti Niemi,Relegated,https://fbref.com/en/squads/33c895d4/2004-2005/Southampton-Stats,2004-2005
+1,Arsenal,38,26,12,0,73,26,47,90,2.37,,,,,38079.0,Thierry Henry - 30,Jens Lehmann,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2003-2004/Arsenal-Stats,2003-2004
+2,Chelsea,38,24,7,7,67,30,37,79,2.08,,,,,41272.0,Jimmy Floyd Hasselbaink - 12,Carlo Cudicini,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2003-2004/Chelsea-Stats,2003-2004
+3,Manchester United,38,23,6,9,64,35,29,75,1.97,,,,,67641.0,Ruud van Nistelrooy - 20,Tim Howard,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2003-2004/Manchester-United-Stats,2003-2004
+4,Liverpool,38,16,12,10,55,37,18,60,1.58,,,,,42677.0,Michael Owen - 16,Jerzy Dudek,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2003-2004/Liverpool-Stats,2003-2004
+5,Newcastle United,38,13,17,8,52,40,12,56,1.47,,,,,51966.0,Alan Shearer - 22,Shay Given,→ UEFA Cup via league finish,https://fbref.com/en/squads/b2b47a98/2003-2004/Newcastle-United-Stats,2003-2004
+6,Aston Villa,38,15,11,12,48,44,4,56,1.47,,,,,36622.0,Juan Pablo Ángel - 16,Thomas Sørensen,,https://fbref.com/en/squads/8602292d/2003-2004/Aston-Villa-Stats,2003-2004
+7,Charlton Ath,38,14,11,13,51,51,0,53,1.39,,,,,26278.0,Jason Euell - 10,Dean Kiely,,https://fbref.com/en/squads/7a8db6d4/2003-2004/Charlton-Athletic-Stats,2003-2004
+8,Bolton,38,14,11,13,48,56,-8,53,1.39,,,,,26718.0,"Kevin Davies, Kevin Nolan... - 9",Jussi Jääskeläinen,,https://fbref.com/en/squads/445d3104/2003-2004/Bolton-Wanderers-Stats,2003-2004
+9,Fulham,38,14,10,14,52,46,6,52,1.37,,,,,16240.0,Louis Saha - 13,Edwin van der Sar,,https://fbref.com/en/squads/fd962109/2003-2004/Fulham-Stats,2003-2004
+10,Birmingham City,38,12,14,12,43,48,-5,50,1.32,,,,,29078.0,Mikael Forssell - 17,Maik Taylor,,https://fbref.com/en/squads/ec79b7c2/2003-2004/Birmingham-City-Stats,2003-2004
+11,Middlesbrough,38,13,9,16,44,52,-8,48,1.26,,,,,30395.0,Szilárd Németh - 9,Mark Schwarzer,→ UEFA Cup via cup win 1,https://fbref.com/en/squads/7f59c601/2003-2004/Middlesbrough-Stats,2003-2004
+12,Southampton,38,12,11,15,44,45,-1,47,1.24,,,,,31717.0,James Beattie - 14,Antti Niemi,,https://fbref.com/en/squads/33c895d4/2003-2004/Southampton-Stats,2003-2004
+13,Portsmouth,38,12,9,17,47,54,-7,45,1.18,,,,,20054.0,Yakubu Aiyegbeni - 16,Shaka Hislop,,https://fbref.com/en/squads/76ffc013/2003-2004/Portsmouth-Stats,2003-2004
+14,Tottenham,38,13,6,19,47,57,-10,45,1.18,,,,,34872.0,Robbie Keane - 14,Kasey Keller,,https://fbref.com/en/squads/361ca564/2003-2004/Tottenham-Hotspur-Stats,2003-2004
+15,Blackburn,38,12,8,18,51,59,-8,44,1.16,,,,,24376.0,Andy Cole - 11,Brad Friedel,,https://fbref.com/en/squads/e090f40b/2003-2004/Blackburn-Rovers-Stats,2003-2004
+16,Manchester City,38,9,14,15,55,54,1,41,1.08,,,,,46830.0,Nicolas Anelka - 16,David Seaman,,https://fbref.com/en/squads/b8fd03ef/2003-2004/Manchester-City-Stats,2003-2004
+17,Everton,38,9,12,17,45,57,-12,39,1.03,,,,,38837.0,Wayne Rooney - 9,Nigel Martyn,,https://fbref.com/en/squads/d3fd31cc/2003-2004/Everton-Stats,2003-2004
+18,Leicester City,38,6,15,17,48,65,-17,33,0.87,,,,,30983.0,Les Ferdinand - 12,Ian Walker,Relegated,https://fbref.com/en/squads/a2d435b3/2003-2004/Leicester-City-Stats,2003-2004
+19,Leeds United,38,8,9,21,40,79,-39,33,0.87,,,,,36666.0,Mark Viduka - 11,Paul Robinson,Relegated,https://fbref.com/en/squads/5bfb9659/2003-2004/Leeds-United-Stats,2003-2004
+20,Wolves,38,7,12,19,38,77,-39,33,0.87,,,,,28864.0,Henri Camara - 7,Michael Oakes,Relegated,https://fbref.com/en/squads/8cec06e1/2003-2004/Wolverhampton-Wanderers-Stats,2003-2004
+1,Manchester United,38,25,8,5,74,34,40,83,2.18,,,,,67602.0,Ruud van Nistelrooy - 25,Fabien Barthez,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2002-2003/Manchester-United-Stats,2002-2003
+2,Arsenal,38,23,9,6,85,42,43,78,2.05,,,,,38042.0,Thierry Henry - 24,David Seaman,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2002-2003/Arsenal-Stats,2002-2003
+3,Newcastle United,38,21,6,11,63,48,15,69,1.82,,,,,51923.0,Alan Shearer - 17,Shay Given,→ Champions League via league finish,https://fbref.com/en/squads/b2b47a98/2002-2003/Newcastle-United-Stats,2002-2003
+4,Chelsea,38,19,10,9,68,38,30,67,1.76,,,,,39784.0,Gianfranco Zola - 14,Carlo Cudicini,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/2002-2003/Chelsea-Stats,2002-2003
+5,Liverpool,38,18,10,10,61,41,20,64,1.68,,,,,43243.0,Michael Owen - 19,Jerzy Dudek,→ UEFA Cup via league finish,https://fbref.com/en/squads/822bd0ba/2002-2003/Liverpool-Stats,2002-2003
+6,Blackburn,38,16,12,10,52,43,9,60,1.58,,,,,26226.0,Damien Duff - 9,Brad Friedel,→ UEFA Cup via league finish 1,https://fbref.com/en/squads/e090f40b/2002-2003/Blackburn-Rovers-Stats,2002-2003
+7,Everton,38,17,8,13,48,49,-1,59,1.55,,,,,38504.0,Tomasz Radzinski - 11,Richard Wright,,https://fbref.com/en/squads/d3fd31cc/2002-2003/Everton-Stats,2002-2003
+8,Southampton,38,13,13,12,43,46,-3,52,1.37,,,,,30680.0,James Beattie - 23,Antti Niemi,→ UEFA Cup via cup loss 2,https://fbref.com/en/squads/33c895d4/2002-2003/Southampton-Stats,2002-2003
+9,Manchester City,38,15,6,17,47,54,-7,51,1.34,,,,,34565.0,Nicolas Anelka - 14,Peter Schmeichel,→ UEFA Cup 3,https://fbref.com/en/squads/b8fd03ef/2002-2003/Manchester-City-Stats,2002-2003
+10,Tottenham,38,14,8,16,51,62,-11,50,1.32,,,,,35897.0,Robbie Keane - 13,Kasey Keller,,https://fbref.com/en/squads/361ca564/2002-2003/Tottenham-Hotspur-Stats,2002-2003
+11,Middlesbrough,38,13,10,15,48,44,4,49,1.29,,,,,31025.0,Massimo Maccarone - 9,Mark Schwarzer,,https://fbref.com/en/squads/7f59c601/2002-2003/Middlesbrough-Stats,2002-2003
+12,Charlton Ath,38,14,7,17,45,56,-11,49,1.29,,,,,26258.0,Jason Euell - 10,Dean Kiely,,https://fbref.com/en/squads/7a8db6d4/2002-2003/Charlton-Athletic-Stats,2002-2003
+13,Birmingham City,38,13,9,16,41,49,-8,48,1.26,,,,,28831.0,Clinton Morrison - 6,Nico Vaesen,,https://fbref.com/en/squads/ec79b7c2/2002-2003/Birmingham-City-Stats,2002-2003
+14,Fulham,38,13,9,16,41,50,-9,48,1.26,,,,,16707.0,Steed Malbranque - 6,Edwin van der Sar,,https://fbref.com/en/squads/fd962109/2002-2003/Fulham-Stats,2002-2003
+15,Leeds United,38,14,5,19,58,57,1,47,1.24,,,,,39120.0,Mark Viduka - 20,Paul Robinson,,https://fbref.com/en/squads/5bfb9659/2002-2003/Leeds-United-Stats,2002-2003
+16,Aston Villa,38,12,9,17,42,47,-5,45,1.18,,,,,34975.0,Dion Dublin - 10,Peter Enckelman,,https://fbref.com/en/squads/8602292d/2002-2003/Aston-Villa-Stats,2002-2003
+17,Bolton,38,10,14,14,41,51,-10,44,1.16,,,,,25012.0,"Youri Djorkaeff, Jay-Jay Okocha... - 7",Jussi Jääskeläinen,,https://fbref.com/en/squads/445d3104/2002-2003/Bolton-Wanderers-Stats,2002-2003
+18,West Ham,38,10,12,16,42,59,-17,42,1.11,,,,,34432.0,Paolo Di Canio - 9,David James,Relegated,https://fbref.com/en/squads/7c21e445/2002-2003/West-Ham-United-Stats,2002-2003
+19,West Brom,38,6,8,24,29,65,-36,26,0.68,,,,,26731.0,"Danny Dichio, Scott Dobie - 5",Russell Hoult,Relegated,https://fbref.com/en/squads/60c6b05f/2002-2003/West-Bromwich-Albion-Stats,2002-2003
+20,Sunderland,38,4,7,27,21,65,-44,19,0.5,,,,,39698.0,Kevin Phillips - 6,Thomas Sørensen,Relegated,https://fbref.com/en/squads/8ef52968/2002-2003/Sunderland-Stats,2002-2003
+1,Arsenal,38,26,9,3,79,36,43,87,2.29,,,,,38055.0,Thierry Henry - 24,David Seaman,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2001-2002/Arsenal-Stats,2001-2002
+2,Liverpool,38,24,8,6,67,30,37,80,2.11,,,,,43389.0,Michael Owen - 19,Jerzy Dudek,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2001-2002/Liverpool-Stats,2001-2002
+3,Manchester United,38,24,5,9,87,45,42,77,2.03,,,,,67558.0,Ruud van Nistelrooy - 23,Fabien Barthez,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2001-2002/Manchester-United-Stats,2001-2002
+4,Newcastle United,38,21,8,9,74,52,22,71,1.87,,,,,51373.0,Alan Shearer - 23,Shay Given,→ Champions League via league finish,https://fbref.com/en/squads/b2b47a98/2001-2002/Newcastle-United-Stats,2001-2002
+5,Leeds United,38,18,12,8,53,37,16,66,1.74,,,,,39789.0,Robbie Fowler - 12,Nigel Martyn,→ UEFA Cup via league finish,https://fbref.com/en/squads/5bfb9659/2001-2002/Leeds-United-Stats,2001-2002
+6,Chelsea,38,17,13,8,66,38,28,64,1.68,,,,,39030.0,Jimmy Floyd Hasselbaink - 23,Carlo Cudicini,→ UEFA Cup via cup loss 1,https://fbref.com/en/squads/cff3d9bb/2001-2002/Chelsea-Stats,2001-2002
+7,West Ham,38,15,8,15,48,57,-9,53,1.39,,,,,31569.0,Frédéric Kanouté - 11,David James,,https://fbref.com/en/squads/7c21e445/2001-2002/West-Ham-United-Stats,2001-2002
+8,Aston Villa,38,12,14,12,46,47,-1,50,1.32,,,,,35012.0,"Juan Pablo Ángel, Darius Vassell - 12",Peter Schmeichel,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/8602292d/2001-2002/Aston-Villa-Stats,2001-2002
+9,Tottenham,38,14,8,16,49,53,-4,50,1.32,,,,,35001.0,"Gus Poyet, Teddy Sheringham - 10",Neil Sullivan,,https://fbref.com/en/squads/361ca564/2001-2002/Tottenham-Hotspur-Stats,2001-2002
+10,Blackburn,38,12,10,16,55,51,4,46,1.21,,,,,25976.0,Matt Jansen - 10,Brad Friedel,→ UEFA Cup via cup win 2,https://fbref.com/en/squads/e090f40b/2001-2002/Blackburn-Rovers-Stats,2001-2002
+11,Southampton,38,12,9,17,46,54,-8,45,1.18,,,,,30633.0,Marians Pahars - 14,Paul Jones,,https://fbref.com/en/squads/33c895d4/2001-2002/Southampton-Stats,2001-2002
+12,Middlesbrough,38,12,9,17,35,47,-12,45,1.18,,,,,28461.0,Alen Bokšić - 8,Mark Schwarzer,,https://fbref.com/en/squads/7f59c601/2001-2002/Middlesbrough-Stats,2001-2002
+13,Fulham,38,10,14,14,36,44,-8,44,1.16,,,,,19343.0,"Barry Hayles, Steed Malbranque... - 8",Edwin van der Sar,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/fd962109/2001-2002/Fulham-Stats,2001-2002
+14,Charlton Ath,38,10,14,14,38,49,-11,44,1.16,,,,,24165.0,Jason Euell - 11,Dean Kiely,,https://fbref.com/en/squads/7a8db6d4/2001-2002/Charlton-Athletic-Stats,2001-2002
+15,Everton,38,11,10,17,45,57,-12,43,1.13,,,,,33582.0,"Duncan Ferguson, Tomasz Radzinski - 6",Steve Simonsen,,https://fbref.com/en/squads/d3fd31cc/2001-2002/Everton-Stats,2001-2002
+16,Bolton,38,9,13,16,44,62,-18,40,1.05,,,,,25098.0,Michael Ricketts - 12,Jussi Jääskeläinen,,https://fbref.com/en/squads/445d3104/2001-2002/Bolton-Wanderers-Stats,2001-2002
+17,Sunderland,38,10,10,18,29,51,-22,40,1.05,,,,,46744.0,Kevin Phillips - 11,Thomas Sørensen,,https://fbref.com/en/squads/8ef52968/2001-2002/Sunderland-Stats,2001-2002
+18,Ipswich Town,38,9,9,20,41,64,-23,36,0.95,,,,,24420.0,Marcus Bent - 9,Matteo Sereni,"Relegated, → UEFA Cup 3",https://fbref.com/en/squads/b74092de/2001-2002/Ipswich-Town-Stats,2001-2002
+19,Derby County,38,8,6,24,33,63,-30,30,0.79,,,,,29816.0,"Malcolm Christie, Fabrizio Ravanelli - 9",Andy Oakes,Relegated,https://fbref.com/en/squads/26ab47ee/2001-2002/Derby-County-Stats,2001-2002
+20,Leicester City,38,5,13,20,30,64,-34,28,0.74,,,,,19913.0,Brian Deane - 6,Ian Walker,Relegated,https://fbref.com/en/squads/a2d435b3/2001-2002/Leicester-City-Stats,2001-2002
+1,Manchester United,38,24,8,6,79,31,48,80,2.11,,,,,67490.0,Teddy Sheringham - 15,Fabien Barthez,→ Champions League via league finish,https://fbref.com/en/squads/19538871/2000-2001/Manchester-United-Stats,2000-2001
+2,Arsenal,38,20,10,8,63,38,25,70,1.84,,,,,37974.0,Thierry Henry - 17,David Seaman,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/2000-2001/Arsenal-Stats,2000-2001
+3,Liverpool,38,20,9,9,71,39,32,69,1.82,,,,,43699.0,Michael Owen - 16,Sander Westerveld,→ Champions League via league finish,https://fbref.com/en/squads/822bd0ba/2000-2001/Liverpool-Stats,2000-2001
+4,Leeds United,38,20,8,10,64,43,21,68,1.79,,,,,38974.0,Mark Viduka - 17,Nigel Martyn,→ UEFA Cup via league finish,https://fbref.com/en/squads/5bfb9659/2000-2001/Leeds-United-Stats,2000-2001
+5,Ipswich Town,38,20,6,12,57,42,15,66,1.74,,,,,22459.0,Marcus Stewart - 19,Richard Wright,→ UEFA Cup via league finish 1,https://fbref.com/en/squads/b74092de/2000-2001/Ipswich-Town-Stats,2000-2001
+6,Chelsea,38,17,10,11,68,45,23,61,1.61,,,,,34700.0,Jimmy Floyd Hasselbaink - 23,Carlo Cudicini,→ UEFA Cup via league finish 2,https://fbref.com/en/squads/cff3d9bb/2000-2001/Chelsea-Stats,2000-2001
+7,Sunderland,38,15,12,11,46,41,5,57,1.5,,,,,46831.0,Kevin Phillips - 14,Thomas Sørensen,,https://fbref.com/en/squads/8ef52968/2000-2001/Sunderland-Stats,2000-2001
+8,Aston Villa,38,13,15,10,46,43,3,54,1.42,,,,,31521.0,Dion Dublin - 8,David James,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/8602292d/2000-2001/Aston-Villa-Stats,2000-2001
+9,Charlton Ath,38,14,10,14,50,57,-7,52,1.37,,,,,20021.0,Jonatan Johansson - 11,Dean Kiely,,https://fbref.com/en/squads/7a8db6d4/2000-2001/Charlton-Athletic-Stats,2000-2001
+10,Southampton,38,14,10,14,40,48,-8,52,1.37,,,,,15115.0,James Beattie - 11,Paul Jones,,https://fbref.com/en/squads/33c895d4/2000-2001/Southampton-Stats,2000-2001
+11,Newcastle United,38,14,9,15,44,50,-6,51,1.34,,,,,51309.0,"Carl Cort, Nolberto Solano - 6",Shay Given,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/b2b47a98/2000-2001/Newcastle-United-Stats,2000-2001
+12,Tottenham,38,13,10,15,47,54,-7,49,1.29,,,,,35195.0,Les Ferdinand - 10,Neil Sullivan,,https://fbref.com/en/squads/361ca564/2000-2001/Tottenham-Hotspur-Stats,2000-2001
+13,Leicester City,38,14,6,18,39,51,-12,48,1.26,,,,,20452.0,Ade Akinbiyi - 9,Tim Flowers,,https://fbref.com/en/squads/a2d435b3/2000-2001/Leicester-City-Stats,2000-2001
+14,Middlesbrough,38,9,15,14,44,44,0,42,1.11,,,,,30748.0,Alen Bokšić - 12,Mark Schwarzer,,https://fbref.com/en/squads/7f59c601/2000-2001/Middlesbrough-Stats,2000-2001
+15,West Ham,38,10,12,16,45,50,-5,42,1.11,,,,,26223.0,Frédéric Kanouté - 11,Shaka Hislop,,https://fbref.com/en/squads/7c21e445/2000-2001/West-Ham-United-Stats,2000-2001
+16,Everton,38,11,9,18,45,59,-14,42,1.11,,,,,34131.0,Kevin Campbell - 9,Paul Gerrard,,https://fbref.com/en/squads/d3fd31cc/2000-2001/Everton-Stats,2000-2001
+17,Derby County,38,10,12,16,37,59,-22,42,1.11,,,,,28551.0,Malcolm Christie - 8,Mart Poom,,https://fbref.com/en/squads/26ab47ee/2000-2001/Derby-County-Stats,2000-2001
+18,Manchester City,38,8,10,20,41,65,-24,34,0.89,,,,,34058.0,Paulo Wanchope - 9,Nicky Weaver,Relegated,https://fbref.com/en/squads/b8fd03ef/2000-2001/Manchester-City-Stats,2000-2001
+19,Coventry City,38,8,10,20,36,63,-27,34,0.89,,,,,20582.0,"Craig Bellamy, Mustapha Hadji... - 6",Chris Kirkland,Relegated,https://fbref.com/en/squads/f7e3dfe9/2000-2001/Coventry-City-Stats,2000-2001
+20,Bradford City,38,5,11,22,30,70,-40,26,0.68,,,,,18511.0,Benito Carbone - 5,Gary Walsh,Relegated,https://fbref.com/en/squads/3148d79f/2000-2001/Bradford-City-Stats,2000-2001
+1,Manchester United,38,28,7,3,97,45,52,91,2.39,,,,,56929.0,Dwight Yorke - 20,Mark Bosnich,→ Champions League via league finish,https://fbref.com/en/squads/19538871/1999-2000/Manchester-United-Stats,1999-2000
+2,Arsenal,38,22,7,9,73,43,30,73,1.92,,,,,38033.0,Thierry Henry - 17,David Seaman,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/1999-2000/Arsenal-Stats,1999-2000
+3,Leeds United,38,21,6,11,58,43,15,69,1.82,,,,,39022.0,Michael Bridges - 19,Nigel Martyn,→ Champions League via league finish,https://fbref.com/en/squads/5bfb9659/1999-2000/Leeds-United-Stats,1999-2000
+4,Liverpool,38,19,10,9,51,30,21,67,1.76,,,,,43268.0,Michael Owen - 11,Sander Westerveld,→ UEFA Cup via league finish,https://fbref.com/en/squads/822bd0ba/1999-2000/Liverpool-Stats,1999-2000
+5,Chelsea,38,18,11,9,53,34,19,65,1.71,,,,,34532.0,"Tore André Flo, Gus Poyet - 10",Ed de Goey,→ UEFA Cup via cup win 1,https://fbref.com/en/squads/cff3d9bb/1999-2000/Chelsea-Stats,1999-2000
+6,Aston Villa,38,15,13,10,46,35,11,58,1.53,,,,,31697.0,Dion Dublin - 12,David James,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/8602292d/1999-2000/Aston-Villa-Stats,1999-2000
+7,Sunderland,38,16,10,12,57,56,1,58,1.53,,,,,40540.0,Kevin Phillips - 30,Thomas Sørensen,,https://fbref.com/en/squads/8ef52968/1999-2000/Sunderland-Stats,1999-2000
+8,Leicester City,38,16,7,15,55,55,0,55,1.45,,,,,20489.0,Tony Cottee - 13,Tim Flowers,→ UEFA Cup via cup win 2,https://fbref.com/en/squads/a2d435b3/1999-2000/Leicester-City-Stats,1999-2000
+9,West Ham,38,15,10,13,52,53,-1,55,1.45,,,,,25510.0,Paolo Di Canio - 16,Shaka Hislop,,https://fbref.com/en/squads/7c21e445/1999-2000/West-Ham-United-Stats,1999-2000
+10,Tottenham,38,15,8,15,57,49,8,53,1.39,,,,,34928.0,"Chris Armstrong, Steffen Iversen - 14",Ian Walker,,https://fbref.com/en/squads/361ca564/1999-2000/Tottenham-Hotspur-Stats,1999-2000
+11,Newcastle United,38,14,10,14,63,54,9,52,1.37,,,,,36163.0,Alan Shearer - 23,Steve Harper,,https://fbref.com/en/squads/b2b47a98/1999-2000/Newcastle-United-Stats,1999-2000
+12,Middlesbrough,38,14,10,14,46,52,-6,52,1.37,,,,,32518.0,Hámilton Ricard - 12,Mark Schwarzer,,https://fbref.com/en/squads/7f59c601/1999-2000/Middlesbrough-Stats,1999-2000
+13,Everton,38,12,14,12,59,49,10,50,1.32,,,,,32185.0,Kevin Campbell - 12,Paul Gerrard,,https://fbref.com/en/squads/d3fd31cc/1999-2000/Everton-Stats,1999-2000
+14,Coventry City,38,12,8,18,47,54,-7,44,1.16,,,,,20804.0,Robbie Keane - 12,Magnus Hedman,,https://fbref.com/en/squads/f7e3dfe9/1999-2000/Coventry-City-Stats,1999-2000
+15,Southampton,38,12,8,18,45,62,-17,44,1.16,,,,,15340.0,Marians Pahars - 13,Paul Jones,,https://fbref.com/en/squads/33c895d4/1999-2000/Southampton-Stats,1999-2000
+16,Derby County,38,9,11,18,44,57,-13,38,1.0,,,,,29351.0,Rory Delap - 8,Mart Poom,,https://fbref.com/en/squads/26ab47ee/1999-2000/Derby-County-Stats,1999-2000
+17,Bradford City,38,9,9,20,38,68,-30,36,0.95,,,,,18030.0,Dean Windass - 10,Matt Clarke,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/3148d79f/1999-2000/Bradford-City-Stats,1999-2000
+18,Wimbledon,38,7,12,19,46,74,-28,33,0.87,,,,,18266.0,"Carl Cort, John Hartson - 9",Neil Sullivan,Relegated,https://fbref.com/en/squads/3679c494/1999-2000/Wimbledon-Stats,1999-2000
+19,Sheffield Weds,38,8,7,23,38,70,-32,31,0.82,,,,,24568.0,Gilles De Bilde - 10,Pavel Srníček,Relegated,https://fbref.com/en/squads/bba7d733/1999-2000/Sheffield-Wednesday-Stats,1999-2000
+20,Watford,38,6,6,26,35,77,-42,24,0.63,,,,,19276.0,Heiðar Helguson - 6,Alec Chamberlain,Relegated,https://fbref.com/en/squads/2abfe087/1999-2000/Watford-Stats,1999-2000
+1,Manchester United,38,22,13,3,80,37,43,79,2.08,,,,,55188.0,Dwight Yorke - 18,Peter Schmeichel,→ Champions League via league finish,https://fbref.com/en/squads/19538871/1998-1999/Manchester-United-Stats,1998-1999
+2,Arsenal,38,22,12,4,59,17,42,78,2.05,,,,,38024.0,Nicolas Anelka - 17,David Seaman,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/1998-1999/Arsenal-Stats,1998-1999
+3,Chelsea,38,20,15,3,57,30,27,75,1.97,,,,,34754.0,Gianfranco Zola - 13,Ed de Goey,→ Champions League via league finish,https://fbref.com/en/squads/cff3d9bb/1998-1999/Chelsea-Stats,1998-1999
+4,Leeds United,38,18,13,7,62,34,28,67,1.76,,,,,35807.0,Jimmy Floyd Hasselbaink - 18,Nigel Martyn,→ UEFA Cup via league finish,https://fbref.com/en/squads/5bfb9659/1998-1999/Leeds-United-Stats,1998-1999
+5,West Ham,38,16,9,13,46,53,-7,57,1.5,,,,,25639.0,Ian Wright - 9,Shaka Hislop,→ UEFA Intertoto Cup via league finish,https://fbref.com/en/squads/7c21e445/1998-1999/West-Ham-United-Stats,1998-1999
+6,Aston Villa,38,15,10,13,51,46,5,55,1.45,,,,,36937.0,Julian Joachim - 14,Michael Oakes,,https://fbref.com/en/squads/8602292d/1998-1999/Aston-Villa-Stats,1998-1999
+7,Liverpool,38,15,9,14,68,49,19,54,1.42,,,,,43321.0,Michael Owen - 18,David James,,https://fbref.com/en/squads/822bd0ba/1998-1999/Liverpool-Stats,1998-1999
+8,Derby County,38,13,13,12,40,45,-5,52,1.37,,,,,29193.0,"Deon Burton, Paulo Wanchope - 9",Russell Hoult,,https://fbref.com/en/squads/26ab47ee/1998-1999/Derby-County-Stats,1998-1999
+9,Middlesbrough,38,12,15,11,48,54,-6,51,1.34,,,,,34386.0,Hámilton Ricard - 15,Mark Schwarzer,,https://fbref.com/en/squads/7f59c601/1998-1999/Middlesbrough-Stats,1998-1999
+10,Leicester City,38,12,13,13,40,46,-6,49,1.29,,,,,20469.0,Tony Cottee - 10,Kasey Keller,,https://fbref.com/en/squads/a2d435b3/1998-1999/Leicester-City-Stats,1998-1999
+11,Tottenham,38,11,14,13,47,50,-3,47,1.24,,,,,34152.0,Steffen Iversen - 9,Ian Walker,→ UEFA Cup via cup win 1,https://fbref.com/en/squads/361ca564/1998-1999/Tottenham-Hotspur-Stats,1998-1999
+12,Sheffield Weds,38,13,7,18,41,42,-1,46,1.21,,,,,26745.0,Benito Carbone - 8,Pavel Srníček,,https://fbref.com/en/squads/bba7d733/1998-1999/Sheffield-Wednesday-Stats,1998-1999
+13,Newcastle United,38,11,13,14,48,54,-6,46,1.21,,,,,36692.0,Alan Shearer - 14,Shay Given,→ UEFA Cup via cup loss 2,https://fbref.com/en/squads/b2b47a98/1998-1999/Newcastle-United-Stats,1998-1999
+14,Everton,38,11,10,17,42,47,-5,43,1.13,,,,,36202.0,Kevin Campbell - 9,Thomas Myhre,,https://fbref.com/en/squads/d3fd31cc/1998-1999/Everton-Stats,1998-1999
+15,Coventry City,38,11,9,18,39,51,-12,42,1.11,,,,,20773.0,Noel Whelan - 10,Magnus Hedman,,https://fbref.com/en/squads/f7e3dfe9/1998-1999/Coventry-City-Stats,1998-1999
+16,Wimbledon,38,10,12,16,40,63,-23,42,1.11,,,,,18243.0,"Jason Euell, Marcus Gayle - 10",Neil Sullivan,,https://fbref.com/en/squads/3679c494/1998-1999/Wimbledon-Stats,1998-1999
+17,Southampton,38,11,8,19,37,64,-27,41,1.08,,,,,15140.0,"Matt Le Tissier, Egil Østenstad - 7",Paul Jones,,https://fbref.com/en/squads/33c895d4/1998-1999/Southampton-Stats,1998-1999
+18,Charlton Ath,38,8,12,18,41,56,-15,36,0.95,,,,,19816.0,Clive Mendonca - 8,Saša Ilić,Relegated,https://fbref.com/en/squads/7a8db6d4/1998-1999/Charlton-Athletic-Stats,1998-1999
+19,Blackburn,38,7,14,17,38,52,-14,35,0.92,,,,,25761.0,"Ashley Ward, Kevin Gallacher - 5",John Filan,Relegated,https://fbref.com/en/squads/e090f40b/1998-1999/Blackburn-Rovers-Stats,1998-1999
+20,Nottingham Forest,38,7,9,22,35,69,-34,30,0.79,,,,,24415.0,Dougie Freedman - 9,Dave Beasant,Relegated,https://fbref.com/en/squads/e4a775cb/1998-1999/Nottingham-Forest-Stats,1998-1999
+1,Arsenal,38,23,9,6,68,33,35,78,2.05,,,,,38053.0,Dennis Bergkamp - 16,David Seaman,→ Champions League via league finish,https://fbref.com/en/squads/18bb7c10/1997-1998/Arsenal-Stats,1997-1998
+2,Manchester United,38,23,8,7,73,26,47,77,2.03,,,,,55166.0,Andy Cole - 15,Peter Schmeichel,→ Champions League via league finish,https://fbref.com/en/squads/19538871/1997-1998/Manchester-United-Stats,1997-1998
+3,Liverpool,38,18,11,9,68,42,26,65,1.71,,,,,40628.0,Michael Owen - 18,David James,→ UEFA Cup via league finish,https://fbref.com/en/squads/822bd0ba/1997-1998/Liverpool-Stats,1997-1998
+4,Chelsea,38,20,3,15,71,43,28,63,1.66,,,,,33387.0,"Tore André Flo, Gianluca Vialli - 11",Ed de Goey,→ UEFA Cup Winners' Cup,https://fbref.com/en/squads/cff3d9bb/1997-1998/Chelsea-Stats,1997-1998
+5,Leeds United,38,17,8,13,57,46,11,59,1.55,,,,,34642.0,Jimmy Floyd Hasselbaink - 16,Nigel Martyn,→ UEFA Cup via league finish,https://fbref.com/en/squads/5bfb9659/1997-1998/Leeds-United-Stats,1997-1998
+6,Blackburn,38,16,10,12,57,52,5,58,1.53,,,,,25253.0,Chris Sutton - 18,Tim Flowers,→ UEFA Cup via league finish,https://fbref.com/en/squads/e090f40b/1997-1998/Blackburn-Rovers-Stats,1997-1998
+7,Aston Villa,38,17,6,15,49,48,1,57,1.5,,,,,36031.0,Dwight Yorke - 12,Mark Bosnich,→ UEFA Cup 1,https://fbref.com/en/squads/8602292d/1997-1998/Aston-Villa-Stats,1997-1998
+8,West Ham,38,16,8,14,56,57,-1,56,1.47,,,,,25075.0,John Hartson - 15,"Craig Forrest, Luděk Mikloško",,https://fbref.com/en/squads/7c21e445/1997-1998/West-Ham-United-Stats,1997-1998
+9,Derby County,38,16,7,15,52,49,3,55,1.45,,,,,29105.0,Paulo Wanchope - 13,Mart Poom,,https://fbref.com/en/squads/26ab47ee/1997-1998/Derby-County-Stats,1997-1998
+10,Leicester City,38,13,14,11,51,41,10,53,1.39,,,,,20615.0,Emile Heskey - 10,Kasey Keller,,https://fbref.com/en/squads/a2d435b3/1997-1998/Leicester-City-Stats,1997-1998
+11,Coventry City,38,12,16,10,46,44,2,52,1.37,,,,,19723.0,Dion Dublin - 18,Steve Ogrizovic,,https://fbref.com/en/squads/f7e3dfe9/1997-1998/Coventry-City-Stats,1997-1998
+12,Southampton,38,14,6,18,50,55,-5,48,1.26,,,,,15159.0,"Matt Le Tissier, Egil Østenstad - 11",Paul Jones,,https://fbref.com/en/squads/33c895d4/1997-1998/Southampton-Stats,1997-1998
+13,Newcastle United,38,11,11,16,35,44,-9,44,1.16,,,,,36671.0,John Barnes - 6,Shay Given,→ UEFA Cup Winners' Cup via cup win 2,https://fbref.com/en/squads/b2b47a98/1997-1998/Newcastle-United-Stats,1997-1998
+14,Tottenham,38,11,11,16,44,56,-12,44,1.16,,,,,29144.0,Jürgen Klinsmann - 9,Ian Walker,,https://fbref.com/en/squads/361ca564/1997-1998/Tottenham-Hotspur-Stats,1997-1998
+15,Wimbledon,38,10,14,14,34,46,-12,44,1.16,,,,,16666.0,"Efan Ekoku, Jason Euell... - 4",Neil Sullivan,,https://fbref.com/en/squads/3679c494/1997-1998/Wimbledon-Stats,1997-1998
+16,Sheffield Weds,38,12,8,18,52,67,-15,44,1.16,,,,,28706.0,Paolo Di Canio - 12,Kevin Pressman,,https://fbref.com/en/squads/bba7d733/1997-1998/Sheffield-Wednesday-Stats,1997-1998
+17,Everton,38,9,13,16,41,56,-15,40,1.05,,,,,35355.0,Duncan Ferguson - 11,Thomas Myhre,,https://fbref.com/en/squads/d3fd31cc/1997-1998/Everton-Stats,1997-1998
+18,Bolton,38,9,13,16,41,61,-20,40,1.05,,,,,24352.0,Nathan Blake - 12,Keith Branagan,Relegated,https://fbref.com/en/squads/445d3104/1997-1998/Bolton-Wanderers-Stats,1997-1998
+19,Barnsley,38,10,5,23,37,82,-45,35,0.92,,,,,18443.0,Neil Redfearn - 10,David Watson,Relegated,https://fbref.com/en/squads/293cb36b/1997-1998/Barnsley-Stats,1997-1998
+20,Crystal Palace,38,8,9,21,37,71,-34,33,0.87,,,,,21983.0,Neil Shipperley - 7,Kevin Miller,"Relegated, → UEFA Intertoto Cup",https://fbref.com/en/squads/47c64c55/1997-1998/Crystal-Palace-Stats,1997-1998
+1,Manchester United,38,21,12,5,76,44,32,75,1.97,,,,,55081.0,Ole Gunnar Solskjær - 18,Peter Schmeichel,→ Champions League via league finish,https://fbref.com/en/squads/19538871/1996-1997/Manchester-United-Stats,1996-1997
+2,Newcastle United,38,19,11,8,73,40,33,68,1.79,,,,,36414.0,Alan Shearer - 25,Pavel Srníček,→ Champions League via league finish,https://fbref.com/en/squads/b2b47a98/1996-1997/Newcastle-United-Stats,1996-1997
+3,Arsenal,38,19,11,8,62,32,30,68,1.79,,,,,37826.0,Ian Wright - 23,David Seaman,→ UEFA Cup via league finish,https://fbref.com/en/squads/18bb7c10/1996-1997/Arsenal-Stats,1996-1997
+4,Liverpool,38,19,11,8,62,37,25,68,1.79,,,,,39774.0,Robbie Fowler - 18,David James,→ UEFA Cup via league finish,https://fbref.com/en/squads/822bd0ba/1996-1997/Liverpool-Stats,1996-1997
+5,Aston Villa,38,17,10,11,47,34,13,61,1.61,,,,,36027.0,Dwight Yorke - 17,Michael Oakes,→ UEFA Cup via league finish,https://fbref.com/en/squads/8602292d/1996-1997/Aston-Villa-Stats,1996-1997
+6,Chelsea,38,16,11,11,58,55,3,59,1.55,,,,,27617.0,Gianluca Vialli - 9,Frode Grodås,→ UEFA Cup Winners' Cup via cup win 1,https://fbref.com/en/squads/cff3d9bb/1996-1997/Chelsea-Stats,1996-1997
+7,Sheffield Weds,38,14,15,9,50,51,-1,57,1.5,,,,,25714.0,Andy Booth - 10,Kevin Pressman,,https://fbref.com/en/squads/bba7d733/1996-1997/Sheffield-Wednesday-Stats,1996-1997
+8,Wimbledon,38,15,11,12,49,46,3,56,1.47,,,,,15138.0,Efan Ekoku - 11,Neil Sullivan,,https://fbref.com/en/squads/3679c494/1996-1997/Wimbledon-Stats,1996-1997
+9,Leicester City,38,12,11,15,46,54,-8,47,1.24,,,,,20184.0,Steve Claridge - 12,Kasey Keller,→ UEFA Cup via cup win 2,https://fbref.com/en/squads/a2d435b3/1996-1997/Leicester-City-Stats,1996-1997
+10,Tottenham,38,13,7,18,44,51,-7,46,1.21,,,,,31067.0,Teddy Sheringham - 7,Ian Walker,,https://fbref.com/en/squads/361ca564/1996-1997/Tottenham-Hotspur-Stats,1996-1997
+11,Leeds United,38,11,13,14,28,38,-10,46,1.21,,,,,32118.0,"Brian Deane, Lee Sharpe - 5",Nigel Martyn,,https://fbref.com/en/squads/5bfb9659/1996-1997/Leeds-United-Stats,1996-1997
+12,Derby County,38,11,13,14,45,58,-13,46,1.21,,,,,17889.0,Dean Sturridge - 11,Russell Hoult,,https://fbref.com/en/squads/26ab47ee/1996-1997/Derby-County-Stats,1996-1997
+13,Blackburn,38,9,15,14,42,43,-1,42,1.11,,,,,24966.0,Chris Sutton - 11,Tim Flowers,,https://fbref.com/en/squads/e090f40b/1996-1997/Blackburn-Rovers-Stats,1996-1997
+14,West Ham,38,10,12,16,39,48,-9,42,1.11,,,,,23209.0,Paul Kitson - 8,Luděk Mikloško,,https://fbref.com/en/squads/7c21e445/1996-1997/West-Ham-United-Stats,1996-1997
+15,Everton,38,10,12,16,44,57,-13,42,1.11,,,,,36188.0,Duncan Ferguson - 10,Neville Southall,,https://fbref.com/en/squads/d3fd31cc/1996-1997/Everton-Stats,1996-1997
+16,Southampton,38,10,11,17,50,56,-6,41,1.08,,,,,15105.0,Matt Le Tissier - 13,Maik Taylor,,https://fbref.com/en/squads/33c895d4/1996-1997/Southampton-Stats,1996-1997
+17,Coventry City,38,9,14,15,38,54,-16,41,1.08,,,,,19613.0,Dion Dublin - 13,Steve Ogrizovic,,https://fbref.com/en/squads/f7e3dfe9/1996-1997/Coventry-City-Stats,1996-1997
+18,Sunderland,38,10,10,18,35,53,-18,40,1.05,,,,,20974.0,Craig Russell - 5,Lionel Pérez,Relegated,https://fbref.com/en/squads/8ef52968/1996-1997/Sunderland-Stats,1996-1997
+19,Middlesbrough,38,10,12,16,51,60,-9,39,1.03,,,,,29871.0,Fabrizio Ravanelli - 16,Gary Walsh,"3-point deduction 3, Relegated",https://fbref.com/en/squads/7f59c601/1996-1997/Middlesbrough-Stats,1996-1997
+20,Nottingham Forest,38,6,16,16,31,59,-28,34,0.89,,,,,24588.0,"Kevin Campbell, Alf-Inge Haaland - 6",Mark Crossley,Relegated,https://fbref.com/en/squads/e4a775cb/1996-1997/Nottingham-Forest-Stats,1996-1997
+1,Manchester United,38,25,7,6,73,35,38,82,2.16,,,,,41681.0,Eric Cantona - 14,Peter Schmeichel,→ Champions League via league finish,https://fbref.com/en/squads/19538871/1995-1996/Manchester-United-Stats,1995-1996
+2,Newcastle United,38,24,6,8,66,37,29,78,2.05,,,,,36505.0,Les Ferdinand - 25,Shaka Hislop,→ UEFA Cup via league finish,https://fbref.com/en/squads/b2b47a98/1995-1996/Newcastle-United-Stats,1995-1996
+3,Liverpool,38,20,11,7,70,34,36,71,1.87,,,,,39553.0,Robbie Fowler - 28,David James,→ UEFA Cup Winners' Cup via cup win 1,https://fbref.com/en/squads/822bd0ba/1995-1996/Liverpool-Stats,1995-1996
+4,Aston Villa,38,18,9,11,52,35,17,63,1.66,,,,,32772.0,Dwight Yorke - 17,Mark Bosnich,→ UEFA Cup via league finish,https://fbref.com/en/squads/8602292d/1995-1996/Aston-Villa-Stats,1995-1996
+5,Arsenal,38,17,12,9,49,32,17,63,1.66,,,,,37568.0,Ian Wright - 15,David Seaman,→ UEFA Cup via league finish 2,https://fbref.com/en/squads/18bb7c10/1995-1996/Arsenal-Stats,1995-1996
+6,Everton,38,17,10,11,64,44,20,61,1.61,,,,,35424.0,Andrei Kanchelskis - 16,Neville Southall,,https://fbref.com/en/squads/d3fd31cc/1995-1996/Everton-Stats,1995-1996
+7,Blackburn,38,18,7,13,61,47,14,61,1.61,,,,,27552.0,Alan Shearer - 31,Tim Flowers,,https://fbref.com/en/squads/e090f40b/1995-1996/Blackburn-Rovers-Stats,1995-1996
+8,Tottenham,38,16,13,9,50,38,12,61,1.61,,,,,30548.0,Teddy Sheringham - 16,Ian Walker,,https://fbref.com/en/squads/361ca564/1995-1996/Tottenham-Hotspur-Stats,1995-1996
+9,Nottingham Forest,38,15,13,10,50,54,-4,58,1.53,,,,,25916.0,"Jason Lee, Bryan Roy... - 8",Mark Crossley,,https://fbref.com/en/squads/e4a775cb/1995-1996/Nottingham-Forest-Stats,1995-1996
+10,West Ham,38,14,9,15,43,52,-9,51,1.34,,,,,22317.0,"Tony Cottee, Julian Dicks - 10",Luděk Mikloško,,https://fbref.com/en/squads/7c21e445/1995-1996/West-Ham-United-Stats,1995-1996
+11,Chelsea,38,12,14,12,46,44,2,50,1.32,,,,,25581.0,John Spencer - 13,Dmitri Kharine,,https://fbref.com/en/squads/cff3d9bb/1995-1996/Chelsea-Stats,1995-1996
+12,Middlesbrough,38,11,10,17,35,50,-15,43,1.13,,,,,29257.0,Nick Barmby - 7,Gary Walsh,,https://fbref.com/en/squads/7f59c601/1995-1996/Middlesbrough-Stats,1995-1996
+13,Leeds United,38,12,7,19,40,57,-17,43,1.13,,,,,32629.0,Tony Yeboah - 12,John Lukic,,https://fbref.com/en/squads/5bfb9659/1995-1996/Leeds-United-Stats,1995-1996
+14,Wimbledon,38,10,11,17,55,70,-15,41,1.08,,,,,13230.0,Robbie Earle - 11,Paul Heald,,https://fbref.com/en/squads/3679c494/1995-1996/Wimbledon-Stats,1995-1996
+15,Sheffield Weds,38,10,10,18,48,61,-13,40,1.05,,,,,24877.0,David Hirst - 13,Kevin Pressman,,https://fbref.com/en/squads/bba7d733/1995-1996/Sheffield-Wednesday-Stats,1995-1996
+16,Coventry City,38,8,14,16,42,60,-18,38,1.0,,,,,18528.0,Dion Dublin - 14,Steve Ogrizovic,,https://fbref.com/en/squads/f7e3dfe9/1995-1996/Coventry-City-Stats,1995-1996
+17,Southampton,38,9,11,18,34,52,-18,38,1.0,,,,,14822.0,"Matt Le Tissier, Neil Shipperley - 7",Dave Beasant,,https://fbref.com/en/squads/33c895d4/1995-1996/Southampton-Stats,1995-1996
+18,Manchester City,38,9,11,18,33,58,-25,38,1.0,,,,,27941.0,Uwe Rösler - 9,Eike Immel,Relegated,https://fbref.com/en/squads/b8fd03ef/1995-1996/Manchester-City-Stats,1995-1996
+19,QPR,38,9,6,23,38,57,-19,33,0.87,,,,,15672.0,Danny Dichio - 10,Juergen Sommer,Relegated,https://fbref.com/en/squads/a757999c/1995-1996/Queens-Park-Rangers-Stats,1995-1996
+20,Bolton,38,8,5,25,39,71,-32,29,0.76,,,,,18823.0,John McGinlay - 6,Keith Branagan,Relegated,https://fbref.com/en/squads/445d3104/1995-1996/Bolton-Wanderers-Stats,1995-1996
+1,Blackburn,42,27,8,7,80,39,41,89,2.12,,,,,25271.0,Alan Shearer - 34,Tim Flowers,→ Champions League via league finish,https://fbref.com/en/squads/e090f40b/1994-1995/Blackburn-Rovers-Stats,1994-1995
+2,Manchester United,42,26,10,6,77,29,48,88,2.1,,,,,42763.0,Andrei Kanchelskis - 14,Peter Schmeichel,→ UEFA Cup via league finish,https://fbref.com/en/squads/19538871/1994-1995/Manchester-United-Stats,1994-1995
+3,Nottingham Forest,42,22,11,9,72,43,29,77,1.83,,,,,24136.0,Stan Collymore - 22,Mark Crossley,→ UEFA Cup via league finish,https://fbref.com/en/squads/e4a775cb/1994-1995/Nottingham-Forest-Stats,1994-1995
+4,Liverpool,42,21,11,10,65,37,28,74,1.76,,,,,33805.0,Robbie Fowler - 25,David James,→ UEFA Cup via league finish,https://fbref.com/en/squads/822bd0ba/1994-1995/Liverpool-Stats,1994-1995
+5,Leeds United,42,20,13,9,59,38,21,73,1.74,,,,,32852.0,Tony Yeboah - 12,John Lukic,→ UEFA Cup via league finish 1,https://fbref.com/en/squads/5bfb9659/1994-1995/Leeds-United-Stats,1994-1995
+6,Newcastle United,42,20,12,10,67,47,20,72,1.71,,,,,34552.0,Peter Beardsley - 12,Pavel Srníček,,https://fbref.com/en/squads/b2b47a98/1994-1995/Newcastle-United-Stats,1994-1995
+7,Tottenham,42,16,14,12,66,58,8,62,1.48,,,,,26245.0,Jürgen Klinsmann - 20,Ian Walker,,https://fbref.com/en/squads/361ca564/1994-1995/Tottenham-Hotspur-Stats,1994-1995
+8,QPR,42,17,9,16,61,59,2,60,1.43,,,,,15115.0,Les Ferdinand - 24,Tony Roberts,,https://fbref.com/en/squads/a757999c/1994-1995/Queens-Park-Rangers-Stats,1994-1995
+9,Wimbledon,42,15,11,16,48,65,-17,56,1.33,,,,,12359.0,Efan Ekoku - 9,Hans Segers,,https://fbref.com/en/squads/3679c494/1994-1995/Wimbledon-Stats,1994-1995
+10,Southampton,42,12,18,12,61,63,-2,54,1.29,,,,,15978.0,Matt Le Tissier - 19,Bruce Grobbelaar,,https://fbref.com/en/squads/33c895d4/1994-1995/Southampton-Stats,1994-1995
+11,Chelsea,42,13,15,14,50,55,-5,54,1.29,,,,,21062.0,John Spencer - 11,Dmitri Kharine,,https://fbref.com/en/squads/cff3d9bb/1994-1995/Chelsea-Stats,1994-1995
+12,Arsenal,42,13,12,17,53,49,4,51,1.21,,,,,35330.0,Ian Wright - 18,David Seaman,,https://fbref.com/en/squads/18bb7c10/1994-1995/Arsenal-Stats,1994-1995
+13,Sheffield Weds,42,13,12,17,49,57,-8,51,1.21,,,,,26451.0,Mark Bright - 11,Kevin Pressman,,https://fbref.com/en/squads/bba7d733/1994-1995/Sheffield-Wednesday-Stats,1994-1995
+14,West Ham,42,13,11,18,44,48,-4,50,1.19,,,,,20406.0,Tony Cottee - 13,Luděk Mikloško,,https://fbref.com/en/squads/7c21e445/1994-1995/West-Ham-United-Stats,1994-1995
+15,Everton,42,11,17,14,44,51,-7,50,1.19,,,,,31035.0,Paul Rideout - 14,Neville Southall,→ UEFA Cup Winners' Cup via cup win 2,https://fbref.com/en/squads/d3fd31cc/1994-1995/Everton-Stats,1994-1995
+16,Coventry City,42,12,14,16,44,62,-18,50,1.19,,,,,15955.0,Dion Dublin - 13,Steve Ogrizovic,,https://fbref.com/en/squads/f7e3dfe9/1994-1995/Coventry-City-Stats,1994-1995
+17,Manchester City,42,12,13,17,53,64,-11,49,1.17,,,,,21883.0,Uwe Rösler - 15,Tony Coton,,https://fbref.com/en/squads/b8fd03ef/1994-1995/Manchester-City-Stats,1994-1995
+18,Aston Villa,42,11,15,16,51,56,-5,48,1.14,,,,,29761.0,Dean Saunders - 15,Mark Bosnich,,https://fbref.com/en/squads/8602292d/1994-1995/Aston-Villa-Stats,1994-1995
+19,Crystal Palace,42,11,12,19,34,49,-15,45,1.07,,,,,14802.0,Chris Armstrong - 8,Nigel Martyn,Relegated,https://fbref.com/en/squads/47c64c55/1994-1995/Crystal-Palace-Stats,1994-1995
+20,Norwich City,42,10,13,19,37,54,-17,43,1.02,,,,,20079.0,Ashley Ward - 8,Bryan Gunn,Relegated,https://fbref.com/en/squads/1c781004/1994-1995/Norwich-City-Stats,1994-1995
+21,Leicester City,42,6,11,25,45,80,-35,29,0.69,,,,,20882.0,Iwan Roberts - 9,Kevin Poole,Relegated,https://fbref.com/en/squads/a2d435b3/1994-1995/Leicester-City-Stats,1994-1995
+22,Ipswich Town,42,7,6,29,36,93,-57,27,0.64,,,,,16918.0,Claus Thomsen - 5,Craig Forrest,Relegated,https://fbref.com/en/squads/b74092de/1994-1995/Ipswich-Town-Stats,1994-1995
+1,Manchester United,42,27,11,4,80,38,42,92,2.19,,,,,44244.0,Eric Cantona - 18,Peter Schmeichel,→ Champions League via league finish,https://fbref.com/en/squads/19538871/1993-1994/Manchester-United-Stats,1993-1994
+2,Blackburn,42,25,9,8,63,36,27,84,2.0,,,,,17332.0,Alan Shearer - 31,Tim Flowers,→ UEFA Cup via league finish,https://fbref.com/en/squads/e090f40b/1993-1994/Blackburn-Rovers-Stats,1993-1994
+3,Newcastle United,42,23,8,11,82,41,41,77,1.83,,,,,33792.0,Andy Cole - 34,Pavel Srníček,→ UEFA Cup via league finish,https://fbref.com/en/squads/b2b47a98/1993-1994/Newcastle-United-Stats,1993-1994
+4,Arsenal,42,18,17,7,53,28,25,71,1.69,,,,,30492.0,Ian Wright - 23,David Seaman,→ UEFA Cup Winners' Cup,https://fbref.com/en/squads/18bb7c10/1993-1994/Arsenal-Stats,1993-1994
+5,Leeds United,42,18,16,8,65,39,26,70,1.67,,,,,34506.0,Rod Wallace - 17,Mark Beeney,,https://fbref.com/en/squads/5bfb9659/1993-1994/Leeds-United-Stats,1993-1994
+6,Wimbledon,42,18,11,13,56,53,3,65,1.55,,,,,10442.0,Dean Holdsworth - 17,Hans Segers,,https://fbref.com/en/squads/3679c494/1993-1994/Wimbledon-Stats,1993-1994
+7,Sheffield Weds,42,16,16,10,76,54,22,64,1.52,,,,,27181.0,Mark Bright - 19,Kevin Pressman,,https://fbref.com/en/squads/bba7d733/1993-1994/Sheffield-Wednesday-Stats,1993-1994
+8,Liverpool,42,17,9,16,59,55,4,60,1.43,,,,,38508.0,Ian Rush - 14,Bruce Grobbelaar,,https://fbref.com/en/squads/822bd0ba/1993-1994/Liverpool-Stats,1993-1994
+9,QPR,42,16,12,14,62,61,1,60,1.43,,,,,14228.0,Les Ferdinand - 16,Jan Stejskal,,https://fbref.com/en/squads/a757999c/1993-1994/Queens-Park-Rangers-Stats,1993-1994
+10,Aston Villa,42,15,12,15,46,50,-4,57,1.36,,,,,29065.0,Dean Saunders - 10,Mark Bosnich,→ UEFA Cup via cup win 1,https://fbref.com/en/squads/8602292d/1993-1994/Aston-Villa-Stats,1993-1994
+11,Coventry City,42,14,14,14,43,45,-2,56,1.33,,,,,13312.0,Peter Ndlovu - 11,Steve Ogrizovic,,https://fbref.com/en/squads/f7e3dfe9/1993-1994/Coventry-City-Stats,1993-1994
+12,Norwich City,42,12,17,13,65,61,4,53,1.26,,,,,18179.0,Chris Sutton - 25,Bryan Gunn,,https://fbref.com/en/squads/1c781004/1993-1994/Norwich-City-Stats,1993-1994
+13,West Ham,42,13,13,16,47,58,-11,52,1.24,,,,,20598.0,Trevor Morley - 13,Luděk Mikloško,,https://fbref.com/en/squads/7c21e445/1993-1994/West-Ham-United-Stats,1993-1994
+14,Chelsea,42,13,12,17,49,53,-4,51,1.21,,,,,19211.0,Mark Stein - 13,Dmitri Kharine,→ UEFA Cup Winners' Cup via cup loss 2,https://fbref.com/en/squads/cff3d9bb/1993-1994/Chelsea-Stats,1993-1994
+15,Tottenham,42,11,12,19,54,59,-5,45,1.07,,,,,27251.0,Teddy Sheringham - 14,Erik Thorstvedt,,https://fbref.com/en/squads/361ca564/1993-1994/Tottenham-Hotspur-Stats,1993-1994
+16,Manchester City,42,9,18,15,38,49,-11,45,1.07,,,,,26684.0,Mike Sheron - 6,Tony Coton,,https://fbref.com/en/squads/b8fd03ef/1993-1994/Manchester-City-Stats,1993-1994
+17,Everton,42,12,8,22,42,63,-21,44,1.05,,,,,23104.0,Tony Cottee - 16,Neville Southall,,https://fbref.com/en/squads/d3fd31cc/1993-1994/Everton-Stats,1993-1994
+18,Southampton,42,12,7,23,49,66,-17,43,1.02,,,,,14756.0,Matt Le Tissier - 25,Dave Beasant,,https://fbref.com/en/squads/33c895d4/1993-1994/Southampton-Stats,1993-1994
+19,Ipswich Town,42,9,16,17,35,58,-23,43,1.02,,,,,16574.0,Ian Marshall - 10,Craig Forrest,,https://fbref.com/en/squads/b74092de/1993-1994/Ipswich-Town-Stats,1993-1994
+20,Sheffield United,42,8,18,16,42,60,-18,42,1.0,,,,,19562.0,Jostein Flo - 9,Alan Kelly Jr.,Relegated,https://fbref.com/en/squads/1df6b87e/1993-1994/Sheffield-United-Stats,1993-1994
+21,Oldham Athletic,42,9,13,20,42,68,-26,40,0.95,,,,,12572.0,Graeme Sharp - 9,Jon Hallworth,Relegated,https://fbref.com/en/squads/4a04a02b/1993-1994/Oldham-Athletic-Stats,1993-1994
+22,Swindon Town,42,5,15,22,47,100,-53,30,0.71,,,,,15011.0,Jan Åge Fjørtoft - 12,Fraser Digby,Relegated,https://fbref.com/en/squads/1b295b25/1993-1994/Swindon-Town-Stats,1993-1994
+1,Manchester United,42,24,12,6,67,31,36,84,2.0,,,,,35132.0,Mark Hughes - 15,Peter Schmeichel,→ Champions League via league finish,https://fbref.com/en/squads/19538871/1992-1993/Manchester-United-Stats,1992-1993
+2,Aston Villa,42,21,11,10,57,40,17,74,1.76,,,,,29594.0,Dean Saunders - 13,Nigel Spink,→ UEFA Cup via league finish,https://fbref.com/en/squads/8602292d/1992-1993/Aston-Villa-Stats,1992-1993
+3,Norwich City,42,21,9,12,61,65,-4,72,1.71,,,,,16253.0,Mark Robins - 15,Bryan Gunn,→ UEFA Cup via league finish 1,https://fbref.com/en/squads/1c781004/1992-1993/Norwich-City-Stats,1992-1993
+4,Blackburn,42,20,11,11,68,46,22,71,1.69,,,,,16247.0,Alan Shearer - 16,Bobby Mimms,,https://fbref.com/en/squads/e090f40b/1992-1993/Blackburn-Rovers-Stats,1992-1993
+5,QPR,42,17,12,13,63,55,8,63,1.5,,,,,14999.0,Les Ferdinand - 20,Tony Roberts,,https://fbref.com/en/squads/a757999c/1992-1993/Queens-Park-Rangers-Stats,1992-1993
+6,Liverpool,42,16,11,15,62,55,7,59,1.4,,,,,37009.0,Ian Rush - 14,David James,,https://fbref.com/en/squads/822bd0ba/1992-1993/Liverpool-Stats,1992-1993
+7,Sheffield Weds,42,15,14,13,55,51,4,59,1.4,,,,,27264.0,"Mark Bright, David Hirst - 11",Chris Woods,,https://fbref.com/en/squads/bba7d733/1992-1993/Sheffield-Wednesday-Stats,1992-1993
+8,Tottenham,42,16,11,15,60,66,-6,59,1.4,,,,,27878.0,Teddy Sheringham - 21,Erik Thorstvedt,,https://fbref.com/en/squads/361ca564/1992-1993/Tottenham-Hotspur-Stats,1992-1993
+9,Manchester City,42,15,12,15,56,51,5,57,1.36,,,,,24698.0,David White - 16,Tony Coton,,https://fbref.com/en/squads/b8fd03ef/1992-1993/Manchester-City-Stats,1992-1993
+10,Arsenal,42,15,11,16,40,38,2,56,1.33,,,,,24403.0,Ian Wright - 15,David Seaman,→ European Cup Winners' Cup via cup win 2,https://fbref.com/en/squads/18bb7c10/1992-1993/Arsenal-Stats,1992-1993
+11,Chelsea,42,14,14,14,51,54,-3,56,1.33,,,,,18754.0,"Mick Harford, Graham Stuart - 9",Kevin Hitchcock,,https://fbref.com/en/squads/cff3d9bb/1992-1993/Chelsea-Stats,1992-1993
+12,Wimbledon,42,14,12,16,56,55,1,54,1.29,,,,,8353.0,Dean Holdsworth - 19,Hans Segers,,https://fbref.com/en/squads/3679c494/1992-1993/Wimbledon-Stats,1992-1993
+13,Everton,42,15,8,19,53,55,-2,53,1.26,,,,,20457.0,Tony Cottee - 12,Neville Southall,,https://fbref.com/en/squads/d3fd31cc/1992-1993/Everton-Stats,1992-1993
+14,Sheffield United,42,14,10,18,54,53,1,52,1.24,,,,,18799.0,Brian Deane - 15,Alan Kelly Jr.,,https://fbref.com/en/squads/1df6b87e/1992-1993/Sheffield-United-Stats,1992-1993
+15,Coventry City,42,13,13,16,52,57,-5,52,1.24,,,,,15024.0,Micky Quinn - 17,Steve Ogrizovic,,https://fbref.com/en/squads/f7e3dfe9/1992-1993/Coventry-City-Stats,1992-1993
+16,Ipswich Town,42,12,16,14,50,55,-5,52,1.24,,,,,18185.0,Chris Kiwomya - 10,Clive Baker,,https://fbref.com/en/squads/b74092de/1992-1993/Ipswich-Town-Stats,1992-1993
+17,Leeds United,42,12,15,15,57,62,-5,51,1.21,,,,,29229.0,Lee Chapman - 13,John Lukic,,https://fbref.com/en/squads/5bfb9659/1992-1993/Leeds-United-Stats,1992-1993
+18,Southampton,42,13,11,18,54,61,-7,50,1.19,,,,,15934.0,Matt Le Tissier - 15,Tim Flowers,,https://fbref.com/en/squads/33c895d4/1992-1993/Southampton-Stats,1992-1993
+19,Oldham Athletic,42,13,10,19,63,74,-11,49,1.17,,,,,12862.0,Ian Olney - 12,Paul Gerrard,,https://fbref.com/en/squads/4a04a02b/1992-1993/Oldham-Athletic-Stats,1992-1993
+20,Crystal Palace,42,11,16,15,48,61,-13,49,1.17,,,,,15726.0,Chris Armstrong - 15,Nigel Martyn,Relegated,https://fbref.com/en/squads/47c64c55/1992-1993/Crystal-Palace-Stats,1992-1993
+21,Middlesbrough,42,11,11,20,54,75,-21,44,1.05,,,,,16722.0,Paul Wilkinson - 13,Stephen Pears,Relegated,https://fbref.com/en/squads/7f59c601/1992-1993/Middlesbrough-Stats,1992-1993
+22,Nottingham Forest,42,10,10,22,41,62,-21,40,0.95,,,,,21957.0,Nigel Clough - 10,Mark Crossley,Relegated,https://fbref.com/en/squads/e4a775cb/1992-1993/Nottingham-Forest-Stats,1992-1993

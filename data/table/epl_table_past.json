@@ -19,6 +19,7 @@
         "top_team_scorer":"Erling Haaland - 27",
         "goalkeeper":"Ederson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2023-2024\/Manchester-City-Stats",
         "season":"2023-2024"
     },
     {
@@ -41,6 +42,7 @@
         "top_team_scorer":"Bukayo Saka - 16",
         "goalkeeper":"David Raya",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2023-2024\/Arsenal-Stats",
         "season":"2023-2024"
     },
     {
@@ -63,6 +65,7 @@
         "top_team_scorer":"Mohamed Salah - 18",
         "goalkeeper":"Alisson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2023-2024\/Liverpool-Stats",
         "season":"2023-2024"
     },
     {
@@ -85,6 +88,7 @@
         "top_team_scorer":"Ollie Watkins - 19",
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2023-2024\/Aston-Villa-Stats",
         "season":"2023-2024"
     },
     {
@@ -107,6 +111,7 @@
         "top_team_scorer":"Son Heung-min - 17",
         "goalkeeper":"Guglielmo Vicario",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2023-2024\/Tottenham-Hotspur-Stats",
         "season":"2023-2024"
     },
     {
@@ -129,6 +134,7 @@
         "top_team_scorer":"Cole Palmer - 22",
         "goalkeeper":"\u0110or\u0111e Petrovi\u0107",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2023-2024\/Chelsea-Stats",
         "season":"2023-2024"
     },
     {
@@ -151,6 +157,7 @@
         "top_team_scorer":"Alexander Isak - 21",
         "goalkeeper":"Martin D\u00fabravka",
         "notes":"\u2192 Europa Conference League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2023-2024\/Newcastle-United-Stats",
         "season":"2023-2024"
     },
     {
@@ -173,6 +180,7 @@
         "top_team_scorer":"Rasmus H\u00f8jlund, Bruno Fernandes - 10",
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2023-2024\/Manchester-United-Stats",
         "season":"2023-2024"
     },
     {
@@ -195,6 +203,7 @@
         "top_team_scorer":"Jarrod Bowen - 16",
         "goalkeeper":"Alphonse Areola",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2023-2024\/West-Ham-United-Stats",
         "season":"2023-2024"
     },
     {
@@ -217,6 +226,7 @@
         "top_team_scorer":"Jean-Philippe Mateta - 16",
         "goalkeeper":"Sam Johnstone",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2023-2024\/Crystal-Palace-Stats",
         "season":"2023-2024"
     },
     {
@@ -239,6 +249,7 @@
         "top_team_scorer":"Jo\u00e3o Pedro - 9",
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d07537b9\/2023-2024\/Brighton-and-Hove-Albion-Stats",
         "season":"2023-2024"
     },
     {
@@ -261,6 +272,7 @@
         "top_team_scorer":"Dominic Solanke - 19",
         "goalkeeper":"Neto",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/4ba7cbea\/2023-2024\/Bournemouth-Stats",
         "season":"2023-2024"
     },
     {
@@ -283,6 +295,7 @@
         "top_team_scorer":"Rodrigo Muniz - 9",
         "goalkeeper":"Bernd Leno",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2023-2024\/Fulham-Stats",
         "season":"2023-2024"
     },
     {
@@ -305,6 +318,7 @@
         "top_team_scorer":"Hwang Hee-chan, Matheus Cunha - 12",
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8cec06e1\/2023-2024\/Wolverhampton-Wanderers-Stats",
         "season":"2023-2024"
     },
     {
@@ -327,6 +341,7 @@
         "top_team_scorer":"Abdoulaye Doucour\u00e9, Dominic Calvert-Lewin - 7",
         "goalkeeper":"Jordan Pickford",
         "notes":"6-point deduction 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2023-2024\/Everton-Stats",
         "season":"2023-2024"
     },
     {
@@ -349,6 +364,7 @@
         "top_team_scorer":"Yoane Wissa - 12",
         "goalkeeper":"Mark Flekken",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cd051869\/2023-2024\/Brentford-Stats",
         "season":"2023-2024"
     },
     {
@@ -371,6 +387,7 @@
         "top_team_scorer":"Chris Wood - 14",
         "goalkeeper":"Matt Turner",
         "notes":"4-point deduction 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e4a775cb\/2023-2024\/Nottingham-Forest-Stats",
         "season":"2023-2024"
     },
     {
@@ -393,6 +410,7 @@
         "top_team_scorer":"Carlton Morris - 11",
         "goalkeeper":"Thomas Kaminski",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e297cd13\/2023-2024\/Luton-Town-Stats",
         "season":"2023-2024"
     },
     {
@@ -415,6 +433,7 @@
         "top_team_scorer":"Jacob Bruun Larsen - 6",
         "goalkeeper":"James Trafford",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/943e8050\/2023-2024\/Burnley-Stats",
         "season":"2023-2024"
     },
     {
@@ -437,6 +456,7 @@
         "top_team_scorer":"Oliver McBurnie, Ben Brereton - 6",
         "goalkeeper":"Wes Foderingham",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1df6b87e\/2023-2024\/Sheffield-United-Stats",
         "season":"2023-2024"
     },
     {
@@ -459,6 +479,7 @@
         "top_team_scorer":"Erling Haaland - 36",
         "goalkeeper":"Ederson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2022-2023\/Manchester-City-Stats",
         "season":"2022-2023"
     },
     {
@@ -481,6 +502,7 @@
         "top_team_scorer":"Martin \u00d8degaard, Gabriel Martinelli - 15",
         "goalkeeper":"Aaron Ramsdale",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2022-2023\/Arsenal-Stats",
         "season":"2022-2023"
     },
     {
@@ -503,6 +525,7 @@
         "top_team_scorer":"Marcus Rashford - 17",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2022-2023\/Manchester-United-Stats",
         "season":"2022-2023"
     },
     {
@@ -525,6 +548,7 @@
         "top_team_scorer":"Callum Wilson - 18",
         "goalkeeper":"Nick Pope",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2022-2023\/Newcastle-United-Stats",
         "season":"2022-2023"
     },
     {
@@ -547,6 +571,7 @@
         "top_team_scorer":"Mohamed Salah - 19",
         "goalkeeper":"Alisson",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2022-2023\/Liverpool-Stats",
         "season":"2022-2023"
     },
     {
@@ -569,6 +594,7 @@
         "top_team_scorer":"Alexis Mac Allister - 10",
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d07537b9\/2022-2023\/Brighton-and-Hove-Albion-Stats",
         "season":"2022-2023"
     },
     {
@@ -591,6 +617,7 @@
         "top_team_scorer":"Ollie Watkins - 15",
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":"\u2192 Europa Conference League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2022-2023\/Aston-Villa-Stats",
         "season":"2022-2023"
     },
     {
@@ -613,6 +640,7 @@
         "top_team_scorer":"Harry Kane - 30",
         "goalkeeper":"Hugo Lloris",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2022-2023\/Tottenham-Hotspur-Stats",
         "season":"2022-2023"
     },
     {
@@ -635,6 +663,7 @@
         "top_team_scorer":"Ivan Toney - 20",
         "goalkeeper":"David Raya",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cd051869\/2022-2023\/Brentford-Stats",
         "season":"2022-2023"
     },
     {
@@ -657,6 +686,7 @@
         "top_team_scorer":"Aleksandar Mitrovi\u0107 - 14",
         "goalkeeper":"Bernd Leno",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2022-2023\/Fulham-Stats",
         "season":"2022-2023"
     },
     {
@@ -679,6 +709,7 @@
         "top_team_scorer":"Eberechi Eze - 10",
         "goalkeeper":"Vicente Guaita",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2022-2023\/Crystal-Palace-Stats",
         "season":"2022-2023"
     },
     {
@@ -701,6 +732,7 @@
         "top_team_scorer":"Kai Havertz - 7",
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2022-2023\/Chelsea-Stats",
         "season":"2022-2023"
     },
     {
@@ -723,6 +755,7 @@
         "top_team_scorer":"R\u00faben Neves, Daniel Podence - 6",
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8cec06e1\/2022-2023\/Wolverhampton-Wanderers-Stats",
         "season":"2022-2023"
     },
     {
@@ -745,6 +778,7 @@
         "top_team_scorer":"Sa\u00efd Benrahma, Jarrod Bowen - 6",
         "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2022-2023\/West-Ham-United-Stats",
         "season":"2022-2023"
     },
     {
@@ -767,6 +801,7 @@
         "top_team_scorer":"Philip Billing - 7",
         "goalkeeper":"Neto",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/4ba7cbea\/2022-2023\/Bournemouth-Stats",
         "season":"2022-2023"
     },
     {
@@ -789,6 +824,7 @@
         "top_team_scorer":"Taiwo Awoniyi - 10",
         "goalkeeper":"Dean Henderson",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e4a775cb\/2022-2023\/Nottingham-Forest-Stats",
         "season":"2022-2023"
     },
     {
@@ -811,6 +847,7 @@
         "top_team_scorer":"Dwight McNeil - 7",
         "goalkeeper":"Jordan Pickford",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2022-2023\/Everton-Stats",
         "season":"2022-2023"
     },
     {
@@ -833,6 +870,7 @@
         "top_team_scorer":"Harvey Barnes - 13",
         "goalkeeper":"Danny Ward",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2022-2023\/Leicester-City-Stats",
         "season":"2022-2023"
     },
     {
@@ -855,6 +893,7 @@
         "top_team_scorer":"Rodrigo - 13",
         "goalkeeper":"Illan Meslier",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/2022-2023\/Leeds-United-Stats",
         "season":"2022-2023"
     },
     {
@@ -877,6 +916,7 @@
         "top_team_scorer":"James Ward-Prowse - 9",
         "goalkeeper":"Gavin Bazunu",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2022-2023\/Southampton-Stats",
         "season":"2022-2023"
     },
     {
@@ -899,6 +939,7 @@
         "top_team_scorer":"Kevin De Bruyne - 15",
         "goalkeeper":"Ederson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2021-2022\/Manchester-City-Stats",
         "season":"2021-2022"
     },
     {
@@ -921,6 +962,7 @@
         "top_team_scorer":"Mohamed Salah - 23",
         "goalkeeper":"Alisson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2021-2022\/Liverpool-Stats",
         "season":"2021-2022"
     },
     {
@@ -943,6 +985,7 @@
         "top_team_scorer":"Mason Mount - 11",
         "goalkeeper":"Edouard Mendy",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2021-2022\/Chelsea-Stats",
         "season":"2021-2022"
     },
     {
@@ -965,6 +1008,7 @@
         "top_team_scorer":"Son Heung-min - 23",
         "goalkeeper":"Hugo Lloris",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2021-2022\/Tottenham-Hotspur-Stats",
         "season":"2021-2022"
     },
     {
@@ -987,6 +1031,7 @@
         "top_team_scorer":"Bukayo Saka - 11",
         "goalkeeper":"Aaron Ramsdale",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2021-2022\/Arsenal-Stats",
         "season":"2021-2022"
     },
     {
@@ -1009,6 +1054,7 @@
         "top_team_scorer":"Cristiano Ronaldo - 18",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2021-2022\/Manchester-United-Stats",
         "season":"2021-2022"
     },
     {
@@ -1031,6 +1077,7 @@
         "top_team_scorer":"Jarrod Bowen - 12",
         "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":"\u2192 Europa Conference League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2021-2022\/West-Ham-United-Stats",
         "season":"2021-2022"
     },
     {
@@ -1053,6 +1100,7 @@
         "top_team_scorer":"Jamie Vardy - 15",
         "goalkeeper":"Kasper Schmeichel",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2021-2022\/Leicester-City-Stats",
         "season":"2021-2022"
     },
     {
@@ -1075,6 +1123,7 @@
         "top_team_scorer":"Leandro Trossard, Neal Maupay - 8",
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d07537b9\/2021-2022\/Brighton-and-Hove-Albion-Stats",
         "season":"2021-2022"
     },
     {
@@ -1097,6 +1146,7 @@
         "top_team_scorer":"Ra\u00fal Jim\u00e9nez - 6",
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8cec06e1\/2021-2022\/Wolverhampton-Wanderers-Stats",
         "season":"2021-2022"
     },
     {
@@ -1119,6 +1169,7 @@
         "top_team_scorer":"Callum Wilson - 8",
         "goalkeeper":"Martin D\u00fabravka",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2021-2022\/Newcastle-United-Stats",
         "season":"2021-2022"
     },
     {
@@ -1141,6 +1192,7 @@
         "top_team_scorer":"Wilfried Zaha - 14",
         "goalkeeper":"Vicente Guaita",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2021-2022\/Crystal-Palace-Stats",
         "season":"2021-2022"
     },
     {
@@ -1163,6 +1215,7 @@
         "top_team_scorer":"Ivan Toney - 12",
         "goalkeeper":"David Raya",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cd051869\/2021-2022\/Brentford-Stats",
         "season":"2021-2022"
     },
     {
@@ -1185,6 +1238,7 @@
         "top_team_scorer":"Ollie Watkins - 11",
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2021-2022\/Aston-Villa-Stats",
         "season":"2021-2022"
     },
     {
@@ -1207,6 +1261,7 @@
         "top_team_scorer":"James Ward-Prowse - 10",
         "goalkeeper":"Fraser Forster",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2021-2022\/Southampton-Stats",
         "season":"2021-2022"
     },
     {
@@ -1229,6 +1284,7 @@
         "top_team_scorer":"Richarlison - 10",
         "goalkeeper":"Jordan Pickford",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2021-2022\/Everton-Stats",
         "season":"2021-2022"
     },
     {
@@ -1251,6 +1307,7 @@
         "top_team_scorer":"Raphinha - 11",
         "goalkeeper":"Illan Meslier",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/2021-2022\/Leeds-United-Stats",
         "season":"2021-2022"
     },
     {
@@ -1273,6 +1330,7 @@
         "top_team_scorer":"Maxwel Cornet - 9",
         "goalkeeper":"Nick Pope",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/943e8050\/2021-2022\/Burnley-Stats",
         "season":"2021-2022"
     },
     {
@@ -1295,6 +1353,7 @@
         "top_team_scorer":"Emmanuel Dennis - 10",
         "goalkeeper":"Ben Foster",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/2abfe087\/2021-2022\/Watford-Stats",
         "season":"2021-2022"
     },
     {
@@ -1317,6 +1376,7 @@
         "top_team_scorer":"Teemu Pukki - 11",
         "goalkeeper":"Tim Krul",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1c781004\/2021-2022\/Norwich-City-Stats",
         "season":"2021-2022"
     },
     {
@@ -1339,6 +1399,7 @@
         "top_team_scorer":"\u0130lkay G\u00fcndo\u011fan - 13",
         "goalkeeper":"Ederson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2020-2021\/Manchester-City-Stats",
         "season":"2020-2021"
     },
     {
@@ -1361,6 +1422,7 @@
         "top_team_scorer":"Bruno Fernandes - 18",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2020-2021\/Manchester-United-Stats",
         "season":"2020-2021"
     },
     {
@@ -1383,6 +1445,7 @@
         "top_team_scorer":"Mohamed Salah - 22",
         "goalkeeper":"Alisson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2020-2021\/Liverpool-Stats",
         "season":"2020-2021"
     },
     {
@@ -1405,6 +1468,7 @@
         "top_team_scorer":"Jorginho - 7",
         "goalkeeper":"Edouard Mendy",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2020-2021\/Chelsea-Stats",
         "season":"2020-2021"
     },
     {
@@ -1427,6 +1491,7 @@
         "top_team_scorer":"Jamie Vardy - 15",
         "goalkeeper":"Kasper Schmeichel",
         "notes":"\u2192 Europa League via cup win",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2020-2021\/Leicester-City-Stats",
         "season":"2020-2021"
     },
     {
@@ -1449,6 +1514,7 @@
         "top_team_scorer":"Michail Antonio, Tom\u00e1\u0161 Sou\u010dek - 10",
         "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2020-2021\/West-Ham-United-Stats",
         "season":"2020-2021"
     },
     {
@@ -1471,6 +1537,7 @@
         "top_team_scorer":"Harry Kane - 23",
         "goalkeeper":"Hugo Lloris",
         "notes":"\u2192 Europa Conference League via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2020-2021\/Tottenham-Hotspur-Stats",
         "season":"2020-2021"
     },
     {
@@ -1493,6 +1560,7 @@
         "top_team_scorer":"Alexandre Lacazette - 13",
         "goalkeeper":"Bernd Leno",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2020-2021\/Arsenal-Stats",
         "season":"2020-2021"
     },
     {
@@ -1515,6 +1583,7 @@
         "top_team_scorer":"Patrick Bamford - 17",
         "goalkeeper":"Illan Meslier",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/2020-2021\/Leeds-United-Stats",
         "season":"2020-2021"
     },
     {
@@ -1537,6 +1606,7 @@
         "top_team_scorer":"Dominic Calvert-Lewin - 16",
         "goalkeeper":"Jordan Pickford",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2020-2021\/Everton-Stats",
         "season":"2020-2021"
     },
     {
@@ -1559,6 +1629,7 @@
         "top_team_scorer":"Ollie Watkins - 14",
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2020-2021\/Aston-Villa-Stats",
         "season":"2020-2021"
     },
     {
@@ -1581,6 +1652,7 @@
         "top_team_scorer":"Callum Wilson - 12",
         "goalkeeper":"Karl Darlow",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2020-2021\/Newcastle-United-Stats",
         "season":"2020-2021"
     },
     {
@@ -1603,6 +1675,7 @@
         "top_team_scorer":"R\u00faben Neves, Pedro Neto - 5",
         "goalkeeper":"Rui Patr\u00edcio",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8cec06e1\/2020-2021\/Wolverhampton-Wanderers-Stats",
         "season":"2020-2021"
     },
     {
@@ -1625,6 +1698,7 @@
         "top_team_scorer":"Wilfried Zaha - 11",
         "goalkeeper":"Vicente Guaita",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2020-2021\/Crystal-Palace-Stats",
         "season":"2020-2021"
     },
     {
@@ -1647,6 +1721,7 @@
         "top_team_scorer":"Danny Ings - 12",
         "goalkeeper":"Alex McCarthy",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2020-2021\/Southampton-Stats",
         "season":"2020-2021"
     },
     {
@@ -1669,6 +1744,7 @@
         "top_team_scorer":"Neal Maupay - 8",
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d07537b9\/2020-2021\/Brighton-and-Hove-Albion-Stats",
         "season":"2020-2021"
     },
     {
@@ -1691,6 +1767,7 @@
         "top_team_scorer":"Chris Wood - 12",
         "goalkeeper":"Nick Pope",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/943e8050\/2020-2021\/Burnley-Stats",
         "season":"2020-2021"
     },
     {
@@ -1713,6 +1790,7 @@
         "top_team_scorer":"Bobby Reid - 5",
         "goalkeeper":"Alphonse Areola",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2020-2021\/Fulham-Stats",
         "season":"2020-2021"
     },
     {
@@ -1735,6 +1813,7 @@
         "top_team_scorer":"Matheus Pereira - 11",
         "goalkeeper":"Sam Johnstone",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2020-2021\/West-Bromwich-Albion-Stats",
         "season":"2020-2021"
     },
     {
@@ -1757,6 +1836,7 @@
         "top_team_scorer":"David McGoldrick - 8",
         "goalkeeper":"Aaron Ramsdale",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1df6b87e\/2020-2021\/Sheffield-United-Stats",
         "season":"2020-2021"
     },
     {
@@ -1779,6 +1859,7 @@
         "top_team_scorer":"Mohamed Salah - 19",
         "goalkeeper":"Alisson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2019-2020\/Liverpool-Stats",
         "season":"2019-2020"
     },
     {
@@ -1801,6 +1882,7 @@
         "top_team_scorer":"Raheem Sterling - 20",
         "goalkeeper":"Ederson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2019-2020\/Manchester-City-Stats",
         "season":"2019-2020"
     },
     {
@@ -1823,6 +1905,7 @@
         "top_team_scorer":"Anthony Martial, Marcus Rashford - 17",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2019-2020\/Manchester-United-Stats",
         "season":"2019-2020"
     },
     {
@@ -1845,6 +1928,7 @@
         "top_team_scorer":"Tammy Abraham - 15",
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2019-2020\/Chelsea-Stats",
         "season":"2019-2020"
     },
     {
@@ -1867,6 +1951,7 @@
         "top_team_scorer":"Jamie Vardy - 23",
         "goalkeeper":"Kasper Schmeichel",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2019-2020\/Leicester-City-Stats",
         "season":"2019-2020"
     },
     {
@@ -1889,6 +1974,7 @@
         "top_team_scorer":"Harry Kane - 18",
         "goalkeeper":"Hugo Lloris",
         "notes":"\u2192 Europa League via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2019-2020\/Tottenham-Hotspur-Stats",
         "season":"2019-2020"
     },
     {
@@ -1911,6 +1997,7 @@
         "top_team_scorer":"Ra\u00fal Jim\u00e9nez - 17",
         "goalkeeper":"Rui Patr\u00edcio",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8cec06e1\/2019-2020\/Wolverhampton-Wanderers-Stats",
         "season":"2019-2020"
     },
     {
@@ -1933,6 +2020,7 @@
         "top_team_scorer":"Pierre-Emerick Aubameyang - 22",
         "goalkeeper":"Bernd Leno",
         "notes":"\u2192 Europa League via cup win 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2019-2020\/Arsenal-Stats",
         "season":"2019-2020"
     },
     {
@@ -1955,6 +2043,7 @@
         "top_team_scorer":"Lys Mousset, Oliver McBurnie - 6",
         "goalkeeper":"Dean Henderson",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1df6b87e\/2019-2020\/Sheffield-United-Stats",
         "season":"2019-2020"
     },
     {
@@ -1977,6 +2066,7 @@
         "top_team_scorer":"Chris Wood - 14",
         "goalkeeper":"Nick Pope",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/943e8050\/2019-2020\/Burnley-Stats",
         "season":"2019-2020"
     },
     {
@@ -1999,6 +2089,7 @@
         "top_team_scorer":"Danny Ings - 22",
         "goalkeeper":"Alex McCarthy",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2019-2020\/Southampton-Stats",
         "season":"2019-2020"
     },
     {
@@ -2021,6 +2112,7 @@
         "top_team_scorer":"Dominic Calvert-Lewin, Richarlison - 13",
         "goalkeeper":"Jordan Pickford",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2019-2020\/Everton-Stats",
         "season":"2019-2020"
     },
     {
@@ -2043,6 +2135,7 @@
         "top_team_scorer":"Jonjo Shelvey - 6",
         "goalkeeper":"Martin D\u00fabravka",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2019-2020\/Newcastle-United-Stats",
         "season":"2019-2020"
     },
     {
@@ -2065,6 +2158,7 @@
         "top_team_scorer":"Jordan Ayew - 9",
         "goalkeeper":"Vicente Guaita",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2019-2020\/Crystal-Palace-Stats",
         "season":"2019-2020"
     },
     {
@@ -2087,6 +2181,7 @@
         "top_team_scorer":"Neal Maupay - 10",
         "goalkeeper":"Mathew Ryan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d07537b9\/2019-2020\/Brighton-and-Hove-Albion-Stats",
         "season":"2019-2020"
     },
     {
@@ -2109,6 +2204,7 @@
         "top_team_scorer":"Michail Antonio - 10",
         "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2019-2020\/West-Ham-United-Stats",
         "season":"2019-2020"
     },
     {
@@ -2131,6 +2227,7 @@
         "top_team_scorer":"Jack Grealish - 8",
         "goalkeeper":"Tom Heaton",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2019-2020\/Aston-Villa-Stats",
         "season":"2019-2020"
     },
     {
@@ -2153,6 +2250,7 @@
         "top_team_scorer":"Callum Wilson - 8",
         "goalkeeper":"Aaron Ramsdale",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/4ba7cbea\/2019-2020\/Bournemouth-Stats",
         "season":"2019-2020"
     },
     {
@@ -2175,6 +2273,7 @@
         "top_team_scorer":"Troy Deeney - 10",
         "goalkeeper":"Ben Foster",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/2abfe087\/2019-2020\/Watford-Stats",
         "season":"2019-2020"
     },
     {
@@ -2197,6 +2296,7 @@
         "top_team_scorer":"Teemu Pukki - 11",
         "goalkeeper":"Tim Krul",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1c781004\/2019-2020\/Norwich-City-Stats",
         "season":"2019-2020"
     },
     {
@@ -2219,6 +2319,7 @@
         "top_team_scorer":"Sergio Ag\u00fcero - 21",
         "goalkeeper":"Ederson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2018-2019\/Manchester-City-Stats",
         "season":"2018-2019"
     },
     {
@@ -2241,6 +2342,7 @@
         "top_team_scorer":"Sadio Man\u00e9, Mohamed Salah - 22",
         "goalkeeper":"Alisson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2018-2019\/Liverpool-Stats",
         "season":"2018-2019"
     },
     {
@@ -2263,6 +2365,7 @@
         "top_team_scorer":"Eden Hazard - 16",
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2018-2019\/Chelsea-Stats",
         "season":"2018-2019"
     },
     {
@@ -2285,6 +2388,7 @@
         "top_team_scorer":"Harry Kane - 17",
         "goalkeeper":"Hugo Lloris",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2018-2019\/Tottenham-Hotspur-Stats",
         "season":"2018-2019"
     },
     {
@@ -2307,6 +2411,7 @@
         "top_team_scorer":"Pierre-Emerick Aubameyang - 22",
         "goalkeeper":"Bernd Leno",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2018-2019\/Arsenal-Stats",
         "season":"2018-2019"
     },
     {
@@ -2329,6 +2434,7 @@
         "top_team_scorer":"Paul Pogba - 13",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Europa League via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2018-2019\/Manchester-United-Stats",
         "season":"2018-2019"
     },
     {
@@ -2351,6 +2457,7 @@
         "top_team_scorer":"Ra\u00fal Jim\u00e9nez - 13",
         "goalkeeper":"Rui Patr\u00edcio",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8cec06e1\/2018-2019\/Wolverhampton-Wanderers-Stats",
         "season":"2018-2019"
     },
     {
@@ -2373,6 +2480,7 @@
         "top_team_scorer":"Gylfi Sigur\u00f0sson, Richarlison - 13",
         "goalkeeper":"Jordan Pickford",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2018-2019\/Everton-Stats",
         "season":"2018-2019"
     },
     {
@@ -2395,6 +2503,7 @@
         "top_team_scorer":"Jamie Vardy - 18",
         "goalkeeper":"Kasper Schmeichel",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2018-2019\/Leicester-City-Stats",
         "season":"2018-2019"
     },
     {
@@ -2417,6 +2526,7 @@
         "top_team_scorer":"Marko Arnautovi\u0107 - 10",
         "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2018-2019\/West-Ham-United-Stats",
         "season":"2018-2019"
     },
     {
@@ -2439,6 +2549,7 @@
         "top_team_scorer":"Gerard Deulofeu - 10",
         "goalkeeper":"Ben Foster",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/2abfe087\/2018-2019\/Watford-Stats",
         "season":"2018-2019"
     },
     {
@@ -2461,6 +2572,7 @@
         "top_team_scorer":"Luka Milivojevi\u0107 - 12",
         "goalkeeper":"Vicente Guaita",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2018-2019\/Crystal-Palace-Stats",
         "season":"2018-2019"
     },
     {
@@ -2483,6 +2595,7 @@
         "top_team_scorer":"Ayoze P\u00e9rez - 12",
         "goalkeeper":"Martin D\u00fabravka",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2018-2019\/Newcastle-United-Stats",
         "season":"2018-2019"
     },
     {
@@ -2505,6 +2618,7 @@
         "top_team_scorer":"Callum Wilson - 14",
         "goalkeeper":"Asmir Begovi\u0107",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/4ba7cbea\/2018-2019\/Bournemouth-Stats",
         "season":"2018-2019"
     },
     {
@@ -2527,6 +2641,7 @@
         "top_team_scorer":"Ashley Barnes - 12",
         "goalkeeper":"Tom Heaton, Joe Hart",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/943e8050\/2018-2019\/Burnley-Stats",
         "season":"2018-2019"
     },
     {
@@ -2549,6 +2664,7 @@
         "top_team_scorer":"Danny Ings, James Ward-Prowse - 7",
         "goalkeeper":"Alex McCarthy",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2018-2019\/Southampton-Stats",
         "season":"2018-2019"
     },
     {
@@ -2571,6 +2687,7 @@
         "top_team_scorer":"Glenn Murray - 13",
         "goalkeeper":"Mathew Ryan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d07537b9\/2018-2019\/Brighton-and-Hove-Albion-Stats",
         "season":"2018-2019"
     },
     {
@@ -2593,6 +2710,7 @@
         "top_team_scorer":"Bobby Reid, V\u00edctor Camarasa - 5",
         "goalkeeper":"Neil Etheridge",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/75fae011\/2018-2019\/Cardiff-City-Stats",
         "season":"2018-2019"
     },
     {
@@ -2615,6 +2733,7 @@
         "top_team_scorer":"Aleksandar Mitrovi\u0107 - 11",
         "goalkeeper":"Sergio Rico",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2018-2019\/Fulham-Stats",
         "season":"2018-2019"
     },
     {
@@ -2637,6 +2756,7 @@
         "top_team_scorer":"Karlan Grant - 4",
         "goalkeeper":"Jonas L\u00f6ssl",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f5922ca5\/2018-2019\/Huddersfield-Town-Stats",
         "season":"2018-2019"
     },
     {
@@ -2659,6 +2779,7 @@
         "top_team_scorer":"Sergio Ag\u00fcero - 21",
         "goalkeeper":"Ederson",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2017-2018\/Manchester-City-Stats",
         "season":"2017-2018"
     },
     {
@@ -2681,6 +2802,7 @@
         "top_team_scorer":"Romelu Lukaku - 16",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2017-2018\/Manchester-United-Stats",
         "season":"2017-2018"
     },
     {
@@ -2703,6 +2825,7 @@
         "top_team_scorer":"Harry Kane - 30",
         "goalkeeper":"Hugo Lloris",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2017-2018\/Tottenham-Hotspur-Stats",
         "season":"2017-2018"
     },
     {
@@ -2725,6 +2848,7 @@
         "top_team_scorer":"Mohamed Salah - 32",
         "goalkeeper":"Loris Karius, Simon Mignolet",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2017-2018\/Liverpool-Stats",
         "season":"2017-2018"
     },
     {
@@ -2747,6 +2871,7 @@
         "top_team_scorer":"Eden Hazard - 12",
         "goalkeeper":"Thibaut Courtois",
         "notes":"\u2192 Europa League via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2017-2018\/Chelsea-Stats",
         "season":"2017-2018"
     },
     {
@@ -2769,6 +2894,7 @@
         "top_team_scorer":"Alexandre Lacazette - 14",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2017-2018\/Arsenal-Stats",
         "season":"2017-2018"
     },
     {
@@ -2791,6 +2917,7 @@
         "top_team_scorer":"Chris Wood - 10",
         "goalkeeper":"Nick Pope",
         "notes":"\u2192 Europa League via league finish 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/943e8050\/2017-2018\/Burnley-Stats",
         "season":"2017-2018"
     },
     {
@@ -2813,6 +2940,7 @@
         "top_team_scorer":"Wayne Rooney - 10",
         "goalkeeper":"Jordan Pickford",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2017-2018\/Everton-Stats",
         "season":"2017-2018"
     },
     {
@@ -2835,6 +2963,7 @@
         "top_team_scorer":"Jamie Vardy - 20",
         "goalkeeper":"Kasper Schmeichel",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2017-2018\/Leicester-City-Stats",
         "season":"2017-2018"
     },
     {
@@ -2857,6 +2986,7 @@
         "top_team_scorer":"Ayoze P\u00e9rez - 8",
         "goalkeeper":"Rob Elliot",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2017-2018\/Newcastle-United-Stats",
         "season":"2017-2018"
     },
     {
@@ -2879,6 +3009,7 @@
         "top_team_scorer":"Luka Milivojevi\u0107 - 10",
         "goalkeeper":"Wayne Hennessey",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2017-2018\/Crystal-Palace-Stats",
         "season":"2017-2018"
     },
     {
@@ -2901,6 +3032,7 @@
         "top_team_scorer":"Joshua King, Callum Wilson - 8",
         "goalkeeper":"Asmir Begovi\u0107",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/4ba7cbea\/2017-2018\/Bournemouth-Stats",
         "season":"2017-2018"
     },
     {
@@ -2923,6 +3055,7 @@
         "top_team_scorer":"Marko Arnautovi\u0107 - 11",
         "goalkeeper":"Joe Hart, Adri\u00e1n",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2017-2018\/West-Ham-United-Stats",
         "season":"2017-2018"
     },
     {
@@ -2945,6 +3078,7 @@
         "top_team_scorer":"Abdoulaye Doucour\u00e9 - 7",
         "goalkeeper":"Heurelho Gomes",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/2abfe087\/2017-2018\/Watford-Stats",
         "season":"2017-2018"
     },
     {
@@ -2967,6 +3101,7 @@
         "top_team_scorer":"Glenn Murray - 12",
         "goalkeeper":"Mathew Ryan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d07537b9\/2017-2018\/Brighton-and-Hove-Albion-Stats",
         "season":"2017-2018"
     },
     {
@@ -2989,6 +3124,7 @@
         "top_team_scorer":"Steve Mouni\u00e9 - 7",
         "goalkeeper":"Jonas L\u00f6ssl",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f5922ca5\/2017-2018\/Huddersfield-Town-Stats",
         "season":"2017-2018"
     },
     {
@@ -3011,6 +3147,7 @@
         "top_team_scorer":"Charlie Austin - 7",
         "goalkeeper":"Fraser Forster",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2017-2018\/Southampton-Stats",
         "season":"2017-2018"
     },
     {
@@ -3033,6 +3170,7 @@
         "top_team_scorer":"Jordan Ayew - 7",
         "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fb10988f\/2017-2018\/Swansea-City-Stats",
         "season":"2017-2018"
     },
     {
@@ -3055,6 +3193,7 @@
         "top_team_scorer":"Xherdan Shaqiri - 8",
         "goalkeeper":"Jack Butland",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/17892952\/2017-2018\/Stoke-City-Stats",
         "season":"2017-2018"
     },
     {
@@ -3077,6 +3216,7 @@
         "top_team_scorer":"Jay Rodriguez, Salom\u00f3n Rond\u00f3n - 7",
         "goalkeeper":"Ben Foster",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2017-2018\/West-Bromwich-Albion-Stats",
         "season":"2017-2018"
     },
     {
@@ -3099,6 +3239,7 @@
         "top_team_scorer":"Diego Costa - 20",
         "goalkeeper":"Thibaut Courtois",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2016-2017\/Chelsea-Stats",
         "season":"2016-2017"
     },
     {
@@ -3121,6 +3262,7 @@
         "top_team_scorer":"Harry Kane - 29",
         "goalkeeper":"Hugo Lloris",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2016-2017\/Tottenham-Hotspur-Stats",
         "season":"2016-2017"
     },
     {
@@ -3143,6 +3285,7 @@
         "top_team_scorer":"Sergio Ag\u00fcero - 20",
         "goalkeeper":"Claudio Bravo",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2016-2017\/Manchester-City-Stats",
         "season":"2016-2017"
     },
     {
@@ -3165,6 +3308,7 @@
         "top_team_scorer":"Philippe Coutinho, Sadio Man\u00e9 - 13",
         "goalkeeper":"Simon Mignolet",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2016-2017\/Liverpool-Stats",
         "season":"2016-2017"
     },
     {
@@ -3187,6 +3331,7 @@
         "top_team_scorer":"Alexis S\u00e1nchez - 24",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Europa League via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2016-2017\/Arsenal-Stats",
         "season":"2016-2017"
     },
     {
@@ -3209,6 +3354,7 @@
         "top_team_scorer":"Zlatan Ibrahimovi\u0107 - 17",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Champions League via Europa League win",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2016-2017\/Manchester-United-Stats",
         "season":"2016-2017"
     },
     {
@@ -3231,6 +3377,7 @@
         "top_team_scorer":"Romelu Lukaku - 25",
         "goalkeeper":"Joel Robles",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2016-2017\/Everton-Stats",
         "season":"2016-2017"
     },
     {
@@ -3253,6 +3400,7 @@
         "top_team_scorer":"Nathan Redmond - 7",
         "goalkeeper":"Fraser Forster",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2016-2017\/Southampton-Stats",
         "season":"2016-2017"
     },
     {
@@ -3275,6 +3423,7 @@
         "top_team_scorer":"Joshua King - 16",
         "goalkeeper":"Artur Boruc",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/4ba7cbea\/2016-2017\/Bournemouth-Stats",
         "season":"2016-2017"
     },
     {
@@ -3297,6 +3446,7 @@
         "top_team_scorer":"Salom\u00f3n Rond\u00f3n - 8",
         "goalkeeper":"Ben Foster",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2016-2017\/West-Bromwich-Albion-Stats",
         "season":"2016-2017"
     },
     {
@@ -3319,6 +3469,7 @@
         "top_team_scorer":"Michail Antonio - 9",
         "goalkeeper":"Darren Randolph",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2016-2017\/West-Ham-United-Stats",
         "season":"2016-2017"
     },
     {
@@ -3341,6 +3492,7 @@
         "top_team_scorer":"Jamie Vardy - 13",
         "goalkeeper":"Kasper Schmeichel",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2016-2017\/Leicester-City-Stats",
         "season":"2016-2017"
     },
     {
@@ -3363,6 +3515,7 @@
         "top_team_scorer":"Peter Crouch - 7",
         "goalkeeper":"Lee Grant",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/17892952\/2016-2017\/Stoke-City-Stats",
         "season":"2016-2017"
     },
     {
@@ -3385,6 +3538,7 @@
         "top_team_scorer":"Christian Benteke - 15",
         "goalkeeper":"Wayne Hennessey",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2016-2017\/Crystal-Palace-Stats",
         "season":"2016-2017"
     },
     {
@@ -3407,6 +3561,7 @@
         "top_team_scorer":"Fernando Llorente - 15",
         "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fb10988f\/2016-2017\/Swansea-City-Stats",
         "season":"2016-2017"
     },
     {
@@ -3429,6 +3584,7 @@
         "top_team_scorer":"Sam Vokes - 10",
         "goalkeeper":"Tom Heaton",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/943e8050\/2016-2017\/Burnley-Stats",
         "season":"2016-2017"
     },
     {
@@ -3451,6 +3607,7 @@
         "top_team_scorer":"Troy Deeney - 10",
         "goalkeeper":"Heurelho Gomes",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/2abfe087\/2016-2017\/Watford-Stats",
         "season":"2016-2017"
     },
     {
@@ -3473,6 +3630,7 @@
         "top_team_scorer":"Robert Snodgrass - 7",
         "goalkeeper":"Eldin Jakupovi\u0107",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bd8769d1\/2016-2017\/Hull-City-Stats",
         "season":"2016-2017"
     },
     {
@@ -3495,6 +3653,7 @@
         "top_team_scorer":"\u00c1lvaro Negredo - 9",
         "goalkeeper":"V\u00edctor Vald\u00e9s",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/2016-2017\/Middlesbrough-Stats",
         "season":"2016-2017"
     },
     {
@@ -3517,6 +3676,7 @@
         "top_team_scorer":"Jermain Defoe - 15",
         "goalkeeper":"Jordan Pickford",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2016-2017\/Sunderland-Stats",
         "season":"2016-2017"
     },
     {
@@ -3539,6 +3699,7 @@
         "top_team_scorer":"Jamie Vardy - 24",
         "goalkeeper":"Kasper Schmeichel",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2015-2016\/Leicester-City-Stats",
         "season":"2015-2016"
     },
     {
@@ -3561,6 +3722,7 @@
         "top_team_scorer":"Olivier Giroud - 16",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2015-2016\/Arsenal-Stats",
         "season":"2015-2016"
     },
     {
@@ -3583,6 +3745,7 @@
         "top_team_scorer":"Harry Kane - 25",
         "goalkeeper":"Hugo Lloris",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2015-2016\/Tottenham-Hotspur-Stats",
         "season":"2015-2016"
     },
     {
@@ -3605,6 +3768,7 @@
         "top_team_scorer":"Sergio Ag\u00fcero - 24",
         "goalkeeper":"Joe Hart",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2015-2016\/Manchester-City-Stats",
         "season":"2015-2016"
     },
     {
@@ -3627,6 +3791,7 @@
         "top_team_scorer":"Anthony Martial - 11",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Europa League via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2015-2016\/Manchester-United-Stats",
         "season":"2015-2016"
     },
     {
@@ -3649,6 +3814,7 @@
         "top_team_scorer":"Sadio Man\u00e9, Graziano Pell\u00e8 - 11",
         "goalkeeper":"Fraser Forster",
         "notes":"\u2192 Europa League via league finish 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2015-2016\/Southampton-Stats",
         "season":"2015-2016"
     },
     {
@@ -3671,6 +3837,7 @@
         "top_team_scorer":"Dimitri Payet, Andy Carroll - 9",
         "goalkeeper":"Adri\u00e1n",
         "notes":"\u2192 Europa League via league finish 3",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2015-2016\/West-Ham-United-Stats",
         "season":"2015-2016"
     },
     {
@@ -3693,6 +3860,7 @@
         "top_team_scorer":"Roberto Firmino - 10",
         "goalkeeper":"Simon Mignolet",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2015-2016\/Liverpool-Stats",
         "season":"2015-2016"
     },
     {
@@ -3715,6 +3883,7 @@
         "top_team_scorer":"Marko Arnautovi\u0107 - 11",
         "goalkeeper":"Jack Butland",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/17892952\/2015-2016\/Stoke-City-Stats",
         "season":"2015-2016"
     },
     {
@@ -3737,6 +3906,7 @@
         "top_team_scorer":"Diego Costa - 12",
         "goalkeeper":"Thibaut Courtois",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2015-2016\/Chelsea-Stats",
         "season":"2015-2016"
     },
     {
@@ -3759,6 +3929,7 @@
         "top_team_scorer":"Romelu Lukaku - 18",
         "goalkeeper":"Tim Howard",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2015-2016\/Everton-Stats",
         "season":"2015-2016"
     },
     {
@@ -3781,6 +3952,7 @@
         "top_team_scorer":"Andr\u00e9 Ayew - 12",
         "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fb10988f\/2015-2016\/Swansea-City-Stats",
         "season":"2015-2016"
     },
     {
@@ -3803,6 +3975,7 @@
         "top_team_scorer":"Odion Ighalo - 15",
         "goalkeeper":"Heurelho Gomes",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/2abfe087\/2015-2016\/Watford-Stats",
         "season":"2015-2016"
     },
     {
@@ -3825,6 +3998,7 @@
         "top_team_scorer":"Salom\u00f3n Rond\u00f3n - 9",
         "goalkeeper":"Boaz Myhill",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2015-2016\/West-Bromwich-Albion-Stats",
         "season":"2015-2016"
     },
     {
@@ -3847,6 +4021,7 @@
         "top_team_scorer":"Scott Dann, Yohan Cabaye... - 5",
         "goalkeeper":"Wayne Hennessey",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2015-2016\/Crystal-Palace-Stats",
         "season":"2015-2016"
     },
     {
@@ -3869,6 +4044,7 @@
         "top_team_scorer":"Joshua King - 6",
         "goalkeeper":"Artur Boruc",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/4ba7cbea\/2015-2016\/Bournemouth-Stats",
         "season":"2015-2016"
     },
     {
@@ -3891,6 +4067,7 @@
         "top_team_scorer":"Jermain Defoe - 15",
         "goalkeeper":"Vito Mannone",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2015-2016\/Sunderland-Stats",
         "season":"2015-2016"
     },
     {
@@ -3913,6 +4090,7 @@
         "top_team_scorer":"Georginio Wijnaldum - 11",
         "goalkeeper":"Rob Elliot",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2015-2016\/Newcastle-United-Stats",
         "season":"2015-2016"
     },
     {
@@ -3935,6 +4113,7 @@
         "top_team_scorer":"Dieumerci Mbokani - 7",
         "goalkeeper":"John Ruddy",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1c781004\/2015-2016\/Norwich-City-Stats",
         "season":"2015-2016"
     },
     {
@@ -3957,6 +4136,7 @@
         "top_team_scorer":"Jordan Ayew - 7",
         "goalkeeper":"Brad Guzan",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2015-2016\/Aston-Villa-Stats",
         "season":"2015-2016"
     },
     {
@@ -3979,6 +4159,7 @@
         "top_team_scorer":"Diego Costa - 20",
         "goalkeeper":"Thibaut Courtois",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2014-2015\/Chelsea-Stats",
         "season":"2014-2015"
     },
     {
@@ -4001,6 +4182,7 @@
         "top_team_scorer":"Sergio Ag\u00fcero - 26",
         "goalkeeper":"Joe Hart",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2014-2015\/Manchester-City-Stats",
         "season":"2014-2015"
     },
     {
@@ -4023,6 +4205,7 @@
         "top_team_scorer":"Alexis S\u00e1nchez - 16",
         "goalkeeper":"David Ospina",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2014-2015\/Arsenal-Stats",
         "season":"2014-2015"
     },
     {
@@ -4045,6 +4228,7 @@
         "top_team_scorer":"Wayne Rooney - 12",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2014-2015\/Manchester-United-Stats",
         "season":"2014-2015"
     },
     {
@@ -4067,6 +4251,7 @@
         "top_team_scorer":"Harry Kane - 21",
         "goalkeeper":"Hugo Lloris",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2014-2015\/Tottenham-Hotspur-Stats",
         "season":"2014-2015"
     },
     {
@@ -4089,6 +4274,7 @@
         "top_team_scorer":"Steven Gerrard - 9",
         "goalkeeper":"Simon Mignolet",
         "notes":"\u2192 Europa League via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2014-2015\/Liverpool-Stats",
         "season":"2014-2015"
     },
     {
@@ -4111,6 +4297,7 @@
         "top_team_scorer":"Graziano Pell\u00e8 - 12",
         "goalkeeper":"Fraser Forster",
         "notes":"\u2192 Europa League via league finish 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2014-2015\/Southampton-Stats",
         "season":"2014-2015"
     },
     {
@@ -4133,6 +4320,7 @@
         "top_team_scorer":"Wilfried Bony - 9",
         "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fb10988f\/2014-2015\/Swansea-City-Stats",
         "season":"2014-2015"
     },
     {
@@ -4155,6 +4343,7 @@
         "top_team_scorer":"Mame Biram Diouf - 11",
         "goalkeeper":"Asmir Begovi\u0107",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/17892952\/2014-2015\/Stoke-City-Stats",
         "season":"2014-2015"
     },
     {
@@ -4177,6 +4366,7 @@
         "top_team_scorer":"Glenn Murray - 7",
         "goalkeeper":"Juli\u00e1n Speroni",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2014-2015\/Crystal-Palace-Stats",
         "season":"2014-2015"
     },
     {
@@ -4199,6 +4389,7 @@
         "top_team_scorer":"Romelu Lukaku - 10",
         "goalkeeper":"Tim Howard",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2014-2015\/Everton-Stats",
         "season":"2014-2015"
     },
     {
@@ -4221,6 +4412,7 @@
         "top_team_scorer":"Diafra Sakho - 10",
         "goalkeeper":"Adri\u00e1n",
         "notes":"\u2192 Europa League 3",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2014-2015\/West-Ham-United-Stats",
         "season":"2014-2015"
     },
     {
@@ -4243,6 +4435,7 @@
         "top_team_scorer":"Saido Berahino - 14",
         "goalkeeper":"Ben Foster",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2014-2015\/West-Bromwich-Albion-Stats",
         "season":"2014-2015"
     },
     {
@@ -4265,6 +4458,7 @@
         "top_team_scorer":"Leonardo Ulloa - 11",
         "goalkeeper":"Kasper Schmeichel",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2014-2015\/Leicester-City-Stats",
         "season":"2014-2015"
     },
     {
@@ -4287,6 +4481,7 @@
         "top_team_scorer":"Papiss Ciss\u00e9 - 11",
         "goalkeeper":"Tim Krul",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2014-2015\/Newcastle-United-Stats",
         "season":"2014-2015"
     },
     {
@@ -4309,6 +4504,7 @@
         "top_team_scorer":"Steven Fletcher, Connor Wickham - 5",
         "goalkeeper":"Costel Pantilimon",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2014-2015\/Sunderland-Stats",
         "season":"2014-2015"
     },
     {
@@ -4331,6 +4527,7 @@
         "top_team_scorer":"Christian Benteke - 13",
         "goalkeeper":"Brad Guzan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2014-2015\/Aston-Villa-Stats",
         "season":"2014-2015"
     },
     {
@@ -4353,6 +4550,7 @@
         "top_team_scorer":"Nikica Jelavi\u0107 - 8",
         "goalkeeper":"Allan McGregor",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bd8769d1\/2014-2015\/Hull-City-Stats",
         "season":"2014-2015"
     },
     {
@@ -4375,6 +4573,7 @@
         "top_team_scorer":"Danny Ings - 11",
         "goalkeeper":"Tom Heaton",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/943e8050\/2014-2015\/Burnley-Stats",
         "season":"2014-2015"
     },
     {
@@ -4397,6 +4596,7 @@
         "top_team_scorer":"Charlie Austin - 18",
         "goalkeeper":"Robert Green",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a757999c\/2014-2015\/Queens-Park-Rangers-Stats",
         "season":"2014-2015"
     },
     {
@@ -4419,6 +4619,7 @@
         "top_team_scorer":"Yaya Tour\u00e9 - 20",
         "goalkeeper":"Joe Hart",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2013-2014\/Manchester-City-Stats",
         "season":"2013-2014"
     },
     {
@@ -4441,6 +4642,7 @@
         "top_team_scorer":"Luis Su\u00e1rez - 31",
         "goalkeeper":"Simon Mignolet",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2013-2014\/Liverpool-Stats",
         "season":"2013-2014"
     },
     {
@@ -4463,6 +4665,7 @@
         "top_team_scorer":"Eden Hazard - 14",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2013-2014\/Chelsea-Stats",
         "season":"2013-2014"
     },
     {
@@ -4485,6 +4688,7 @@
         "top_team_scorer":"Olivier Giroud - 16",
         "goalkeeper":"Wojciech Szcz\u0119sny",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2013-2014\/Arsenal-Stats",
         "season":"2013-2014"
     },
     {
@@ -4507,6 +4711,7 @@
         "top_team_scorer":"Romelu Lukaku - 15",
         "goalkeeper":"Tim Howard",
         "notes":"\u2192 Europa League via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2013-2014\/Everton-Stats",
         "season":"2013-2014"
     },
     {
@@ -4529,6 +4734,7 @@
         "top_team_scorer":"Emmanuel Adebayor - 11",
         "goalkeeper":"Hugo Lloris",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2013-2014\/Tottenham-Hotspur-Stats",
         "season":"2013-2014"
     },
     {
@@ -4551,6 +4757,7 @@
         "top_team_scorer":"Wayne Rooney - 17",
         "goalkeeper":"David de Gea",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2013-2014\/Manchester-United-Stats",
         "season":"2013-2014"
     },
     {
@@ -4573,6 +4780,7 @@
         "top_team_scorer":"Jay Rodriguez - 15",
         "goalkeeper":"Artur Boruc",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2013-2014\/Southampton-Stats",
         "season":"2013-2014"
     },
     {
@@ -4595,6 +4803,7 @@
         "top_team_scorer":"Charlie Adam - 8",
         "goalkeeper":"Asmir Begovi\u0107",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/17892952\/2013-2014\/Stoke-City-Stats",
         "season":"2013-2014"
     },
     {
@@ -4617,6 +4826,7 @@
         "top_team_scorer":"Lo\u00efc R\u00e9my - 14",
         "goalkeeper":"Tim Krul",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2013-2014\/Newcastle-United-Stats",
         "season":"2013-2014"
     },
     {
@@ -4639,6 +4849,7 @@
         "top_team_scorer":"Dwight Gayle, Jason Puncheon - 7",
         "goalkeeper":"Juli\u00e1n Speroni",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2013-2014\/Crystal-Palace-Stats",
         "season":"2013-2014"
     },
     {
@@ -4661,6 +4872,7 @@
         "top_team_scorer":"Wilfried Bony - 16",
         "goalkeeper":"Michel Vorm",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fb10988f\/2013-2014\/Swansea-City-Stats",
         "season":"2013-2014"
     },
     {
@@ -4683,6 +4895,7 @@
         "top_team_scorer":"Kevin Nolan - 7",
         "goalkeeper":"Adri\u00e1n",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2013-2014\/West-Ham-United-Stats",
         "season":"2013-2014"
     },
     {
@@ -4705,6 +4918,7 @@
         "top_team_scorer":"Adam Johnson - 8",
         "goalkeeper":"Vito Mannone",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2013-2014\/Sunderland-Stats",
         "season":"2013-2014"
     },
     {
@@ -4727,6 +4941,7 @@
         "top_team_scorer":"Christian Benteke - 10",
         "goalkeeper":"Brad Guzan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2013-2014\/Aston-Villa-Stats",
         "season":"2013-2014"
     },
     {
@@ -4749,6 +4964,7 @@
         "top_team_scorer":"Nikica Jelavi\u0107 - 5",
         "goalkeeper":"Allan McGregor",
         "notes":"\u2192 Europa League via cup loss 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bd8769d1\/2013-2014\/Hull-City-Stats",
         "season":"2013-2014"
     },
     {
@@ -4771,6 +4987,7 @@
         "top_team_scorer":"Saido Berahino, St\u00e9phane Sess\u00e8gnon - 5",
         "goalkeeper":"Ben Foster",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2013-2014\/West-Bromwich-Albion-Stats",
         "season":"2013-2014"
     },
     {
@@ -4793,6 +5010,7 @@
         "top_team_scorer":"Gary Hooper, Robert Snodgrass - 6",
         "goalkeeper":"John Ruddy",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1c781004\/2013-2014\/Norwich-City-Stats",
         "season":"2013-2014"
     },
     {
@@ -4815,6 +5033,7 @@
         "top_team_scorer":"Steve Sidwell - 7",
         "goalkeeper":"David Stockdale",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2013-2014\/Fulham-Stats",
         "season":"2013-2014"
     },
     {
@@ -4837,6 +5056,7 @@
         "top_team_scorer":"Jordon Mutch - 7",
         "goalkeeper":"David Marshall",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/75fae011\/2013-2014\/Cardiff-City-Stats",
         "season":"2013-2014"
     },
     {
@@ -4859,6 +5079,7 @@
         "top_team_scorer":"Robin van Persie - 26",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2012-2013\/Manchester-United-Stats",
         "season":"2012-2013"
     },
     {
@@ -4881,6 +5102,7 @@
         "top_team_scorer":"Edin D\u017eeko - 14",
         "goalkeeper":"Joe Hart",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2012-2013\/Manchester-City-Stats",
         "season":"2012-2013"
     },
     {
@@ -4903,6 +5125,7 @@
         "top_team_scorer":"Frank Lampard - 15",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2012-2013\/Chelsea-Stats",
         "season":"2012-2013"
     },
     {
@@ -4925,6 +5148,7 @@
         "top_team_scorer":"Theo Walcott - 14",
         "goalkeeper":"Wojciech Szcz\u0119sny",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2012-2013\/Arsenal-Stats",
         "season":"2012-2013"
     },
     {
@@ -4947,6 +5171,7 @@
         "top_team_scorer":"Gareth Bale - 21",
         "goalkeeper":"Hugo Lloris",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2012-2013\/Tottenham-Hotspur-Stats",
         "season":"2012-2013"
     },
     {
@@ -4969,6 +5194,7 @@
         "top_team_scorer":"Marouane Fellaini - 11",
         "goalkeeper":"Tim Howard",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2012-2013\/Everton-Stats",
         "season":"2012-2013"
     },
     {
@@ -4991,6 +5217,7 @@
         "top_team_scorer":"Luis Su\u00e1rez - 23",
         "goalkeeper":"Pepe Reina",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2012-2013\/Liverpool-Stats",
         "season":"2012-2013"
     },
     {
@@ -5013,6 +5240,7 @@
         "top_team_scorer":"Romelu Lukaku - 17",
         "goalkeeper":"Ben Foster",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2012-2013\/West-Bromwich-Albion-Stats",
         "season":"2012-2013"
     },
     {
@@ -5035,6 +5263,7 @@
         "top_team_scorer":"Michu - 18",
         "goalkeeper":"Michel Vorm",
         "notes":"\u2192 Europa League via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fb10988f\/2012-2013\/Swansea-City-Stats",
         "season":"2012-2013"
     },
     {
@@ -5057,6 +5286,7 @@
         "top_team_scorer":"Kevin Nolan - 10",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2012-2013\/West-Ham-United-Stats",
         "season":"2012-2013"
     },
     {
@@ -5079,6 +5309,7 @@
         "top_team_scorer":"Grant Holt - 8",
         "goalkeeper":"Mark Bunn",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1c781004\/2012-2013\/Norwich-City-Stats",
         "season":"2012-2013"
     },
     {
@@ -5101,6 +5332,7 @@
         "top_team_scorer":"Dimitar Berbatov - 15",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2012-2013\/Fulham-Stats",
         "season":"2012-2013"
     },
     {
@@ -5123,6 +5355,7 @@
         "top_team_scorer":"Jonathan Walters - 8",
         "goalkeeper":"Asmir Begovi\u0107",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/17892952\/2012-2013\/Stoke-City-Stats",
         "season":"2012-2013"
     },
     {
@@ -5145,6 +5378,7 @@
         "top_team_scorer":"Rickie Lambert - 15",
         "goalkeeper":"Artur Boruc",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2012-2013\/Southampton-Stats",
         "season":"2012-2013"
     },
     {
@@ -5167,6 +5401,7 @@
         "top_team_scorer":"Christian Benteke - 19",
         "goalkeeper":"Brad Guzan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2012-2013\/Aston-Villa-Stats",
         "season":"2012-2013"
     },
     {
@@ -5189,6 +5424,7 @@
         "top_team_scorer":"Demba Ba - 13",
         "goalkeeper":"Tim Krul",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2012-2013\/Newcastle-United-Stats",
         "season":"2012-2013"
     },
     {
@@ -5211,6 +5447,7 @@
         "top_team_scorer":"Steven Fletcher - 11",
         "goalkeeper":"Simon Mignolet",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2012-2013\/Sunderland-Stats",
         "season":"2012-2013"
     },
     {
@@ -5233,6 +5470,7 @@
         "top_team_scorer":"Arouna Kon\u00e9 - 11",
         "goalkeeper":"Ali Al-Habsi",
         "notes":"Relegated, \u2192 Europa League via cup win 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e59ddc76\/2012-2013\/Wigan-Athletic-Stats",
         "season":"2012-2013"
     },
     {
@@ -5255,6 +5493,7 @@
         "top_team_scorer":"Adam le Fondre - 12",
         "goalkeeper":"Adam Federici",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b0ac61ff\/2012-2013\/Reading-Stats",
         "season":"2012-2013"
     },
     {
@@ -5277,6 +5516,7 @@
         "top_team_scorer":"Lo\u00efc R\u00e9my - 6",
         "goalkeeper":"J\u00falio C\u00e9sar",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a757999c\/2012-2013\/Queens-Park-Rangers-Stats",
         "season":"2012-2013"
     },
     {
@@ -5299,6 +5539,7 @@
         "top_team_scorer":"Sergio Ag\u00fcero - 23",
         "goalkeeper":"Joe Hart",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2011-2012\/Manchester-City-Stats",
         "season":"2011-2012"
     },
     {
@@ -5321,6 +5562,7 @@
         "top_team_scorer":"Wayne Rooney - 27",
         "goalkeeper":"David de Gea",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2011-2012\/Manchester-United-Stats",
         "season":"2011-2012"
     },
     {
@@ -5343,6 +5585,7 @@
         "top_team_scorer":"Robin van Persie - 30",
         "goalkeeper":"Wojciech Szcz\u0119sny",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2011-2012\/Arsenal-Stats",
         "season":"2011-2012"
     },
     {
@@ -5365,6 +5608,7 @@
         "top_team_scorer":"Emmanuel Adebayor - 17",
         "goalkeeper":"Brad Friedel",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2011-2012\/Tottenham-Hotspur-Stats",
         "season":"2011-2012"
     },
     {
@@ -5387,6 +5631,7 @@
         "top_team_scorer":"Demba Ba - 16",
         "goalkeeper":"Tim Krul",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2011-2012\/Newcastle-United-Stats",
         "season":"2011-2012"
     },
     {
@@ -5409,6 +5654,7 @@
         "top_team_scorer":"Frank Lampard, Daniel Sturridge - 11",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via Champions League win",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2011-2012\/Chelsea-Stats",
         "season":"2011-2012"
     },
     {
@@ -5431,6 +5677,7 @@
         "top_team_scorer":"Nikica Jelavi\u0107 - 9",
         "goalkeeper":"Tim Howard",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2011-2012\/Everton-Stats",
         "season":"2011-2012"
     },
     {
@@ -5453,6 +5700,7 @@
         "top_team_scorer":"Luis Su\u00e1rez - 11",
         "goalkeeper":"Pepe Reina",
         "notes":"\u2192 Europa League via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2011-2012\/Liverpool-Stats",
         "season":"2011-2012"
     },
     {
@@ -5475,6 +5723,7 @@
         "top_team_scorer":"Clint Dempsey - 17",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2011-2012\/Fulham-Stats",
         "season":"2011-2012"
     },
     {
@@ -5497,6 +5746,7 @@
         "top_team_scorer":"Peter Odemwingie - 10",
         "goalkeeper":"Ben Foster",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2011-2012\/West-Bromwich-Albion-Stats",
         "season":"2011-2012"
     },
     {
@@ -5519,6 +5769,7 @@
         "top_team_scorer":"Danny Graham - 12",
         "goalkeeper":"Michel Vorm",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fb10988f\/2011-2012\/Swansea-City-Stats",
         "season":"2011-2012"
     },
     {
@@ -5541,6 +5792,7 @@
         "top_team_scorer":"Grant Holt - 15",
         "goalkeeper":"John Ruddy",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1c781004\/2011-2012\/Norwich-City-Stats",
         "season":"2011-2012"
     },
     {
@@ -5563,6 +5815,7 @@
         "top_team_scorer":"Nicklas Bendtner - 8",
         "goalkeeper":"Simon Mignolet",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2011-2012\/Sunderland-Stats",
         "season":"2011-2012"
     },
     {
@@ -5585,6 +5838,7 @@
         "top_team_scorer":"Peter Crouch - 10",
         "goalkeeper":"Asmir Begovi\u0107",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/17892952\/2011-2012\/Stoke-City-Stats",
         "season":"2011-2012"
     },
     {
@@ -5607,6 +5861,7 @@
         "top_team_scorer":"Franco Di Santo - 7",
         "goalkeeper":"Ali Al-Habsi",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e59ddc76\/2011-2012\/Wigan-Athletic-Stats",
         "season":"2011-2012"
     },
     {
@@ -5629,6 +5884,7 @@
         "top_team_scorer":"Darren Bent - 9",
         "goalkeeper":"Shay Given",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2011-2012\/Aston-Villa-Stats",
         "season":"2011-2012"
     },
     {
@@ -5651,6 +5907,7 @@
         "top_team_scorer":"Hei\u00f0ar Helguson - 8",
         "goalkeeper":"Paddy Kenny",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a757999c\/2011-2012\/Queens-Park-Rangers-Stats",
         "season":"2011-2012"
     },
     {
@@ -5673,6 +5930,7 @@
         "top_team_scorer":"Ivan Klasni\u0107 - 8",
         "goalkeeper":"\u00c1d\u00e1m Bogd\u00e1n",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2011-2012\/Bolton-Wanderers-Stats",
         "season":"2011-2012"
     },
     {
@@ -5695,6 +5953,7 @@
         "top_team_scorer":"Yakubu Aiyegbeni - 17",
         "goalkeeper":"Paul Robinson",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2011-2012\/Blackburn-Rovers-Stats",
         "season":"2011-2012"
     },
     {
@@ -5717,6 +5976,7 @@
         "top_team_scorer":"Steven Fletcher - 12",
         "goalkeeper":"Wayne Hennessey",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8cec06e1\/2011-2012\/Wolverhampton-Wanderers-Stats",
         "season":"2011-2012"
     },
     {
@@ -5739,6 +5999,7 @@
         "top_team_scorer":"Dimitar Berbatov - 20",
         "goalkeeper":"Edwin van der Sar",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2010-2011\/Manchester-United-Stats",
         "season":"2010-2011"
     },
     {
@@ -5761,6 +6022,7 @@
         "top_team_scorer":"Florent Malouda - 13",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2010-2011\/Chelsea-Stats",
         "season":"2010-2011"
     },
     {
@@ -5783,6 +6045,7 @@
         "top_team_scorer":"Carlos Tevez - 20",
         "goalkeeper":"Joe Hart",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2010-2011\/Manchester-City-Stats",
         "season":"2010-2011"
     },
     {
@@ -5805,6 +6068,7 @@
         "top_team_scorer":"Robin van Persie - 18",
         "goalkeeper":"Wojciech Szcz\u0119sny",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2010-2011\/Arsenal-Stats",
         "season":"2010-2011"
     },
     {
@@ -5827,6 +6091,7 @@
         "top_team_scorer":"Rafael van der Vaart - 13",
         "goalkeeper":"Heurelho Gomes",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2010-2011\/Tottenham-Hotspur-Stats",
         "season":"2010-2011"
     },
     {
@@ -5849,6 +6114,7 @@
         "top_team_scorer":"Dirk Kuyt - 13",
         "goalkeeper":"Pepe Reina",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2010-2011\/Liverpool-Stats",
         "season":"2010-2011"
     },
     {
@@ -5871,6 +6137,7 @@
         "top_team_scorer":"Tim Cahill - 9",
         "goalkeeper":"Tim Howard",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2010-2011\/Everton-Stats",
         "season":"2010-2011"
     },
     {
@@ -5893,6 +6160,7 @@
         "top_team_scorer":"Clint Dempsey - 12",
         "goalkeeper":"Mark Schwarzer",
         "notes":"\u2192 Europa League 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2010-2011\/Fulham-Stats",
         "season":"2010-2011"
     },
     {
@@ -5915,6 +6183,7 @@
         "top_team_scorer":"Darren Bent - 9",
         "goalkeeper":"Brad Friedel",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2010-2011\/Aston-Villa-Stats",
         "season":"2010-2011"
     },
     {
@@ -5937,6 +6206,7 @@
         "top_team_scorer":"Asamoah Gyan - 10",
         "goalkeeper":"Simon Mignolet",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2010-2011\/Sunderland-Stats",
         "season":"2010-2011"
     },
     {
@@ -5959,6 +6229,7 @@
         "top_team_scorer":"Peter Odemwingie - 15",
         "goalkeeper":"Scott Carson",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2010-2011\/West-Bromwich-Albion-Stats",
         "season":"2010-2011"
     },
     {
@@ -5981,6 +6252,7 @@
         "top_team_scorer":"Kevin Nolan - 12",
         "goalkeeper":"Tim Krul",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2010-2011\/Newcastle-United-Stats",
         "season":"2010-2011"
     },
     {
@@ -6003,6 +6275,7 @@
         "top_team_scorer":"Kenwyne Jones - 9",
         "goalkeeper":"Asmir Begovi\u0107",
         "notes":"\u2192 Europa League via cup loss 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/17892952\/2010-2011\/Stoke-City-Stats",
         "season":"2010-2011"
     },
     {
@@ -6025,6 +6298,7 @@
         "top_team_scorer":"Johan Elmander - 10",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2010-2011\/Bolton-Wanderers-Stats",
         "season":"2010-2011"
     },
     {
@@ -6047,6 +6321,7 @@
         "top_team_scorer":"Nikola Kalini\u0107, Junior Hoilett... - 5",
         "goalkeeper":"Paul Robinson",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2010-2011\/Blackburn-Rovers-Stats",
         "season":"2010-2011"
     },
     {
@@ -6069,6 +6344,7 @@
         "top_team_scorer":"Charles N'Zogbia, Hugo Rodallega - 9",
         "goalkeeper":"Ali Al-Habsi",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e59ddc76\/2010-2011\/Wigan-Athletic-Stats",
         "season":"2010-2011"
     },
     {
@@ -6091,6 +6367,7 @@
         "top_team_scorer":"Steven Fletcher - 10",
         "goalkeeper":"Wayne Hennessey",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8cec06e1\/2010-2011\/Wolverhampton-Wanderers-Stats",
         "season":"2010-2011"
     },
     {
@@ -6113,6 +6390,7 @@
         "top_team_scorer":"Craig Gardner - 8",
         "goalkeeper":"Ben Foster",
         "notes":"Relegated, \u2192 Europa League via cup win",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/ec79b7c2\/2010-2011\/Birmingham-City-Stats",
         "season":"2010-2011"
     },
     {
@@ -6135,6 +6413,7 @@
         "top_team_scorer":"DJ Campbell - 13",
         "goalkeeper":"Richard Kingson",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7cbf5cb4\/2010-2011\/Blackpool-Stats",
         "season":"2010-2011"
     },
     {
@@ -6157,6 +6436,7 @@
         "top_team_scorer":"Demba Ba - 7",
         "goalkeeper":"Robert Green",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2010-2011\/West-Ham-United-Stats",
         "season":"2010-2011"
     },
     {
@@ -6179,6 +6459,7 @@
         "top_team_scorer":"Didier Drogba - 29",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2009-2010\/Chelsea-Stats",
         "season":"2009-2010"
     },
     {
@@ -6201,6 +6482,7 @@
         "top_team_scorer":"Wayne Rooney - 26",
         "goalkeeper":"Edwin van der Sar",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2009-2010\/Manchester-United-Stats",
         "season":"2009-2010"
     },
     {
@@ -6223,6 +6505,7 @@
         "top_team_scorer":"Cesc F\u00e0bregas - 15",
         "goalkeeper":"Manuel Almunia",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2009-2010\/Arsenal-Stats",
         "season":"2009-2010"
     },
     {
@@ -6245,6 +6528,7 @@
         "top_team_scorer":"Jermain Defoe - 18",
         "goalkeeper":"Heurelho Gomes",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2009-2010\/Tottenham-Hotspur-Stats",
         "season":"2009-2010"
     },
     {
@@ -6267,6 +6551,7 @@
         "top_team_scorer":"Carlos Tevez - 23",
         "goalkeeper":"Shay Given",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2009-2010\/Manchester-City-Stats",
         "season":"2009-2010"
     },
     {
@@ -6289,6 +6574,7 @@
         "top_team_scorer":"Gabriel Agbonlahor - 13",
         "goalkeeper":"Brad Friedel",
         "notes":"\u2192 Europa League via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2009-2010\/Aston-Villa-Stats",
         "season":"2009-2010"
     },
     {
@@ -6311,6 +6597,7 @@
         "top_team_scorer":"Fernando Torres - 18",
         "goalkeeper":"Pepe Reina",
         "notes":"\u2192 Europa League via league finish 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2009-2010\/Liverpool-Stats",
         "season":"2009-2010"
     },
     {
@@ -6333,6 +6620,7 @@
         "top_team_scorer":"Louis Saha - 13",
         "goalkeeper":"Tim Howard",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2009-2010\/Everton-Stats",
         "season":"2009-2010"
     },
     {
@@ -6355,6 +6643,7 @@
         "top_team_scorer":"Cameron Jerome - 11",
         "goalkeeper":"Joe Hart",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/ec79b7c2\/2009-2010\/Birmingham-City-Stats",
         "season":"2009-2010"
     },
     {
@@ -6377,6 +6666,7 @@
         "top_team_scorer":"David Dunn - 9",
         "goalkeeper":"Paul Robinson",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2009-2010\/Blackburn-Rovers-Stats",
         "season":"2009-2010"
     },
     {
@@ -6399,6 +6689,7 @@
         "top_team_scorer":"Matthew Etherington - 5",
         "goalkeeper":"Thomas S\u00f8rensen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/17892952\/2009-2010\/Stoke-City-Stats",
         "season":"2009-2010"
     },
     {
@@ -6421,6 +6712,7 @@
         "top_team_scorer":"Bobby Zamora - 8",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2009-2010\/Fulham-Stats",
         "season":"2009-2010"
     },
     {
@@ -6443,6 +6735,7 @@
         "top_team_scorer":"Darren Bent - 24",
         "goalkeeper":"Craig Gordon",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2009-2010\/Sunderland-Stats",
         "season":"2009-2010"
     },
     {
@@ -6465,6 +6758,7 @@
         "top_team_scorer":"Ivan Klasni\u0107, Matthew Taylor - 8",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2009-2010\/Bolton-Wanderers-Stats",
         "season":"2009-2010"
     },
     {
@@ -6487,6 +6781,7 @@
         "top_team_scorer":"Kevin Doyle - 9",
         "goalkeeper":"Marcus Hahnemann",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8cec06e1\/2009-2010\/Wolverhampton-Wanderers-Stats",
         "season":"2009-2010"
     },
     {
@@ -6509,6 +6804,7 @@
         "top_team_scorer":"Hugo Rodallega - 10",
         "goalkeeper":"Chris Kirkland",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e59ddc76\/2009-2010\/Wigan-Athletic-Stats",
         "season":"2009-2010"
     },
     {
@@ -6531,6 +6827,7 @@
         "top_team_scorer":"Carlton Cole - 10",
         "goalkeeper":"Robert Green",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2009-2010\/West-Ham-United-Stats",
         "season":"2009-2010"
     },
     {
@@ -6553,6 +6850,7 @@
         "top_team_scorer":"Steven Fletcher - 8",
         "goalkeeper":"Brian Jensen",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/943e8050\/2009-2010\/Burnley-Stats",
         "season":"2009-2010"
     },
     {
@@ -6575,6 +6873,7 @@
         "top_team_scorer":"Stephen Hunt - 6",
         "goalkeeper":"Boaz Myhill",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bd8769d1\/2009-2010\/Hull-City-Stats",
         "season":"2009-2010"
     },
     {
@@ -6597,6 +6896,7 @@
         "top_team_scorer":"Aruna Dindane - 8",
         "goalkeeper":"David James",
         "notes":"9-point deduction 3, Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/76ffc013\/2009-2010\/Portsmouth-Stats",
         "season":"2009-2010"
     },
     {
@@ -6619,6 +6919,7 @@
         "top_team_scorer":"Cristiano Ronaldo - 18",
         "goalkeeper":"Edwin van der Sar",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2008-2009\/Manchester-United-Stats",
         "season":"2008-2009"
     },
     {
@@ -6641,6 +6942,7 @@
         "top_team_scorer":"Steven Gerrard - 16",
         "goalkeeper":"Pepe Reina",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2008-2009\/Liverpool-Stats",
         "season":"2008-2009"
     },
     {
@@ -6663,6 +6965,7 @@
         "top_team_scorer":"Nicolas Anelka - 19",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2008-2009\/Chelsea-Stats",
         "season":"2008-2009"
     },
     {
@@ -6685,6 +6988,7 @@
         "top_team_scorer":"Robin van Persie - 11",
         "goalkeeper":"Manuel Almunia",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2008-2009\/Arsenal-Stats",
         "season":"2008-2009"
     },
     {
@@ -6707,6 +7011,7 @@
         "top_team_scorer":"Marouane Fellaini, Tim Cahill - 8",
         "goalkeeper":"Tim Howard",
         "notes":"\u2192 Europa League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2008-2009\/Everton-Stats",
         "season":"2008-2009"
     },
     {
@@ -6729,6 +7034,7 @@
         "top_team_scorer":"Gabriel Agbonlahor, John Carew - 11",
         "goalkeeper":"Brad Friedel",
         "notes":"\u2192 Europa League via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2008-2009\/Aston-Villa-Stats",
         "season":"2008-2009"
     },
     {
@@ -6751,6 +7057,7 @@
         "top_team_scorer":"Andrew Johnson, Clint Dempsey - 7",
         "goalkeeper":"Mark Schwarzer",
         "notes":"\u2192 Europa League via league finish 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2008-2009\/Fulham-Stats",
         "season":"2008-2009"
     },
     {
@@ -6773,6 +7080,7 @@
         "top_team_scorer":"Darren Bent - 12",
         "goalkeeper":"Heurelho Gomes",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2008-2009\/Tottenham-Hotspur-Stats",
         "season":"2008-2009"
     },
     {
@@ -6795,6 +7103,7 @@
         "top_team_scorer":"Carlton Cole - 10",
         "goalkeeper":"Robert Green",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2008-2009\/West-Ham-United-Stats",
         "season":"2008-2009"
     },
     {
@@ -6817,6 +7126,7 @@
         "top_team_scorer":"Robinho - 14",
         "goalkeeper":"Joe Hart",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2008-2009\/Manchester-City-Stats",
         "season":"2008-2009"
     },
     {
@@ -6839,6 +7149,7 @@
         "top_team_scorer":"Amr Zaki - 10",
         "goalkeeper":"Chris Kirkland",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e59ddc76\/2008-2009\/Wigan-Athletic-Stats",
         "season":"2008-2009"
     },
     {
@@ -6861,6 +7172,7 @@
         "top_team_scorer":"Ricardo Fuller - 11",
         "goalkeeper":"Thomas S\u00f8rensen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/17892952\/2008-2009\/Stoke-City-Stats",
         "season":"2008-2009"
     },
     {
@@ -6883,6 +7195,7 @@
         "top_team_scorer":"Kevin Davies - 12",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2008-2009\/Bolton-Wanderers-Stats",
         "season":"2008-2009"
     },
     {
@@ -6905,6 +7218,7 @@
         "top_team_scorer":"Peter Crouch - 10",
         "goalkeeper":"David James",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/76ffc013\/2008-2009\/Portsmouth-Stats",
         "season":"2008-2009"
     },
     {
@@ -6927,6 +7241,7 @@
         "top_team_scorer":"Benni McCarthy - 10",
         "goalkeeper":"Paul Robinson",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2008-2009\/Blackburn-Rovers-Stats",
         "season":"2008-2009"
     },
     {
@@ -6949,6 +7264,7 @@
         "top_team_scorer":"Kenwyne Jones, Djibril Ciss\u00e9 - 10",
         "goalkeeper":"M\u00e1rton F\u00fcl\u00f6p",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2008-2009\/Sunderland-Stats",
         "season":"2008-2009"
     },
     {
@@ -6971,6 +7287,7 @@
         "top_team_scorer":"Geovanni - 8",
         "goalkeeper":"Boaz Myhill",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bd8769d1\/2008-2009\/Hull-City-Stats",
         "season":"2008-2009"
     },
     {
@@ -6993,6 +7310,7 @@
         "top_team_scorer":"Obafemi Martins, Michael Owen - 8",
         "goalkeeper":"Shay Given",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2008-2009\/Newcastle-United-Stats",
         "season":"2008-2009"
     },
     {
@@ -7015,6 +7333,7 @@
         "top_team_scorer":"Tuncay \u015eanl\u0131 - 7",
         "goalkeeper":"Ross Turnbull",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/2008-2009\/Middlesbrough-Stats",
         "season":"2008-2009"
     },
     {
@@ -7037,6 +7356,7 @@
         "top_team_scorer":"Chris Brunt - 9",
         "goalkeeper":"Scott Carson",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2008-2009\/West-Bromwich-Albion-Stats",
         "season":"2008-2009"
     },
     {
@@ -7059,6 +7379,7 @@
         "top_team_scorer":"Cristiano Ronaldo - 31",
         "goalkeeper":"Edwin van der Sar",
         "notes":"\u2192 Champions League via Champions League win",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2007-2008\/Manchester-United-Stats",
         "season":"2007-2008"
     },
     {
@@ -7081,6 +7402,7 @@
         "top_team_scorer":"Frank Lampard - 10",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2007-2008\/Chelsea-Stats",
         "season":"2007-2008"
     },
     {
@@ -7103,6 +7425,7 @@
         "top_team_scorer":"Emmanuel Adebayor - 24",
         "goalkeeper":"Manuel Almunia",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2007-2008\/Arsenal-Stats",
         "season":"2007-2008"
     },
     {
@@ -7125,6 +7448,7 @@
         "top_team_scorer":"Fernando Torres - 24",
         "goalkeeper":"Pepe Reina",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2007-2008\/Liverpool-Stats",
         "season":"2007-2008"
     },
     {
@@ -7147,6 +7471,7 @@
         "top_team_scorer":"Yakubu Aiyegbeni - 15",
         "goalkeeper":"Tim Howard",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2007-2008\/Everton-Stats",
         "season":"2007-2008"
     },
     {
@@ -7169,6 +7494,7 @@
         "top_team_scorer":"John Carew - 13",
         "goalkeeper":"Scott Carson",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2007-2008\/Aston-Villa-Stats",
         "season":"2007-2008"
     },
     {
@@ -7191,6 +7517,7 @@
         "top_team_scorer":"Roque Santa Cruz - 19",
         "goalkeeper":"Brad Friedel",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2007-2008\/Blackburn-Rovers-Stats",
         "season":"2007-2008"
     },
     {
@@ -7213,6 +7540,7 @@
         "top_team_scorer":"Benjani - 12",
         "goalkeeper":"David James",
         "notes":"\u2192 UEFA Cup via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/76ffc013\/2007-2008\/Portsmouth-Stats",
         "season":"2007-2008"
     },
     {
@@ -7235,6 +7563,7 @@
         "top_team_scorer":"Elano - 8",
         "goalkeeper":"Joe Hart",
         "notes":"\u2192 UEFA Cup 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2007-2008\/Manchester-City-Stats",
         "season":"2007-2008"
     },
     {
@@ -7257,6 +7586,7 @@
         "top_team_scorer":"Dean Ashton - 10",
         "goalkeeper":"Robert Green",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2007-2008\/West-Ham-United-Stats",
         "season":"2007-2008"
     },
     {
@@ -7279,6 +7609,7 @@
         "top_team_scorer":"Dimitar Berbatov, Robbie Keane - 15",
         "goalkeeper":"Paul Robinson",
         "notes":"\u2192 UEFA Cup via cup win 3",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2007-2008\/Tottenham-Hotspur-Stats",
         "season":"2007-2008"
     },
     {
@@ -7301,6 +7632,7 @@
         "top_team_scorer":"Michael Owen - 11",
         "goalkeeper":"Steve Harper",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2007-2008\/Newcastle-United-Stats",
         "season":"2007-2008"
     },
     {
@@ -7323,6 +7655,7 @@
         "top_team_scorer":"Stewart Downing - 9",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/2007-2008\/Middlesbrough-Stats",
         "season":"2007-2008"
     },
     {
@@ -7345,6 +7678,7 @@
         "top_team_scorer":"Marcus Bent - 7",
         "goalkeeper":"Chris Kirkland",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e59ddc76\/2007-2008\/Wigan-Athletic-Stats",
         "season":"2007-2008"
     },
     {
@@ -7367,6 +7701,7 @@
         "top_team_scorer":"Kenwyne Jones - 7",
         "goalkeeper":"Craig Gordon",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2007-2008\/Sunderland-Stats",
         "season":"2007-2008"
     },
     {
@@ -7389,6 +7724,7 @@
         "top_team_scorer":"Nicolas Anelka - 10",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2007-2008\/Bolton-Wanderers-Stats",
         "season":"2007-2008"
     },
     {
@@ -7411,6 +7747,7 @@
         "top_team_scorer":"Clint Dempsey - 6",
         "goalkeeper":"Antti Niemi",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2007-2008\/Fulham-Stats",
         "season":"2007-2008"
     },
     {
@@ -7433,6 +7770,7 @@
         "top_team_scorer":"Dave Kitson - 10",
         "goalkeeper":"Marcus Hahnemann",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b0ac61ff\/2007-2008\/Reading-Stats",
         "season":"2007-2008"
     },
     {
@@ -7455,6 +7793,7 @@
         "top_team_scorer":"Mikael Forssell - 9",
         "goalkeeper":"Maik Taylor",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/ec79b7c2\/2007-2008\/Birmingham-City-Stats",
         "season":"2007-2008"
     },
     {
@@ -7477,6 +7816,7 @@
         "top_team_scorer":"Kenny Miller - 4",
         "goalkeeper":"Stephen Bywater",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/26ab47ee\/2007-2008\/Derby-County-Stats",
         "season":"2007-2008"
     },
     {
@@ -7499,6 +7839,7 @@
         "top_team_scorer":"Cristiano Ronaldo - 17",
         "goalkeeper":"Edwin van der Sar",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2006-2007\/Manchester-United-Stats",
         "season":"2006-2007"
     },
     {
@@ -7521,6 +7862,7 @@
         "top_team_scorer":"Didier Drogba - 20",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2006-2007\/Chelsea-Stats",
         "season":"2006-2007"
     },
     {
@@ -7543,6 +7885,7 @@
         "top_team_scorer":"Dirk Kuyt - 12",
         "goalkeeper":"Pepe Reina",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2006-2007\/Liverpool-Stats",
         "season":"2006-2007"
     },
     {
@@ -7565,6 +7908,7 @@
         "top_team_scorer":"Robin van Persie - 11",
         "goalkeeper":"Jens Lehmann",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2006-2007\/Arsenal-Stats",
         "season":"2006-2007"
     },
     {
@@ -7587,6 +7931,7 @@
         "top_team_scorer":"Dimitar Berbatov - 12",
         "goalkeeper":"Paul Robinson",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2006-2007\/Tottenham-Hotspur-Stats",
         "season":"2006-2007"
     },
     {
@@ -7609,6 +7954,7 @@
         "top_team_scorer":"Andrew Johnson - 11",
         "goalkeeper":"Tim Howard",
         "notes":"\u2192 UEFA Cup via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2006-2007\/Everton-Stats",
         "season":"2006-2007"
     },
     {
@@ -7631,6 +7977,7 @@
         "top_team_scorer":"Nicolas Anelka - 11",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":"\u2192 UEFA Cup via league finish 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2006-2007\/Bolton-Wanderers-Stats",
         "season":"2006-2007"
     },
     {
@@ -7653,6 +8000,7 @@
         "top_team_scorer":"Kevin Doyle - 13",
         "goalkeeper":"Marcus Hahnemann",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b0ac61ff\/2006-2007\/Reading-Stats",
         "season":"2006-2007"
     },
     {
@@ -7675,6 +8023,7 @@
         "top_team_scorer":"Nwankwo Kanu - 10",
         "goalkeeper":"David James",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/76ffc013\/2006-2007\/Portsmouth-Stats",
         "season":"2006-2007"
     },
     {
@@ -7697,6 +8046,7 @@
         "top_team_scorer":"Benni McCarthy - 18",
         "goalkeeper":"Brad Friedel",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2006-2007\/Blackburn-Rovers-Stats",
         "season":"2006-2007"
     },
     {
@@ -7719,6 +8069,7 @@
         "top_team_scorer":"Gabriel Agbonlahor - 9",
         "goalkeeper":"Thomas S\u00f8rensen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2006-2007\/Aston-Villa-Stats",
         "season":"2006-2007"
     },
     {
@@ -7741,6 +8092,7 @@
         "top_team_scorer":"Mark Viduka - 14",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/2006-2007\/Middlesbrough-Stats",
         "season":"2006-2007"
     },
     {
@@ -7763,6 +8115,7 @@
         "top_team_scorer":"Obafemi Martins - 11",
         "goalkeeper":"Shay Given",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2006-2007\/Newcastle-United-Stats",
         "season":"2006-2007"
     },
     {
@@ -7785,6 +8138,7 @@
         "top_team_scorer":"Joey Barton - 6",
         "goalkeeper":"Nicky Weaver",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2006-2007\/Manchester-City-Stats",
         "season":"2006-2007"
     },
     {
@@ -7807,6 +8161,7 @@
         "top_team_scorer":"Bobby Zamora - 11",
         "goalkeeper":"Robert Green",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2006-2007\/West-Ham-United-Stats",
         "season":"2006-2007"
     },
     {
@@ -7829,6 +8184,7 @@
         "top_team_scorer":"Brian McBride - 9",
         "goalkeeper":"Antti Niemi",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2006-2007\/Fulham-Stats",
         "season":"2006-2007"
     },
     {
@@ -7851,6 +8207,7 @@
         "top_team_scorer":"Emile Heskey - 8",
         "goalkeeper":"Chris Kirkland",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e59ddc76\/2006-2007\/Wigan-Athletic-Stats",
         "season":"2006-2007"
     },
     {
@@ -7873,6 +8230,7 @@
         "top_team_scorer":"Robert Hulse - 8",
         "goalkeeper":"Paddy Kenny",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1df6b87e\/2006-2007\/Sheffield-United-Stats",
         "season":"2006-2007"
     },
     {
@@ -7895,6 +8253,7 @@
         "top_team_scorer":"Darren Bent - 13",
         "goalkeeper":"Scott Carson",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7a8db6d4\/2006-2007\/Charlton-Athletic-Stats",
         "season":"2006-2007"
     },
     {
@@ -7917,6 +8276,7 @@
         "top_team_scorer":"Hameur Bouazza - 5",
         "goalkeeper":"Ben Foster",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/2abfe087\/2006-2007\/Watford-Stats",
         "season":"2006-2007"
     },
     {
@@ -7939,6 +8299,7 @@
         "top_team_scorer":"Frank Lampard - 16",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2005-2006\/Chelsea-Stats",
         "season":"2005-2006"
     },
     {
@@ -7961,6 +8322,7 @@
         "top_team_scorer":"Ruud van Nistelrooy - 21",
         "goalkeeper":"Edwin van der Sar",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2005-2006\/Manchester-United-Stats",
         "season":"2005-2006"
     },
     {
@@ -7983,6 +8345,7 @@
         "top_team_scorer":"Steven Gerrard - 10",
         "goalkeeper":"Pepe Reina",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2005-2006\/Liverpool-Stats",
         "season":"2005-2006"
     },
     {
@@ -8005,6 +8368,7 @@
         "top_team_scorer":"Thierry Henry - 27",
         "goalkeeper":"Jens Lehmann",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2005-2006\/Arsenal-Stats",
         "season":"2005-2006"
     },
     {
@@ -8027,6 +8391,7 @@
         "top_team_scorer":"Robbie Keane - 16",
         "goalkeeper":"Paul Robinson",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2005-2006\/Tottenham-Hotspur-Stats",
         "season":"2005-2006"
     },
     {
@@ -8049,6 +8414,7 @@
         "top_team_scorer":"Craig Bellamy - 13",
         "goalkeeper":"Brad Friedel",
         "notes":"\u2192 UEFA Cup via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2005-2006\/Blackburn-Rovers-Stats",
         "season":"2005-2006"
     },
     {
@@ -8071,6 +8437,7 @@
         "top_team_scorer":"Alan Shearer - 10",
         "goalkeeper":"Shay Given",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2005-2006\/Newcastle-United-Stats",
         "season":"2005-2006"
     },
     {
@@ -8093,6 +8460,7 @@
         "top_team_scorer":"Stelios Giannakopoulos, Kevin Nolan - 9",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2005-2006\/Bolton-Wanderers-Stats",
         "season":"2005-2006"
     },
     {
@@ -8115,6 +8483,7 @@
         "top_team_scorer":"Marlon Harewood - 14",
         "goalkeeper":"Roy Carroll",
         "notes":"\u2192 UEFA Cup via cup loss 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2005-2006\/West-Ham-United-Stats",
         "season":"2005-2006"
     },
     {
@@ -8137,6 +8506,7 @@
         "top_team_scorer":"Henri Camara - 12",
         "goalkeeper":"Mike Pollitt",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e59ddc76\/2005-2006\/Wigan-Athletic-Stats",
         "season":"2005-2006"
     },
     {
@@ -8159,6 +8529,7 @@
         "top_team_scorer":"James Beattie - 10",
         "goalkeeper":"Nigel Martyn",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2005-2006\/Everton-Stats",
         "season":"2005-2006"
     },
     {
@@ -8181,6 +8552,7 @@
         "top_team_scorer":"Collins John - 11",
         "goalkeeper":"Tony Warner",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2005-2006\/Fulham-Stats",
         "season":"2005-2006"
     },
     {
@@ -8203,6 +8575,7 @@
         "top_team_scorer":"Darren Bent - 18",
         "goalkeeper":"Thomas Myhre",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7a8db6d4\/2005-2006\/Charlton-Athletic-Stats",
         "season":"2005-2006"
     },
     {
@@ -8225,6 +8598,7 @@
         "top_team_scorer":"Yakubu Aiyegbeni - 13",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/2005-2006\/Middlesbrough-Stats",
         "season":"2005-2006"
     },
     {
@@ -8247,6 +8621,7 @@
         "top_team_scorer":"Andy Cole - 9",
         "goalkeeper":"David James",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2005-2006\/Manchester-City-Stats",
         "season":"2005-2006"
     },
     {
@@ -8269,6 +8644,7 @@
         "top_team_scorer":"Milan Baro\u0161, Luke Moore - 8",
         "goalkeeper":"Thomas S\u00f8rensen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2005-2006\/Aston-Villa-Stats",
         "season":"2005-2006"
     },
     {
@@ -8291,6 +8667,7 @@
         "top_team_scorer":"Lomana LuaLua - 7",
         "goalkeeper":"Jamie Ashdown",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/76ffc013\/2005-2006\/Portsmouth-Stats",
         "season":"2005-2006"
     },
     {
@@ -8313,6 +8690,7 @@
         "top_team_scorer":"Ji\u0159\u00ed Jaro\u0161\u00edk - 5",
         "goalkeeper":"Maik Taylor",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/ec79b7c2\/2005-2006\/Birmingham-City-Stats",
         "season":"2005-2006"
     },
     {
@@ -8335,6 +8713,7 @@
         "top_team_scorer":"Nathan Ellington, Nwankwo Kanu - 5",
         "goalkeeper":"Tomasz Kuszczak",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2005-2006\/West-Bromwich-Albion-Stats",
         "season":"2005-2006"
     },
     {
@@ -8357,6 +8736,7 @@
         "top_team_scorer":"Liam Lawrence, Anthony Le Tallec... - 3",
         "goalkeeper":"Kelvin Davis",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2005-2006\/Sunderland-Stats",
         "season":"2005-2006"
     },
     {
@@ -8379,6 +8759,7 @@
         "top_team_scorer":"Frank Lampard - 13",
         "goalkeeper":"Petr \u010cech",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2004-2005\/Chelsea-Stats",
         "season":"2004-2005"
     },
     {
@@ -8401,6 +8782,7 @@
         "top_team_scorer":"Thierry Henry - 25",
         "goalkeeper":"Jens Lehmann",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2004-2005\/Arsenal-Stats",
         "season":"2004-2005"
     },
     {
@@ -8423,6 +8805,7 @@
         "top_team_scorer":"Wayne Rooney - 11",
         "goalkeeper":"Roy Carroll",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2004-2005\/Manchester-United-Stats",
         "season":"2004-2005"
     },
     {
@@ -8445,6 +8828,7 @@
         "top_team_scorer":"Tim Cahill - 11",
         "goalkeeper":"Nigel Martyn",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2004-2005\/Everton-Stats",
         "season":"2004-2005"
     },
     {
@@ -8467,6 +8851,7 @@
         "top_team_scorer":"Milan Baro\u0161 - 9",
         "goalkeeper":"Jerzy Dudek",
         "notes":"\u2192 Champions League 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2004-2005\/Liverpool-Stats",
         "season":"2004-2005"
     },
     {
@@ -8489,6 +8874,7 @@
         "top_team_scorer":"El Hadji Diouf - 9",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":"\u2192 UEFA Cup via league finish 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2004-2005\/Bolton-Wanderers-Stats",
         "season":"2004-2005"
     },
     {
@@ -8511,6 +8897,7 @@
         "top_team_scorer":"Jimmy Floyd Hasselbaink - 13",
         "goalkeeper":"Mark Schwarzer",
         "notes":"\u2192 UEFA Cup via league finish 3",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/2004-2005\/Middlesbrough-Stats",
         "season":"2004-2005"
     },
     {
@@ -8533,6 +8920,7 @@
         "top_team_scorer":"Robbie Fowler - 11",
         "goalkeeper":"David James",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2004-2005\/Manchester-City-Stats",
         "season":"2004-2005"
     },
     {
@@ -8555,6 +8943,7 @@
         "top_team_scorer":"Jermain Defoe - 13",
         "goalkeeper":"Paul Robinson",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2004-2005\/Tottenham-Hotspur-Stats",
         "season":"2004-2005"
     },
     {
@@ -8577,6 +8966,7 @@
         "top_team_scorer":"Nolberto Solano - 8",
         "goalkeeper":"Thomas S\u00f8rensen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2004-2005\/Aston-Villa-Stats",
         "season":"2004-2005"
     },
     {
@@ -8599,6 +8989,7 @@
         "top_team_scorer":"Shaun Bartlett - 6",
         "goalkeeper":"Dean Kiely",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7a8db6d4\/2004-2005\/Charlton-Athletic-Stats",
         "season":"2004-2005"
     },
     {
@@ -8621,6 +9012,7 @@
         "top_team_scorer":"Emile Heskey - 10",
         "goalkeeper":"Maik Taylor",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/ec79b7c2\/2004-2005\/Birmingham-City-Stats",
         "season":"2004-2005"
     },
     {
@@ -8643,6 +9035,7 @@
         "top_team_scorer":"Andy Cole - 12",
         "goalkeeper":"Edwin van der Sar",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2004-2005\/Fulham-Stats",
         "season":"2004-2005"
     },
     {
@@ -8665,6 +9058,7 @@
         "top_team_scorer":"Craig Bellamy, Alan Shearer - 7",
         "goalkeeper":"Shay Given",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2004-2005\/Newcastle-United-Stats",
         "season":"2004-2005"
     },
     {
@@ -8687,6 +9081,7 @@
         "top_team_scorer":"Paul Dickov - 9",
         "goalkeeper":"Brad Friedel",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2004-2005\/Blackburn-Rovers-Stats",
         "season":"2004-2005"
     },
     {
@@ -8709,6 +9104,7 @@
         "top_team_scorer":"Yakubu Aiyegbeni - 13",
         "goalkeeper":"Shaka Hislop",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/76ffc013\/2004-2005\/Portsmouth-Stats",
         "season":"2004-2005"
     },
     {
@@ -8731,6 +9127,7 @@
         "top_team_scorer":"Robert Earnshaw - 11",
         "goalkeeper":"Russell Hoult",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2004-2005\/West-Bromwich-Albion-Stats",
         "season":"2004-2005"
     },
     {
@@ -8753,6 +9150,7 @@
         "top_team_scorer":"Andrew Johnson - 21",
         "goalkeeper":"G\u00e1bor Kir\u00e1ly",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/2004-2005\/Crystal-Palace-Stats",
         "season":"2004-2005"
     },
     {
@@ -8775,6 +9173,7 @@
         "top_team_scorer":"Damien Francis, Dean Ashton... - 7",
         "goalkeeper":"Robert Green",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1c781004\/2004-2005\/Norwich-City-Stats",
         "season":"2004-2005"
     },
     {
@@ -8797,6 +9196,7 @@
         "top_team_scorer":"Peter Crouch - 12",
         "goalkeeper":"Antti Niemi",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2004-2005\/Southampton-Stats",
         "season":"2004-2005"
     },
     {
@@ -8819,6 +9219,7 @@
         "top_team_scorer":"Thierry Henry - 30",
         "goalkeeper":"Jens Lehmann",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2003-2004\/Arsenal-Stats",
         "season":"2003-2004"
     },
     {
@@ -8841,6 +9242,7 @@
         "top_team_scorer":"Jimmy Floyd Hasselbaink - 12",
         "goalkeeper":"Carlo Cudicini",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2003-2004\/Chelsea-Stats",
         "season":"2003-2004"
     },
     {
@@ -8863,6 +9265,7 @@
         "top_team_scorer":"Ruud van Nistelrooy - 20",
         "goalkeeper":"Tim Howard",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2003-2004\/Manchester-United-Stats",
         "season":"2003-2004"
     },
     {
@@ -8885,6 +9288,7 @@
         "top_team_scorer":"Michael Owen - 16",
         "goalkeeper":"Jerzy Dudek",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2003-2004\/Liverpool-Stats",
         "season":"2003-2004"
     },
     {
@@ -8907,6 +9311,7 @@
         "top_team_scorer":"Alan Shearer - 22",
         "goalkeeper":"Shay Given",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2003-2004\/Newcastle-United-Stats",
         "season":"2003-2004"
     },
     {
@@ -8929,6 +9334,7 @@
         "top_team_scorer":"Juan Pablo \u00c1ngel - 16",
         "goalkeeper":"Thomas S\u00f8rensen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2003-2004\/Aston-Villa-Stats",
         "season":"2003-2004"
     },
     {
@@ -8951,6 +9357,7 @@
         "top_team_scorer":"Jason Euell - 10",
         "goalkeeper":"Dean Kiely",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7a8db6d4\/2003-2004\/Charlton-Athletic-Stats",
         "season":"2003-2004"
     },
     {
@@ -8973,6 +9380,7 @@
         "top_team_scorer":"Kevin Davies, Kevin Nolan... - 9",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2003-2004\/Bolton-Wanderers-Stats",
         "season":"2003-2004"
     },
     {
@@ -8995,6 +9403,7 @@
         "top_team_scorer":"Louis Saha - 13",
         "goalkeeper":"Edwin van der Sar",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2003-2004\/Fulham-Stats",
         "season":"2003-2004"
     },
     {
@@ -9017,6 +9426,7 @@
         "top_team_scorer":"Mikael Forssell - 17",
         "goalkeeper":"Maik Taylor",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/ec79b7c2\/2003-2004\/Birmingham-City-Stats",
         "season":"2003-2004"
     },
     {
@@ -9039,6 +9449,7 @@
         "top_team_scorer":"Szil\u00e1rd N\u00e9meth - 9",
         "goalkeeper":"Mark Schwarzer",
         "notes":"\u2192 UEFA Cup via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/2003-2004\/Middlesbrough-Stats",
         "season":"2003-2004"
     },
     {
@@ -9061,6 +9472,7 @@
         "top_team_scorer":"James Beattie - 14",
         "goalkeeper":"Antti Niemi",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2003-2004\/Southampton-Stats",
         "season":"2003-2004"
     },
     {
@@ -9083,6 +9495,7 @@
         "top_team_scorer":"Yakubu Aiyegbeni - 16",
         "goalkeeper":"Shaka Hislop",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/76ffc013\/2003-2004\/Portsmouth-Stats",
         "season":"2003-2004"
     },
     {
@@ -9105,6 +9518,7 @@
         "top_team_scorer":"Robbie Keane - 14",
         "goalkeeper":"Kasey Keller",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2003-2004\/Tottenham-Hotspur-Stats",
         "season":"2003-2004"
     },
     {
@@ -9127,6 +9541,7 @@
         "top_team_scorer":"Andy Cole - 11",
         "goalkeeper":"Brad Friedel",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2003-2004\/Blackburn-Rovers-Stats",
         "season":"2003-2004"
     },
     {
@@ -9149,6 +9564,7 @@
         "top_team_scorer":"Nicolas Anelka - 16",
         "goalkeeper":"David Seaman",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2003-2004\/Manchester-City-Stats",
         "season":"2003-2004"
     },
     {
@@ -9171,6 +9587,7 @@
         "top_team_scorer":"Wayne Rooney - 9",
         "goalkeeper":"Nigel Martyn",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2003-2004\/Everton-Stats",
         "season":"2003-2004"
     },
     {
@@ -9193,6 +9610,7 @@
         "top_team_scorer":"Les Ferdinand - 12",
         "goalkeeper":"Ian Walker",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2003-2004\/Leicester-City-Stats",
         "season":"2003-2004"
     },
     {
@@ -9215,6 +9633,7 @@
         "top_team_scorer":"Mark Viduka - 11",
         "goalkeeper":"Paul Robinson",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/2003-2004\/Leeds-United-Stats",
         "season":"2003-2004"
     },
     {
@@ -9237,6 +9656,7 @@
         "top_team_scorer":"Henri Camara - 7",
         "goalkeeper":"Michael Oakes",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8cec06e1\/2003-2004\/Wolverhampton-Wanderers-Stats",
         "season":"2003-2004"
     },
     {
@@ -9259,6 +9679,7 @@
         "top_team_scorer":"Ruud van Nistelrooy - 25",
         "goalkeeper":"Fabien Barthez",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2002-2003\/Manchester-United-Stats",
         "season":"2002-2003"
     },
     {
@@ -9281,6 +9702,7 @@
         "top_team_scorer":"Thierry Henry - 24",
         "goalkeeper":"David Seaman",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2002-2003\/Arsenal-Stats",
         "season":"2002-2003"
     },
     {
@@ -9303,6 +9725,7 @@
         "top_team_scorer":"Alan Shearer - 17",
         "goalkeeper":"Shay Given",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2002-2003\/Newcastle-United-Stats",
         "season":"2002-2003"
     },
     {
@@ -9325,6 +9748,7 @@
         "top_team_scorer":"Gianfranco Zola - 14",
         "goalkeeper":"Carlo Cudicini",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2002-2003\/Chelsea-Stats",
         "season":"2002-2003"
     },
     {
@@ -9347,6 +9771,7 @@
         "top_team_scorer":"Michael Owen - 19",
         "goalkeeper":"Jerzy Dudek",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2002-2003\/Liverpool-Stats",
         "season":"2002-2003"
     },
     {
@@ -9369,6 +9794,7 @@
         "top_team_scorer":"Damien Duff - 9",
         "goalkeeper":"Brad Friedel",
         "notes":"\u2192 UEFA Cup via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2002-2003\/Blackburn-Rovers-Stats",
         "season":"2002-2003"
     },
     {
@@ -9391,6 +9817,7 @@
         "top_team_scorer":"Tomasz Radzinski - 11",
         "goalkeeper":"Richard Wright",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2002-2003\/Everton-Stats",
         "season":"2002-2003"
     },
     {
@@ -9413,6 +9840,7 @@
         "top_team_scorer":"James Beattie - 23",
         "goalkeeper":"Antti Niemi",
         "notes":"\u2192 UEFA Cup via cup loss 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2002-2003\/Southampton-Stats",
         "season":"2002-2003"
     },
     {
@@ -9435,6 +9863,7 @@
         "top_team_scorer":"Nicolas Anelka - 14",
         "goalkeeper":"Peter Schmeichel",
         "notes":"\u2192 UEFA Cup 3",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2002-2003\/Manchester-City-Stats",
         "season":"2002-2003"
     },
     {
@@ -9457,6 +9886,7 @@
         "top_team_scorer":"Robbie Keane - 13",
         "goalkeeper":"Kasey Keller",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2002-2003\/Tottenham-Hotspur-Stats",
         "season":"2002-2003"
     },
     {
@@ -9479,6 +9909,7 @@
         "top_team_scorer":"Massimo Maccarone - 9",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/2002-2003\/Middlesbrough-Stats",
         "season":"2002-2003"
     },
     {
@@ -9501,6 +9932,7 @@
         "top_team_scorer":"Jason Euell - 10",
         "goalkeeper":"Dean Kiely",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7a8db6d4\/2002-2003\/Charlton-Athletic-Stats",
         "season":"2002-2003"
     },
     {
@@ -9523,6 +9955,7 @@
         "top_team_scorer":"Clinton Morrison - 6",
         "goalkeeper":"Nico Vaesen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/ec79b7c2\/2002-2003\/Birmingham-City-Stats",
         "season":"2002-2003"
     },
     {
@@ -9545,6 +9978,7 @@
         "top_team_scorer":"Steed Malbranque - 6",
         "goalkeeper":"Edwin van der Sar",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2002-2003\/Fulham-Stats",
         "season":"2002-2003"
     },
     {
@@ -9567,6 +10001,7 @@
         "top_team_scorer":"Mark Viduka - 20",
         "goalkeeper":"Paul Robinson",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/2002-2003\/Leeds-United-Stats",
         "season":"2002-2003"
     },
     {
@@ -9589,6 +10024,7 @@
         "top_team_scorer":"Dion Dublin - 10",
         "goalkeeper":"Peter Enckelman",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2002-2003\/Aston-Villa-Stats",
         "season":"2002-2003"
     },
     {
@@ -9611,6 +10047,7 @@
         "top_team_scorer":"Youri Djorkaeff, Jay-Jay Okocha... - 7",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2002-2003\/Bolton-Wanderers-Stats",
         "season":"2002-2003"
     },
     {
@@ -9633,6 +10070,7 @@
         "top_team_scorer":"Paolo Di Canio - 9",
         "goalkeeper":"David James",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2002-2003\/West-Ham-United-Stats",
         "season":"2002-2003"
     },
     {
@@ -9655,6 +10093,7 @@
         "top_team_scorer":"Danny Dichio, Scott Dobie - 5",
         "goalkeeper":"Russell Hoult",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/60c6b05f\/2002-2003\/West-Bromwich-Albion-Stats",
         "season":"2002-2003"
     },
     {
@@ -9677,6 +10116,7 @@
         "top_team_scorer":"Kevin Phillips - 6",
         "goalkeeper":"Thomas S\u00f8rensen",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2002-2003\/Sunderland-Stats",
         "season":"2002-2003"
     },
     {
@@ -9699,6 +10139,7 @@
         "top_team_scorer":"Thierry Henry - 24",
         "goalkeeper":"David Seaman",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2001-2002\/Arsenal-Stats",
         "season":"2001-2002"
     },
     {
@@ -9721,6 +10162,7 @@
         "top_team_scorer":"Michael Owen - 19",
         "goalkeeper":"Jerzy Dudek",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2001-2002\/Liverpool-Stats",
         "season":"2001-2002"
     },
     {
@@ -9743,6 +10185,7 @@
         "top_team_scorer":"Ruud van Nistelrooy - 23",
         "goalkeeper":"Fabien Barthez",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2001-2002\/Manchester-United-Stats",
         "season":"2001-2002"
     },
     {
@@ -9765,6 +10208,7 @@
         "top_team_scorer":"Alan Shearer - 23",
         "goalkeeper":"Shay Given",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2001-2002\/Newcastle-United-Stats",
         "season":"2001-2002"
     },
     {
@@ -9787,6 +10231,7 @@
         "top_team_scorer":"Robbie Fowler - 12",
         "goalkeeper":"Nigel Martyn",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/2001-2002\/Leeds-United-Stats",
         "season":"2001-2002"
     },
     {
@@ -9809,6 +10254,7 @@
         "top_team_scorer":"Jimmy Floyd Hasselbaink - 23",
         "goalkeeper":"Carlo Cudicini",
         "notes":"\u2192 UEFA Cup via cup loss 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2001-2002\/Chelsea-Stats",
         "season":"2001-2002"
     },
     {
@@ -9831,6 +10277,7 @@
         "top_team_scorer":"Fr\u00e9d\u00e9ric Kanout\u00e9 - 11",
         "goalkeeper":"David James",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2001-2002\/West-Ham-United-Stats",
         "season":"2001-2002"
     },
     {
@@ -9853,6 +10300,7 @@
         "top_team_scorer":"Juan Pablo \u00c1ngel, Darius Vassell - 12",
         "goalkeeper":"Peter Schmeichel",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2001-2002\/Aston-Villa-Stats",
         "season":"2001-2002"
     },
     {
@@ -9875,6 +10323,7 @@
         "top_team_scorer":"Gus Poyet, Teddy Sheringham - 10",
         "goalkeeper":"Neil Sullivan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2001-2002\/Tottenham-Hotspur-Stats",
         "season":"2001-2002"
     },
     {
@@ -9897,6 +10346,7 @@
         "top_team_scorer":"Matt Jansen - 10",
         "goalkeeper":"Brad Friedel",
         "notes":"\u2192 UEFA Cup via cup win 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/2001-2002\/Blackburn-Rovers-Stats",
         "season":"2001-2002"
     },
     {
@@ -9919,6 +10369,7 @@
         "top_team_scorer":"Marians Pahars - 14",
         "goalkeeper":"Paul Jones",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2001-2002\/Southampton-Stats",
         "season":"2001-2002"
     },
     {
@@ -9941,6 +10392,7 @@
         "top_team_scorer":"Alen Bok\u0161i\u0107 - 8",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/2001-2002\/Middlesbrough-Stats",
         "season":"2001-2002"
     },
     {
@@ -9963,6 +10415,7 @@
         "top_team_scorer":"Barry Hayles, Steed Malbranque... - 8",
         "goalkeeper":"Edwin van der Sar",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/fd962109\/2001-2002\/Fulham-Stats",
         "season":"2001-2002"
     },
     {
@@ -9985,6 +10438,7 @@
         "top_team_scorer":"Jason Euell - 11",
         "goalkeeper":"Dean Kiely",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7a8db6d4\/2001-2002\/Charlton-Athletic-Stats",
         "season":"2001-2002"
     },
     {
@@ -10007,6 +10461,7 @@
         "top_team_scorer":"Duncan Ferguson, Tomasz Radzinski - 6",
         "goalkeeper":"Steve Simonsen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2001-2002\/Everton-Stats",
         "season":"2001-2002"
     },
     {
@@ -10029,6 +10484,7 @@
         "top_team_scorer":"Michael Ricketts - 12",
         "goalkeeper":"Jussi J\u00e4\u00e4skel\u00e4inen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/2001-2002\/Bolton-Wanderers-Stats",
         "season":"2001-2002"
     },
     {
@@ -10051,6 +10507,7 @@
         "top_team_scorer":"Kevin Phillips - 11",
         "goalkeeper":"Thomas S\u00f8rensen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2001-2002\/Sunderland-Stats",
         "season":"2001-2002"
     },
     {
@@ -10073,6 +10530,7 @@
         "top_team_scorer":"Marcus Bent - 9",
         "goalkeeper":"Matteo Sereni",
         "notes":"Relegated, \u2192 UEFA Cup 3",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b74092de\/2001-2002\/Ipswich-Town-Stats",
         "season":"2001-2002"
     },
     {
@@ -10095,6 +10553,7 @@
         "top_team_scorer":"Malcolm Christie, Fabrizio Ravanelli - 9",
         "goalkeeper":"Andy Oakes",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/26ab47ee\/2001-2002\/Derby-County-Stats",
         "season":"2001-2002"
     },
     {
@@ -10117,6 +10576,7 @@
         "top_team_scorer":"Brian Deane - 6",
         "goalkeeper":"Ian Walker",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2001-2002\/Leicester-City-Stats",
         "season":"2001-2002"
     },
     {
@@ -10139,6 +10599,7 @@
         "top_team_scorer":"Teddy Sheringham - 15",
         "goalkeeper":"Fabien Barthez",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/2000-2001\/Manchester-United-Stats",
         "season":"2000-2001"
     },
     {
@@ -10161,6 +10622,7 @@
         "top_team_scorer":"Thierry Henry - 17",
         "goalkeeper":"David Seaman",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/2000-2001\/Arsenal-Stats",
         "season":"2000-2001"
     },
     {
@@ -10183,6 +10645,7 @@
         "top_team_scorer":"Michael Owen - 16",
         "goalkeeper":"Sander Westerveld",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/2000-2001\/Liverpool-Stats",
         "season":"2000-2001"
     },
     {
@@ -10205,6 +10668,7 @@
         "top_team_scorer":"Mark Viduka - 17",
         "goalkeeper":"Nigel Martyn",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/2000-2001\/Leeds-United-Stats",
         "season":"2000-2001"
     },
     {
@@ -10227,6 +10691,7 @@
         "top_team_scorer":"Marcus Stewart - 19",
         "goalkeeper":"Richard Wright",
         "notes":"\u2192 UEFA Cup via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b74092de\/2000-2001\/Ipswich-Town-Stats",
         "season":"2000-2001"
     },
     {
@@ -10249,6 +10714,7 @@
         "top_team_scorer":"Jimmy Floyd Hasselbaink - 23",
         "goalkeeper":"Carlo Cudicini",
         "notes":"\u2192 UEFA Cup via league finish 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/2000-2001\/Chelsea-Stats",
         "season":"2000-2001"
     },
     {
@@ -10271,6 +10737,7 @@
         "top_team_scorer":"Kevin Phillips - 14",
         "goalkeeper":"Thomas S\u00f8rensen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/2000-2001\/Sunderland-Stats",
         "season":"2000-2001"
     },
     {
@@ -10293,6 +10760,7 @@
         "top_team_scorer":"Dion Dublin - 8",
         "goalkeeper":"David James",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/2000-2001\/Aston-Villa-Stats",
         "season":"2000-2001"
     },
     {
@@ -10315,6 +10783,7 @@
         "top_team_scorer":"Jonatan Johansson - 11",
         "goalkeeper":"Dean Kiely",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7a8db6d4\/2000-2001\/Charlton-Athletic-Stats",
         "season":"2000-2001"
     },
     {
@@ -10337,6 +10806,7 @@
         "top_team_scorer":"James Beattie - 11",
         "goalkeeper":"Paul Jones",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/2000-2001\/Southampton-Stats",
         "season":"2000-2001"
     },
     {
@@ -10359,6 +10829,7 @@
         "top_team_scorer":"Carl Cort, Nolberto Solano - 6",
         "goalkeeper":"Shay Given",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/2000-2001\/Newcastle-United-Stats",
         "season":"2000-2001"
     },
     {
@@ -10381,6 +10852,7 @@
         "top_team_scorer":"Les Ferdinand - 10",
         "goalkeeper":"Neil Sullivan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/2000-2001\/Tottenham-Hotspur-Stats",
         "season":"2000-2001"
     },
     {
@@ -10403,6 +10875,7 @@
         "top_team_scorer":"Ade Akinbiyi - 9",
         "goalkeeper":"Tim Flowers",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/2000-2001\/Leicester-City-Stats",
         "season":"2000-2001"
     },
     {
@@ -10425,6 +10898,7 @@
         "top_team_scorer":"Alen Bok\u0161i\u0107 - 12",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/2000-2001\/Middlesbrough-Stats",
         "season":"2000-2001"
     },
     {
@@ -10447,6 +10921,7 @@
         "top_team_scorer":"Fr\u00e9d\u00e9ric Kanout\u00e9 - 11",
         "goalkeeper":"Shaka Hislop",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/2000-2001\/West-Ham-United-Stats",
         "season":"2000-2001"
     },
     {
@@ -10469,6 +10944,7 @@
         "top_team_scorer":"Kevin Campbell - 9",
         "goalkeeper":"Paul Gerrard",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/2000-2001\/Everton-Stats",
         "season":"2000-2001"
     },
     {
@@ -10491,6 +10967,7 @@
         "top_team_scorer":"Malcolm Christie - 8",
         "goalkeeper":"Mart Poom",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/26ab47ee\/2000-2001\/Derby-County-Stats",
         "season":"2000-2001"
     },
     {
@@ -10513,6 +10990,7 @@
         "top_team_scorer":"Paulo Wanchope - 9",
         "goalkeeper":"Nicky Weaver",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/2000-2001\/Manchester-City-Stats",
         "season":"2000-2001"
     },
     {
@@ -10535,6 +11013,7 @@
         "top_team_scorer":"Craig Bellamy, Mustapha Hadji... - 6",
         "goalkeeper":"Chris Kirkland",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f7e3dfe9\/2000-2001\/Coventry-City-Stats",
         "season":"2000-2001"
     },
     {
@@ -10557,6 +11036,7 @@
         "top_team_scorer":"Benito Carbone - 5",
         "goalkeeper":"Gary Walsh",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/3148d79f\/2000-2001\/Bradford-City-Stats",
         "season":"2000-2001"
     },
     {
@@ -10579,6 +11059,7 @@
         "top_team_scorer":"Dwight Yorke - 20",
         "goalkeeper":"Mark Bosnich",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/1999-2000\/Manchester-United-Stats",
         "season":"1999-2000"
     },
     {
@@ -10601,6 +11082,7 @@
         "top_team_scorer":"Thierry Henry - 17",
         "goalkeeper":"David Seaman",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/1999-2000\/Arsenal-Stats",
         "season":"1999-2000"
     },
     {
@@ -10623,6 +11105,7 @@
         "top_team_scorer":"Michael Bridges - 19",
         "goalkeeper":"Nigel Martyn",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/1999-2000\/Leeds-United-Stats",
         "season":"1999-2000"
     },
     {
@@ -10645,6 +11128,7 @@
         "top_team_scorer":"Michael Owen - 11",
         "goalkeeper":"Sander Westerveld",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/1999-2000\/Liverpool-Stats",
         "season":"1999-2000"
     },
     {
@@ -10667,6 +11151,7 @@
         "top_team_scorer":"Tore Andr\u00e9 Flo, Gus Poyet - 10",
         "goalkeeper":"Ed de Goey",
         "notes":"\u2192 UEFA Cup via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/1999-2000\/Chelsea-Stats",
         "season":"1999-2000"
     },
     {
@@ -10689,6 +11174,7 @@
         "top_team_scorer":"Dion Dublin - 12",
         "goalkeeper":"David James",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/1999-2000\/Aston-Villa-Stats",
         "season":"1999-2000"
     },
     {
@@ -10711,6 +11197,7 @@
         "top_team_scorer":"Kevin Phillips - 30",
         "goalkeeper":"Thomas S\u00f8rensen",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/1999-2000\/Sunderland-Stats",
         "season":"1999-2000"
     },
     {
@@ -10733,6 +11220,7 @@
         "top_team_scorer":"Tony Cottee - 13",
         "goalkeeper":"Tim Flowers",
         "notes":"\u2192 UEFA Cup via cup win 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/1999-2000\/Leicester-City-Stats",
         "season":"1999-2000"
     },
     {
@@ -10755,6 +11243,7 @@
         "top_team_scorer":"Paolo Di Canio - 16",
         "goalkeeper":"Shaka Hislop",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/1999-2000\/West-Ham-United-Stats",
         "season":"1999-2000"
     },
     {
@@ -10777,6 +11266,7 @@
         "top_team_scorer":"Chris Armstrong, Steffen Iversen - 14",
         "goalkeeper":"Ian Walker",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/1999-2000\/Tottenham-Hotspur-Stats",
         "season":"1999-2000"
     },
     {
@@ -10799,6 +11289,7 @@
         "top_team_scorer":"Alan Shearer - 23",
         "goalkeeper":"Steve Harper",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/1999-2000\/Newcastle-United-Stats",
         "season":"1999-2000"
     },
     {
@@ -10821,6 +11312,7 @@
         "top_team_scorer":"H\u00e1milton Ricard - 12",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/1999-2000\/Middlesbrough-Stats",
         "season":"1999-2000"
     },
     {
@@ -10843,6 +11335,7 @@
         "top_team_scorer":"Kevin Campbell - 12",
         "goalkeeper":"Paul Gerrard",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/1999-2000\/Everton-Stats",
         "season":"1999-2000"
     },
     {
@@ -10865,6 +11358,7 @@
         "top_team_scorer":"Robbie Keane - 12",
         "goalkeeper":"Magnus Hedman",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f7e3dfe9\/1999-2000\/Coventry-City-Stats",
         "season":"1999-2000"
     },
     {
@@ -10887,6 +11381,7 @@
         "top_team_scorer":"Marians Pahars - 13",
         "goalkeeper":"Paul Jones",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/1999-2000\/Southampton-Stats",
         "season":"1999-2000"
     },
     {
@@ -10909,6 +11404,7 @@
         "top_team_scorer":"Rory Delap - 8",
         "goalkeeper":"Mart Poom",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/26ab47ee\/1999-2000\/Derby-County-Stats",
         "season":"1999-2000"
     },
     {
@@ -10931,6 +11427,7 @@
         "top_team_scorer":"Dean Windass - 10",
         "goalkeeper":"Matt Clarke",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/3148d79f\/1999-2000\/Bradford-City-Stats",
         "season":"1999-2000"
     },
     {
@@ -10953,6 +11450,7 @@
         "top_team_scorer":"Carl Cort, John Hartson - 9",
         "goalkeeper":"Neil Sullivan",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/3679c494\/1999-2000\/Wimbledon-Stats",
         "season":"1999-2000"
     },
     {
@@ -10975,6 +11473,7 @@
         "top_team_scorer":"Gilles De Bilde - 10",
         "goalkeeper":"Pavel Srn\u00ed\u010dek",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bba7d733\/1999-2000\/Sheffield-Wednesday-Stats",
         "season":"1999-2000"
     },
     {
@@ -10997,6 +11496,7 @@
         "top_team_scorer":"Hei\u00f0ar Helguson - 6",
         "goalkeeper":"Alec Chamberlain",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/2abfe087\/1999-2000\/Watford-Stats",
         "season":"1999-2000"
     },
     {
@@ -11019,6 +11519,7 @@
         "top_team_scorer":"Dwight Yorke - 18",
         "goalkeeper":"Peter Schmeichel",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/1998-1999\/Manchester-United-Stats",
         "season":"1998-1999"
     },
     {
@@ -11041,6 +11542,7 @@
         "top_team_scorer":"Nicolas Anelka - 17",
         "goalkeeper":"David Seaman",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/1998-1999\/Arsenal-Stats",
         "season":"1998-1999"
     },
     {
@@ -11063,6 +11565,7 @@
         "top_team_scorer":"Gianfranco Zola - 13",
         "goalkeeper":"Ed de Goey",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/1998-1999\/Chelsea-Stats",
         "season":"1998-1999"
     },
     {
@@ -11085,6 +11588,7 @@
         "top_team_scorer":"Jimmy Floyd Hasselbaink - 18",
         "goalkeeper":"Nigel Martyn",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/1998-1999\/Leeds-United-Stats",
         "season":"1998-1999"
     },
     {
@@ -11107,6 +11611,7 @@
         "top_team_scorer":"Ian Wright - 9",
         "goalkeeper":"Shaka Hislop",
         "notes":"\u2192 UEFA Intertoto Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/1998-1999\/West-Ham-United-Stats",
         "season":"1998-1999"
     },
     {
@@ -11129,6 +11634,7 @@
         "top_team_scorer":"Julian Joachim - 14",
         "goalkeeper":"Michael Oakes",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/1998-1999\/Aston-Villa-Stats",
         "season":"1998-1999"
     },
     {
@@ -11151,6 +11657,7 @@
         "top_team_scorer":"Michael Owen - 18",
         "goalkeeper":"David James",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/1998-1999\/Liverpool-Stats",
         "season":"1998-1999"
     },
     {
@@ -11173,6 +11680,7 @@
         "top_team_scorer":"Deon Burton, Paulo Wanchope - 9",
         "goalkeeper":"Russell Hoult",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/26ab47ee\/1998-1999\/Derby-County-Stats",
         "season":"1998-1999"
     },
     {
@@ -11195,6 +11703,7 @@
         "top_team_scorer":"H\u00e1milton Ricard - 15",
         "goalkeeper":"Mark Schwarzer",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/1998-1999\/Middlesbrough-Stats",
         "season":"1998-1999"
     },
     {
@@ -11217,6 +11726,7 @@
         "top_team_scorer":"Tony Cottee - 10",
         "goalkeeper":"Kasey Keller",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/1998-1999\/Leicester-City-Stats",
         "season":"1998-1999"
     },
     {
@@ -11239,6 +11749,7 @@
         "top_team_scorer":"Steffen Iversen - 9",
         "goalkeeper":"Ian Walker",
         "notes":"\u2192 UEFA Cup via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/1998-1999\/Tottenham-Hotspur-Stats",
         "season":"1998-1999"
     },
     {
@@ -11261,6 +11772,7 @@
         "top_team_scorer":"Benito Carbone - 8",
         "goalkeeper":"Pavel Srn\u00ed\u010dek",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bba7d733\/1998-1999\/Sheffield-Wednesday-Stats",
         "season":"1998-1999"
     },
     {
@@ -11283,6 +11795,7 @@
         "top_team_scorer":"Alan Shearer - 14",
         "goalkeeper":"Shay Given",
         "notes":"\u2192 UEFA Cup via cup loss 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/1998-1999\/Newcastle-United-Stats",
         "season":"1998-1999"
     },
     {
@@ -11305,6 +11818,7 @@
         "top_team_scorer":"Kevin Campbell - 9",
         "goalkeeper":"Thomas Myhre",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/1998-1999\/Everton-Stats",
         "season":"1998-1999"
     },
     {
@@ -11327,6 +11841,7 @@
         "top_team_scorer":"Noel Whelan - 10",
         "goalkeeper":"Magnus Hedman",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f7e3dfe9\/1998-1999\/Coventry-City-Stats",
         "season":"1998-1999"
     },
     {
@@ -11349,6 +11864,7 @@
         "top_team_scorer":"Jason Euell, Marcus Gayle - 10",
         "goalkeeper":"Neil Sullivan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/3679c494\/1998-1999\/Wimbledon-Stats",
         "season":"1998-1999"
     },
     {
@@ -11371,6 +11887,7 @@
         "top_team_scorer":"Matt Le Tissier, Egil \u00d8stenstad - 7",
         "goalkeeper":"Paul Jones",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/1998-1999\/Southampton-Stats",
         "season":"1998-1999"
     },
     {
@@ -11393,6 +11910,7 @@
         "top_team_scorer":"Clive Mendonca - 8",
         "goalkeeper":"Sa\u0161a Ili\u0107",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7a8db6d4\/1998-1999\/Charlton-Athletic-Stats",
         "season":"1998-1999"
     },
     {
@@ -11415,6 +11933,7 @@
         "top_team_scorer":"Ashley Ward, Kevin Gallacher - 5",
         "goalkeeper":"John Filan",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/1998-1999\/Blackburn-Rovers-Stats",
         "season":"1998-1999"
     },
     {
@@ -11437,6 +11956,7 @@
         "top_team_scorer":"Dougie Freedman - 9",
         "goalkeeper":"Dave Beasant",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e4a775cb\/1998-1999\/Nottingham-Forest-Stats",
         "season":"1998-1999"
     },
     {
@@ -11459,6 +11979,7 @@
         "top_team_scorer":"Dennis Bergkamp - 16",
         "goalkeeper":"David Seaman",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/1997-1998\/Arsenal-Stats",
         "season":"1997-1998"
     },
     {
@@ -11481,6 +12002,7 @@
         "top_team_scorer":"Andy Cole - 15",
         "goalkeeper":"Peter Schmeichel",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/1997-1998\/Manchester-United-Stats",
         "season":"1997-1998"
     },
     {
@@ -11503,6 +12025,7 @@
         "top_team_scorer":"Michael Owen - 18",
         "goalkeeper":"David James",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/1997-1998\/Liverpool-Stats",
         "season":"1997-1998"
     },
     {
@@ -11525,6 +12048,7 @@
         "top_team_scorer":"Tore Andr\u00e9 Flo, Gianluca Vialli - 11",
         "goalkeeper":"Ed de Goey",
         "notes":"\u2192 UEFA Cup Winners' Cup",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/1997-1998\/Chelsea-Stats",
         "season":"1997-1998"
     },
     {
@@ -11547,6 +12071,7 @@
         "top_team_scorer":"Jimmy Floyd Hasselbaink - 16",
         "goalkeeper":"Nigel Martyn",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/1997-1998\/Leeds-United-Stats",
         "season":"1997-1998"
     },
     {
@@ -11569,6 +12094,7 @@
         "top_team_scorer":"Chris Sutton - 18",
         "goalkeeper":"Tim Flowers",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/1997-1998\/Blackburn-Rovers-Stats",
         "season":"1997-1998"
     },
     {
@@ -11591,6 +12117,7 @@
         "top_team_scorer":"Dwight Yorke - 12",
         "goalkeeper":"Mark Bosnich",
         "notes":"\u2192 UEFA Cup 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/1997-1998\/Aston-Villa-Stats",
         "season":"1997-1998"
     },
     {
@@ -11613,6 +12140,7 @@
         "top_team_scorer":"John Hartson - 15",
         "goalkeeper":"Craig Forrest, Lud\u011bk Miklo\u0161ko",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/1997-1998\/West-Ham-United-Stats",
         "season":"1997-1998"
     },
     {
@@ -11635,6 +12163,7 @@
         "top_team_scorer":"Paulo Wanchope - 13",
         "goalkeeper":"Mart Poom",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/26ab47ee\/1997-1998\/Derby-County-Stats",
         "season":"1997-1998"
     },
     {
@@ -11657,6 +12186,7 @@
         "top_team_scorer":"Emile Heskey - 10",
         "goalkeeper":"Kasey Keller",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/1997-1998\/Leicester-City-Stats",
         "season":"1997-1998"
     },
     {
@@ -11679,6 +12209,7 @@
         "top_team_scorer":"Dion Dublin - 18",
         "goalkeeper":"Steve Ogrizovic",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f7e3dfe9\/1997-1998\/Coventry-City-Stats",
         "season":"1997-1998"
     },
     {
@@ -11701,6 +12232,7 @@
         "top_team_scorer":"Matt Le Tissier, Egil \u00d8stenstad - 11",
         "goalkeeper":"Paul Jones",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/1997-1998\/Southampton-Stats",
         "season":"1997-1998"
     },
     {
@@ -11723,6 +12255,7 @@
         "top_team_scorer":"John Barnes - 6",
         "goalkeeper":"Shay Given",
         "notes":"\u2192 UEFA Cup Winners' Cup via cup win 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/1997-1998\/Newcastle-United-Stats",
         "season":"1997-1998"
     },
     {
@@ -11745,6 +12278,7 @@
         "top_team_scorer":"J\u00fcrgen Klinsmann - 9",
         "goalkeeper":"Ian Walker",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/1997-1998\/Tottenham-Hotspur-Stats",
         "season":"1997-1998"
     },
     {
@@ -11767,6 +12301,7 @@
         "top_team_scorer":"Efan Ekoku, Jason Euell... - 4",
         "goalkeeper":"Neil Sullivan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/3679c494\/1997-1998\/Wimbledon-Stats",
         "season":"1997-1998"
     },
     {
@@ -11789,6 +12324,7 @@
         "top_team_scorer":"Paolo Di Canio - 12",
         "goalkeeper":"Kevin Pressman",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bba7d733\/1997-1998\/Sheffield-Wednesday-Stats",
         "season":"1997-1998"
     },
     {
@@ -11811,6 +12347,7 @@
         "top_team_scorer":"Duncan Ferguson - 11",
         "goalkeeper":"Thomas Myhre",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/1997-1998\/Everton-Stats",
         "season":"1997-1998"
     },
     {
@@ -11833,6 +12370,7 @@
         "top_team_scorer":"Nathan Blake - 12",
         "goalkeeper":"Keith Branagan",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/1997-1998\/Bolton-Wanderers-Stats",
         "season":"1997-1998"
     },
     {
@@ -11855,6 +12393,7 @@
         "top_team_scorer":"Neil Redfearn - 10",
         "goalkeeper":"David Watson",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/293cb36b\/1997-1998\/Barnsley-Stats",
         "season":"1997-1998"
     },
     {
@@ -11877,6 +12416,7 @@
         "top_team_scorer":"Neil Shipperley - 7",
         "goalkeeper":"Kevin Miller",
         "notes":"Relegated, \u2192 UEFA Intertoto Cup",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/1997-1998\/Crystal-Palace-Stats",
         "season":"1997-1998"
     },
     {
@@ -11899,6 +12439,7 @@
         "top_team_scorer":"Ole Gunnar Solskj\u00e6r - 18",
         "goalkeeper":"Peter Schmeichel",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/1996-1997\/Manchester-United-Stats",
         "season":"1996-1997"
     },
     {
@@ -11921,6 +12462,7 @@
         "top_team_scorer":"Alan Shearer - 25",
         "goalkeeper":"Pavel Srn\u00ed\u010dek",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/1996-1997\/Newcastle-United-Stats",
         "season":"1996-1997"
     },
     {
@@ -11943,6 +12485,7 @@
         "top_team_scorer":"Ian Wright - 23",
         "goalkeeper":"David Seaman",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/1996-1997\/Arsenal-Stats",
         "season":"1996-1997"
     },
     {
@@ -11965,6 +12508,7 @@
         "top_team_scorer":"Robbie Fowler - 18",
         "goalkeeper":"David James",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/1996-1997\/Liverpool-Stats",
         "season":"1996-1997"
     },
     {
@@ -11987,6 +12531,7 @@
         "top_team_scorer":"Dwight Yorke - 17",
         "goalkeeper":"Michael Oakes",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/1996-1997\/Aston-Villa-Stats",
         "season":"1996-1997"
     },
     {
@@ -12009,6 +12554,7 @@
         "top_team_scorer":"Gianluca Vialli - 9",
         "goalkeeper":"Frode Grod\u00e5s",
         "notes":"\u2192 UEFA Cup Winners' Cup via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/1996-1997\/Chelsea-Stats",
         "season":"1996-1997"
     },
     {
@@ -12031,6 +12577,7 @@
         "top_team_scorer":"Andy Booth - 10",
         "goalkeeper":"Kevin Pressman",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bba7d733\/1996-1997\/Sheffield-Wednesday-Stats",
         "season":"1996-1997"
     },
     {
@@ -12053,6 +12600,7 @@
         "top_team_scorer":"Efan Ekoku - 11",
         "goalkeeper":"Neil Sullivan",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/3679c494\/1996-1997\/Wimbledon-Stats",
         "season":"1996-1997"
     },
     {
@@ -12075,6 +12623,7 @@
         "top_team_scorer":"Steve Claridge - 12",
         "goalkeeper":"Kasey Keller",
         "notes":"\u2192 UEFA Cup via cup win 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/1996-1997\/Leicester-City-Stats",
         "season":"1996-1997"
     },
     {
@@ -12097,6 +12646,7 @@
         "top_team_scorer":"Teddy Sheringham - 7",
         "goalkeeper":"Ian Walker",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/1996-1997\/Tottenham-Hotspur-Stats",
         "season":"1996-1997"
     },
     {
@@ -12119,6 +12669,7 @@
         "top_team_scorer":"Brian Deane, Lee Sharpe - 5",
         "goalkeeper":"Nigel Martyn",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/1996-1997\/Leeds-United-Stats",
         "season":"1996-1997"
     },
     {
@@ -12141,6 +12692,7 @@
         "top_team_scorer":"Dean Sturridge - 11",
         "goalkeeper":"Russell Hoult",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/26ab47ee\/1996-1997\/Derby-County-Stats",
         "season":"1996-1997"
     },
     {
@@ -12163,6 +12715,7 @@
         "top_team_scorer":"Chris Sutton - 11",
         "goalkeeper":"Tim Flowers",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/1996-1997\/Blackburn-Rovers-Stats",
         "season":"1996-1997"
     },
     {
@@ -12185,6 +12738,7 @@
         "top_team_scorer":"Paul Kitson - 8",
         "goalkeeper":"Lud\u011bk Miklo\u0161ko",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/1996-1997\/West-Ham-United-Stats",
         "season":"1996-1997"
     },
     {
@@ -12207,6 +12761,7 @@
         "top_team_scorer":"Duncan Ferguson - 10",
         "goalkeeper":"Neville Southall",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/1996-1997\/Everton-Stats",
         "season":"1996-1997"
     },
     {
@@ -12229,6 +12784,7 @@
         "top_team_scorer":"Matt Le Tissier - 13",
         "goalkeeper":"Maik Taylor",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/1996-1997\/Southampton-Stats",
         "season":"1996-1997"
     },
     {
@@ -12251,6 +12807,7 @@
         "top_team_scorer":"Dion Dublin - 13",
         "goalkeeper":"Steve Ogrizovic",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f7e3dfe9\/1996-1997\/Coventry-City-Stats",
         "season":"1996-1997"
     },
     {
@@ -12273,6 +12830,7 @@
         "top_team_scorer":"Craig Russell - 5",
         "goalkeeper":"Lionel P\u00e9rez",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8ef52968\/1996-1997\/Sunderland-Stats",
         "season":"1996-1997"
     },
     {
@@ -12295,6 +12853,7 @@
         "top_team_scorer":"Fabrizio Ravanelli - 16",
         "goalkeeper":"Gary Walsh",
         "notes":"3-point deduction 3, Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/1996-1997\/Middlesbrough-Stats",
         "season":"1996-1997"
     },
     {
@@ -12317,6 +12876,7 @@
         "top_team_scorer":"Kevin Campbell, Alf-Inge Haaland - 6",
         "goalkeeper":"Mark Crossley",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e4a775cb\/1996-1997\/Nottingham-Forest-Stats",
         "season":"1996-1997"
     },
     {
@@ -12339,6 +12899,7 @@
         "top_team_scorer":"Eric Cantona - 14",
         "goalkeeper":"Peter Schmeichel",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/1995-1996\/Manchester-United-Stats",
         "season":"1995-1996"
     },
     {
@@ -12361,6 +12922,7 @@
         "top_team_scorer":"Les Ferdinand - 25",
         "goalkeeper":"Shaka Hislop",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/1995-1996\/Newcastle-United-Stats",
         "season":"1995-1996"
     },
     {
@@ -12383,6 +12945,7 @@
         "top_team_scorer":"Robbie Fowler - 28",
         "goalkeeper":"David James",
         "notes":"\u2192 UEFA Cup Winners' Cup via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/1995-1996\/Liverpool-Stats",
         "season":"1995-1996"
     },
     {
@@ -12405,6 +12968,7 @@
         "top_team_scorer":"Dwight Yorke - 17",
         "goalkeeper":"Mark Bosnich",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/1995-1996\/Aston-Villa-Stats",
         "season":"1995-1996"
     },
     {
@@ -12427,6 +12991,7 @@
         "top_team_scorer":"Ian Wright - 15",
         "goalkeeper":"David Seaman",
         "notes":"\u2192 UEFA Cup via league finish 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/1995-1996\/Arsenal-Stats",
         "season":"1995-1996"
     },
     {
@@ -12449,6 +13014,7 @@
         "top_team_scorer":"Andrei Kanchelskis - 16",
         "goalkeeper":"Neville Southall",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/1995-1996\/Everton-Stats",
         "season":"1995-1996"
     },
     {
@@ -12471,6 +13037,7 @@
         "top_team_scorer":"Alan Shearer - 31",
         "goalkeeper":"Tim Flowers",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/1995-1996\/Blackburn-Rovers-Stats",
         "season":"1995-1996"
     },
     {
@@ -12493,6 +13060,7 @@
         "top_team_scorer":"Teddy Sheringham - 16",
         "goalkeeper":"Ian Walker",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/1995-1996\/Tottenham-Hotspur-Stats",
         "season":"1995-1996"
     },
     {
@@ -12515,6 +13083,7 @@
         "top_team_scorer":"Jason Lee, Bryan Roy... - 8",
         "goalkeeper":"Mark Crossley",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e4a775cb\/1995-1996\/Nottingham-Forest-Stats",
         "season":"1995-1996"
     },
     {
@@ -12537,6 +13106,7 @@
         "top_team_scorer":"Tony Cottee, Julian Dicks - 10",
         "goalkeeper":"Lud\u011bk Miklo\u0161ko",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/1995-1996\/West-Ham-United-Stats",
         "season":"1995-1996"
     },
     {
@@ -12559,6 +13129,7 @@
         "top_team_scorer":"John Spencer - 13",
         "goalkeeper":"Dmitri Kharine",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/1995-1996\/Chelsea-Stats",
         "season":"1995-1996"
     },
     {
@@ -12581,6 +13152,7 @@
         "top_team_scorer":"Nick Barmby - 7",
         "goalkeeper":"Gary Walsh",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/1995-1996\/Middlesbrough-Stats",
         "season":"1995-1996"
     },
     {
@@ -12603,6 +13175,7 @@
         "top_team_scorer":"Tony Yeboah - 12",
         "goalkeeper":"John Lukic",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/1995-1996\/Leeds-United-Stats",
         "season":"1995-1996"
     },
     {
@@ -12625,6 +13198,7 @@
         "top_team_scorer":"Robbie Earle - 11",
         "goalkeeper":"Paul Heald",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/3679c494\/1995-1996\/Wimbledon-Stats",
         "season":"1995-1996"
     },
     {
@@ -12647,6 +13221,7 @@
         "top_team_scorer":"David Hirst - 13",
         "goalkeeper":"Kevin Pressman",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bba7d733\/1995-1996\/Sheffield-Wednesday-Stats",
         "season":"1995-1996"
     },
     {
@@ -12669,6 +13244,7 @@
         "top_team_scorer":"Dion Dublin - 14",
         "goalkeeper":"Steve Ogrizovic",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f7e3dfe9\/1995-1996\/Coventry-City-Stats",
         "season":"1995-1996"
     },
     {
@@ -12691,6 +13267,7 @@
         "top_team_scorer":"Matt Le Tissier, Neil Shipperley - 7",
         "goalkeeper":"Dave Beasant",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/1995-1996\/Southampton-Stats",
         "season":"1995-1996"
     },
     {
@@ -12713,6 +13290,7 @@
         "top_team_scorer":"Uwe R\u00f6sler - 9",
         "goalkeeper":"Eike Immel",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/1995-1996\/Manchester-City-Stats",
         "season":"1995-1996"
     },
     {
@@ -12735,6 +13313,7 @@
         "top_team_scorer":"Danny Dichio - 10",
         "goalkeeper":"Juergen Sommer",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a757999c\/1995-1996\/Queens-Park-Rangers-Stats",
         "season":"1995-1996"
     },
     {
@@ -12757,6 +13336,7 @@
         "top_team_scorer":"John McGinlay - 6",
         "goalkeeper":"Keith Branagan",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/445d3104\/1995-1996\/Bolton-Wanderers-Stats",
         "season":"1995-1996"
     },
     {
@@ -12779,6 +13359,7 @@
         "top_team_scorer":"Alan Shearer - 34",
         "goalkeeper":"Tim Flowers",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/1994-1995\/Blackburn-Rovers-Stats",
         "season":"1994-1995"
     },
     {
@@ -12801,6 +13382,7 @@
         "top_team_scorer":"Andrei Kanchelskis - 14",
         "goalkeeper":"Peter Schmeichel",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/1994-1995\/Manchester-United-Stats",
         "season":"1994-1995"
     },
     {
@@ -12823,6 +13405,7 @@
         "top_team_scorer":"Stan Collymore - 22",
         "goalkeeper":"Mark Crossley",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e4a775cb\/1994-1995\/Nottingham-Forest-Stats",
         "season":"1994-1995"
     },
     {
@@ -12845,6 +13428,7 @@
         "top_team_scorer":"Robbie Fowler - 25",
         "goalkeeper":"David James",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/1994-1995\/Liverpool-Stats",
         "season":"1994-1995"
     },
     {
@@ -12867,6 +13451,7 @@
         "top_team_scorer":"Tony Yeboah - 12",
         "goalkeeper":"John Lukic",
         "notes":"\u2192 UEFA Cup via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/1994-1995\/Leeds-United-Stats",
         "season":"1994-1995"
     },
     {
@@ -12889,6 +13474,7 @@
         "top_team_scorer":"Peter Beardsley - 12",
         "goalkeeper":"Pavel Srn\u00ed\u010dek",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/1994-1995\/Newcastle-United-Stats",
         "season":"1994-1995"
     },
     {
@@ -12911,6 +13497,7 @@
         "top_team_scorer":"J\u00fcrgen Klinsmann - 20",
         "goalkeeper":"Ian Walker",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/1994-1995\/Tottenham-Hotspur-Stats",
         "season":"1994-1995"
     },
     {
@@ -12933,6 +13520,7 @@
         "top_team_scorer":"Les Ferdinand - 24",
         "goalkeeper":"Tony Roberts",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a757999c\/1994-1995\/Queens-Park-Rangers-Stats",
         "season":"1994-1995"
     },
     {
@@ -12955,6 +13543,7 @@
         "top_team_scorer":"Efan Ekoku - 9",
         "goalkeeper":"Hans Segers",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/3679c494\/1994-1995\/Wimbledon-Stats",
         "season":"1994-1995"
     },
     {
@@ -12977,6 +13566,7 @@
         "top_team_scorer":"Matt Le Tissier - 19",
         "goalkeeper":"Bruce Grobbelaar",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/1994-1995\/Southampton-Stats",
         "season":"1994-1995"
     },
     {
@@ -12999,6 +13589,7 @@
         "top_team_scorer":"John Spencer - 11",
         "goalkeeper":"Dmitri Kharine",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/1994-1995\/Chelsea-Stats",
         "season":"1994-1995"
     },
     {
@@ -13021,6 +13612,7 @@
         "top_team_scorer":"Ian Wright - 18",
         "goalkeeper":"David Seaman",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/1994-1995\/Arsenal-Stats",
         "season":"1994-1995"
     },
     {
@@ -13043,6 +13635,7 @@
         "top_team_scorer":"Mark Bright - 11",
         "goalkeeper":"Kevin Pressman",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bba7d733\/1994-1995\/Sheffield-Wednesday-Stats",
         "season":"1994-1995"
     },
     {
@@ -13065,6 +13658,7 @@
         "top_team_scorer":"Tony Cottee - 13",
         "goalkeeper":"Lud\u011bk Miklo\u0161ko",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/1994-1995\/West-Ham-United-Stats",
         "season":"1994-1995"
     },
     {
@@ -13087,6 +13681,7 @@
         "top_team_scorer":"Paul Rideout - 14",
         "goalkeeper":"Neville Southall",
         "notes":"\u2192 UEFA Cup Winners' Cup via cup win 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/1994-1995\/Everton-Stats",
         "season":"1994-1995"
     },
     {
@@ -13109,6 +13704,7 @@
         "top_team_scorer":"Dion Dublin - 13",
         "goalkeeper":"Steve Ogrizovic",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f7e3dfe9\/1994-1995\/Coventry-City-Stats",
         "season":"1994-1995"
     },
     {
@@ -13131,6 +13727,7 @@
         "top_team_scorer":"Uwe R\u00f6sler - 15",
         "goalkeeper":"Tony Coton",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/1994-1995\/Manchester-City-Stats",
         "season":"1994-1995"
     },
     {
@@ -13153,6 +13750,7 @@
         "top_team_scorer":"Dean Saunders - 15",
         "goalkeeper":"Mark Bosnich",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/1994-1995\/Aston-Villa-Stats",
         "season":"1994-1995"
     },
     {
@@ -13175,6 +13773,7 @@
         "top_team_scorer":"Chris Armstrong - 8",
         "goalkeeper":"Nigel Martyn",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/1994-1995\/Crystal-Palace-Stats",
         "season":"1994-1995"
     },
     {
@@ -13197,6 +13796,7 @@
         "top_team_scorer":"Ashley Ward - 8",
         "goalkeeper":"Bryan Gunn",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1c781004\/1994-1995\/Norwich-City-Stats",
         "season":"1994-1995"
     },
     {
@@ -13219,6 +13819,7 @@
         "top_team_scorer":"Iwan Roberts - 9",
         "goalkeeper":"Kevin Poole",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a2d435b3\/1994-1995\/Leicester-City-Stats",
         "season":"1994-1995"
     },
     {
@@ -13241,6 +13842,7 @@
         "top_team_scorer":"Claus Thomsen - 5",
         "goalkeeper":"Craig Forrest",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b74092de\/1994-1995\/Ipswich-Town-Stats",
         "season":"1994-1995"
     },
     {
@@ -13263,6 +13865,7 @@
         "top_team_scorer":"Eric Cantona - 18",
         "goalkeeper":"Peter Schmeichel",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/1993-1994\/Manchester-United-Stats",
         "season":"1993-1994"
     },
     {
@@ -13285,6 +13888,7 @@
         "top_team_scorer":"Alan Shearer - 31",
         "goalkeeper":"Tim Flowers",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/1993-1994\/Blackburn-Rovers-Stats",
         "season":"1993-1994"
     },
     {
@@ -13307,6 +13911,7 @@
         "top_team_scorer":"Andy Cole - 34",
         "goalkeeper":"Pavel Srn\u00ed\u010dek",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b2b47a98\/1993-1994\/Newcastle-United-Stats",
         "season":"1993-1994"
     },
     {
@@ -13329,6 +13934,7 @@
         "top_team_scorer":"Ian Wright - 23",
         "goalkeeper":"David Seaman",
         "notes":"\u2192 UEFA Cup Winners' Cup",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/1993-1994\/Arsenal-Stats",
         "season":"1993-1994"
     },
     {
@@ -13351,6 +13957,7 @@
         "top_team_scorer":"Rod Wallace - 17",
         "goalkeeper":"Mark Beeney",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/1993-1994\/Leeds-United-Stats",
         "season":"1993-1994"
     },
     {
@@ -13373,6 +13980,7 @@
         "top_team_scorer":"Dean Holdsworth - 17",
         "goalkeeper":"Hans Segers",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/3679c494\/1993-1994\/Wimbledon-Stats",
         "season":"1993-1994"
     },
     {
@@ -13395,6 +14003,7 @@
         "top_team_scorer":"Mark Bright - 19",
         "goalkeeper":"Kevin Pressman",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bba7d733\/1993-1994\/Sheffield-Wednesday-Stats",
         "season":"1993-1994"
     },
     {
@@ -13417,6 +14026,7 @@
         "top_team_scorer":"Ian Rush - 14",
         "goalkeeper":"Bruce Grobbelaar",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/1993-1994\/Liverpool-Stats",
         "season":"1993-1994"
     },
     {
@@ -13439,6 +14049,7 @@
         "top_team_scorer":"Les Ferdinand - 16",
         "goalkeeper":"Jan Stejskal",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a757999c\/1993-1994\/Queens-Park-Rangers-Stats",
         "season":"1993-1994"
     },
     {
@@ -13461,6 +14072,7 @@
         "top_team_scorer":"Dean Saunders - 10",
         "goalkeeper":"Mark Bosnich",
         "notes":"\u2192 UEFA Cup via cup win 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/1993-1994\/Aston-Villa-Stats",
         "season":"1993-1994"
     },
     {
@@ -13483,6 +14095,7 @@
         "top_team_scorer":"Peter Ndlovu - 11",
         "goalkeeper":"Steve Ogrizovic",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f7e3dfe9\/1993-1994\/Coventry-City-Stats",
         "season":"1993-1994"
     },
     {
@@ -13505,6 +14118,7 @@
         "top_team_scorer":"Chris Sutton - 25",
         "goalkeeper":"Bryan Gunn",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1c781004\/1993-1994\/Norwich-City-Stats",
         "season":"1993-1994"
     },
     {
@@ -13527,6 +14141,7 @@
         "top_team_scorer":"Trevor Morley - 13",
         "goalkeeper":"Lud\u011bk Miklo\u0161ko",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7c21e445\/1993-1994\/West-Ham-United-Stats",
         "season":"1993-1994"
     },
     {
@@ -13549,6 +14164,7 @@
         "top_team_scorer":"Mark Stein - 13",
         "goalkeeper":"Dmitri Kharine",
         "notes":"\u2192 UEFA Cup Winners' Cup via cup loss 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/1993-1994\/Chelsea-Stats",
         "season":"1993-1994"
     },
     {
@@ -13571,6 +14187,7 @@
         "top_team_scorer":"Teddy Sheringham - 14",
         "goalkeeper":"Erik Thorstvedt",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/1993-1994\/Tottenham-Hotspur-Stats",
         "season":"1993-1994"
     },
     {
@@ -13593,6 +14210,7 @@
         "top_team_scorer":"Mike Sheron - 6",
         "goalkeeper":"Tony Coton",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/1993-1994\/Manchester-City-Stats",
         "season":"1993-1994"
     },
     {
@@ -13615,6 +14233,7 @@
         "top_team_scorer":"Tony Cottee - 16",
         "goalkeeper":"Neville Southall",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/1993-1994\/Everton-Stats",
         "season":"1993-1994"
     },
     {
@@ -13637,6 +14256,7 @@
         "top_team_scorer":"Matt Le Tissier - 25",
         "goalkeeper":"Dave Beasant",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/1993-1994\/Southampton-Stats",
         "season":"1993-1994"
     },
     {
@@ -13659,6 +14279,7 @@
         "top_team_scorer":"Ian Marshall - 10",
         "goalkeeper":"Craig Forrest",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b74092de\/1993-1994\/Ipswich-Town-Stats",
         "season":"1993-1994"
     },
     {
@@ -13681,6 +14302,7 @@
         "top_team_scorer":"Jostein Flo - 9",
         "goalkeeper":"Alan Kelly Jr.",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1df6b87e\/1993-1994\/Sheffield-United-Stats",
         "season":"1993-1994"
     },
     {
@@ -13703,6 +14325,7 @@
         "top_team_scorer":"Graeme Sharp - 9",
         "goalkeeper":"Jon Hallworth",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/4a04a02b\/1993-1994\/Oldham-Athletic-Stats",
         "season":"1993-1994"
     },
     {
@@ -13725,6 +14348,7 @@
         "top_team_scorer":"Jan \u00c5ge Fj\u00f8rtoft - 12",
         "goalkeeper":"Fraser Digby",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1b295b25\/1993-1994\/Swindon-Town-Stats",
         "season":"1993-1994"
     },
     {
@@ -13747,6 +14371,7 @@
         "top_team_scorer":"Mark Hughes - 15",
         "goalkeeper":"Peter Schmeichel",
         "notes":"\u2192 Champions League via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/19538871\/1992-1993\/Manchester-United-Stats",
         "season":"1992-1993"
     },
     {
@@ -13769,6 +14394,7 @@
         "top_team_scorer":"Dean Saunders - 13",
         "goalkeeper":"Nigel Spink",
         "notes":"\u2192 UEFA Cup via league finish",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/8602292d\/1992-1993\/Aston-Villa-Stats",
         "season":"1992-1993"
     },
     {
@@ -13791,6 +14417,7 @@
         "top_team_scorer":"Mark Robins - 15",
         "goalkeeper":"Bryan Gunn",
         "notes":"\u2192 UEFA Cup via league finish 1",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1c781004\/1992-1993\/Norwich-City-Stats",
         "season":"1992-1993"
     },
     {
@@ -13813,6 +14440,7 @@
         "top_team_scorer":"Alan Shearer - 16",
         "goalkeeper":"Bobby Mimms",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e090f40b\/1992-1993\/Blackburn-Rovers-Stats",
         "season":"1992-1993"
     },
     {
@@ -13835,6 +14463,7 @@
         "top_team_scorer":"Les Ferdinand - 20",
         "goalkeeper":"Tony Roberts",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/a757999c\/1992-1993\/Queens-Park-Rangers-Stats",
         "season":"1992-1993"
     },
     {
@@ -13857,6 +14486,7 @@
         "top_team_scorer":"Ian Rush - 14",
         "goalkeeper":"David James",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/822bd0ba\/1992-1993\/Liverpool-Stats",
         "season":"1992-1993"
     },
     {
@@ -13879,6 +14509,7 @@
         "top_team_scorer":"Mark Bright, David Hirst - 11",
         "goalkeeper":"Chris Woods",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/bba7d733\/1992-1993\/Sheffield-Wednesday-Stats",
         "season":"1992-1993"
     },
     {
@@ -13901,6 +14532,7 @@
         "top_team_scorer":"Teddy Sheringham - 21",
         "goalkeeper":"Erik Thorstvedt",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/361ca564\/1992-1993\/Tottenham-Hotspur-Stats",
         "season":"1992-1993"
     },
     {
@@ -13923,6 +14555,7 @@
         "top_team_scorer":"David White - 16",
         "goalkeeper":"Tony Coton",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b8fd03ef\/1992-1993\/Manchester-City-Stats",
         "season":"1992-1993"
     },
     {
@@ -13945,6 +14578,7 @@
         "top_team_scorer":"Ian Wright - 15",
         "goalkeeper":"David Seaman",
         "notes":"\u2192 European Cup Winners' Cup via cup win 2",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/18bb7c10\/1992-1993\/Arsenal-Stats",
         "season":"1992-1993"
     },
     {
@@ -13967,6 +14601,7 @@
         "top_team_scorer":"Mick Harford, Graham Stuart - 9",
         "goalkeeper":"Kevin Hitchcock",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/cff3d9bb\/1992-1993\/Chelsea-Stats",
         "season":"1992-1993"
     },
     {
@@ -13989,6 +14624,7 @@
         "top_team_scorer":"Dean Holdsworth - 19",
         "goalkeeper":"Hans Segers",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/3679c494\/1992-1993\/Wimbledon-Stats",
         "season":"1992-1993"
     },
     {
@@ -14011,6 +14647,7 @@
         "top_team_scorer":"Tony Cottee - 12",
         "goalkeeper":"Neville Southall",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/d3fd31cc\/1992-1993\/Everton-Stats",
         "season":"1992-1993"
     },
     {
@@ -14033,6 +14670,7 @@
         "top_team_scorer":"Brian Deane - 15",
         "goalkeeper":"Alan Kelly Jr.",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/1df6b87e\/1992-1993\/Sheffield-United-Stats",
         "season":"1992-1993"
     },
     {
@@ -14055,6 +14693,7 @@
         "top_team_scorer":"Micky Quinn - 17",
         "goalkeeper":"Steve Ogrizovic",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/f7e3dfe9\/1992-1993\/Coventry-City-Stats",
         "season":"1992-1993"
     },
     {
@@ -14077,6 +14716,7 @@
         "top_team_scorer":"Chris Kiwomya - 10",
         "goalkeeper":"Clive Baker",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/b74092de\/1992-1993\/Ipswich-Town-Stats",
         "season":"1992-1993"
     },
     {
@@ -14099,6 +14739,7 @@
         "top_team_scorer":"Lee Chapman - 13",
         "goalkeeper":"John Lukic",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/5bfb9659\/1992-1993\/Leeds-United-Stats",
         "season":"1992-1993"
     },
     {
@@ -14121,6 +14762,7 @@
         "top_team_scorer":"Matt Le Tissier - 15",
         "goalkeeper":"Tim Flowers",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/33c895d4\/1992-1993\/Southampton-Stats",
         "season":"1992-1993"
     },
     {
@@ -14143,6 +14785,7 @@
         "top_team_scorer":"Ian Olney - 12",
         "goalkeeper":"Paul Gerrard",
         "notes":null,
+        "team_url":"https:\/\/fbref.com\/en\/squads\/4a04a02b\/1992-1993\/Oldham-Athletic-Stats",
         "season":"1992-1993"
     },
     {
@@ -14165,6 +14808,7 @@
         "top_team_scorer":"Chris Armstrong - 15",
         "goalkeeper":"Nigel Martyn",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/47c64c55\/1992-1993\/Crystal-Palace-Stats",
         "season":"1992-1993"
     },
     {
@@ -14187,6 +14831,7 @@
         "top_team_scorer":"Paul Wilkinson - 13",
         "goalkeeper":"Stephen Pears",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/7f59c601\/1992-1993\/Middlesbrough-Stats",
         "season":"1992-1993"
     },
     {
@@ -14209,6 +14854,7 @@
         "top_team_scorer":"Nigel Clough - 10",
         "goalkeeper":"Mark Crossley",
         "notes":"Relegated",
+        "team_url":"https:\/\/fbref.com\/en\/squads\/e4a775cb\/1992-1993\/Nottingham-Forest-Stats",
         "season":"1992-1993"
     }
 ]
