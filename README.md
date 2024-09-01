@@ -35,6 +35,7 @@ Several Python scripts collect data on past and current results, including:
         - Week 33 (opening week) example: [JSON](https://stilesdata.com/football/table/season_snapshots/epl_table_latest_year_2024_week_33.json), [CSV](https://stilesdata.com/football/table/season_snapshots/epl_table_latest_year_2024_week_33.csv)
 
 **Example: Latest table**
+
 The JSON file is a list of dictionaries. Each has the following items:
 
 ```json
@@ -74,6 +75,7 @@ The JSON file is a list of dictionaries. Each has the following items:
         - Week 35 example: [JSON](https://stilesdata.com/football/table/season_snapshots/league_one_table_latest_year_2024_week_35.json), [CSV](https://stilesdata.com/football/table/season_snapshots/league_one_table_latest_year_2024_week_35.csv)
 
 **Example: Latest table**
+
 The JSON file is a list of dictionaries. Each has the following items:
 
 ```json
