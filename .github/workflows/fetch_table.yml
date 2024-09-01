@@ -44,10 +44,10 @@ jobs:
       - name: commit files
         run: |
           set -e
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "mattstiles@gmail.com"
+          git config --local user.name "stiles"
           git add -A
-          git commit -m "update data" -a --allow-empty --author="stiles <stiles@users.noreply.github.com>"
+          git commit -m "bot updated data" -a --allow-empty --author="stiles <stiles@users.noreply.github.com>"
 
       - name: push changes
         run: |
