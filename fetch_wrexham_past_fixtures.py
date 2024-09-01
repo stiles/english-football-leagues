@@ -73,5 +73,5 @@ for match in data['data']:
 # Convert the list of matches to a DataFrame
 df = pd.DataFrame(matches)
 
-df.to_json('data/fixtures/wrexham_game_logs_league_two_2023_2024.json', indent=4, orient='records')
-df.to_csv('data/fixtures/wrexham_game_logs_league_two_2023_2024.csv', index=False)
+df.to_json('data/fixtures/wrexham_match_logs_league_two_2023_2024.json', indent=4, orient='records')
+df.to_csv('data/fixtures/wrexham_match_logs_league_two_2023_2024.csv', index=False)

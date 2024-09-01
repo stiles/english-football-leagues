@@ -98,7 +98,7 @@ The JSON file is a list of dictionaries. Each has the following items:
 ```
 
 **Wrexham AFC fixtures**
-- Latest season (2024-25): [JSON](https://stilesdata.com/football/fixtures/wrexham_game_logs_league_one_2024_2025.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_game_logs_league_one_2024_2025.csv)
+- Latest season (2024-25): [JSON](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2024_2025.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2024_2025.csv)
 
 
 *More to come...*
