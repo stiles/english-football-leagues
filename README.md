@@ -100,6 +100,29 @@ The JSON file is a list of dictionaries. Each has the following items:
 **Wrexham AFC fixtures**
 - Current season to date (2024-): [JSON](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2024_2025.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2024_2025.csv)
 
+**Example: Current season match results**
+
+The JSON file is a list of dictionaries. Each has the following items:
+
+```json
+    {
+        "kickoff_date_utc":"2024-08-31 14:00:00",
+        "home_away":"away",
+        "opponent":"Peterborough United",
+        "wrexham_score":2, 
+        "opponent_score":0,
+        "wrexham_half_score":2,
+        "opponent_half_score":0,
+        "penalty_score":null,
+        "match_minutes":96,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +6'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":"Wrexham"
+    }   
+```
+
 - Previous season full (2023-24): [JSON](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2023_2024.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2023_2024.csv)
 
 
