@@ -20,7 +20,9 @@ Several Python scripts collect data on past and current results, including:
 **Season results**
 - Current table (live): `fetch_league_one_table.py`
     - *Automated with Github Actions workflow*
-    - *Runs daily for continuity with EPL workflow, which has mid-week fixtures*
+**Wreham AFC match logs**
+- Current season (live): `fetch_wrexham_current_fixtures.py`
+    - *Automated with Github Actions workflow*
 
 ## Outputs
 
@@ -99,7 +101,7 @@ The JSON file is a list of dictionaries. Each has the following items:
 
 **Wrexham AFC fixtures**
 - Current season to date (2024-): [JSON](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2024_2025.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2024_2025.csv)
-- Previous season full (2023-24): [JSON](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2023_2024.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2023_2024.csv)
+- Previous season full in League Two (2023-24): [JSON](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_two_2023_2024.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_two_2023_2024.csv)
 
 **Example: Current season match results**
 
