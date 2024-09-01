@@ -1,4 +1,4 @@
-name: fetch_table
+name: fetch_data
 
 on:
   workflow_dispatch:
