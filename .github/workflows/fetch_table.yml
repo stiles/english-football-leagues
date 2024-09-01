@@ -29,6 +29,7 @@ jobs:
           set -e
           python fetch_current_table.py
           python fetch_league_one_table.py
+          python fetch_wrexham_current_fixtures.py
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
