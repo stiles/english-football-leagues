@@ -1,0 +1,25 @@
+team_id,team_name,start_day_position,current_position,wins,draws,losses,goals_for,goals_against,goal_difference,table_points,matches_played,recent_form,week_number
+t48,Stockport County,1,1,3,1,0,8,1,7,10,4,"D,W,W,W",35
+t109,Wrexham,4,2,3,1,0,8,2,6,10,4,"W,W,D,W",35
+t41,Birmingham City,5,3,3,1,0,8,5,3,10,4,"W,W,W,D",35
+t83,Lincoln City,6,4,3,0,1,9,5,4,9,4,"W,W,L,W",35
+t38,Huddersfield Town,2,5,3,0,1,6,3,3,9,4,"L,W,W,W",35
+t33,Charlton Athletic,3,6,3,0,1,4,2,2,9,4,"L,W,W,W",35
+t37,Barnsley,9,7,2,1,1,8,5,3,7,4,"W,D,W,L",35
+t108,Reading,12,8,2,1,1,5,4,1,7,4,"W,L,W,D",35
+t96,Bristol Rovers,14,9,2,1,1,3,2,1,7,4,"W,L,D,W",35
+t71,Exeter City,17,10,2,0,2,5,4,1,6,4,"W,L,L,W",35
+t73,Peterborough United,7,11,2,0,2,6,6,0,6,4,"L,W,W,L",35
+t1525,Crawley Town,8,12,2,0,2,3,5,-2,6,4,"L,L,W,W",35
+t75,Northampton Town,10,13,1,2,1,4,4,0,5,4,"D,D,W,L",35
+t77,Mansfield Town,15,14,1,2,1,7,9,-2,5,4,"D,L,D,W",35
+t112,Wycombe Wanderers,16,15,1,1,2,8,8,0,4,4,"D,W,L,L",35
+t288,Stevenage,11,16,1,1,2,2,3,-1,4,4,"L,D,L,W",35
+t72,Rotherham United,21,17,1,1,2,2,4,-2,4,4,"W,L,D,L",35
+t30,Bolton Wanderers,13,18,1,1,2,2,5,-3,4,4,"L,L,D,W",35
+t587,Burton Albion,19,19,0,3,1,5,6,-1,3,4,"D,D,D,L",35
+t74,Shrewsbury Town,24,20,1,0,3,4,6,-2,3,4,"W,L,L,L",35
+t111,Wigan Athletic,18,21,1,0,3,2,5,-3,3,4,"L,W,L,L",35
+t92,Blackpool,22,22,0,2,2,7,11,-4,2,4,"D,D,L,L",35
+t101,Cambridge United,20,23,0,1,3,4,9,-5,1,4,"L,D,L,L",35
+t85,Leyton Orient,23,24,0,0,4,2,8,-6,0,4,"L,L,L,L",35
