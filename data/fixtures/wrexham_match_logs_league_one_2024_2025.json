@@ -94,5 +94,21 @@
         "resultType":"NormalResult",
         "postponement_reason":null,
         "matchWinner":"Birmingham City"
+    },
+    {
+        "kickoff_date_utc":"2024-09-21 14:00:00",
+        "home_away":"home",
+        "opponent":"Crawley Town",
+        "wrexham_score":2,
+        "opponent_score":1,
+        "wrexham_half_score":1,
+        "opponent_half_score":0,
+        "penalty_score":null,
+        "match_minutes":97,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +7'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":"Wrexham"
     }
 ]
