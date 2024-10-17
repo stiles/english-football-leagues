@@ -2,24 +2,24 @@ team_id,team_name,start_day_position,current_position,wins,draws,losses,goals_fo
 t41,Birmingham City,1,1,7,1,1,17,9,8,22,9,"L,W,W,W,W",42
 t109,Wrexham,2,2,6,2,2,18,8,10,20,10,"W,L,D,W,L",42
 t77,Mansfield Town,3,3,6,2,1,17,11,6,20,9,"W,W,W,W,W",42
-t83,Lincoln City,4,4,5,3,1,15,8,7,18,9,"W,D,W,D,D",42
-t112,Wycombe Wanderers,5,5,5,2,2,17,13,4,17,9,"W,D,W,W,W",42
-t48,Stockport County,6,6,4,4,1,13,7,6,16,9,"D,W,D,L,D",42
-t71,Exeter City,7,7,5,1,3,10,6,4,16,9,"W,W,D,W,L",42
+t71,Exeter City,7,4,6,1,3,12,6,6,19,10,"W,W,W,D,W",42
+t83,Lincoln City,4,5,5,3,1,15,8,7,18,9,"W,D,W,D,D",42
+t112,Wycombe Wanderers,5,6,5,2,2,17,13,4,17,9,"W,D,W,W,W",42
+t48,Stockport County,6,7,4,4,1,13,7,6,16,9,"D,W,D,L,D",42
 t33,Charlton Athletic,8,8,5,1,4,10,9,1,16,10,"W,L,L,L,W",42
 t38,Huddersfield Town,9,9,5,0,5,14,11,3,15,10,"W,L,L,L,L",42
 t92,Blackpool,10,10,4,3,3,17,16,1,15,10,"L,D,W,W,W",42
 t37,Barnsley,11,11,4,3,3,15,15,0,15,10,"L,D,D,W,L",42
-t73,Peterborough United,14,12,4,3,4,19,21,-2,15,11,"D,W,L,L,D",42
-t288,Stevenage,12,13,4,2,4,8,7,1,14,10,"L,W,W,D,L",42
-t30,Bolton Wanderers,13,14,4,2,3,15,15,0,14,9,"D,W,W,W,L",42
-t72,Rotherham United,17,15,3,5,3,12,14,-2,14,11,"D,W,W,D,L",42
-t111,Wigan Athletic,15,16,3,4,3,9,5,4,13,10,"D,W,D,D,D",42
-t108,Reading,16,17,4,1,4,13,14,-1,13,9,"L,W,W,L,L",42
+t73,Peterborough United,12,12,4,3,4,19,21,-2,15,11,"D,W,L,L,D",42
+t288,Stevenage,13,13,4,2,4,8,7,1,14,10,"L,W,W,D,L",42
+t30,Bolton Wanderers,14,14,4,2,3,15,15,0,14,9,"D,W,W,W,L",42
+t72,Rotherham United,15,15,3,5,3,12,14,-2,14,11,"D,W,W,D,L",42
+t111,Wigan Athletic,16,16,3,4,3,9,5,4,13,10,"D,W,D,D,D",42
+t108,Reading,17,17,4,1,4,13,14,-1,13,9,"L,W,W,L,L",42
 t96,Bristol Rovers,18,18,4,1,5,13,16,-3,13,10,"W,W,L,L,L",42
 t85,Leyton Orient,19,19,2,2,6,10,14,-4,8,10,"L,L,D,D,W",42
 t75,Northampton Town,20,20,2,2,5,11,17,-6,8,9,"L,L,L,W,L",42
-t74,Shrewsbury Town,22,21,2,2,7,13,20,-7,8,11,"W,D,L,D,L",42
-t1525,Crawley Town,21,22,2,1,7,8,18,-10,7,10,"L,L,L,L,L",42
+t74,Shrewsbury Town,21,21,2,2,8,13,22,-9,8,12,"L,W,D,L,D",42
+t1525,Crawley Town,22,22,2,1,7,8,18,-10,7,10,"L,L,L,L,L",42
 t587,Burton Albion,23,23,0,4,5,10,19,-9,4,9,"L,L,L,L,D",42
 t101,Cambridge United,24,24,0,1,8,6,17,-11,1,9,"L,L,L,L,L",42
