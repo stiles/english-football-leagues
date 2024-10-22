@@ -190,5 +190,21 @@
         "resultType":"NormalResult",
         "postponement_reason":null,
         "matchWinner":"Wrexham"
+    },
+    {
+        "kickoff_date_utc":"2024-10-22 18:45:00",
+        "home_away":"home",
+        "opponent":"Huddersfield Town",
+        "wrexham_score":0.0,
+        "opponent_score":0.0,
+        "wrexham_half_score":0.0,
+        "opponent_half_score":0.0,
+        "penalty_score":null,
+        "match_minutes":94.0,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +4'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":null
     }
 ]

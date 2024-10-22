@@ -1,21 +1,21 @@
 rk,squad,mp,w,d,l,gf,ga,gd,pts,pts_mp,xg,xga,xgd,xgd_90,last_5,attendance,top_team_scorer,goalkeeper,notes,season,fetched_date,week_no
-1,Liverpool,8,7,0,1,15,3,12,21,2.63,15.7,6.1,9.6,1.19,L W W W W,60236,"Mohamed Salah, Luis Díaz - 5",Alisson,,2024-2025,2024-10-21,43
-2,Manchester City,8,6,2,0,19,9,10,20,2.5,15.4,8.5,6.9,0.86,W D D W W,52790,Erling Haaland - 10,Ederson,,2024-2025,2024-10-21,43
-3,Arsenal,8,5,2,1,15,8,7,17,2.13,13.5,9.1,4.4,0.56,W D W W L,60304,Kai Havertz - 4,David Raya,,2024-2025,2024-10-21,43
-4,Aston Villa,8,5,2,1,15,10,5,17,2.13,11.4,8.5,2.9,0.36,W W D D W,41455,Ollie Watkins - 5,Emiliano Martínez,,2024-2025,2024-10-21,43
-5,Brighton,8,4,3,1,14,10,4,15,1.88,11.8,13.3,-1.4,-0.18,D D L W W,34010,Danny Welbeck - 5,Bart Verbruggen,,2024-2025,2024-10-21,43
-6,Chelsea,8,4,2,2,17,10,7,14,1.75,15.4,9.7,5.6,0.7,W W W D L,39528,Cole Palmer - 6,Robert Sánchez,,2024-2025,2024-10-21,43
-7,Tottenham,8,4,1,3,18,9,9,13,1.63,16.7,8.8,7.8,0.98,L W W L W,61407,"Son Heung-min, Brennan Johnson - 3",Guglielmo Vicario,,2024-2025,2024-10-21,43
-8,Newcastle United,8,3,3,2,8,8,0,12,1.5,12.4,11.4,0.9,0.12,W L D D L,52219,Harvey Barnes - 3,Nick Pope,,2024-2025,2024-10-21,43
-9,Fulham,8,3,2,3,11,11,0,11,1.38,12.6,9.8,2.8,0.35,D W W L L,26093,Raúl Jiménez - 4,Bernd Leno,,2024-2025,2024-10-21,43
-10,Bournemouth,8,3,2,3,10,10,0,11,1.38,13.9,9.6,4.3,0.54,L L W L W,11219,Antoine Semenyo - 3,Kepa Arrizabalaga,,2024-2025,2024-10-21,43
-11,Manchester United,8,3,2,3,7,9,-2,11,1.38,12.3,12.2,0.1,0.02,W D L D W,73590,Alejandro Garnacho - 2,André Onana,,2024-2025,2024-10-21,43
-12,Nottingham Forest,7,2,4,1,7,6,1,10,1.43,8.1,7.7,0.4,0.06,D W D L D,29940,Chris Wood - 4,Matz Sels,,2024-2025,2024-10-21,43
-13,Brentford,8,3,1,4,14,15,-1,10,1.25,12.0,14.1,-2.1,-0.26,L L D W L,16988,Bryan Mbeumo - 6,Mark Flekken,,2024-2025,2024-10-21,43
-14,Leicester City,8,2,3,3,12,14,-2,9,1.13,8.1,16.6,-8.5,-1.06,D D L W W,31793,"Jamie Vardy, Facundo Buonanotte - 3",Mads Hermansen,,2024-2025,2024-10-21,43
-15,West Ham,8,2,2,4,11,15,-4,8,1.0,11.3,12.9,-1.6,-0.2,D L D W L,62468,"Tomáš Souček, Lucas Paquetá... - 2",Alphonse Areola,,2024-2025,2024-10-21,43
-16,Everton,8,2,2,4,9,15,-6,8,1.0,8.5,13.2,-4.7,-0.59,L D W D W,39060,Dwight McNeil - 3,Jordan Pickford,,2024-2025,2024-10-21,43
-17,Ipswich Town,8,0,4,4,6,16,-10,4,0.5,6.2,17.1,-10.8,-1.35,D D D L L,29834,Liam Delap - 4,Arijanet Muric,,2024-2025,2024-10-21,43
-18,Crystal Palace,7,0,3,4,5,10,-5,3,0.43,8.1,10.4,-2.3,-0.33,D D D L L,25151,Jean-Philippe Mateta - 2,Dean Henderson,,2024-2025,2024-10-21,43
-19,Southampton,8,0,1,7,6,18,-12,1,0.13,10.3,16.7,-6.4,-0.8,L D L L L,31139,Cameron Archer - 2,Aaron Ramsdale,,2024-2025,2024-10-21,43
-20,Wolves,8,0,1,7,10,23,-13,1,0.13,7.4,15.4,-8.1,-1.01,L L L L L,31056,"Jørgen Strand Larsen, Matheus Cunha - 3",Sam Johnstone,,2024-2025,2024-10-21,43
+1,Liverpool,8,7,0,1,15,3,12,21,2.63,15.7,6.1,9.6,1.19,L W W W W,60236,"Mohamed Salah, Luis Díaz - 5",Alisson,,2024-2025,2024-10-22,43
+2,Manchester City,8,6,2,0,19,9,10,20,2.5,15.4,8.5,6.9,0.86,W D D W W,52790,Erling Haaland - 10,Ederson,,2024-2025,2024-10-22,43
+3,Arsenal,8,5,2,1,15,8,7,17,2.13,13.5,9.1,4.4,0.56,W D W W L,60304,Kai Havertz - 4,David Raya,,2024-2025,2024-10-22,43
+4,Aston Villa,8,5,2,1,15,10,5,17,2.13,11.4,8.5,2.9,0.36,W W D D W,41455,Ollie Watkins - 5,Emiliano Martínez,,2024-2025,2024-10-22,43
+5,Brighton,8,4,3,1,14,10,4,15,1.88,11.8,13.3,-1.4,-0.18,D D L W W,34010,Danny Welbeck - 5,Bart Verbruggen,,2024-2025,2024-10-22,43
+6,Chelsea,8,4,2,2,17,10,7,14,1.75,15.4,9.7,5.6,0.7,W W W D L,39528,Cole Palmer - 6,Robert Sánchez,,2024-2025,2024-10-22,43
+7,Tottenham,8,4,1,3,18,9,9,13,1.63,16.7,8.8,7.8,0.98,L W W L W,61407,"Son Heung-min, Brennan Johnson - 3",Guglielmo Vicario,,2024-2025,2024-10-22,43
+8,Nottingham Forest,8,3,4,1,8,6,2,13,1.63,9.8,8.6,1.1,0.14,W D L D W,29816,Chris Wood - 5,Matz Sels,,2024-2025,2024-10-22,43
+9,Newcastle United,8,3,3,2,8,8,0,12,1.5,12.4,11.4,0.9,0.12,W L D D L,52219,Harvey Barnes - 3,Nick Pope,,2024-2025,2024-10-22,43
+10,Fulham,8,3,2,3,11,11,0,11,1.38,12.6,9.8,2.8,0.35,D W W L L,26093,Raúl Jiménez - 4,Bernd Leno,,2024-2025,2024-10-22,43
+11,Bournemouth,8,3,2,3,10,10,0,11,1.38,13.9,9.6,4.3,0.54,L L W L W,11219,Antoine Semenyo - 3,Kepa Arrizabalaga,,2024-2025,2024-10-22,43
+12,Manchester United,8,3,2,3,7,9,-2,11,1.38,12.3,12.2,0.1,0.02,W D L D W,73590,Alejandro Garnacho - 2,André Onana,,2024-2025,2024-10-22,43
+13,Brentford,8,3,1,4,14,15,-1,10,1.25,12.0,14.1,-2.1,-0.26,L L D W L,16988,Bryan Mbeumo - 6,Mark Flekken,,2024-2025,2024-10-22,43
+14,Leicester City,8,2,3,3,12,14,-2,9,1.13,8.1,16.6,-8.5,-1.06,D D L W W,31793,"Jamie Vardy, Facundo Buonanotte - 3",Mads Hermansen,,2024-2025,2024-10-22,43
+15,West Ham,8,2,2,4,11,15,-4,8,1.0,11.3,12.9,-1.6,-0.2,D L D W L,62468,"Tomáš Souček, Lucas Paquetá... - 2",Alphonse Areola,,2024-2025,2024-10-22,43
+16,Everton,8,2,2,4,9,15,-6,8,1.0,8.5,13.2,-4.7,-0.59,L D W D W,39060,Dwight McNeil - 3,Jordan Pickford,,2024-2025,2024-10-22,43
+17,Ipswich Town,8,0,4,4,6,16,-10,4,0.5,6.2,17.1,-10.8,-1.35,D D D L L,29834,Liam Delap - 4,Arijanet Muric,,2024-2025,2024-10-22,43
+18,Crystal Palace,8,0,3,5,5,11,-6,3,0.38,9.1,12.1,-3.0,-0.37,D D L L L,25151,Jean-Philippe Mateta - 2,Dean Henderson,,2024-2025,2024-10-22,43
+19,Southampton,8,0,1,7,6,18,-12,1,0.13,10.3,16.7,-6.4,-0.8,L D L L L,31139,Cameron Archer - 2,Aaron Ramsdale,,2024-2025,2024-10-22,43
+20,Wolves,8,0,1,7,10,23,-13,1,0.13,7.4,15.4,-8.1,-1.01,L L L L L,31056,"Jørgen Strand Larsen, Matheus Cunha - 3",Sam Johnstone,,2024-2025,2024-10-22,43
