@@ -21,7 +21,7 @@
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -96,11 +96,36 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
         "rk":5,
+        "squad":"Nottingham Forest",
+        "mp":9,
+        "w":4,
+        "d":4,
+        "l":1,
+        "gf":11,
+        "ga":7,
+        "gd":4,
+        "pts":16,
+        "pts_mp":1.78,
+        "xg":11.4,
+        "xga":9.4,
+        "xgd":2.0,
+        "xgd_90":0.23,
+        "last_5":"D L D W W",
+        "attendance":29816,
+        "top_team_scorer":"Chris Wood - 7",
+        "goalkeeper":"Matz Sels",
+        "notes":null,
+        "season":"2024-2025",
+        "fetched_date":"2024-10-26",
+        "week_no":43
+    },
+    {
+        "rk":6,
         "squad":"Brighton",
         "mp":8,
         "w":4,
@@ -121,11 +146,11 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
-        "rk":6,
+        "rk":7,
         "squad":"Chelsea",
         "mp":8,
         "w":4,
@@ -146,11 +171,11 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
-        "rk":7,
+        "rk":8,
         "squad":"Tottenham",
         "mp":8,
         "w":4,
@@ -171,32 +196,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
-        "week_no":43
-    },
-    {
-        "rk":8,
-        "squad":"Nottingham Forest",
-        "mp":8,
-        "w":3,
-        "d":4,
-        "l":1,
-        "gf":8,
-        "ga":6,
-        "gd":2,
-        "pts":13,
-        "pts_mp":1.63,
-        "xg":9.8,
-        "xga":8.6,
-        "xgd":1.1,
-        "xgd_90":0.14,
-        "last_5":"W D L D W",
-        "attendance":29816,
-        "top_team_scorer":"Chris Wood - 5",
-        "goalkeeper":"Matz Sels",
-        "notes":null,
-        "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -221,7 +221,7 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -321,32 +321,32 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
         "rk":14,
         "squad":"Leicester City",
-        "mp":8,
+        "mp":9,
         "w":2,
         "d":3,
-        "l":3,
-        "gf":12,
-        "ga":14,
-        "gd":-2,
+        "l":4,
+        "gf":13,
+        "ga":17,
+        "gd":-4,
         "pts":9,
-        "pts_mp":1.13,
-        "xg":8.1,
-        "xga":16.6,
-        "xgd":-8.5,
-        "xgd_90":-1.06,
-        "last_5":"D D L W W",
-        "attendance":31793,
-        "top_team_scorer":"Jamie Vardy, Facundo Buonanotte - 3",
+        "pts_mp":1.0,
+        "xg":8.9,
+        "xga":18.3,
+        "xgd":-9.4,
+        "xgd_90":-1.04,
+        "last_5":"D L W W L",
+        "attendance":31810,
+        "top_team_scorer":"Jamie Vardy - 4",
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -471,7 +471,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Sam Johnstone",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-10-25",
+        "fetched_date":"2024-10-26",
         "week_no":43
     }
 ]
