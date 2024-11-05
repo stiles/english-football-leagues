@@ -21,7 +21,7 @@
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -121,7 +121,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -146,7 +146,7 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -171,7 +171,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -196,11 +196,36 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
         "rk":9,
+        "squad":"Fulham",
+        "mp":10,
+        "w":4,
+        "d":3,
+        "l":3,
+        "gf":14,
+        "ga":13,
+        "gd":1,
+        "pts":15,
+        "pts_mp":1.5,
+        "xg":15.1,
+        "xga":11.2,
+        "xgd":4.0,
+        "xgd_90":0.4,
+        "last_5":"W L L D W",
+        "attendance":25861,
+        "top_team_scorer":"Ra\u00fal Jim\u00e9nez - 4",
+        "goalkeeper":"Bernd Leno",
+        "notes":null,
+        "season":"2024-2025",
+        "fetched_date":"2024-11-05",
+        "week_no":45
+    },
+    {
+        "rk":10,
         "squad":"Bournemouth",
         "mp":10,
         "w":4,
@@ -221,11 +246,11 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
-        "rk":10,
+        "rk":11,
         "squad":"Newcastle United",
         "mp":10,
         "w":4,
@@ -246,57 +271,32 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
-        "rk":11,
+        "rk":12,
         "squad":"Brentford",
-        "mp":9,
+        "mp":10,
         "w":4,
         "d":1,
-        "l":4,
-        "gf":18,
-        "ga":18,
-        "gd":0,
+        "l":5,
+        "gf":19,
+        "ga":20,
+        "gd":-1,
         "pts":13,
-        "pts_mp":1.44,
-        "xg":16.1,
-        "xga":15.4,
-        "xgd":0.7,
-        "xgd_90":0.08,
-        "last_5":"L D W L W",
+        "pts_mp":1.3,
+        "xg":16.7,
+        "xga":16.7,
+        "xgd":0.0,
+        "xgd_90":0.0,
+        "last_5":"D W L W L",
         "attendance":17012,
         "top_team_scorer":"Bryan Mbeumo - 8",
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
-        "week_no":45
-    },
-    {
-        "rk":12,
-        "squad":"Fulham",
-        "mp":9,
-        "w":3,
-        "d":3,
-        "l":3,
-        "gf":12,
-        "ga":12,
-        "gd":0,
-        "pts":12,
-        "pts_mp":1.33,
-        "xg":13.8,
-        "xga":10.5,
-        "xgd":3.3,
-        "xgd_90":0.36,
-        "last_5":"W W L L D",
-        "attendance":26093,
-        "top_team_scorer":"Ra\u00fal Jim\u00e9nez - 4",
-        "goalkeeper":"Bernd Leno",
-        "notes":null,
-        "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -321,7 +321,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -346,7 +346,7 @@
         "goalkeeper":"Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -471,7 +471,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Sam Johnstone, Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-04",
+        "fetched_date":"2024-11-05",
         "week_no":45
     }
 ]
