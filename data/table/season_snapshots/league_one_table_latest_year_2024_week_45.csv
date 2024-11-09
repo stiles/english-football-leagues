@@ -1,25 +1,25 @@
 team_id,team_name,start_day_position,current_position,wins,draws,losses,goals_for,goals_against,goal_difference,table_points,matches_played,recent_form,week_number
-t112,Wycombe Wanderers,2,1,9,2,2,31,16,15,29,13,"W,W,W,W,W",45
-t41,Birmingham City,1,2,9,2,1,23,11,12,29,12,"D,W,W,L,W",45
-t109,Wrexham,3,3,7,4,2,21,10,11,25,13,"D,D,W,W,L",45
+t112,Wycombe Wanderers,2,1,10,2,2,32,16,16,32,14,"W,W,W,W,W",45
+t41,Birmingham City,1,2,9,3,1,24,12,12,30,13,"D,D,W,W,L",45
+t109,Wrexham,3,3,8,4,2,22,10,12,28,14,"W,D,D,W,W",45
 t37,Barnsley,7,4,7,4,3,23,18,5,25,14,"W,W,D,W,L",45
-t77,Mansfield Town,4,5,7,3,2,20,14,6,24,12,"D,W,L,W,W",45
-t83,Lincoln City,8,6,7,3,3,20,16,4,24,13,"W,W,L,L,W",45
-t30,Bolton Wanderers,9,7,7,2,4,22,19,3,23,13,"W,W,L,W,D",45
-t38,Huddersfield Town,5,8,7,1,5,19,12,7,22,13,"W,D,W,W,L",45
-t108,Reading,6,9,7,1,5,21,20,1,22,13,"L,W,W,W,L",45
-t48,Stockport County,12,10,5,6,3,20,17,3,21,14,"L,W,L,D,D",45
-t71,Exeter City,10,11,6,1,5,13,10,3,19,12,"L,L,W,W,W",45
-t33,Charlton Athletic,11,12,5,4,4,15,14,1,19,13,"D,D,D,W,L",45
-t73,Peterborough United,13,13,5,3,6,25,26,-1,18,14,"L,W,L,D,W",45
-t72,Rotherham United,14,14,4,5,6,14,18,-4,17,15,"L,W,L,L,D",45
-t288,Stevenage,15,15,5,2,7,10,15,-5,17,14,"L,L,L,W,L",45
-t92,Blackpool,16,16,4,4,5,21,25,-4,16,13,"D,L,L,L,D",45
-t96,Bristol Rovers,17,17,5,1,7,15,20,-5,16,13,"L,W,L,W,W",45
-t75,Northampton Town,18,18,4,3,6,17,20,-3,15,13,"L,W,D,W,L",45
-t111,Wigan Athletic,19,19,3,5,5,12,11,1,14,13,"D,L,L,D,W",45
-t85,Leyton Orient,20,20,3,2,8,11,18,-7,11,13,"L,W,L,L,L",45
-t1525,Crawley Town,22,21,3,2,9,12,25,-13,11,14,"D,L,W,L,L",45
-t101,Cambridge United,21,22,3,1,8,11,17,-6,10,12,"W,W,W,L,L",45
-t74,Shrewsbury Town,23,23,2,2,10,13,25,-12,8,14,"L,L,L,W,D",45
-t587,Burton Albion,24,24,0,5,8,13,25,-12,5,13,"D,L,L,L,L",45
+t83,Lincoln City,8,5,7,4,3,21,17,4,25,14,"D,W,W,L,L",45
+t48,Stockport County,12,6,6,6,3,25,17,8,24,15,"W,L,W,L,D",45
+t77,Mansfield Town,4,7,7,3,3,20,15,5,24,13,"L,D,W,L,W",45
+t38,Huddersfield Town,5,8,7,2,5,21,14,7,23,14,"D,W,D,W,W",45
+t108,Reading,6,9,7,2,5,22,21,1,23,14,"D,L,W,W,W",45
+t30,Bolton Wanderers,9,10,7,2,5,22,24,-2,23,14,"L,W,W,L,W",45
+t71,Exeter City,10,11,7,1,5,14,10,4,22,13,"W,L,L,W,W",45
+t73,Peterborough United,13,12,6,3,6,31,27,4,21,15,"W,L,W,L,D",45
+t33,Charlton Athletic,11,13,5,4,5,15,15,0,19,14,"L,D,D,D,W",45
+t288,Stevenage,15,14,5,3,7,11,16,-5,18,15,"D,L,L,L,W",45
+t72,Rotherham United,14,15,4,5,6,14,18,-4,17,15,"L,W,L,L,D",45
+t96,Bristol Rovers,17,16,5,2,7,16,21,-5,17,14,"D,L,W,L,W",45
+t75,Northampton Town,18,17,4,4,6,18,21,-3,16,14,"D,L,W,D,W",45
+t92,Blackpool,16,18,4,4,6,21,28,-7,16,14,"L,D,L,L,L",45
+t111,Wigan Athletic,19,19,3,5,6,12,12,0,14,14,"L,D,L,L,D",45
+t85,Leyton Orient,20,20,4,2,8,14,18,-4,14,14,"W,L,W,L,L",45
+t1525,Crawley Town,22,21,3,3,9,14,27,-13,12,15,"D,D,L,W,L",45
+t101,Cambridge United,21,22,3,1,9,12,23,-11,10,13,"L,W,W,W,L",45
+t587,Burton Albion,24,23,1,5,8,15,25,-10,8,14,"W,D,L,L,L",45
+t74,Shrewsbury Town,23,24,2,2,11,13,27,-14,8,15,"L,L,L,L,W",45
