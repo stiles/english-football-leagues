@@ -21,7 +21,7 @@
         "goalkeeper":"Caoimh\u00edn Kelleher",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -41,12 +41,12 @@
         "xgd":8.6,
         "xgd_90":0.71,
         "last_5":"W W L L L",
-        "attendance":52800,
+        "attendance":52747,
         "top_team_scorer":"Erling Haaland - 12",
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -121,7 +121,7 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -146,7 +146,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -171,7 +171,7 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -191,12 +191,12 @@
         "xgd":4.7,
         "xgd_90":0.39,
         "last_5":"W D L L D",
-        "attendance":41597,
+        "attendance":41693,
         "top_team_scorer":"Ollie Watkins - 6",
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -211,17 +211,17 @@
         "gd":2,
         "pts":18,
         "pts_mp":1.64,
-        "xg":16.3,
-        "xga":14.6,
-        "xgd":1.7,
-        "xgd_90":0.15,
-        "last_5":"D L L W W",
-        "attendance":52225,
+        "xg":18.0,
+        "xga":15.5,
+        "xgd":2.5,
+        "xgd_90":0.21,
+        "last_5":"L L W W L",
+        "attendance":52203,
         "top_team_scorer":"Alexander Isak, Harvey Barnes - 4",
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -241,12 +241,12 @@
         "xgd":4.0,
         "xgd_90":0.33,
         "last_5":"L D W W L",
-        "attendance":25861,
+        "attendance":25998,
         "top_team_scorer":"Ra\u00fal Jim\u00e9nez - 4",
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -321,7 +321,7 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -336,17 +336,17 @@
         "gd":-6,
         "pts":12,
         "pts_mp":1.09,
-        "xg":15.1,
-        "xga":18.4,
-        "xgd":-3.4,
-        "xgd_90":-0.31,
-        "last_5":"W L W L D",
+        "xg":15.9,
+        "xga":20.1,
+        "xgd":-4.2,
+        "xgd_90":-0.35,
+        "last_5":"L W L D W",
         "attendance":62468,
-        "top_team_scorer":"Jarrod Bowen - 3",
+        "top_team_scorer":"Tom\u00e1\u0161 Sou\u010dek, Jarrod Bowen - 3",
         "goalkeeper":"Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -471,7 +471,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-11-25",
+        "fetched_date":"2024-11-26",
         "week_no":48
     }
 ]
