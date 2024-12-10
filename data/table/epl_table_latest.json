@@ -21,7 +21,7 @@
         "goalkeeper":"Caoimh\u00edn Kelleher",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -121,7 +121,7 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -146,7 +146,7 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -171,7 +171,7 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -196,7 +196,7 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -221,7 +221,7 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -321,32 +321,32 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
         "rk":14,
         "squad":"West Ham",
-        "mp":14,
-        "w":4,
+        "mp":15,
+        "w":5,
         "d":3,
         "l":7,
-        "gf":18,
-        "ga":27,
-        "gd":-9,
-        "pts":15,
-        "pts_mp":1.07,
-        "xg":20.4,
-        "xga":25.3,
-        "xgd":-4.9,
-        "xgd_90":-0.35,
-        "last_5":"L D W L L",
+        "gf":20,
+        "ga":28,
+        "gd":-8,
+        "pts":18,
+        "pts_mp":1.2,
+        "xg":21.5,
+        "xga":26.9,
+        "xgd":-5.4,
+        "xgd_90":-0.36,
+        "last_5":"D W L L W",
         "attendance":62468,
-        "top_team_scorer":"Tom\u00e1\u0161 Sou\u010dek, Jarrod Bowen - 3",
-        "goalkeeper":"Alphonse Areola",
+        "top_team_scorer":"Tom\u00e1\u0161 Sou\u010dek, Jarrod Bowen - 4",
+        "goalkeeper":"\u0141ukasz Fabia\u0144ski, Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -446,32 +446,32 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
         "rk":19,
         "squad":"Wolves",
-        "mp":14,
+        "mp":15,
         "w":2,
         "d":3,
-        "l":9,
-        "gf":22,
-        "ga":36,
-        "gd":-14,
+        "l":10,
+        "gf":23,
+        "ga":38,
+        "gd":-15,
         "pts":9,
-        "pts_mp":0.64,
-        "xg":14.0,
-        "xga":25.1,
-        "xgd":-11.0,
-        "xgd_90":-0.79,
-        "last_5":"D W W L L",
+        "pts_mp":0.6,
+        "xg":15.6,
+        "xga":26.1,
+        "xgd":-10.5,
+        "xgd_90":-0.7,
+        "last_5":"W W L L L",
         "attendance":31125,
         "top_team_scorer":"Matheus Cunha - 7",
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-09",
+        "fetched_date":"2024-12-10",
         "week_no":50
     }
 ]
