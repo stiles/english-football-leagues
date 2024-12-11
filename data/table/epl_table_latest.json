@@ -21,7 +21,7 @@
         "goalkeeper":"Caoimh\u00edn Kelleher",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -41,12 +41,12 @@
         "xgd":10.3,
         "xgd_90":0.69,
         "last_5":"D W W W W",
-        "attendance":39570,
+        "attendance":39753,
         "top_team_scorer":"Cole Palmer - 11",
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -116,12 +116,12 @@
         "xgd":1.1,
         "xgd_90":0.08,
         "last_5":"L L W L W",
-        "attendance":29920,
+        "attendance":29965,
         "top_team_scorer":"Chris Wood - 10",
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -141,12 +141,12 @@
         "xgd":7.7,
         "xgd_90":0.51,
         "last_5":"L D L W W",
-        "attendance":41693,
+        "attendance":41845,
         "top_team_scorer":"Ollie Watkins - 7",
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -166,12 +166,12 @@
         "xgd":-1.3,
         "xgd_90":-0.09,
         "last_5":"W W D L D",
-        "attendance":33266,
+        "attendance":33020,
         "top_team_scorer":"Danny Welbeck - 6",
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -191,12 +191,12 @@
         "xgd":12.5,
         "xgd_90":0.83,
         "last_5":"L L W W W",
-        "attendance":11217,
+        "attendance":11219,
         "top_team_scorer":"Justin Kluivert - 5",
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -221,7 +221,7 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -321,7 +321,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -336,17 +336,17 @@
         "gd":-8,
         "pts":18,
         "pts_mp":1.2,
-        "xg":21.5,
-        "xga":26.9,
-        "xgd":-5.4,
+        "xg":21.4,
+        "xga":26.7,
+        "xgd":-5.3,
         "xgd_90":-0.36,
         "last_5":"D W L L W",
-        "attendance":62468,
+        "attendance":62470,
         "top_team_scorer":"Tom\u00e1\u0161 Sou\u010dek, Jarrod Bowen - 4",
         "goalkeeper":"\u0141ukasz Fabia\u0144ski, Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -461,17 +461,17 @@
         "gd":-15,
         "pts":9,
         "pts_mp":0.6,
-        "xg":15.6,
+        "xg":15.5,
         "xga":26.1,
-        "xgd":-10.5,
+        "xgd":-10.6,
         "xgd_90":-0.7,
         "last_5":"W W L L L",
-        "attendance":31125,
+        "attendance":30491,
         "top_team_scorer":"Matheus Cunha - 7",
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-10",
+        "fetched_date":"2024-12-11",
         "week_no":50
     }
 ]
