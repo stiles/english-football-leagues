@@ -302,5 +302,21 @@
         "resultType":"NormalResult",
         "postponement_reason":null,
         "matchWinner":"Wrexham"
+    },
+    {
+        "kickoff_date_utc":"2024-12-14 15:00:00",
+        "home_away":"home",
+        "opponent":"Cambridge United",
+        "wrexham_score":2,
+        "opponent_score":2,
+        "wrexham_half_score":1,
+        "opponent_half_score":1,
+        "penalty_score":null,
+        "match_minutes":95,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +5'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":null
     }
 ]
