@@ -21,7 +21,7 @@
         "goalkeeper":"Caoimh\u00edn Kelleher",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -121,11 +121,36 @@
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
         "rk":6,
+        "squad":"Bournemouth",
+        "mp":16,
+        "w":7,
+        "d":4,
+        "l":5,
+        "gf":24,
+        "ga":21,
+        "gd":3,
+        "pts":25,
+        "pts_mp":1.56,
+        "xg":32.3,
+        "xga":20.2,
+        "xgd":12.1,
+        "xgd_90":0.76,
+        "last_5":"L W W W D",
+        "attendance":11217,
+        "top_team_scorer":"Justin Kluivert - 5",
+        "goalkeeper":"Kepa Arrizabalaga",
+        "notes":null,
+        "season":"2024-2025",
+        "fetched_date":"2024-12-17",
+        "week_no":51
+    },
+    {
+        "rk":7,
         "squad":"Aston Villa",
         "mp":16,
         "w":7,
@@ -146,32 +171,7 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
-        "week_no":51
-    },
-    {
-        "rk":7,
-        "squad":"Bournemouth",
-        "mp":15,
-        "w":7,
-        "d":3,
-        "l":5,
-        "gf":23,
-        "ga":20,
-        "gd":3,
-        "pts":24,
-        "pts_mp":1.6,
-        "xg":30.4,
-        "xga":18.0,
-        "xgd":12.5,
-        "xgd_90":0.83,
-        "last_5":"L L W W W",
-        "attendance":11219,
-        "top_team_scorer":"Justin Kluivert - 5",
-        "goalkeeper":"Kepa Arrizabalaga",
-        "notes":null,
-        "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -196,7 +196,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -221,7 +221,7 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -321,32 +321,32 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
         "rk":14,
         "squad":"West Ham",
-        "mp":15,
+        "mp":16,
         "w":5,
-        "d":3,
+        "d":4,
         "l":7,
-        "gf":20,
-        "ga":28,
+        "gf":21,
+        "ga":29,
         "gd":-8,
-        "pts":18,
-        "pts_mp":1.2,
-        "xg":21.4,
-        "xga":26.7,
-        "xgd":-5.3,
-        "xgd_90":-0.36,
-        "last_5":"D W L L W",
+        "pts":19,
+        "pts_mp":1.19,
+        "xg":23.6,
+        "xga":28.5,
+        "xgd":-5.0,
+        "xgd_90":-0.31,
+        "last_5":"W L L W D",
         "attendance":62470,
         "top_team_scorer":"Tom\u00e1\u0161 Sou\u010dek, Jarrod Bowen - 4",
-        "goalkeeper":"\u0141ukasz Fabia\u0144ski, Alphonse Areola",
+        "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -471,7 +471,7 @@
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-16",
+        "fetched_date":"2024-12-17",
         "week_no":51
     }
 ]
