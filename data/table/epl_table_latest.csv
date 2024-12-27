@@ -1,21 +1,21 @@
 rk,squad,mp,w,d,l,gf,ga,gd,pts,pts_mp,xg,xga,xgd,xgd_90,last_5,attendance,top_team_scorer,goalkeeper,notes,season,fetched_date,week_no
-1,Liverpool,16,12,3,1,37,16,21,39,2.44,36.2,16.0,20.2,1.26,W W D D W,60274,Mohamed Salah - 15,Caoimhín Kelleher,,2024-2025,2024-12-26,52
-2,Chelsea,17,10,5,2,37,19,18,35,2.06,35.3,24.3,11.0,0.65,W W W W D,39730,Cole Palmer - 11,Robert Sánchez,,2024-2025,2024-12-26,52
-3,Arsenal,17,9,6,2,34,16,18,33,1.94,29.3,15.8,13.5,0.79,W W D D W,60291,Kai Havertz - 6,David Raya,,2024-2025,2024-12-26,52
-4,Nottingham Forest,17,9,4,4,23,19,4,31,1.82,20.6,18.0,2.7,0.16,W L W W W,29984,Chris Wood - 10,Matz Sels,,2024-2025,2024-12-26,52
-5,Bournemouth,17,8,4,5,27,21,6,28,1.65,34.0,22.3,11.7,0.69,W W W D W,11217,Justin Kluivert - 6,Kepa Arrizabalaga,,2024-2025,2024-12-26,52
-6,Aston Villa,17,8,4,5,26,26,0,28,1.65,27.1,20.2,6.9,0.4,L W W L W,41901,"Ollie Watkins, Jhon Durán - 7",Emiliano Martínez,,2024-2025,2024-12-26,52
-7,Manchester City,17,8,3,6,29,25,4,27,1.59,30.7,25.0,5.7,0.34,L W D L L,52679,Erling Haaland - 13,Ederson,,2024-2025,2024-12-26,52
-8,Newcastle United,17,7,5,5,27,21,6,26,1.53,27.6,21.3,6.3,0.37,D D L W W,52211,Alexander Isak - 10,Nick Pope,,2024-2025,2024-12-26,52
-9,Fulham,17,6,7,4,24,22,2,25,1.47,22.8,20.4,2.5,0.14,D W D D D,26237,"Raúl Jiménez, Alex Iwobi - 5",Bernd Leno,,2024-2025,2024-12-26,52
-10,Brighton,17,6,7,4,27,26,1,25,1.47,23.9,26.8,-2.9,-0.17,D L D L D,32754,Danny Welbeck - 6,Bart Verbruggen,,2024-2025,2024-12-26,52
-11,Tottenham,17,7,2,8,39,25,14,23,1.35,31.8,29.3,2.5,0.15,D L L W L,61350,James Maddison - 8,Guglielmo Vicario,,2024-2025,2024-12-26,52
-12,Brentford,17,7,2,8,32,32,0,23,1.35,26.1,28.5,-2.4,-0.14,W L W L L,16992,Bryan Mbeumo - 10,Mark Flekken,,2024-2025,2024-12-26,52
-13,Manchester United,17,6,4,7,21,22,-1,22,1.29,25.4,24.4,1.0,0.06,W L L W L,73702,"Bruno Fernandes, Marcus Rashford - 4",André Onana,,2024-2025,2024-12-26,52
-14,West Ham,17,5,5,7,22,30,-8,20,1.18,24.7,29.6,-4.9,-0.29,L L W D D,62470,"Tomáš Souček, Jarrod Bowen - 4",Łukasz Fabiański,,2024-2025,2024-12-26,52
-15,Everton,16,3,7,6,14,21,-7,16,1.0,15.8,21.3,-5.4,-0.34,D L W D D,39010,Dwight McNeil - 3,Jordan Pickford,,2024-2025,2024-12-26,52
-16,Crystal Palace,17,3,7,7,18,26,-8,16,0.94,23.5,24.5,-1.1,-0.06,D W D W L,25140,"Ismaila Sarr, Jean-Philippe Mateta - 4",Dean Henderson,,2024-2025,2024-12-26,52
-17,Leicester City,17,3,5,9,21,37,-16,14,0.82,17.2,34.6,-17.4,-1.02,L W D L L,31705,Jamie Vardy - 6,Mads Hermansen,,2024-2025,2024-12-26,52
-18,Wolves,17,3,3,11,27,40,-13,12,0.71,17.9,28.0,-10.1,-0.6,L L L L W,30538,Matheus Cunha - 9,José Sá,,2024-2025,2024-12-26,52
-19,Ipswich Town,17,2,6,9,16,32,-16,12,0.71,15.9,35.0,-19.1,-1.12,L L L W L,29746,Liam Delap - 6,Arijanet Muric,,2024-2025,2024-12-26,52
-20,Southampton,17,1,3,13,11,36,-25,6,0.35,17.1,37.8,-20.7,-1.22,D L L L D,31158,"Adam Armstrong, Joe Aribo... - 2",Aaron Ramsdale,,2024-2025,2024-12-26,52
+1,Liverpool,17,13,3,1,40,17,23,42,2.47,38.2,16.3,21.9,1.29,W D D W W,60277,Mohamed Salah - 16,Alisson,,2024-2025,2024-12-27,52
+2,Chelsea,18,10,5,3,38,21,17,35,1.94,36.5,26.1,10.4,0.58,W W W D L,39730,Cole Palmer - 12,Robert Sánchez,,2024-2025,2024-12-27,52
+3,Nottingham Forest,18,10,4,4,24,19,5,34,1.89,21.7,18.9,2.9,0.16,L W W W W,30008,Chris Wood - 10,Matz Sels,,2024-2025,2024-12-27,52
+4,Arsenal,17,9,6,2,34,16,18,33,1.94,29.3,15.8,13.5,0.79,W W D D W,60291,Kai Havertz - 6,David Raya,,2024-2025,2024-12-27,52
+5,Newcastle United,18,8,5,5,30,21,9,29,1.61,30.3,21.7,8.6,0.48,D L W W W,52206,Alexander Isak - 11,Nick Pope,,2024-2025,2024-12-27,52
+6,Bournemouth,18,8,5,5,27,21,6,29,1.61,35.4,22.7,12.7,0.71,W W D W D,11208,Justin Kluivert - 6,Kepa Arrizabalaga,,2024-2025,2024-12-27,52
+7,Manchester City,18,8,4,6,30,26,4,28,1.56,32.8,25.6,7.1,0.4,W D L L D,52679,Erling Haaland - 13,Ederson,,2024-2025,2024-12-27,52
+8,Fulham,18,7,7,4,26,23,3,28,1.56,24.6,21.5,3.1,0.17,W D D D W,26237,"Raúl Jiménez, Alex Iwobi - 5",Bernd Leno,,2024-2025,2024-12-27,52
+9,Aston Villa,18,8,4,6,26,29,-3,28,1.56,27.4,22.9,4.6,0.25,W W L W L,41901,"Ollie Watkins, Jhon Durán - 7",Emiliano Martínez,,2024-2025,2024-12-27,52
+10,Brighton,17,6,7,4,27,26,1,25,1.47,23.9,26.8,-2.9,-0.17,D L D L D,32754,Danny Welbeck - 6,Bart Verbruggen,,2024-2025,2024-12-27,52
+11,Tottenham,18,7,2,9,39,26,13,23,1.28,32.7,30.4,2.3,0.13,L L W L L,61350,James Maddison - 8,Guglielmo Vicario,,2024-2025,2024-12-27,52
+12,Brentford,17,7,2,8,32,32,0,23,1.35,26.1,28.5,-2.4,-0.14,W L W L L,16992,Bryan Mbeumo - 10,Mark Flekken,,2024-2025,2024-12-27,52
+13,West Ham,18,6,5,7,23,30,-7,23,1.28,26.4,31.0,-4.6,-0.25,L W D D W,62470,Jarrod Bowen - 5,Łukasz Fabiański,,2024-2025,2024-12-27,52
+14,Manchester United,18,6,4,8,21,24,-3,22,1.22,25.8,25.2,0.6,0.03,L L W L L,73702,"Bruno Fernandes, Marcus Rashford - 4",André Onana,,2024-2025,2024-12-27,52
+15,Everton,17,3,8,6,15,22,-7,17,1.0,16.5,23.4,-6.9,-0.4,L W D D D,39010,"Dwight McNeil, Iliman Ndiaye - 3",Jordan Pickford,,2024-2025,2024-12-27,52
+16,Crystal Palace,18,3,8,7,18,26,-8,17,0.94,23.9,26.0,-2.1,-0.11,W D W L D,25140,"Ismaila Sarr, Jean-Philippe Mateta - 4",Dean Henderson,,2024-2025,2024-12-27,52
+17,Wolves,18,4,3,11,29,40,-11,15,0.83,18.7,28.4,-9.7,-0.54,L L L W W,30538,Matheus Cunha - 10,José Sá,,2024-2025,2024-12-27,52
+18,Leicester City,18,3,5,10,22,40,-18,14,0.78,17.5,36.6,-19.0,-1.06,W D L L L,31705,Jamie Vardy - 6,Mads Hermansen,,2024-2025,2024-12-27,52
+19,Ipswich Town,17,2,6,9,16,32,-16,12,0.71,15.9,35.0,-19.1,-1.12,L L L W L,29746,Liam Delap - 6,Arijanet Muric,,2024-2025,2024-12-27,52
+20,Southampton,18,1,3,14,11,37,-26,6,0.33,18.5,39.6,-21.1,-1.17,L L L D L,31147,"Adam Armstrong, Joe Aribo... - 2",Aaron Ramsdale,,2024-2025,2024-12-27,52
