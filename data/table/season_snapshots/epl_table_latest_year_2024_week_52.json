@@ -21,7 +21,7 @@
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -86,17 +86,17 @@
         "gd":18,
         "pts":33,
         "pts_mp":1.94,
-        "xg":29.3,
-        "xga":15.8,
-        "xgd":13.5,
-        "xgd_90":0.79,
+        "xg":31.2,
+        "xga":16.0,
+        "xgd":15.3,
+        "xgd_90":0.85,
         "last_5":"W W D D W",
         "attendance":60291,
         "top_team_scorer":"Kai Havertz - 6",
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -121,7 +121,7 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -146,7 +146,7 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -171,7 +171,7 @@
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -196,7 +196,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -221,36 +221,61 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
         "rk":10,
         "squad":"Brighton",
-        "mp":17,
+        "mp":18,
         "w":6,
-        "d":7,
+        "d":8,
         "l":4,
         "gf":27,
         "ga":26,
         "gd":1,
-        "pts":25,
-        "pts_mp":1.47,
-        "xg":23.9,
-        "xga":26.8,
-        "xgd":-2.9,
-        "xgd_90":-0.17,
-        "last_5":"D L D L D",
+        "pts":26,
+        "pts_mp":1.44,
+        "xg":25.2,
+        "xga":27.8,
+        "xgd":-2.6,
+        "xgd_90":-0.14,
+        "last_5":"L D L D D",
         "attendance":32754,
         "top_team_scorer":"Danny Welbeck - 6",
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
         "rk":11,
+        "squad":"Brentford",
+        "mp":18,
+        "w":7,
+        "d":3,
+        "l":8,
+        "gf":32,
+        "ga":32,
+        "gd":0,
+        "pts":24,
+        "pts_mp":1.33,
+        "xg":27.2,
+        "xga":29.8,
+        "xgd":-2.6,
+        "xgd_90":-0.15,
+        "last_5":"L W L L D",
+        "attendance":16992,
+        "top_team_scorer":"Bryan Mbeumo - 10",
+        "goalkeeper":"Mark Flekken",
+        "notes":null,
+        "season":"2024-2025",
+        "fetched_date":"2024-12-29",
+        "week_no":52
+    },
+    {
+        "rk":12,
         "squad":"Tottenham",
         "mp":18,
         "w":7,
@@ -271,32 +296,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
-        "week_no":52
-    },
-    {
-        "rk":12,
-        "squad":"Brentford",
-        "mp":17,
-        "w":7,
-        "d":2,
-        "l":8,
-        "gf":32,
-        "ga":32,
-        "gd":0,
-        "pts":23,
-        "pts_mp":1.35,
-        "xg":26.1,
-        "xga":28.5,
-        "xgd":-2.4,
-        "xgd_90":-0.14,
-        "last_5":"W L W L L",
-        "attendance":16992,
-        "top_team_scorer":"Bryan Mbeumo - 10",
-        "goalkeeper":"Mark Flekken",
-        "notes":null,
-        "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -321,7 +321,7 @@
         "goalkeeper":"\u0141ukasz Fabia\u0144ski",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -346,7 +346,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -461,17 +461,17 @@
         "gd":-16,
         "pts":12,
         "pts_mp":0.71,
-        "xg":15.9,
-        "xga":35.0,
-        "xgd":-19.1,
-        "xgd_90":-1.12,
+        "xg":16.1,
+        "xga":37.0,
+        "xgd":-20.9,
+        "xgd_90":-1.16,
         "last_5":"L L L W L",
         "attendance":29746,
         "top_team_scorer":"Liam Delap - 6",
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2024-12-28",
+        "fetched_date":"2024-12-29",
         "week_no":52
     }
 ]
