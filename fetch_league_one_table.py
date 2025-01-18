@@ -16,7 +16,7 @@ headers = {
 # Which league and season
 params = {
     'competitionID': '11',
-    'seasonID': current_year,
+    'seasonID': '2024',
 }
 
 # Make the request for table JSON
