@@ -12,6 +12,7 @@ data/.ipynb_checkpoints
 scripts/.ipynb_checkpoints
 Pipfile
 Pipfile.lock
+data/understat/shots/all_shots_archive.json
 
 # Distribution / packaging
 .Python
