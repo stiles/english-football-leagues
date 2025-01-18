@@ -5,8 +5,10 @@ from datetime import datetime
 
 # Dates/times (UTC)
 week_number = datetime.now().isocalendar().week
-current_year = datetime.now().year
-next_year = current_year + 1
+
+# The 2024-25 season will always have API id '2024'
+current_year = '2024'
+next_year = int(current_year) + 1
 season = f"{current_year}_{next_year}"
 today = pd.Timestamp.today().strftime('%Y-%m-%d')
 season_start = f"{current_year}-08-01"
