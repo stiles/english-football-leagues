@@ -7,19 +7,19 @@ t37,Barnsley,5,5,12,6,8,40,36,4,42,26,"L,W,W,W,W",4
 t48,Stockport County,7,6,11,8,7,40,28,12,41,26,"W,L,D,D,L",4
 t108,Reading,6,7,12,5,8,40,36,4,41,25,"L,D,W,W,W",4
 t85,Leyton Orient,8,8,11,5,9,32,22,10,38,25,"D,W,W,W,W",4
-t30,Bolton Wanderers,10,9,11,5,9,38,39,-1,38,25,"D,L,W,L,W",4
-t77,Mansfield Town,9,10,11,4,9,32,28,4,37,24,"L,W,W,L,W",4
-t83,Lincoln City,12,11,9,8,9,29,30,-1,35,26,"W,D,L,L,L",4
-t33,Charlton Athletic,11,12,9,7,8,29,25,4,34,24,"L,D,W,W,W",4
+t30,Bolton Wanderers,10,9,11,5,10,39,41,-2,38,26,"L,D,L,W,L",4
+t33,Charlton Athletic,11,10,10,7,8,31,26,5,37,25,"W,L,D,W,W",4
+t77,Mansfield Town,9,11,11,4,9,32,28,4,37,24,"L,W,W,L,W",4
+t83,Lincoln City,12,12,9,8,9,29,30,-1,35,26,"W,D,L,L,L",4
 t72,Rotherham United,16,13,9,7,9,28,26,2,34,25,"W,W,D,W,D",4
-t92,Blackpool,15,14,7,10,8,34,37,-3,31,25,"D,D,D,D,L",4
-t288,Stevenage,13,15,8,7,9,19,22,-3,31,24,"L,D,D,W,L",4
-t71,Exeter City,14,16,9,4,12,28,32,-4,31,25,"L,L,L,D,W",4
-t111,Wigan Athletic,17,17,8,6,10,23,24,-1,30,24,"W,L,L,W,D",4
+t71,Exeter City,14,14,9,5,12,29,33,-4,32,26,"D,L,L,L,D",4
+t92,Blackpool,15,15,7,10,8,34,37,-3,31,25,"D,D,D,D,L",4
+t288,Stevenage,13,16,8,7,9,19,22,-3,31,24,"L,D,D,W,L",4
+t111,Wigan Athletic,17,17,8,6,11,24,26,-2,30,25,"L,W,L,L,W",4
 t96,Bristol Rovers,20,18,8,4,13,25,39,-14,28,25,"W,W,L,L,L",4
-t73,Peterborough United,19,19,7,5,13,41,46,-5,26,25,"D,L,D,L,L",4
+t73,Peterborough United,19,19,7,6,13,42,47,-5,27,26,"D,D,L,D,L",4
 t75,Northampton Town,18,20,6,8,12,24,40,-16,26,26,"L,W,D,D,L",4
 t1525,Crawley Town,21,21,5,6,13,25,44,-19,21,24,"D,L,D,L,L",4
 t74,Shrewsbury Town,22,22,5,5,15,26,45,-19,20,25,"W,L,D,D,W",4
-t101,Cambridge United,23,23,4,6,15,24,45,-21,18,25,"D,L,L,L,L",4
-t587,Burton Albion,24,24,2,9,14,21,39,-18,15,25,"D,L,D,D,L",4
+t587,Burton Albion,24,23,3,9,14,23,40,-17,18,26,"W,D,L,D,D",4
+t101,Cambridge United,23,24,4,6,15,24,45,-21,18,25,"D,L,L,L,L",4
