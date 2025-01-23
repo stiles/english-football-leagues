@@ -414,5 +414,21 @@
         "resultType":"NormalResult",
         "postponement_reason":null,
         "matchWinner":"Shrewsbury Town"
+    },
+    {
+        "kickoff_date_utc":"2025-01-23 20:00:00",
+        "home_away":"home",
+        "opponent":"Birmingham City",
+        "wrexham_score":1,
+        "opponent_score":1,
+        "wrexham_half_score":1,
+        "opponent_half_score":1,
+        "penalty_score":null,
+        "match_minutes":95,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +5'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":null
     }
 ]
