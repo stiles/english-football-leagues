@@ -446,5 +446,21 @@
         "resultType":"NormalResult",
         "postponement_reason":null,
         "matchWinner":"Stevenage"
+    },
+    {
+        "kickoff_date_utc":"2025-02-01 15:00:00",
+        "home_away":"away",
+        "opponent":"Crawley Town",
+        "wrexham_score":2,
+        "opponent_score":1,
+        "wrexham_half_score":1,
+        "opponent_half_score":0,
+        "penalty_score":null,
+        "match_minutes":97,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +7'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":"Wrexham"
     }
 ]
