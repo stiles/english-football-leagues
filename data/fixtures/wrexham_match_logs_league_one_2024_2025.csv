@@ -1,31 +1,30 @@
 kickoff_date_utc,home_away,opponent,wrexham_score,opponent_score,wrexham_half_score,opponent_half_score,penalty_score,match_minutes,match_period,formatted_matchtime,resultType,postponement_reason,matchWinner
-2024-08-10 16:30:00,home,Wycombe Wanderers,3.0,2.0,2.0,0.0,,95.0,FullTime,90' +5',NormalResult,,Wrexham
-2024-08-18 14:00:00,away,Bolton Wanderers,0.0,0.0,0.0,0.0,,94.0,FullTime,90' +4',NormalResult,,
-2024-08-24 14:00:00,home,Reading,3.0,0.0,2.0,0.0,,97.0,FullTime,90' +7',NormalResult,,Wrexham
-2024-08-31 14:00:00,away,Peterborough United,2.0,0.0,2.0,0.0,,96.0,FullTime,90' +6',NormalResult,,Wrexham
-2024-09-07 14:00:00,home,Shrewsbury Town,3.0,0.0,2.0,0.0,,95.0,FullTime,90' +5',NormalResult,,Wrexham
-2024-09-16 19:00:00,away,Birmingham City,1.0,3.0,1.0,1.0,,98.0,FullTime,90' +8',NormalResult,,Birmingham City
-2024-09-21 14:00:00,home,Crawley Town,2.0,1.0,1.0,0.0,,97.0,FullTime,90' +7',NormalResult,,Wrexham
-2024-09-28 14:00:00,away,Leyton Orient,0.0,0.0,0.0,0.0,,97.0,FullTime,90' +7',NormalResult,,
-2024-10-01 18:45:00,away,Stevenage,0.0,1.0,0.0,1.0,,96.0,FullTime,90' +6',NormalResult,,Stevenage
-2024-10-05 14:00:00,home,Northampton Town,4.0,1.0,2.0,1.0,,95.0,FullTime,90' +5',NormalResult,,Wrexham
-2024-10-19 14:00:00,away,Rotherham United,1.0,0.0,1.0,0.0,,96.0,FullTime,90' +6',NormalResult,,Wrexham
-2024-10-22 18:45:00,home,Huddersfield Town,0.0,0.0,0.0,0.0,,94.0,FullTime,90' +4',NormalResult,,
-2024-10-26 14:00:00,away,Charlton Athletic,2.0,2.0,1.0,1.0,,98.0,FullTime,90' +8',NormalResult,,
-2024-11-09 12:30:00,home,Mansfield Town,1.0,0.0,1.0,0.0,,96.0,FullTime,90' +6',NormalResult,,Wrexham
-2024-11-16 15:00:00,away,Stockport County,0.0,1.0,0.0,1.0,,95.0,FullTime,90' +5',NormalResult,,Stockport County
-2024-11-23 15:00:00,home,Exeter City,3.0,0.0,2.0,0.0,,95.0,FullTime,90' +5',NormalResult,,Wrexham
-2024-11-26 19:45:00,home,Lincoln City,1.0,0.0,0.0,0.0,,95.0,FullTime,90' +5',NormalResult,International call-ups,Wrexham
-2024-12-03 19:45:00,home,Barnsley,1.0,0.0,0.0,0.0,,97.0,FullTime,90' +7',NormalResult,,Wrexham
-2024-12-07 15:00:00,away,Burton Albion,1.0,0.0,0.0,0.0,,95.0,FullTime,90' +5',NormalResult,,Wrexham
-2024-12-14 15:00:00,home,Cambridge United,2.0,2.0,1.0,1.0,,95.0,FullTime,90' +5',NormalResult,,
-2024-12-21 12:30:00,away,Bristol Rovers,1.0,1.0,1.0,0.0,,96.0,FullTime,90' +6',NormalResult,,
-2024-12-26 15:00:00,home,Blackpool,2.0,1.0,1.0,1.0,,96.0,FullTime,90' +6',NormalResult,,Wrexham
-2024-12-29 15:00:00,home,Wigan Athletic,2.0,1.0,0.0,0.0,,98.0,FullTime,90' +8',NormalResult,,Wrexham
-2025-01-01 15:00:00,away,Barnsley,1.0,2.0,0.0,2.0,,99.0,FullTime,90' +9',NormalResult,,Barnsley
-2025-01-04 15:00:00,home,Peterborough United,1.0,0.0,0.0,0.0,,97.0,FullTime,90' +7',NormalResult,,Wrexham
-2025-01-16 20:00:00,away,Shrewsbury Town,1.0,2.0,1.0,1.0,,99.0,FullTime,90' +9',NormalResult,,Shrewsbury Town
-2025-01-23 20:00:00,home,Birmingham City,1.0,1.0,1.0,1.0,,95.0,FullTime,90' +5',NormalResult,,
-2025-01-28 19:45:00,home,Stevenage,2.0,3.0,0.0,2.0,,98.0,FullTime,90' +8',NormalResult,,Stevenage
-2025-02-01 15:00:00,away,Crawley Town,2.0,1.0,1.0,0.0,,97.0,FullTime,90' +7',NormalResult,,Wrexham
-2025-02-08 15:00:00,home,Leyton Orient,,,,,,,Postponed,,,Other,
+2024-08-10 16:30:00,home,Wycombe Wanderers,3,2,2,0,,95,FullTime,90' +5',NormalResult,,Wrexham
+2024-08-18 14:00:00,away,Bolton Wanderers,0,0,0,0,,94,FullTime,90' +4',NormalResult,,
+2024-08-24 14:00:00,home,Reading,3,0,2,0,,97,FullTime,90' +7',NormalResult,,Wrexham
+2024-08-31 14:00:00,away,Peterborough United,2,0,2,0,,96,FullTime,90' +6',NormalResult,,Wrexham
+2024-09-07 14:00:00,home,Shrewsbury Town,3,0,2,0,,95,FullTime,90' +5',NormalResult,,Wrexham
+2024-09-16 19:00:00,away,Birmingham City,1,3,1,1,,98,FullTime,90' +8',NormalResult,,Birmingham City
+2024-09-21 14:00:00,home,Crawley Town,2,1,1,0,,97,FullTime,90' +7',NormalResult,,Wrexham
+2024-09-28 14:00:00,away,Leyton Orient,0,0,0,0,,97,FullTime,90' +7',NormalResult,,
+2024-10-01 18:45:00,away,Stevenage,0,1,0,1,,96,FullTime,90' +6',NormalResult,,Stevenage
+2024-10-05 14:00:00,home,Northampton Town,4,1,2,1,,95,FullTime,90' +5',NormalResult,,Wrexham
+2024-10-19 14:00:00,away,Rotherham United,1,0,1,0,,96,FullTime,90' +6',NormalResult,,Wrexham
+2024-10-22 18:45:00,home,Huddersfield Town,0,0,0,0,,94,FullTime,90' +4',NormalResult,,
+2024-10-26 14:00:00,away,Charlton Athletic,2,2,1,1,,98,FullTime,90' +8',NormalResult,,
+2024-11-09 12:30:00,home,Mansfield Town,1,0,1,0,,96,FullTime,90' +6',NormalResult,,Wrexham
+2024-11-16 15:00:00,away,Stockport County,0,1,0,1,,95,FullTime,90' +5',NormalResult,,Stockport County
+2024-11-23 15:00:00,home,Exeter City,3,0,2,0,,95,FullTime,90' +5',NormalResult,,Wrexham
+2024-11-26 19:45:00,home,Lincoln City,1,0,0,0,,95,FullTime,90' +5',NormalResult,International call-ups,Wrexham
+2024-12-03 19:45:00,home,Barnsley,1,0,0,0,,97,FullTime,90' +7',NormalResult,,Wrexham
+2024-12-07 15:00:00,away,Burton Albion,1,0,0,0,,95,FullTime,90' +5',NormalResult,,Wrexham
+2024-12-14 15:00:00,home,Cambridge United,2,2,1,1,,95,FullTime,90' +5',NormalResult,,
+2024-12-21 12:30:00,away,Bristol Rovers,1,1,1,0,,96,FullTime,90' +6',NormalResult,,
+2024-12-26 15:00:00,home,Blackpool,2,1,1,1,,96,FullTime,90' +6',NormalResult,,Wrexham
+2024-12-29 15:00:00,home,Wigan Athletic,2,1,0,0,,98,FullTime,90' +8',NormalResult,,Wrexham
+2025-01-01 15:00:00,away,Barnsley,1,2,0,2,,99,FullTime,90' +9',NormalResult,,Barnsley
+2025-01-04 15:00:00,home,Peterborough United,1,0,0,0,,97,FullTime,90' +7',NormalResult,,Wrexham
+2025-01-16 20:00:00,away,Shrewsbury Town,1,2,1,1,,99,FullTime,90' +9',NormalResult,,Shrewsbury Town
+2025-01-23 20:00:00,home,Birmingham City,1,1,1,1,,95,FullTime,90' +5',NormalResult,,
+2025-01-28 19:45:00,home,Stevenage,2,3,0,2,,98,FullTime,90' +8',NormalResult,,Stevenage
+2025-02-01 15:00:00,away,Crawley Town,2,1,1,0,,97,FullTime,90' +7',NormalResult,,Wrexham
