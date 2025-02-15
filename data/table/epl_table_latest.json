@@ -9,7 +9,7 @@
         "gd":35,
         "pts":57,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -22,7 +22,7 @@
         "gd":27,
         "pts":50,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -35,20 +35,20 @@
         "gd":13,
         "pts":47,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
         "rk":4,
         "squad":"Chelsea",
-        "mp":24,
+        "mp":25,
         "w":12,
         "d":7,
-        "l":5,
-        "gd":16,
+        "l":6,
+        "gd":13,
         "pts":43,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -61,7 +61,7 @@
         "gd":13,
         "pts":41,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -74,7 +74,7 @@
         "gd":13,
         "pts":41,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -87,11 +87,24 @@
         "gd":13,
         "pts":40,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
         "rk":8,
+        "squad":"Brighton",
+        "mp":25,
+        "w":9,
+        "d":10,
+        "l":6,
+        "gd":0,
+        "pts":37,
+        "season":"2025-2026",
+        "fetched_date":"2025-02-15",
+        "week_no":7
+    },
+    {
+        "rk":9,
         "squad":"Aston Villa",
         "mp":24,
         "w":10,
@@ -100,11 +113,11 @@
         "gd":-3,
         "pts":37,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
-        "rk":9,
+        "rk":10,
         "squad":"Fulham",
         "mp":24,
         "w":9,
@@ -113,20 +126,7 @@
         "gd":4,
         "pts":36,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
-        "week_no":7
-    },
-    {
-        "rk":10,
-        "squad":"Brighton",
-        "mp":24,
-        "w":8,
-        "d":10,
-        "l":6,
-        "gd":-3,
-        "pts":34,
-        "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -139,7 +139,7 @@
         "gd":0,
         "pts":31,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -152,7 +152,7 @@
         "gd":-2,
         "pts":30,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -165,7 +165,7 @@
         "gd":-6,
         "pts":29,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -178,7 +178,7 @@
         "gd":11,
         "pts":27,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -191,7 +191,7 @@
         "gd":-5,
         "pts":27,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -204,7 +204,7 @@
         "gd":-17,
         "pts":27,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -217,7 +217,7 @@
         "gd":-18,
         "pts":19,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -230,7 +230,7 @@
         "gd":-28,
         "pts":17,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -243,7 +243,7 @@
         "gd":-27,
         "pts":16,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     },
     {
@@ -256,7 +256,7 @@
         "gd":-36,
         "pts":9,
         "season":"2025-2026",
-        "fetched_date":"2025-02-14",
+        "fetched_date":"2025-02-15",
         "week_no":7
     }
 ]
