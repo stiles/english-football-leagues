@@ -1,7 +1,7 @@
 team_id,team_name,start_day_position,current_position,wins,draws,losses,goals_for,goals_against,goal_difference,table_points,matches_played,recent_form,week_number
 t41,Birmingham City,1,1,21,7,2,51,19,32,70,30,"D,W,W,W,W",8
 t112,Wycombe Wanderers,2,2,18,10,4,58,31,27,64,32,"D,W,D,D,W",8
-t109,Wrexham,3,3,17,7,7,46,27,19,58,31,"L,W,W,L,D",8
+t109,Wrexham,3,3,18,7,7,48,28,20,61,32,"W,L,W,W,L",8
 t48,Stockport County,4,4,16,9,8,49,32,17,57,33,"L,W,D,W,W",8
 t38,Huddersfield Town,5,5,16,7,9,44,28,16,55,32,"L,W,W,D,L",8
 t85,Leyton Orient,6,6,16,5,11,49,30,19,53,32,"L,W,W,W,L",8
@@ -13,7 +13,7 @@ t92,Blackpool,11,11,10,14,8,48,45,3,44,32,"W,D,D,D,D",8
 t288,Stevenage,12,12,12,8,12,30,32,-2,44,32,"W,L,D,L,L",8
 t83,Lincoln City,13,13,11,10,12,41,39,2,43,33,"L,W,L,D,D",8
 t72,Rotherham United,14,14,10,8,14,35,38,-3,38,32,"L,L,D,L,L",8
-t77,Mansfield Town,15,15,11,5,15,38,44,-6,38,31,"L,D,L,L,L",8
+t77,Mansfield Town,15,15,11,5,16,39,46,-7,38,32,"L,L,D,L,L",8
 t111,Wigan Athletic,18,16,9,9,13,28,31,-3,36,31,"D,D,L,D,L",8
 t75,Northampton Town,19,17,9,9,14,31,48,-17,36,32,"W,L,W,W,L",8
 t71,Exeter City,16,18,10,5,16,34,49,-15,35,31,"L,W,L,L,L",8
