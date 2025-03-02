@@ -5,7 +5,13 @@ from datetime import datetime
 week_number = datetime.now().isocalendar().week
 current_year = datetime.now().year
 next_year = current_year + 1
-season = f"{current_year}-{next_year}"
+today = pd.Timestamp.today()
+if today.month < 8:
+    season = f"{today.year - 1}-{today.year}"
+else:
+    season = f"{today.year}-{today.year + 1}"
+
+print("Season:", season)
 today = pd.Timestamp.today().strftime('%Y-%m-%d')
 
 # Outputs
@@ -16,6 +22,7 @@ CSV_SNAPSHOT_OUT = f'data/table/season_snapshots/epl_table_latest_year_{current_
 
 # Define url
 url = f"https://fbref.com/en/comps/9/{season}/{season}-Premier-League-Stats"
+print(url)
 
 # Fetch table
 df = pd.read_html(url)[0]
