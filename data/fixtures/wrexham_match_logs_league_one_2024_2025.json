@@ -526,5 +526,21 @@
         "resultType":"NormalResult",
         "postponement_reason":null,
         "matchWinner":null
+    },
+    {
+        "kickoff_date_utc":"2025-03-04 19:45:00",
+        "home_away":"away",
+        "opponent":"Huddersfield Town",
+        "wrexham_score":1,
+        "opponent_score":0,
+        "wrexham_half_score":0,
+        "opponent_half_score":0,
+        "penalty_score":null,
+        "match_minutes":98,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +8'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":"Wrexham"
     }
 ]
