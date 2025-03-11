@@ -21,7 +21,7 @@
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -121,11 +121,36 @@
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
         "rk":6,
+        "squad":"Newcastle United",
+        "mp":28,
+        "w":14,
+        "d":5,
+        "l":9,
+        "gf":47,
+        "ga":38,
+        "gd":9,
+        "pts":47,
+        "pts_mp":1.68,
+        "xg":46.3,
+        "xga":35.4,
+        "xgd":10.9,
+        "xgd_90":0.39,
+        "last_5":"L L W L W",
+        "attendance":52189,
+        "top_team_scorer":"Alexander Isak - 19",
+        "goalkeeper":"Nick Pope",
+        "notes":null,
+        "season":"2024-2025",
+        "fetched_date":"2025-03-11",
+        "week_no":11
+    },
+    {
+        "rk":7,
         "squad":"Brighton",
         "mp":28,
         "w":12,
@@ -146,11 +171,11 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
-        "rk":7,
+        "rk":8,
         "squad":"Aston Villa",
         "mp":29,
         "w":12,
@@ -171,11 +196,11 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
-        "rk":8,
+        "rk":9,
         "squad":"Bournemouth",
         "mp":28,
         "w":12,
@@ -196,32 +221,7 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
-        "week_no":11
-    },
-    {
-        "rk":9,
-        "squad":"Newcastle United",
-        "mp":27,
-        "w":13,
-        "d":5,
-        "l":9,
-        "gf":46,
-        "ga":38,
-        "gd":8,
-        "pts":44,
-        "pts_mp":1.63,
-        "xg":44.9,
-        "xga":34.7,
-        "xgd":10.2,
-        "xgd_90":0.38,
-        "last_5":"W L L W L",
-        "attendance":52189,
-        "top_team_scorer":"Alexander Isak - 19",
-        "goalkeeper":"Nick Pope",
-        "notes":null,
-        "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -321,7 +321,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -346,7 +346,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -371,32 +371,32 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
         "rk":16,
         "squad":"West Ham",
-        "mp":27,
+        "mp":28,
         "w":9,
         "d":6,
-        "l":12,
+        "l":13,
         "gf":32,
-        "ga":47,
-        "gd":-15,
+        "ga":48,
+        "gd":-16,
         "pts":33,
-        "pts_mp":1.22,
-        "xg":35.1,
-        "xga":44.8,
-        "xgd":-9.7,
-        "xgd_90":-0.36,
-        "last_5":"D L L W W",
+        "pts_mp":1.18,
+        "xg":35.8,
+        "xga":46.2,
+        "xgd":-10.4,
+        "xgd_90":-0.37,
+        "last_5":"L L W W L",
         "attendance":62464,
         "top_team_scorer":"Jarrod Bowen - 7",
         "goalkeeper":"Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -471,7 +471,7 @@
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-10",
+        "fetched_date":"2025-03-11",
         "week_no":11
     }
 ]

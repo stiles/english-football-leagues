@@ -558,5 +558,21 @@
         "resultType":"NormalResult",
         "postponement_reason":null,
         "matchWinner":"Wrexham"
+    },
+    {
+        "kickoff_date_utc":"2025-03-11 20:00:00",
+        "home_away":"away",
+        "opponent":"Reading",
+        "wrexham_score":0,
+        "opponent_score":2,
+        "wrexham_half_score":0,
+        "opponent_half_score":0,
+        "penalty_score":null,
+        "match_minutes":100,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +10'",
+        "resultType":"NormalResult",
+        "postponement_reason":"Fixture Clash",
+        "matchWinner":"Reading"
     }
 ]
