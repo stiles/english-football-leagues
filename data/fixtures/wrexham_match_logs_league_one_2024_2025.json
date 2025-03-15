@@ -574,5 +574,21 @@
         "resultType":"NormalResult",
         "postponement_reason":"Fixture Clash",
         "matchWinner":"Reading"
+    },
+    {
+        "kickoff_date_utc":"2025-03-15 15:00:00",
+        "home_away":"away",
+        "opponent":"Wycombe Wanderers",
+        "wrexham_score":1,
+        "opponent_score":0,
+        "wrexham_half_score":0,
+        "opponent_half_score":0,
+        "penalty_score":null,
+        "match_minutes":96,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +6'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":"Wrexham"
     }
 ]
