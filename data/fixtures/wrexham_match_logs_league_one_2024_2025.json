@@ -590,5 +590,21 @@
         "resultType":"NormalResult",
         "postponement_reason":null,
         "matchWinner":"Wrexham"
+    },
+    {
+        "kickoff_date_utc":"2025-03-22 15:00:00",
+        "home_away":"home",
+        "opponent":"Stockport County",
+        "wrexham_score":1,
+        "opponent_score":0,
+        "wrexham_half_score":1,
+        "opponent_half_score":0,
+        "penalty_score":null,
+        "match_minutes":96,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +6'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":"Wrexham"
     }
 ]
