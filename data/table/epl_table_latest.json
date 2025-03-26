@@ -21,7 +21,7 @@
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -116,12 +116,12 @@
         "xgd":12.0,
         "xgd_90":0.41,
         "last_5":"W L W L D",
-        "attendance":52897,
+        "attendance":52867,
         "top_team_scorer":"Erling Haaland - 21",
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -146,7 +146,7 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -171,7 +171,7 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -196,7 +196,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -221,7 +221,7 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -321,7 +321,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -346,7 +346,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -366,12 +366,12 @@
         "xgd":-4.0,
         "xgd_90":-0.14,
         "last_5":"W D D D D",
-        "attendance":38132,
+        "attendance":38213,
         "top_team_scorer":"Iliman Ndiaye, Beto - 6",
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -466,12 +466,12 @@
         "xgd":-27.8,
         "xgd_90":-0.96,
         "last_5":"L L L L L",
-        "attendance":31551,
+        "attendance":31566,
         "top_team_scorer":"Jamie Vardy - 7",
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-03-25",
+        "fetched_date":"2025-03-26",
         "week_no":13
     }
 ]
