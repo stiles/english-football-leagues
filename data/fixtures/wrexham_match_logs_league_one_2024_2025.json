@@ -638,5 +638,21 @@
         "resultType":"NormalResult",
         "postponement_reason":null,
         "matchWinner":null
+    },
+    {
+        "kickoff_date_utc":"2025-04-05 11:30:00",
+        "home_away":"home",
+        "opponent":"Burton Albion",
+        "wrexham_score":3,
+        "opponent_score":0,
+        "wrexham_half_score":0,
+        "opponent_half_score":0,
+        "penalty_score":null,
+        "match_minutes":99,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +9'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":"Wrexham"
     }
 ]
