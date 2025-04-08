@@ -21,7 +21,7 @@
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -96,11 +96,36 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
         "rk":5,
+        "squad":"Newcastle United",
+        "mp":30,
+        "w":16,
+        "d":5,
+        "l":9,
+        "gf":52,
+        "ga":39,
+        "gd":13,
+        "pts":53,
+        "pts_mp":1.77,
+        "xg":50.7,
+        "xga":37.4,
+        "xgd":13.4,
+        "xgd_90":0.45,
+        "last_5":"W L W W W",
+        "attendance":52177,
+        "top_team_scorer":"Alexander Isak - 20",
+        "goalkeeper":"Nick Pope",
+        "notes":null,
+        "season":"2024-2025",
+        "fetched_date":"2025-04-08",
+        "week_no":15
+    },
+    {
+        "rk":6,
         "squad":"Manchester City",
         "mp":31,
         "w":15,
@@ -121,11 +146,11 @@
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
-        "rk":6,
+        "rk":7,
         "squad":"Aston Villa",
         "mp":31,
         "w":14,
@@ -146,32 +171,7 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
-        "week_no":15
-    },
-    {
-        "rk":7,
-        "squad":"Newcastle United",
-        "mp":29,
-        "w":15,
-        "d":5,
-        "l":9,
-        "gf":49,
-        "ga":39,
-        "gd":10,
-        "pts":50,
-        "pts_mp":1.72,
-        "xg":47.5,
-        "xga":36.9,
-        "xgd":10.6,
-        "xgd_90":0.37,
-        "last_5":"L W L W W",
-        "attendance":52177,
-        "top_team_scorer":"Alexander Isak - 20",
-        "goalkeeper":"Nick Pope",
-        "notes":null,
-        "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -196,7 +196,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -221,7 +221,7 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -321,7 +321,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -346,7 +346,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -446,32 +446,32 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
         "rk":19,
         "squad":"Leicester City",
-        "mp":30,
+        "mp":31,
         "w":4,
         "d":5,
-        "l":21,
+        "l":22,
         "gf":25,
-        "ga":67,
-        "gd":-42,
+        "ga":70,
+        "gd":-45,
         "pts":17,
-        "pts_mp":0.57,
-        "xg":25.8,
-        "xga":55.6,
-        "xgd":-29.9,
-        "xgd_90":-1.0,
+        "pts_mp":0.55,
+        "xg":26.2,
+        "xga":58.8,
+        "xgd":-32.6,
+        "xgd_90":-1.05,
         "last_5":"L L L L L",
         "attendance":31566,
         "top_team_scorer":"Jamie Vardy - 7",
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-07",
+        "fetched_date":"2025-04-08",
         "week_no":15
     }
 ]
