@@ -654,5 +654,21 @@
         "resultType":"NormalResult",
         "postponement_reason":null,
         "matchWinner":"Wrexham"
+    },
+    {
+        "kickoff_date_utc":"2025-04-12 11:30:00",
+        "home_away":"away",
+        "opponent":"Wigan Athletic",
+        "wrexham_score":0,
+        "opponent_score":0,
+        "wrexham_half_score":0,
+        "opponent_half_score":0,
+        "penalty_score":null,
+        "match_minutes":95,
+        "match_period":"FullTime",
+        "formatted_matchtime":"90' +5'",
+        "resultType":"NormalResult",
+        "postponement_reason":null,
+        "matchWinner":null
     }
 ]
