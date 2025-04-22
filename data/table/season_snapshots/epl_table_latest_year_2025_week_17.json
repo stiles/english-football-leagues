@@ -21,7 +21,7 @@
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -46,11 +46,36 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
         "rk":3,
+        "squad":"Nottingham Forest",
+        "mp":33,
+        "w":18,
+        "d":6,
+        "l":9,
+        "gf":53,
+        "ga":39,
+        "gd":14,
+        "pts":60,
+        "pts_mp":1.82,
+        "xg":39.6,
+        "xga":42.1,
+        "xgd":-2.5,
+        "xgd_90":-0.07,
+        "last_5":"W W L L W",
+        "attendance":30098,
+        "top_team_scorer":"Chris Wood - 19",
+        "goalkeeper":"Matz Sels",
+        "notes":null,
+        "season":"2024-2025",
+        "fetched_date":"2025-04-22",
+        "week_no":17
+    },
+    {
+        "rk":4,
         "squad":"Newcastle United",
         "mp":33,
         "w":18,
@@ -71,11 +96,11 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
-        "rk":4,
+        "rk":5,
         "squad":"Manchester City",
         "mp":33,
         "w":17,
@@ -96,11 +121,11 @@
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
-        "rk":5,
+        "rk":6,
         "squad":"Chelsea",
         "mp":33,
         "w":16,
@@ -121,32 +146,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
-        "week_no":17
-    },
-    {
-        "rk":6,
-        "squad":"Nottingham Forest",
-        "mp":32,
-        "w":17,
-        "d":6,
-        "l":9,
-        "gf":51,
-        "ga":38,
-        "gd":13,
-        "pts":57,
-        "pts_mp":1.78,
-        "xg":39.0,
-        "xga":40.0,
-        "xgd":-1.0,
-        "xgd_90":-0.03,
-        "last_5":"W W W L L",
-        "attendance":30098,
-        "top_team_scorer":"Chris Wood - 18",
-        "goalkeeper":"Matz Sels",
-        "notes":null,
-        "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -171,7 +171,7 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -196,7 +196,7 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -221,7 +221,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -321,7 +321,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -346,7 +346,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -371,32 +371,32 @@
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
         "rk":16,
         "squad":"Tottenham",
-        "mp":32,
+        "mp":33,
         "w":11,
         "d":4,
-        "l":17,
-        "gf":60,
-        "ga":49,
-        "gd":11,
+        "l":18,
+        "gf":61,
+        "ga":51,
+        "gd":10,
         "pts":37,
-        "pts_mp":1.16,
-        "xg":52.2,
-        "xga":52.8,
-        "xgd":-0.6,
-        "xgd_90":-0.02,
-        "last_5":"D L L W L",
-        "attendance":61274,
+        "pts_mp":1.12,
+        "xg":54.3,
+        "xga":53.4,
+        "xgd":0.9,
+        "xgd_90":0.03,
+        "last_5":"L L W L L",
+        "attendance":61159,
         "top_team_scorer":"Brennan Johnson - 11",
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -471,7 +471,7 @@
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-04-21",
+        "fetched_date":"2025-04-22",
         "week_no":17
     }
 ]
