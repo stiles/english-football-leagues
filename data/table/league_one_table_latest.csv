@@ -1,5 +1,5 @@
 team_id,team_name,start_day_position,current_position,wins,draws,losses,goals_for,goals_against,goal_difference,table_points,matches_played,recent_form,week_number
-t41,Birmingham City,1,1,30,9,3,75,30,45,99,42,"W,D,W,W,W",17
+t41,Birmingham City,1,1,31,9,3,76,30,46,102,43,"W,W,D,W,W",17
 t109,Wrexham,3,2,25,11,8,62,34,28,86,44,"W,D,D,W,D",17
 t112,Wycombe Wanderers,2,3,24,12,8,69,41,28,84,44,"L,W,W,W,L",17
 t33,Charlton Athletic,4,4,24,10,10,64,39,25,82,44,"W,W,W,D,W",17
@@ -12,7 +12,7 @@ t92,Blackpool,10,10,16,15,12,67,56,11,63,43,"L,W,L,W,W",17
 t83,Lincoln City,11,11,16,13,15,62,51,11,61,44,"W,W,D,D,W",17
 t37,Barnsley,12,12,16,10,18,64,69,-5,58,44,"D,L,W,L,L",17
 t72,Rotherham United,13,13,15,10,19,51,57,-6,55,44,"L,D,L,W,W",17
-t288,Stevenage,15,14,15,10,18,40,47,-7,55,43,"W,L,L,W,L",17
+t288,Stevenage,15,14,15,10,19,40,48,-8,55,44,"L,W,L,L,W",17
 t111,Wigan Athletic,16,15,13,14,16,37,39,-2,53,43,"W,W,D,D,D",17
 t71,Exeter City,14,16,14,11,19,46,61,-15,53,44,"L,D,W,D,L",17
 t73,Peterborough United,17,17,13,11,19,64,74,-10,50,43,"D,D,L,L,W",17
