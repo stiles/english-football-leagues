@@ -1,5 +1,5 @@
 team_id,team_name,start_day_position,current_position,wins,draws,losses,goals_for,goals_against,goal_difference,table_points,matches_played,recent_form,week_number
-t41,Birmingham City,1,1,31,9,3,76,30,46,102,43,"W,W,D,W,W",17
+t41,Birmingham City,1,1,32,9,3,80,30,50,105,44,"W,W,W,D,W",17
 t109,Wrexham,2,2,26,11,8,65,34,31,89,45,"W,W,D,D,W",17
 t48,Stockport County,5,3,24,12,9,69,41,28,84,45,"W,W,D,W,W",17
 t112,Wycombe Wanderers,3,4,24,12,9,69,42,27,84,45,"L,L,W,W,W",17
@@ -11,13 +11,13 @@ t92,Blackpool,10,9,16,16,12,68,57,11,64,44,"D,L,W,L,W",17
 t38,Huddersfield Town,9,10,19,7,19,57,51,6,64,45,"L,L,L,L,L",17
 t83,Lincoln City,11,11,16,13,16,64,54,10,61,45,"L,W,W,D,D",17
 t37,Barnsley,12,12,16,10,19,65,71,-6,58,45,"L,D,L,W,L",17
-t71,Exeter City,16,13,15,11,19,49,62,-13,56,45,"W,L,D,W,D",17
-t72,Rotherham United,13,14,15,10,19,51,57,-6,55,44,"L,D,L,W,W",17
-t288,Stevenage,14,15,15,10,19,40,48,-8,55,44,"L,W,L,L,W",17
+t72,Rotherham United,13,13,15,11,19,52,58,-6,56,45,"D,L,D,L,W",17
+t288,Stevenage,14,14,15,11,19,41,49,-8,56,45,"D,L,W,L,L",17
+t71,Exeter City,16,15,15,11,19,49,62,-13,56,45,"W,L,D,W,D",17
 t111,Wigan Athletic,15,16,13,15,16,38,40,-2,54,44,"D,W,W,D,D",17
 t73,Peterborough United,17,17,13,12,19,65,75,-10,51,44,"D,D,D,L,L",17
 t75,Northampton Town,18,18,12,14,19,47,65,-18,50,45,"L,W,L,D,W",17
-t77,Mansfield Town,19,19,13,9,21,53,67,-14,48,43,"L,D,L,L,L",17
+t77,Mansfield Town,19,19,13,9,22,53,71,-18,48,44,"L,L,D,L,L",17
 t587,Burton Albion,20,20,11,13,20,47,62,-15,46,44,"W,L,D,W,L",17
 t1525,Crawley Town,22,21,11,10,24,55,82,-27,43,45,"W,W,D,L,L",17
 t96,Bristol Rovers,21,22,12,7,26,43,72,-29,43,45,"L,L,D,L,L",17
