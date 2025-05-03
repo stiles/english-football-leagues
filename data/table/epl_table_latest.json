@@ -21,7 +21,7 @@
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -46,11 +46,36 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
         "rk":3,
+        "squad":"Manchester City",
+        "mp":35,
+        "w":19,
+        "d":7,
+        "l":9,
+        "gf":67,
+        "ga":43,
+        "gd":24,
+        "pts":64,
+        "pts_mp":1.83,
+        "xg":61.9,
+        "xga":45.2,
+        "xgd":16.6,
+        "xgd_90":0.48,
+        "last_5":"D W W W W",
+        "attendance":52741,
+        "top_team_scorer":"Erling Haaland - 21",
+        "goalkeeper":"Ederson",
+        "notes":null,
+        "season":"2024-2025",
+        "fetched_date":"2025-05-03",
+        "week_no":18
+    },
+    {
+        "rk":4,
         "squad":"Newcastle United",
         "mp":34,
         "w":19,
@@ -71,32 +96,7 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
-        "week_no":18
-    },
-    {
-        "rk":4,
-        "squad":"Manchester City",
-        "mp":34,
-        "w":18,
-        "d":7,
-        "l":9,
-        "gf":66,
-        "ga":43,
-        "gd":23,
-        "pts":61,
-        "pts_mp":1.79,
-        "xg":61.2,
-        "xga":44.8,
-        "xgd":16.3,
-        "xgd_90":0.48,
-        "last_5":"W D W W W",
-        "attendance":52741,
-        "top_team_scorer":"Erling Haaland - 21",
-        "goalkeeper":"Ederson",
-        "notes":null,
-        "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -121,7 +121,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -146,7 +146,7 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -171,7 +171,7 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -196,7 +196,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -221,7 +221,7 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -296,32 +296,32 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
         "rk":13,
         "squad":"Wolves",
-        "mp":34,
+        "mp":35,
         "w":12,
         "d":5,
-        "l":17,
+        "l":18,
         "gf":51,
-        "ga":61,
-        "gd":-10,
+        "ga":62,
+        "gd":-11,
         "pts":41,
-        "pts_mp":1.21,
-        "xg":40.0,
-        "xga":52.8,
-        "xgd":-12.8,
-        "xgd_90":-0.38,
-        "last_5":"W W W W W",
+        "pts_mp":1.17,
+        "xg":40.4,
+        "xga":53.5,
+        "xgd":-13.1,
+        "xgd_90":-0.37,
+        "last_5":"W W W W L",
         "attendance":30621,
         "top_team_scorer":"Matheus Cunha - 15",
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -346,7 +346,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -471,7 +471,7 @@
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-02",
+        "fetched_date":"2025-05-03",
         "week_no":18
     }
 ]
