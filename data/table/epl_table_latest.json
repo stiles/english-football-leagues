@@ -2,26 +2,26 @@
     {
         "rk":1,
         "squad":"Liverpool",
-        "mp":36,
+        "mp":37,
         "w":25,
         "d":8,
-        "l":3,
-        "gf":83,
-        "ga":37,
-        "gd":46,
+        "l":4,
+        "gf":85,
+        "ga":40,
+        "gd":45,
         "pts":83,
-        "pts_mp":2.31,
-        "xg":77.8,
-        "xga":34.6,
+        "pts_mp":2.24,
+        "xg":80.0,
+        "xga":36.8,
         "xgd":43.2,
-        "xgd_90":1.2,
-        "last_5":"W W W L D",
+        "xgd_90":1.17,
+        "last_5":"W W L D L",
         "attendance":60321,
         "top_team_scorer":"Mohamed Salah - 28",
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -121,7 +121,7 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -146,7 +146,7 @@
         "goalkeeper":"Ederson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -171,11 +171,36 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
         "rk":8,
+        "squad":"Brighton",
+        "mp":37,
+        "w":15,
+        "d":13,
+        "l":9,
+        "gf":62,
+        "ga":58,
+        "gd":4,
+        "pts":58,
+        "pts_mp":1.57,
+        "xg":56.5,
+        "xga":52.5,
+        "xgd":4.0,
+        "xgd_90":0.11,
+        "last_5":"L W D W W",
+        "attendance":31808,
+        "top_team_scorer":"Kaoru Mitoma, Danny Welbeck... - 10",
+        "goalkeeper":"Bart Verbruggen",
+        "notes":null,
+        "season":"2024-2025",
+        "fetched_date":"2025-05-20",
+        "week_no":21
+    },
+    {
+        "rk":9,
         "squad":"Brentford",
         "mp":37,
         "w":16,
@@ -196,32 +221,7 @@
         "goalkeeper":"Mark Flekken",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
-        "week_no":21
-    },
-    {
-        "rk":9,
-        "squad":"Brighton",
-        "mp":36,
-        "w":14,
-        "d":13,
-        "l":9,
-        "gf":59,
-        "ga":56,
-        "gd":3,
-        "pts":55,
-        "pts_mp":1.53,
-        "xg":54.3,
-        "xga":50.3,
-        "xgd":4.0,
-        "xgd_90":0.11,
-        "last_5":"D L W D W",
-        "attendance":31808,
-        "top_team_scorer":"Danny Welbeck, Jo\u00e3o Pedro - 10",
-        "goalkeeper":"Bart Verbruggen",
-        "notes":null,
-        "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Kepa Arrizabalaga",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -321,7 +321,7 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -346,7 +346,7 @@
         "goalkeeper":"Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Alphonse Areola",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Andr\u00e9 Onana",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -446,7 +446,7 @@
         "goalkeeper":"Mads Hermansen",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -471,7 +471,7 @@
         "goalkeeper":"Arijanet Muric",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Aaron Ramsdale",
         "notes":null,
         "season":"2024-2025",
-        "fetched_date":"2025-05-19",
+        "fetched_date":"2025-05-20",
         "week_no":21
     }
 ]
