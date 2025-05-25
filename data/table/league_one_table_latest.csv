@@ -2,9 +2,9 @@ team_id,team_name,start_day_position,current_position,wins,draws,losses,goals_fo
 t41,Birmingham City,1,1,34,9,3,84,31,53,111,46,"W,W,W,W,W",21
 t109,Wrexham,2,2,27,11,8,67,34,33,92,46,"W,W,W,D,D",21
 t48,Stockport County,3,3,25,12,9,72,42,30,87,46,"D,D,W,W,W",21
-t33,Charlton Athletic,5,4,25,10,11,67,43,24,85,46,"W,D,W,L,W",21
+t33,Charlton Athletic,5,4,25,10,11,67,43,24,85,46,"W,W,D,W,L",21
 t112,Wycombe Wanderers,4,5,24,12,10,70,45,25,84,46,"L,D,L,L,L",21
-t85,Leyton Orient,6,6,24,6,16,72,48,24,78,46,"D,D,W,W,W",21
+t85,Leyton Orient,6,6,24,6,16,72,48,24,78,46,"L,D,D,W,W",21
 t108,Reading,7,7,21,12,13,68,57,11,75,46,"L,W,W,L,D",21
 t30,Bolton Wanderers,8,8,20,8,18,67,70,-3,68,46,"D,D,L,L,L",21
 t92,Blackpool,9,9,17,16,13,72,60,12,67,46,"W,L,D,L,W",21
