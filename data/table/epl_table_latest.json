@@ -1,6 +1,31 @@
 [
     {
         "rk":1,
+        "squad":"Liverpool",
+        "mp":1,
+        "w":1,
+        "d":0,
+        "l":0,
+        "gf":4,
+        "ga":2,
+        "gd":2,
+        "pts":3,
+        "pts_mp":3.0,
+        "xg":2.2,
+        "xga":1.7,
+        "xgd":0.5,
+        "xgd_90":0.5,
+        "last_5":"W",
+        "attendance":null,
+        "top_team_scorer":"Mohamed Salah, Federico Chiesa... - 1",
+        "goalkeeper":"Alisson",
+        "notes":null,
+        "season":"2025-2026",
+        "fetched_date":"2025-08-16",
+        "week_no":33
+    },
+    {
+        "rk":2,
         "squad":"Arsenal",
         "mp":0,
         "w":0,
@@ -21,11 +46,11 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
-        "rk":2,
+        "rk":3,
         "squad":"Aston Villa",
         "mp":0,
         "w":0,
@@ -46,32 +71,7 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
-        "week_no":33
-    },
-    {
-        "rk":3,
-        "squad":"Bournemouth",
-        "mp":0,
-        "w":0,
-        "d":0,
-        "l":0,
-        "gf":0,
-        "ga":0,
-        "gd":0,
-        "pts":0,
-        "pts_mp":null,
-        "xg":null,
-        "xga":null,
-        "xgd":null,
-        "xgd_90":null,
-        "last_5":null,
-        "attendance":null,
-        "top_team_scorer":null,
-        "goalkeeper":null,
-        "notes":null,
-        "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
@@ -121,7 +121,7 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
@@ -146,7 +146,7 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
@@ -171,7 +171,7 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
@@ -196,7 +196,7 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
@@ -221,7 +221,7 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
@@ -271,36 +271,11 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
         "rk":12,
-        "squad":"Liverpool",
-        "mp":0,
-        "w":0,
-        "d":0,
-        "l":0,
-        "gf":0,
-        "ga":0,
-        "gd":0,
-        "pts":0,
-        "pts_mp":null,
-        "xg":null,
-        "xga":null,
-        "xgd":null,
-        "xgd_90":null,
-        "last_5":null,
-        "attendance":null,
-        "top_team_scorer":null,
-        "goalkeeper":null,
-        "notes":null,
-        "season":"2025-2026",
-        "fetched_date":"2025-08-15",
-        "week_no":33
-    },
-    {
-        "rk":13,
         "squad":"Manchester City",
         "mp":0,
         "w":0,
@@ -321,11 +296,11 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
-        "rk":14,
+        "rk":13,
         "squad":"Manchester United",
         "mp":0,
         "w":0,
@@ -346,11 +321,11 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
-        "rk":15,
+        "rk":14,
         "squad":"Newcastle United",
         "mp":0,
         "w":0,
@@ -371,11 +346,11 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
-        "rk":16,
+        "rk":15,
         "squad":"Nottingham Forest",
         "mp":0,
         "w":0,
@@ -396,11 +371,11 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
-        "rk":17,
+        "rk":16,
         "squad":"Sunderland",
         "mp":0,
         "w":0,
@@ -421,11 +396,11 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
-        "rk":18,
+        "rk":17,
         "squad":"Tottenham",
         "mp":0,
         "w":0,
@@ -446,11 +421,11 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
-        "rk":19,
+        "rk":18,
         "squad":"West Ham",
         "mp":0,
         "w":0,
@@ -471,11 +446,11 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
         "week_no":33
     },
     {
-        "rk":20,
+        "rk":19,
         "squad":"Wolves",
         "mp":0,
         "w":0,
@@ -496,7 +471,32 @@
         "goalkeeper":null,
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-08-15",
+        "fetched_date":"2025-08-16",
+        "week_no":33
+    },
+    {
+        "rk":20,
+        "squad":"Bournemouth",
+        "mp":1,
+        "w":0,
+        "d":0,
+        "l":1,
+        "gf":2,
+        "ga":4,
+        "gd":-2,
+        "pts":0,
+        "pts_mp":0.0,
+        "xg":1.7,
+        "xga":2.2,
+        "xgd":-0.5,
+        "xgd_90":-0.5,
+        "last_5":"L",
+        "attendance":null,
+        "top_team_scorer":"Antoine Semenyo - 2",
+        "goalkeeper":"\u0110or\u0111e Petrovi\u0107",
+        "notes":null,
+        "season":"2025-2026",
+        "fetched_date":"2025-08-16",
         "week_no":33
     }
 ]
