@@ -29,8 +29,8 @@ Several Python scripts collect data on past and current results, including:
 ### Premier League
 
 **Season results tables**
-- Historical (1992/93-2023/24): [JSON](https://stilesdata.com/football/table/epl_table_past.json), [CSV](https://stilesdata.com/football/table/epl_table_past.csv)
-- Latest (2024-25): [JSON](https://stilesdata.com/football/table/epl_table_latest.json), [CSV](https://stilesdata.com/football/table/epl_table_latest.csv)
+- Historical (1992/93-previous season): [JSON](https://stilesdata.com/football/table/epl_table_past.json), [CSV](https://stilesdata.com/football/table/epl_table_past.csv)
+- Current/latest season: [JSON](https://stilesdata.com/football/table/epl_table_latest.json), [CSV](https://stilesdata.com/football/table/epl_table_latest.csv)
     - Season snapshots 
         - Base url: `https://stilesdata.com/football/table/season_snapshots/`
         - File name: `epl_table_latest_year_{YEAR}_week_{WEEK_NUMBER}.{JSON_CSV}`
@@ -70,7 +70,7 @@ The JSON file is a list of dictionaries. Each has the following items:
 
 ### League One
 **Season results tables**
-- Latest (2024-25): [JSON](https://stilesdata.com/football/table/league_one_table_latest.json), [CSV](https://stilesdata.com/football/table/league_one_table_latest.csv)
+- Latest: [JSON](https://stilesdata.com/football/table/league_one_table_latest.json), [CSV](https://stilesdata.com/football/table/league_one_table_latest.csv)
     - Season snapshots 
         - Base url: `https://stilesdata.com/football/table/season_snapshots/`
         - File name: `league_one_table_latest_year_{YEAR}_week_{WEEK_NUMBER}.{JSON_CSV}`
@@ -100,8 +100,8 @@ The JSON file is a list of dictionaries. Each has the following items:
 ```
 
 **Wrexham AFC fixtures**
-- Current season to date (2024-): [JSON](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2024_2025.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2024_2025.csv)
-- Previous season full in League Two (2023-24): [JSON](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_two_2023_2024.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_two_2023_2024.csv)
+- Current season to date: [JSON](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2024_2025.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_one_2024_2025.csv)
+- Previous season full in League Two: [JSON](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_two_2023_2024.json), [CSV](https://stilesdata.com/football/fixtures/wrexham_match_logs_league_two_2023_2024.csv)
 
 **Example: Current season match results**
 
