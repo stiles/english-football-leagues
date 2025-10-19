@@ -1,21 +1,21 @@
 rk,squad,mp,w,d,l,gf,ga,gd,pts,pts_mp,xg,xga,xgd,xgd_90,last_5,attendance,top_team_scorer,goalkeeper,notes,season,fetched_date,week_no
-1,Arsenal,7,5,1,1,14,3,11,16,2.29,11.9,4.3,7.5,1.08,L W D W W,60155,Viktor Gyökeres - 3,David Raya,,2025-2026,2025-10-18,42
-2,Liverpool,7,5,0,2,13,9,4,15,2.14,10.9,7.9,3.0,0.43,W W W L L,60371,Hugo Ekitike - 3,Alisson,,2025-2026,2025-10-18,42
-3,Tottenham,7,4,2,1,13,5,8,14,2.0,7.4,8.7,-1.4,-0.2,L W D D W,60955,Richarlison - 3,Guglielmo Vicario,,2025-2026,2025-10-18,42
-4,Bournemouth,7,4,2,1,11,8,3,14,2.0,8.4,6.3,2.0,0.29,W W D D W,11154,Antoine Semenyo - 6,Đorđe Petrović,,2025-2026,2025-10-18,42
-5,Manchester City,7,4,1,2,15,6,9,13,1.86,12.1,7.1,5.0,0.71,L W D W W,52249,Erling Haaland - 9,Gianluigi Donnarumma,,2025-2026,2025-10-18,42
-6,Crystal Palace,7,3,3,1,9,5,4,12,1.71,12.7,8.7,4.0,0.57,W D W W L,25049,Ismaila Sarr - 3,Dean Henderson,,2025-2026,2025-10-18,42
-7,Chelsea,7,3,2,2,13,9,4,11,1.57,10.9,9.7,1.2,0.17,W D L L W,39640,"Enzo Fernández, Moisés Caicedo - 3",Robert Sánchez,,2025-2026,2025-10-18,42
-8,Everton,7,3,2,2,9,7,2,11,1.57,9.7,9.5,0.2,0.03,W D L D W,51883,Iliman Ndiaye - 3,Jordan Pickford,,2025-2026,2025-10-18,42
-9,Sunderland,7,3,2,2,7,6,1,11,1.57,6.7,8.7,-2.0,-0.28,W D D W L,46254,Wilson Isidor - 3,Robin Roefs,,2025-2026,2025-10-18,42
-10,Manchester United,7,3,1,3,9,11,-2,10,1.43,13.6,9.9,3.7,0.53,W L W L W,73965,"Bruno Fernandes, Benjamin Šeško - 2",Altay Bayındır,,2025-2026,2025-10-18,42
-11,Newcastle United,7,2,3,2,6,5,1,9,1.29,8.4,4.7,3.6,0.52,D W D L W,52191,Nick Woltemade - 3,Nick Pope,,2025-2026,2025-10-18,42
-12,Brighton,7,2,3,2,10,10,0,9,1.29,11.2,9.1,2.1,0.3,W L D W D,31484,Danny Welbeck - 2,Bart Verbruggen,,2025-2026,2025-10-18,42
-13,Aston Villa,7,2,3,2,6,7,-1,9,1.29,5.9,9.7,-3.8,-0.54,L D D W W,41055,Donyell Malen - 2,Emiliano Martínez,,2025-2026,2025-10-18,42
-14,Fulham,7,2,2,3,8,11,-3,8,1.14,7.3,8.9,-1.7,-0.24,L W W L L,26984,"Raúl Jiménez, Alex Iwobi... - 1",Bernd Leno,,2025-2026,2025-10-18,42
-15,Leeds United,7,2,2,3,7,11,-4,8,1.14,7.6,7.9,-0.3,-0.04,D L W D L,36706,Noah Okafor - 2,Karl Darlow,,2025-2026,2025-10-18,42
-16,Brentford,7,2,1,4,9,12,-3,7,1.0,8.4,9.6,-1.2,-0.18,L D L W L,16964,Thiago - 4,Caoimhín Kelleher,,2025-2026,2025-10-18,42
-17,Nottingham Forest,7,1,2,4,5,12,-7,5,0.71,6.6,12.4,-5.9,-0.84,L L D L L,30130,Chris Wood - 2,Matz Sels,,2025-2026,2025-10-18,42
-18,Burnley,7,1,1,5,7,15,-8,4,0.57,4.9,13.4,-8.5,-1.21,L L D L L,21479,Jaidon Anthony - 4,Martin Dúbravka,,2025-2026,2025-10-18,42
-19,West Ham,7,1,1,5,6,16,-10,4,0.57,6.6,11.1,-4.5,-0.64,W L L D L,62459,Jarrod Bowen - 3,Mads Hermansen,,2025-2026,2025-10-18,42
-20,Wolves,7,0,2,5,5,14,-9,2,0.29,6.1,9.4,-3.3,-0.47,L L L D D,30510,"Hwang Hee-chan, Santiago Bueno... - 1",José Sá,,2025-2026,2025-10-18,42
+1,Arsenal,8,6,1,1,15,3,12,19,2.38,13.6,4.7,8.9,1.11,W D W W W,60155,Viktor Gyökeres - 3,David Raya,,2025-2026,2025-10-19,42
+2,Manchester City,8,5,1,2,17,6,11,16,2.0,14.4,8.2,6.3,0.78,W D W W W,52249,Erling Haaland - 11,Gianluigi Donnarumma,,2025-2026,2025-10-19,42
+3,Liverpool,7,5,0,2,13,9,4,15,2.14,10.9,7.9,3.0,0.43,W W W L L,60371,Hugo Ekitike - 3,Alisson,,2025-2026,2025-10-19,42
+4,Bournemouth,8,4,3,1,14,11,3,15,1.88,10.4,10.7,-0.3,-0.04,W D D W D,11154,Antoine Semenyo - 6,Đorđe Petrović,,2025-2026,2025-10-19,42
+5,Tottenham,7,4,2,1,13,5,8,14,2.0,7.4,8.7,-1.4,-0.2,L W D D W,60955,Richarlison - 3,Guglielmo Vicario,,2025-2026,2025-10-19,42
+6,Chelsea,8,4,2,2,16,9,7,14,1.75,12.5,11.9,0.7,0.08,D L L W W,39640,"Enzo Fernández, Moisés Caicedo - 3",Robert Sánchez,,2025-2026,2025-10-19,42
+7,Sunderland,8,4,2,2,9,6,3,14,1.75,7.4,9.5,-2.1,-0.27,D D W L W,46335,Wilson Isidor - 3,Robin Roefs,,2025-2026,2025-10-19,42
+8,Crystal Palace,8,3,4,1,12,8,4,13,1.63,17.1,10.8,6.3,0.79,D W W L D,25068,Jean-Philippe Mateta - 5,Dean Henderson,,2025-2026,2025-10-19,42
+9,Brighton,8,3,3,2,12,11,1,12,1.5,12.1,10.5,1.6,0.2,L D W D W,31518,Danny Welbeck - 4,Bart Verbruggen,,2025-2026,2025-10-19,42
+10,Everton,8,3,2,3,9,9,0,11,1.38,10.8,11.9,-1.1,-0.13,D L D W L,51883,Iliman Ndiaye - 3,Jordan Pickford,,2025-2026,2025-10-19,42
+11,Manchester United,7,3,1,3,9,11,-2,10,1.43,13.6,9.9,3.7,0.53,W L W L W,73965,"Bruno Fernandes, Benjamin Šeško - 2",Altay Bayındır,,2025-2026,2025-10-19,42
+12,Newcastle United,8,2,3,3,7,7,0,9,1.13,9.8,5.7,4.1,0.52,W D L W L,52191,Nick Woltemade - 4,Nick Pope,,2025-2026,2025-10-19,42
+13,Aston Villa,7,2,3,2,6,7,-1,9,1.29,5.9,9.7,-3.8,-0.54,L D D W W,41055,Donyell Malen - 2,Emiliano Martínez,,2025-2026,2025-10-19,42
+14,Fulham,8,2,2,4,8,12,-4,8,1.0,7.7,10.7,-3.0,-0.38,W W L L L,27172,"Raúl Jiménez, Alex Iwobi... - 1",Bernd Leno,,2025-2026,2025-10-19,42
+15,Leeds United,8,2,2,4,7,13,-6,8,1.0,10.0,8.3,1.7,0.21,L W D L L,36706,Noah Okafor - 2,Karl Darlow,,2025-2026,2025-10-19,42
+16,Brentford,7,2,1,4,9,12,-3,7,1.0,8.4,9.6,-1.2,-0.18,L D L W L,16964,Thiago - 4,Caoimhín Kelleher,,2025-2026,2025-10-19,42
+17,Burnley,8,2,1,5,9,15,-6,7,0.88,5.4,15.8,-10.4,-1.31,L D L L W,21521,Jaidon Anthony - 4,Martin Dúbravka,,2025-2026,2025-10-19,42
+18,Nottingham Forest,8,1,2,5,5,15,-10,5,0.63,8.7,14.1,-5.3,-0.67,L D L L L,30221,Chris Wood - 2,Matz Sels,,2025-2026,2025-10-19,42
+19,West Ham,7,1,1,5,6,16,-10,4,0.57,6.6,11.1,-4.5,-0.64,W L L D L,62459,Jarrod Bowen - 3,Mads Hermansen,,2025-2026,2025-10-19,42
+20,Wolves,8,0,2,6,5,16,-11,2,0.25,6.9,10.0,-3.1,-0.39,L L D D L,30510,"Hwang Hee-chan, Santiago Bueno... - 1","Sam Johnstone, José Sá",,2025-2026,2025-10-19,42
