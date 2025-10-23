@@ -21,7 +21,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"Gianluigi Donnarumma",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":"\u0110or\u0111e Petrovi\u0107",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -121,7 +121,7 @@
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -146,7 +146,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -171,7 +171,7 @@
         "goalkeeper":"Robin Roefs",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -196,7 +196,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -221,7 +221,7 @@
         "goalkeeper":"Altay Bay\u0131nd\u0131r",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -296,11 +296,36 @@
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
         "rk":13,
+        "squad":"Brentford",
+        "mp":8,
+        "w":3,
+        "d":1,
+        "l":4,
+        "gf":11,
+        "ga":12,
+        "gd":-1,
+        "pts":10,
+        "pts_mp":1.25,
+        "xg":10.7,
+        "xga":10.0,
+        "xgd":0.7,
+        "xgd_90":0.08,
+        "last_5":"D L W L W",
+        "attendance":16964,
+        "top_team_scorer":"Thiago - 5",
+        "goalkeeper":"Caoimh\u00edn Kelleher",
+        "notes":null,
+        "season":"2025-2026",
+        "fetched_date":"2025-10-23",
+        "week_no":43
+    },
+    {
+        "rk":14,
         "squad":"Newcastle United",
         "mp":8,
         "w":2,
@@ -321,11 +346,11 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
-        "rk":14,
+        "rk":15,
         "squad":"Fulham",
         "mp":8,
         "w":2,
@@ -346,11 +371,11 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
-        "rk":15,
+        "rk":16,
         "squad":"Leeds United",
         "mp":8,
         "w":2,
@@ -371,32 +396,7 @@
         "goalkeeper":"Karl Darlow",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
-        "week_no":43
-    },
-    {
-        "rk":16,
-        "squad":"Brentford",
-        "mp":7,
-        "w":2,
-        "d":1,
-        "l":4,
-        "gf":9,
-        "ga":12,
-        "gd":-3,
-        "pts":7,
-        "pts_mp":1.0,
-        "xg":10.7,
-        "xga":10.0,
-        "xgd":0.7,
-        "xgd_90":0.08,
-        "last_5":"D L W L W",
-        "attendance":16964,
-        "top_team_scorer":"Thiago - 5",
-        "goalkeeper":"Caoimh\u00edn Kelleher",
-        "notes":null,
-        "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Martin D\u00fabravka",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -446,32 +446,32 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
         "rk":19,
         "squad":"West Ham",
-        "mp":7,
+        "mp":8,
         "w":1,
         "d":1,
-        "l":5,
+        "l":6,
         "gf":6,
-        "ga":16,
-        "gd":-10,
+        "ga":18,
+        "gd":-12,
         "pts":4,
-        "pts_mp":0.57,
+        "pts_mp":0.5,
         "xg":6.9,
         "xga":13.3,
         "xgd":-6.4,
         "xgd_90":-0.8,
         "last_5":"L L D L L",
-        "attendance":62459,
+        "attendance":62457,
         "top_team_scorer":"Jarrod Bowen - 3",
         "goalkeeper":"Alphonse Areola, Mads Hermansen",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Sam Johnstone, Jos\u00e9 S\u00e1",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-22",
+        "fetched_date":"2025-10-23",
         "week_no":43
     }
 ]
