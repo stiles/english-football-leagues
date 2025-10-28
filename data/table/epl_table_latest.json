@@ -21,7 +21,7 @@
         "goalkeeper":"David Raya",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -46,7 +46,7 @@
         "goalkeeper":"\u0110or\u0111e Petrovi\u0107",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -71,7 +71,7 @@
         "goalkeeper":"Guglielmo Vicario",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -96,7 +96,7 @@
         "goalkeeper":"Robin Roefs",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -121,7 +121,7 @@
         "goalkeeper":"Gianluigi Donnarumma",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -141,12 +141,12 @@
         "xgd":2.6,
         "xgd_90":0.29,
         "last_5":"W L W W W",
-        "attendance":73965,
+        "attendance":73997,
         "top_team_scorer":"Bryan Mbeumo - 4",
         "goalkeeper":"Altay Bay\u0131nd\u0131r",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -171,7 +171,7 @@
         "goalkeeper":"Alisson",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -196,7 +196,7 @@
         "goalkeeper":"Emiliano Mart\u00ednez",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -216,12 +216,12 @@
         "xgd":0.3,
         "xgd_90":0.03,
         "last_5":"L L W W L",
-        "attendance":39640,
+        "attendance":39609,
         "top_team_scorer":"Enzo Fern\u00e1ndez, Mois\u00e9s Caicedo - 3",
         "goalkeeper":"Robert S\u00e1nchez",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -246,7 +246,7 @@
         "goalkeeper":"Dean Henderson",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -271,7 +271,7 @@
         "goalkeeper":"Caoimh\u00edn Kelleher",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -296,7 +296,7 @@
         "goalkeeper":"Nick Pope",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -321,7 +321,7 @@
         "goalkeeper":"Bart Verbruggen",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -341,12 +341,12 @@
         "xgd":-1.1,
         "xgd_90":-0.12,
         "last_5":"L D W L L",
-        "attendance":51883,
+        "attendance":51863,
         "top_team_scorer":"Iliman Ndiaye - 3",
         "goalkeeper":"Jordan Pickford",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -371,7 +371,7 @@
         "goalkeeper":"Karl Darlow",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -396,7 +396,7 @@
         "goalkeeper":"Martin D\u00fabravka",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -421,7 +421,7 @@
         "goalkeeper":"Bernd Leno",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -437,7 +437,7 @@
         "pts":5,
         "pts_mp":0.56,
         "xg":9.1,
-        "xga":14.7,
+        "xga":14.6,
         "xgd":-5.5,
         "xgd_90":-0.61,
         "last_5":"D L L L L",
@@ -446,7 +446,7 @@
         "goalkeeper":"Matz Sels",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -471,7 +471,7 @@
         "goalkeeper":"Alphonse Areola",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     },
     {
@@ -496,7 +496,7 @@
         "goalkeeper":"Sam Johnstone",
         "notes":null,
         "season":"2025-2026",
-        "fetched_date":"2025-10-27",
+        "fetched_date":"2025-10-28",
         "week_no":44
     }
 ]
