@@ -11,7 +11,7 @@
         "gd":21,
         "pts":39,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -26,22 +26,22 @@
         "gd":25,
         "pts":37,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
         "rk":3,
         "squad":"Aston Villa",
-        "mp":16,
-        "w":10,
+        "mp":17,
+        "w":11,
         "d":3,
         "l":3,
-        "gf":25,
-        "ga":17,
-        "gd":8,
-        "pts":33,
+        "gf":27,
+        "ga":18,
+        "gd":9,
+        "pts":36,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -56,7 +56,7 @@
         "gd":12,
         "pts":29,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -71,7 +71,7 @@
         "gd":3,
         "pts":29,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -86,22 +86,22 @@
         "gd":2,
         "pts":27,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
         "rk":7,
         "squad":"Manchester United",
-        "mp":16,
+        "mp":17,
         "w":7,
         "d":5,
-        "l":4,
-        "gf":30,
-        "ga":26,
-        "gd":4,
+        "l":5,
+        "gf":31,
+        "ga":28,
+        "gd":3,
         "pts":26,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -116,7 +116,7 @@
         "gd":2,
         "pts":26,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -131,7 +131,7 @@
         "gd":2,
         "pts":24,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -146,7 +146,7 @@
         "gd":-2,
         "pts":24,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -161,7 +161,7 @@
         "gd":1,
         "pts":23,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -176,7 +176,7 @@
         "gd":-1,
         "pts":23,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -191,7 +191,7 @@
         "gd":3,
         "pts":22,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -206,7 +206,7 @@
         "gd":-3,
         "pts":22,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -221,7 +221,7 @@
         "gd":-3,
         "pts":20,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -236,7 +236,7 @@
         "gd":-7,
         "pts":19,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -251,7 +251,7 @@
         "gd":-8,
         "pts":18,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -266,7 +266,7 @@
         "gd":-16,
         "pts":13,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -281,7 +281,7 @@
         "gd":-15,
         "pts":11,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     },
     {
@@ -296,7 +296,7 @@
         "gd":-28,
         "pts":2,
         "season":"2025-2026",
-        "fetched_date":"2025-12-20",
+        "fetched_date":"2025-12-21",
         "week_no":51
     }
 ]
