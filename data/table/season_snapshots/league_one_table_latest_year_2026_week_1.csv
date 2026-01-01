@@ -1,0 +1,25 @@
+team_id,team_name,start_day_position,current_position,wins,draws,losses,goals_for,goals_against,goal_difference,table_points,matches_played,recent_form,week_number
+t41,Birmingham City,1,1,34,9,3,84,31,53,111,46,"W,W,W,W,W",1
+t109,Wrexham,2,2,27,11,8,67,34,33,92,46,"W,W,W,D,D",1
+t48,Stockport County,3,3,25,12,9,72,42,30,87,46,"D,D,W,W,W",1
+t33,Charlton Athletic,5,4,25,10,11,67,43,24,85,46,"W,W,D,W,L",1
+t112,Wycombe Wanderers,4,5,24,12,10,70,45,25,84,46,"L,D,L,L,L",1
+t85,Leyton Orient,6,6,24,6,16,72,48,24,78,46,"L,D,D,W,W",1
+t108,Reading,7,7,21,12,13,68,57,11,75,46,"L,W,W,L,D",1
+t30,Bolton Wanderers,8,8,20,8,18,67,70,-3,68,46,"D,D,L,L,L",1
+t92,Blackpool,9,9,17,16,13,72,60,12,67,46,"W,L,D,L,W",1
+t38,Huddersfield Town,10,10,19,7,20,58,55,3,64,46,"L,L,L,L,L",1
+t83,Lincoln City,11,11,16,13,17,64,56,8,61,46,"L,L,W,W,D",1
+t37,Barnsley,12,12,17,10,19,69,73,-4,61,46,"W,L,D,L,W",1
+t72,Rotherham United,13,13,16,11,19,54,59,-5,59,46,"W,D,L,D,L",1
+t288,Stevenage,14,14,15,12,19,42,50,-8,57,46,"D,D,L,W,L",1
+t111,Wigan Athletic,16,15,13,17,16,40,42,-2,56,46,"D,D,D,W,W",1
+t71,Exeter City,15,16,15,11,20,49,65,-16,56,46,"L,W,L,D,W",1
+t77,Mansfield Town,19,17,15,9,22,60,73,-13,54,46,"W,W,L,L,D",1
+t73,Peterborough United,17,18,13,12,21,68,81,-13,51,46,"L,L,D,D,D",1
+t75,Northampton Town,18,19,12,15,19,48,66,-18,51,46,"D,L,W,L,D",1
+t587,Burton Albion,20,20,11,14,21,49,66,-17,47,46,"L,D,W,L,D",1
+t1525,Crawley Town,21,21,12,10,24,57,83,-26,46,46,"W,W,W,D,L",1
+t96,Bristol Rovers,22,22,12,7,27,44,76,-32,43,46,"L,L,L,D,L",1
+t101,Cambridge United,23,23,9,11,26,45,73,-28,38,46,"L,L,L,W,L",1
+t74,Shrewsbury Town,24,24,8,9,29,41,79,-38,33,46,"L,W,L,L,D",1
