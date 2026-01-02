@@ -11,7 +11,7 @@
         "gd":25,
         "pts":45,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -26,7 +26,7 @@
         "gd":26,
         "pts":41,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -41,7 +41,7 @@
         "gd":7,
         "pts":39,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -56,7 +56,7 @@
         "gd":4,
         "pts":33,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -71,7 +71,7 @@
         "gd":11,
         "pts":30,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -86,7 +86,7 @@
         "gd":4,
         "pts":30,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -101,7 +101,7 @@
         "gd":2,
         "pts":29,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -116,7 +116,7 @@
         "gd":0,
         "pts":28,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -131,7 +131,7 @@
         "gd":2,
         "pts":27,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -146,7 +146,7 @@
         "gd":1,
         "pts":27,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -161,7 +161,7 @@
         "gd":-1,
         "pts":27,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -176,7 +176,7 @@
         "gd":4,
         "pts":26,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -191,7 +191,7 @@
         "gd":2,
         "pts":26,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -206,7 +206,7 @@
         "gd":1,
         "pts":25,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -221,7 +221,7 @@
         "gd":-6,
         "pts":23,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -236,7 +236,7 @@
         "gd":-7,
         "pts":21,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -251,7 +251,7 @@
         "gd":-12,
         "pts":18,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -266,7 +266,7 @@
         "gd":-17,
         "pts":14,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -281,7 +281,7 @@
         "gd":-17,
         "pts":12,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     },
     {
@@ -296,7 +296,7 @@
         "gd":-29,
         "pts":3,
         "season":"2025-2026",
-        "fetched_date":"2026-01-01",
+        "fetched_date":"2026-01-02",
         "week_no":1
     }
 ]
