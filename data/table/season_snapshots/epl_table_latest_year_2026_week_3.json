@@ -11,7 +11,7 @@
         "gd":26,
         "pts":50,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -26,22 +26,22 @@
         "gd":24,
         "pts":43,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
         "rk":3,
         "squad":"Aston Villa",
-        "mp":21,
+        "mp":22,
         "w":13,
         "d":4,
-        "l":4,
+        "l":5,
         "gf":33,
-        "ga":24,
-        "gd":9,
+        "ga":25,
+        "gd":8,
         "pts":43,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -56,7 +56,7 @@
         "gd":4,
         "pts":36,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -71,7 +71,7 @@
         "gd":6,
         "pts":35,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -86,7 +86,7 @@
         "gd":12,
         "pts":34,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -101,11 +101,26 @@
         "gd":5,
         "pts":33,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
         "rk":8,
+        "squad":"Newcastle United",
+        "mp":22,
+        "w":9,
+        "d":6,
+        "l":7,
+        "gf":32,
+        "ga":27,
+        "gd":5,
+        "pts":33,
+        "season":"2025-2026",
+        "fetched_date":"2026-01-18",
+        "week_no":3
+    },
+    {
+        "rk":9,
         "squad":"Sunderland",
         "mp":22,
         "w":8,
@@ -116,26 +131,26 @@
         "gd":0,
         "pts":33,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
-        "week_no":3
-    },
-    {
-        "rk":9,
-        "squad":"Newcastle United",
-        "mp":21,
-        "w":9,
-        "d":5,
-        "l":7,
-        "gf":32,
-        "ga":27,
-        "gd":5,
-        "pts":32,
-        "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
         "rk":10,
+        "squad":"Everton",
+        "mp":22,
+        "w":9,
+        "d":5,
+        "l":8,
+        "gf":24,
+        "ga":25,
+        "gd":-1,
+        "pts":32,
+        "season":"2025-2026",
+        "fetched_date":"2026-01-18",
+        "week_no":3
+    },
+    {
+        "rk":11,
         "squad":"Fulham",
         "mp":22,
         "w":9,
@@ -146,11 +161,11 @@
         "gd":-1,
         "pts":31,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
-        "rk":11,
+        "rk":12,
         "squad":"Brighton & Hove Albion",
         "mp":21,
         "w":7,
@@ -161,22 +176,7 @@
         "gd":3,
         "pts":29,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
-        "week_no":3
-    },
-    {
-        "rk":12,
-        "squad":"Everton",
-        "mp":21,
-        "w":8,
-        "d":5,
-        "l":8,
-        "gf":23,
-        "ga":25,
-        "gd":-2,
-        "pts":29,
-        "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -191,7 +191,7 @@
         "gd":-2,
         "pts":28,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -206,7 +206,7 @@
         "gd":2,
         "pts":27,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -221,7 +221,7 @@
         "gd":-6,
         "pts":26,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -236,7 +236,7 @@
         "gd":-7,
         "pts":25,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -251,7 +251,7 @@
         "gd":-13,
         "pts":22,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -266,7 +266,7 @@
         "gd":-20,
         "pts":17,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
@@ -281,22 +281,22 @@
         "gd":-19,
         "pts":14,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     },
     {
         "rk":20,
         "squad":"Wolverhampton Wanderers",
-        "mp":21,
+        "mp":22,
         "w":1,
-        "d":4,
+        "d":5,
         "l":16,
         "gf":15,
         "ga":41,
         "gd":-26,
-        "pts":7,
+        "pts":8,
         "season":"2025-2026",
-        "fetched_date":"2026-01-17",
+        "fetched_date":"2026-01-18",
         "week_no":3
     }
 ]
