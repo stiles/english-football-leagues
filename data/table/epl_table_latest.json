@@ -11,22 +11,22 @@
         "gd":32,
         "pts":56,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
         "rk":2,
         "squad":"Manchester City",
-        "mp":24,
-        "w":14,
+        "mp":25,
+        "w":15,
         "d":5,
         "l":5,
-        "gf":49,
-        "ga":23,
-        "gd":26,
-        "pts":47,
+        "gf":51,
+        "ga":24,
+        "gd":27,
+        "pts":50,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -41,7 +41,7 @@
         "gd":9,
         "pts":47,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -56,7 +56,7 @@
         "gd":10,
         "pts":44,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -71,22 +71,22 @@
         "gd":17,
         "pts":43,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
         "rk":6,
         "squad":"Liverpool",
-        "mp":24,
+        "mp":25,
         "w":11,
         "d":6,
-        "l":7,
-        "gf":39,
-        "ga":33,
-        "gd":6,
+        "l":8,
+        "gf":40,
+        "ga":35,
+        "gd":5,
         "pts":39,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -101,7 +101,7 @@
         "gd":5,
         "pts":39,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -116,7 +116,7 @@
         "gd":0,
         "pts":37,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -131,7 +131,7 @@
         "gd":-2,
         "pts":36,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -146,7 +146,7 @@
         "gd":-2,
         "pts":34,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -161,7 +161,7 @@
         "gd":-3,
         "pts":34,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -176,26 +176,41 @@
         "gd":-1,
         "pts":33,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
         "rk":13,
-        "squad":"Brighton & Hove Albion",
-        "mp":24,
-        "w":7,
-        "d":10,
-        "l":7,
-        "gf":34,
-        "ga":32,
-        "gd":2,
-        "pts":31,
+        "squad":"Crystal Palace",
+        "mp":25,
+        "w":8,
+        "d":8,
+        "l":9,
+        "gf":26,
+        "ga":29,
+        "gd":-3,
+        "pts":32,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
         "rk":14,
+        "squad":"Brighton & Hove Albion",
+        "mp":25,
+        "w":7,
+        "d":10,
+        "l":8,
+        "gf":34,
+        "ga":33,
+        "gd":1,
+        "pts":31,
+        "season":"2025-2026",
+        "fetched_date":"2026-02-08",
+        "week_no":6
+    },
+    {
+        "rk":15,
         "squad":"Tottenham Hotspur",
         "mp":25,
         "w":7,
@@ -206,22 +221,7 @@
         "gd":0,
         "pts":29,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
-        "week_no":6
-    },
-    {
-        "rk":15,
-        "squad":"Crystal Palace",
-        "mp":24,
-        "w":7,
-        "d":8,
-        "l":9,
-        "gf":25,
-        "ga":29,
-        "gd":-4,
-        "pts":29,
-        "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -236,7 +236,7 @@
         "gd":-9,
         "pts":29,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -251,7 +251,7 @@
         "gd":-13,
         "pts":26,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -266,7 +266,7 @@
         "gd":-17,
         "pts":23,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -281,7 +281,7 @@
         "gd":-24,
         "pts":15,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     },
     {
@@ -296,7 +296,7 @@
         "gd":-32,
         "pts":8,
         "season":"2025-2026",
-        "fetched_date":"2026-02-07",
+        "fetched_date":"2026-02-08",
         "week_no":6
     }
 ]
