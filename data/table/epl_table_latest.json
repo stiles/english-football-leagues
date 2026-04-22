@@ -1,6 +1,21 @@
 [
     {
         "rk":1,
+        "squad":"Manchester City",
+        "mp":33,
+        "w":21,
+        "d":7,
+        "l":5,
+        "gf":66,
+        "ga":29,
+        "gd":37,
+        "pts":70,
+        "season":"2025-2026",
+        "fetched_date":"2026-04-22",
+        "week_no":17
+    },
+    {
+        "rk":2,
         "squad":"Arsenal",
         "mp":33,
         "w":21,
@@ -11,22 +26,7 @@
         "gd":37,
         "pts":70,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
-        "week_no":17
-    },
-    {
-        "rk":2,
-        "squad":"Manchester City",
-        "mp":32,
-        "w":20,
-        "d":7,
-        "l":5,
-        "gf":65,
-        "ga":29,
-        "gd":36,
-        "pts":67,
-        "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -41,7 +41,7 @@
         "gd":13,
         "pts":58,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -56,7 +56,7 @@
         "gd":6,
         "pts":58,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -71,7 +71,7 @@
         "gd":11,
         "pts":55,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -86,11 +86,26 @@
         "gd":9,
         "pts":50,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
         "rk":7,
+        "squad":"Bournemouth",
+        "mp":34,
+        "w":11,
+        "d":16,
+        "l":7,
+        "gf":52,
+        "ga":52,
+        "gd":0,
+        "pts":49,
+        "season":"2025-2026",
+        "fetched_date":"2026-04-22",
+        "week_no":17
+    },
+    {
+        "rk":8,
         "squad":"Chelsea",
         "mp":34,
         "w":13,
@@ -101,11 +116,11 @@
         "gd":8,
         "pts":48,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
-        "rk":8,
+        "rk":9,
         "squad":"Brentford",
         "mp":33,
         "w":13,
@@ -116,22 +131,7 @@
         "gd":4,
         "pts":48,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
-        "week_no":17
-    },
-    {
-        "rk":9,
-        "squad":"Bournemouth",
-        "mp":33,
-        "w":11,
-        "d":15,
-        "l":7,
-        "gf":50,
-        "ga":50,
-        "gd":0,
-        "pts":48,
-        "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -146,7 +146,7 @@
         "gd":1,
         "pts":47,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -161,7 +161,7 @@
         "gd":-4,
         "pts":46,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -176,7 +176,7 @@
         "gd":-3,
         "pts":45,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -191,7 +191,7 @@
         "gd":-1,
         "pts":43,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -206,22 +206,22 @@
         "gd":-3,
         "pts":42,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
         "rk":15,
         "squad":"Leeds United",
-        "mp":33,
+        "mp":34,
         "w":9,
-        "d":12,
+        "d":13,
         "l":12,
-        "gf":42,
-        "ga":49,
+        "gf":44,
+        "ga":51,
         "gd":-7,
-        "pts":39,
+        "pts":40,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -236,7 +236,7 @@
         "gd":-9,
         "pts":36,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -251,7 +251,7 @@
         "gd":-17,
         "pts":33,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -266,22 +266,22 @@
         "gd":-11,
         "pts":31,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
         "rk":19,
         "squad":"Burnley",
-        "mp":33,
+        "mp":34,
         "w":4,
         "d":8,
-        "l":21,
+        "l":22,
         "gf":34,
-        "ga":67,
-        "gd":-33,
+        "ga":68,
+        "gd":-34,
         "pts":20,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     },
     {
@@ -296,7 +296,7 @@
         "gd":-37,
         "pts":17,
         "season":"2025-2026",
-        "fetched_date":"2026-04-21",
+        "fetched_date":"2026-04-22",
         "week_no":17
     }
 ]
