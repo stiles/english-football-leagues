@@ -11,22 +11,22 @@
         "gd":42,
         "pts":79,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
         "rk":2,
         "squad":"Manchester City",
-        "mp":35,
-        "w":22,
+        "mp":36,
+        "w":23,
         "d":8,
         "l":5,
-        "gf":72,
+        "gf":75,
         "ga":32,
-        "gd":40,
-        "pts":74,
+        "gd":43,
+        "pts":77,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -41,7 +41,7 @@
         "gd":15,
         "pts":65,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -56,7 +56,7 @@
         "gd":12,
         "pts":59,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -71,7 +71,7 @@
         "gd":4,
         "pts":59,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -86,7 +86,7 @@
         "gd":4,
         "pts":55,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -101,7 +101,7 @@
         "gd":10,
         "pts":53,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -116,7 +116,7 @@
         "gd":3,
         "pts":51,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -131,7 +131,7 @@
         "gd":6,
         "pts":49,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -146,7 +146,7 @@
         "gd":0,
         "pts":49,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -161,7 +161,7 @@
         "gd":-6,
         "pts":48,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -176,7 +176,7 @@
         "gd":-9,
         "pts":48,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -191,7 +191,7 @@
         "gd":-2,
         "pts":46,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -206,22 +206,22 @@
         "gd":-5,
         "pts":44,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
         "rk":15,
         "squad":"Crystal Palace",
-        "mp":35,
+        "mp":36,
         "w":11,
         "d":11,
-        "l":13,
+        "l":14,
         "gf":38,
-        "ga":44,
-        "gd":-6,
+        "ga":47,
+        "gd":-9,
         "pts":44,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -236,7 +236,7 @@
         "gd":-2,
         "pts":43,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -251,7 +251,7 @@
         "gd":-9,
         "pts":38,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -266,7 +266,7 @@
         "gd":-20,
         "pts":36,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -281,7 +281,7 @@
         "gd":-36,
         "pts":21,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     },
     {
@@ -296,7 +296,7 @@
         "gd":-41,
         "pts":18,
         "season":"2025-2026",
-        "fetched_date":"2026-05-13",
+        "fetched_date":"2026-05-14",
         "week_no":20
     }
 ]
