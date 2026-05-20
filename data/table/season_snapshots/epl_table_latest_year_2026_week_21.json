@@ -11,22 +11,22 @@
         "gd":43,
         "pts":82,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
         "rk":2,
         "squad":"Manchester City",
-        "mp":36,
+        "mp":37,
         "w":23,
-        "d":8,
+        "d":9,
         "l":5,
-        "gf":75,
-        "ga":32,
+        "gf":76,
+        "ga":33,
         "gd":43,
-        "pts":77,
+        "pts":78,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -41,7 +41,7 @@
         "gd":16,
         "pts":68,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -56,7 +56,7 @@
         "gd":6,
         "pts":62,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -71,22 +71,22 @@
         "gd":10,
         "pts":59,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
         "rk":6,
         "squad":"Bournemouth",
-        "mp":36,
+        "mp":37,
         "w":13,
-        "d":16,
+        "d":17,
         "l":7,
-        "gf":56,
-        "ga":52,
+        "gf":57,
+        "ga":53,
         "gd":4,
-        "pts":55,
+        "pts":56,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -101,11 +101,26 @@
         "gd":9,
         "pts":53,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
         "rk":8,
+        "squad":"Chelsea",
+        "mp":37,
+        "w":14,
+        "d":10,
+        "l":13,
+        "gf":57,
+        "ga":50,
+        "gd":7,
+        "pts":52,
+        "season":"2025-2026",
+        "fetched_date":"2026-05-20",
+        "week_no":21
+    },
+    {
+        "rk":9,
         "squad":"Brentford",
         "mp":37,
         "w":14,
@@ -116,11 +131,11 @@
         "gd":3,
         "pts":52,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
-        "rk":9,
+        "rk":10,
         "squad":"Sunderland",
         "mp":37,
         "w":13,
@@ -131,22 +146,7 @@
         "gd":-7,
         "pts":51,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
-        "week_no":21
-    },
-    {
-        "rk":10,
-        "squad":"Chelsea",
-        "mp":36,
-        "w":13,
-        "d":10,
-        "l":13,
-        "gf":55,
-        "ga":49,
-        "gd":6,
-        "pts":49,
-        "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -161,7 +161,7 @@
         "gd":0,
         "pts":49,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -176,7 +176,7 @@
         "gd":-2,
         "pts":49,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -191,7 +191,7 @@
         "gd":-6,
         "pts":49,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -206,7 +206,7 @@
         "gd":-4,
         "pts":47,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -221,7 +221,7 @@
         "gd":-9,
         "pts":45,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -236,22 +236,22 @@
         "gd":-3,
         "pts":43,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
         "rk":17,
         "squad":"Tottenham Hotspur",
-        "mp":36,
+        "mp":37,
         "w":9,
         "d":11,
-        "l":16,
-        "gf":46,
-        "ga":55,
-        "gd":-9,
+        "l":17,
+        "gf":47,
+        "ga":57,
+        "gd":-10,
         "pts":38,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -266,7 +266,7 @@
         "gd":-22,
         "pts":36,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -281,7 +281,7 @@
         "gd":-37,
         "pts":21,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     },
     {
@@ -296,7 +296,7 @@
         "gd":-41,
         "pts":19,
         "season":"2025-2026",
-        "fetched_date":"2026-05-19",
+        "fetched_date":"2026-05-20",
         "week_no":21
     }
 ]
